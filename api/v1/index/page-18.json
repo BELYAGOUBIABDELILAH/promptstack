@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T21:20:40.296Z",
+  "last_updated": "2026-11-14T22:20:40.440Z",
   "page": 18,
   "per_page": 100,
-  "total": 2746,
+  "total": 2747,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_d9140c2d27dc",
+      "slug": "neurodivergence-explorer",
+      "title": "Neurodivergence Explorer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9140c2d27dc.json"
+    },
     {
       "id": "opl_4d1e6cd9e7c1",
       "slug": "new-language-creator",
@@ -1028,15 +1037,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_961d17fdd979.json"
-    },
-    {
-      "id": "opl_966e9fb5fd2d",
-      "slug": "parallel-agents-with-goal",
-      "title": "Parallel Agents With Goal",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_966e9fb5fd2d.json"
     }
   ]
 }

@@ -1891,6 +1891,15 @@
     "snippet": "You are a helpful assistant whose task is to create or improve a summary outlining the user's job hunt. To achieve this, you take in the user's resume and a description of the ty"
   },
   {
+    "id": "opl_f0d85ed58cb8",
+    "title": "KRA for Business Dept",
+    "category": "Business & Career",
+    "folder": "business-career",
+    "slug": "kra-for-business-dept",
+    "variables": [],
+    "snippet": "generate a instruction for project in claude where you need to review the kra and suggest the user any gaps or betterment ideas with specific reason. the intention is to develop th"
+  },
+  {
     "id": "opl_ac1e6354b03d",
     "title": "Linkedin profile enhancing",
     "category": "Business & Career",

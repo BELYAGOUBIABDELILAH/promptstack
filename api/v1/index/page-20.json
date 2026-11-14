@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T21:20:40.296Z",
+  "last_updated": "2026-11-14T22:20:40.440Z",
   "page": 20,
   "per_page": 100,
-  "total": 2746,
+  "total": 2747,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_c936cf6c943d",
+      "slug": "powershell-script-for-managing-disabled-ad-users",
+      "title": "PowerShell Script for Managing Disabled AD Users",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c936cf6c943d.json"
+    },
     {
       "id": "opl_072ee8a040d8",
       "slug": "powershell-script-to-move-disabled-ad-users-to-specific-ou",
@@ -1189,15 +1198,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_116e6ec609c9.json"
-    },
-    {
-      "id": "opl_3e8cf0ac8337",
-      "slug": "pseudo-whatsapp-ai-bot",
-      "title": "Pseudo WhatsApp AI Bot",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e8cf0ac8337.json"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "id": "opl_f0d85ed58cb8",
+  "slug": "kra-for-business-dept",
+  "title": "KRA for Business Dept",
+  "prompt": "generate a instruction for project in claude where you need to review the kra and suggest the user any gaps or betterment ideas with specific reason. the intention is to develop the individual in his her role and result oriented",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_092df2b6ab4e"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0d85ed58cb8.json"
+}

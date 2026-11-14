@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**61 prompts in this category**
+**62 prompts in this category**
 
 ## Table of Contents
 
@@ -40,6 +40,7 @@
 - [Is That A Job?](is-that-a-job.md)
 - [Job Hunt Email Finder](job-hunt-email-finder.md)
 - [Job Hunt Summary Crafter](job-hunt-summary-crafter.md)
+- [KRA for Business Dept](kra-for-business-dept.md)
 - [Linkedin profile enhancing](linkedin-profile-enhancing.md)
 - [Local LLM Explainer: Quantization And Variants](local-llm-explainer-quantization-and-variants.md)
 - [Local LLM Hardware Assessor](local-llm-hardware-assessor.md)

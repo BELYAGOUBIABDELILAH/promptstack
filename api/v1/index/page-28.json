@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-14T21:20:40.296Z",
+  "last_updated": "2026-11-14T22:20:40.440Z",
   "page": 28,
   "per_page": 100,
-  "total": 2746,
+  "total": 2747,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_7529aaa56475",
+      "slug": "whimsical-3d-brand-miniatures",
+      "title": "Whimsical 3D Brand Miniatures",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "Brand Name",
+          "default": "Mc Donalds"
+        },
+        {
+          "name": "Brand's core product",
+          "default": "chicken bucket, hamburger, donut, roast duck"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7529aaa56475.json"
+    },
     {
       "id": "opl_eb35abf6f3ad",
       "slug": "whispers-in-light-trails",

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T21:20:40.296Z",
+  "last_updated": "2026-11-14T22:20:40.440Z",
   "page": 15,
   "per_page": 100,
-  "total": 2746,
+  "total": 2747,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
@@ -199,6 +199,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0249f3dd7a45.json"
+    },
+    {
+      "id": "opl_f0d85ed58cb8",
+      "slug": "kra-for-business-dept",
+      "title": "KRA for Business Dept",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0d85ed58cb8.json"
     },
     {
       "id": "opl_3a2d68122fec",
@@ -1040,15 +1049,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c5da927ca878.json"
-    },
-    {
-      "id": "opl_473abac0b35c",
-      "slug": "llm-guide",
-      "title": "LLM Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_473abac0b35c.json"
     }
   ]
 }

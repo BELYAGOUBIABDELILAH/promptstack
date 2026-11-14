@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T21:20:40.296Z",
+  "last_updated": "2026-11-14T22:20:40.440Z",
   "page": 27,
   "per_page": 100,
-  "total": 2746,
+  "total": 2747,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_b28c6a4fc379",
+      "slug": "ultra-detailed-vintage-photo-restoration-and-colorization",
+      "title": "Ultra-Detailed Vintage Photo Restoration and Colorization",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28c6a4fc379.json"
+    },
     {
       "id": "opl_c3134ffd47ac",
       "slug": "ultra-high-resolution-portrait-restoration",
@@ -1194,24 +1203,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19864285531.json"
-    },
-    {
-      "id": "opl_7529aaa56475",
-      "slug": "whimsical-3d-brand-miniatures",
-      "title": "Whimsical 3D Brand Miniatures",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "Brand Name",
-          "default": "Mc Donalds"
-        },
-        {
-          "name": "Brand's core product",
-          "default": "chicken bucket, hamburger, donut, roast duck"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7529aaa56475.json"
     }
   ]
 }

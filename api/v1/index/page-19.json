@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T21:20:40.296Z",
+  "last_updated": "2026-11-14T22:20:40.440Z",
   "page": 19,
   "per_page": 100,
-  "total": 2746,
+  "total": 2747,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_966e9fb5fd2d",
+      "slug": "parallel-agents-with-goal",
+      "title": "Parallel Agents With Goal",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_966e9fb5fd2d.json"
+    },
     {
       "id": "opl_82c11b5141b0",
       "slug": "passenger-seat-car-selfie-golden-hour-candid",
@@ -1250,15 +1259,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4376d1b5d78c.json"
-    },
-    {
-      "id": "opl_c936cf6c943d",
-      "slug": "powershell-script-for-managing-disabled-ad-users",
-      "title": "PowerShell Script for Managing Disabled AD Users",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c936cf6c943d.json"
     }
   ]
 }

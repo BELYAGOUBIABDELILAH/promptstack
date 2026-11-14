@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T21:20:40.296Z",
+  "last_updated": "2026-11-14T22:20:40.440Z",
   "page": 21,
   "per_page": 100,
-  "total": 2746,
+  "total": 2747,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_3e8cf0ac8337",
+      "slug": "pseudo-whatsapp-ai-bot",
+      "title": "Pseudo WhatsApp AI Bot",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e8cf0ac8337.json"
+    },
     {
       "id": "opl_6b9b84f7dbb4",
       "slug": "pseudo-personalisation-detective",
@@ -1057,20 +1066,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95f4122ade39.json"
-    },
-    {
-      "id": "opl_42f583c31ae2",
-      "slug": "research-prompt-mistral",
-      "title": "Research Prompt (Mistral)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "official_eu_enlargement_page",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42f583c31ae2.json"
     }
   ]
 }
