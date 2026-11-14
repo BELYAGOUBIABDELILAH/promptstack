@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 16,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_c5da927ca878",
+      "slug": "llm-fine-tune-guide",
+      "title": "LLM Fine Tune Guide",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c5da927ca878.json"
+    },
     {
       "id": "opl_473abac0b35c",
       "slug": "llm-guide",
@@ -1132,15 +1141,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b06c4fd5e59d.json"
-    },
-    {
-      "id": "opl_bb77c81d1a62",
-      "slug": "merge",
-      "title": "merge",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb77c81d1a62.json"
     }
   ]
 }

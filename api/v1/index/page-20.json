@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 20,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_4376d1b5d78c",
+      "slug": "power-in-the-shadows",
+      "title": "Power in the Shadows",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4376d1b5d78c.json"
+    },
     {
       "id": "opl_c936cf6c943d",
       "slug": "powershell-script-for-managing-disabled-ad-users",
@@ -1189,15 +1198,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fec089c51205.json"
-    },
-    {
-      "id": "opl_116e6ec609c9",
-      "slug": "pseudo-anti-spam-bot-mailer",
-      "title": "Pseudo Anti-Spam Bot Mailer",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_116e6ec609c9.json"
     }
   ]
 }

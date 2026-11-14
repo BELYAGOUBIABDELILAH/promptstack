@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 13,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_4fa0b0bdd13b",
+      "slug": "hata-tespiti-i-in-kod-i-nceleme-asistan",
+      "title": "Hata Tespiti için Kod İnceleme Asistanı",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "context",
+          "default": null
+        },
+        {
+          "name": "language",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4fa0b0bdd13b.json"
+    },
     {
       "id": "opl_37bea3c1cbf3",
       "slug": "hccvn-ai-vn-pro-max-optimal-ai-system-design",
@@ -1033,15 +1051,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_445dc10f3106.json"
-    },
-    {
-      "id": "opl_e30304c30b0d",
-      "slug": "impressionistic-urban-solitude",
-      "title": "Impressionistic Urban Solitude",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e30304c30b0d.json"
     }
   ]
 }

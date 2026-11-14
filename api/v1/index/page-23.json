@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 23,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_428d75e0cd1d",
+      "slug": "senior-frontend-developer",
+      "title": "Senior Frontend Developer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_428d75e0cd1d.json"
+    },
     {
       "id": "opl_c77f1168293e",
       "slug": "senior-full-stack-developer-for-airline-simulation-center",
@@ -1154,15 +1163,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_859141b50b2a.json"
-    },
-    {
-      "id": "opl_d939cb5f61a6",
-      "slug": "source-hunting-osint-mode",
-      "title": "Source-Hunting / OSINT Mode",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d939cb5f61a6.json"
     }
   ]
 }

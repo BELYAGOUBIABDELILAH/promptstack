@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 14,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_e30304c30b0d",
+      "slug": "impressionistic-urban-solitude",
+      "title": "Impressionistic Urban Solitude",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e30304c30b0d.json"
+    },
     {
       "id": "opl_a57ede864068",
       "slug": "improve",
@@ -1095,15 +1104,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76c64aaa7129.json"
-    },
-    {
-      "id": "opl_57f19e7582c1",
-      "slug": "job-search-agent",
-      "title": "Job search agent",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57f19e7582c1.json"
     }
   ]
 }

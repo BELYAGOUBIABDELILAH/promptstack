@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 15,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_57f19e7582c1",
+      "slug": "job-search-agent",
+      "title": "Job search agent",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57f19e7582c1.json"
+    },
     {
       "id": "opl_e41bd6370d66",
       "slug": "job-search-context-development-tool",
@@ -1040,15 +1049,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc89bf239a7f.json"
-    },
-    {
-      "id": "opl_c5da927ca878",
-      "slug": "llm-fine-tune-guide",
-      "title": "LLM Fine Tune Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c5da927ca878.json"
     }
   ]
 }

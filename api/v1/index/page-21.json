@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 21,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_116e6ec609c9",
+      "slug": "pseudo-anti-spam-bot-mailer",
+      "title": "Pseudo Anti-Spam Bot Mailer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_116e6ec609c9.json"
+    },
     {
       "id": "opl_3e8cf0ac8337",
       "slug": "pseudo-whatsapp-ai-bot",
@@ -1048,24 +1057,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_43d2da139680.json"
-    },
-    {
-      "id": "opl_95f4122ade39",
-      "slug": "research-project-analysis-and-ipd-feasibility-recommendation",
-      "title": "Research Project Analysis and IPD Feasibility Recommendations",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "industryTrends",
-          "default": null
-        },
-        {
-          "name": "projectDetails",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95f4122ade39.json"
     }
   ]
 }

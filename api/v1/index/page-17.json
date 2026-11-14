@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 17,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_bb77c81d1a62",
+      "slug": "merge",
+      "title": "merge",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb77c81d1a62.json"
+    },
     {
       "id": "opl_1539c23ba4e5",
       "slug": "mermaid-diagram-creator-editor",
@@ -1087,15 +1096,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c7056cce6f8.json"
-    },
-    {
-      "id": "opl_30c4e1b512a9",
-      "slug": "networking-hardware-advice",
-      "title": "Networking Hardware Advice",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_30c4e1b512a9.json"
     }
   ]
 }

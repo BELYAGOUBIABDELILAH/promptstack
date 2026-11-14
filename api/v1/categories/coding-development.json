@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-14T22:20:40.440Z",
-  "total": 1094,
+  "last_updated": "2026-11-14T23:20:42.069Z",
+  "total": 1095,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -7644,6 +7644,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2897c13b194.json"
+    },
+    {
+      "id": "opl_71d712f81784",
+      "slug": "enhancing-efficiency-with-codex-using-sub-agents",
+      "title": "Enhancing Efficiency with Codex Using Sub-Agents",
+      "prompt": "Look across my threads and projects and come up with five ways to simplify and work more efficiently with Codex. Use sub-agents.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_0fbfbc37b8fc"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_71d712f81784.json"
     },
     {
       "id": "opl_030dff54d470",

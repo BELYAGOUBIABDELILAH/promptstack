@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 26,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_9f0224cf321a",
+      "slug": "terraform-platform-engineer",
+      "title": "Terraform Platform Engineer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9f0224cf321a.json"
+    },
     {
       "id": "opl_b05bc2d06322",
       "slug": "test",
@@ -1068,15 +1077,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cfb03bf5e3f.json"
-    },
-    {
-      "id": "opl_66432abaf290",
-      "slug": "ultra-realistic-candid-photo-of-a-turkish-woman-in-istanbul",
-      "title": "Ultra Realistic Candid Photo of a Turkish Woman in Istanbul Café",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66432abaf290.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 10,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
@@ -943,6 +943,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59c2d3cdacd3.json"
     },
     {
+      "id": "opl_71d712f81784",
+      "slug": "enhancing-efficiency-with-codex-using-sub-agents",
+      "title": "Enhancing Efficiency with Codex Using Sub-Agents",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_71d712f81784.json"
+    },
+    {
       "id": "opl_7e242ed296c6",
       "slug": "ensure-compliance-requirements",
       "title": "Ensure Compliance Requirements",
@@ -1293,15 +1302,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3578cfe15db.json"
-    },
-    {
-      "id": "opl_8699e946133f",
-      "slug": "expert-discovery-interviewer-guide",
-      "title": "Expert Discovery Interviewer Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8699e946133f.json"
     }
   ]
 }

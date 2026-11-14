@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1094 prompts in this category**
+**1095 prompts in this category**
 
 ## Table of Contents
 
@@ -396,6 +396,7 @@
 - [Email Phishing and Cyber Attack Notification App](email-phishing-and-cyber-attack-notification-app.md)
 - [Embodied AI Guide](embodied-ai-guide.md)
 - [End Of Workday Log Generator](end-of-workday-log-generator.md)
+- [Enhancing Efficiency with Codex Using Sub-Agents](enhancing-efficiency-with-codex-using-sub-agents.md)
 - [Environment Configuration Agent Role](environment-configuration-agent-role.md)
 - [ERP to Feishu Data Integration Solution](erp-to-feishu-data-integration-solution.md)
 - [Error Handler Agent Role](error-handler-agent-role.md)

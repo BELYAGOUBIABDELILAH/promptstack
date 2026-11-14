@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 24,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_d939cb5f61a6",
+      "slug": "source-hunting-osint-mode",
+      "title": "Source-Hunting / OSINT Mode",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d939cb5f61a6.json"
+    },
     {
       "id": "opl_60703e619444",
       "slug": "spanish-girl-in-nightclub",
@@ -1062,15 +1071,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_edacfa031fe4.json"
-    },
-    {
-      "id": "opl_e11364b84c2d",
-      "slug": "sudoku-game",
-      "title": "Sudoku Game",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e11364b84c2d.json"
     }
   ]
 }

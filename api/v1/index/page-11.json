@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T22:20:40.440Z",
+  "last_updated": "2026-11-14T23:20:42.069Z",
   "page": 11,
   "per_page": 100,
-  "total": 2747,
+  "total": 2748,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_8699e946133f",
+      "slug": "expert-discovery-interviewer-guide",
+      "title": "Expert Discovery Interviewer Guide",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8699e946133f.json"
+    },
     {
       "id": "opl_861fd85c03e6",
       "slug": "expert-discrete-mathematics-exam-answering",
@@ -1046,15 +1055,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8da397f75815.json"
-    },
-    {
-      "id": "opl_4582a6355936",
-      "slug": "gen-z-content-online-sales-prompt-generator",
-      "title": "Gen Z Content & Online Sales Prompt Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4582a6355936.json"
     }
   ]
 }
