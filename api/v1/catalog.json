@@ -1353,6 +1353,15 @@
     "snippet": "Based on the ideas generated in the previous step, create a detailed outline. Structure your outline with: - Main sections and subsections - Key points to cover - Estimated time/e"
   },
   {
+    "id": "opl_cd7ea4ae8431",
+    "title": "Structural Fusion: The Thriller-Parable",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "structural-fusion-the-thriller-parable",
+    "variables": [],
+    "snippet": "--- name: structural-fusion-the-thriller-parable description: A JSON structured prompt for writing a series that blends thriller and parable genres using a unique double narrative"
+  },
+  {
     "id": "opl_cd3e1ea336b2",
     "title": "Template Response Genie",
     "category": "AI & Automation",

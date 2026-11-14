@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**125 prompts in this category**
+**126 prompts in this category**
 
 ## Table of Contents
 
@@ -117,6 +117,7 @@
 - [Smart Project Timeline Builder](smart-project-timeline-builder.md)
 - [Social Media Post Analyzer](social-media-post-analyzer.md)
 - [Step 2: Outline Creation](step-2-outline-creation.md)
+- [Structural Fusion: The Thriller-Parable](structural-fusion-the-thriller-parable.md)
 - [Template Response Genie](template-response-genie.md)
 - [test](test.md)
 - [Text Summarizer](text-summarizer.md)

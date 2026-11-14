@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T20:20:44.061Z",
+  "last_updated": "2026-11-14T21:20:40.296Z",
   "page": 28,
   "per_page": 100,
-  "total": 2745,
+  "total": 2746,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_eb35abf6f3ad",
+      "slug": "whispers-in-light-trails",
+      "title": "Whispers in Light Trails",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb35abf6f3ad.json"
+    },
     {
       "id": "opl_79afe3f0ced4",
       "slug": "whispers-of-noir",

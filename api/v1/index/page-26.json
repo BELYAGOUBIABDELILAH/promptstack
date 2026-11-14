@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T20:20:44.061Z",
+  "last_updated": "2026-11-14T21:20:40.296Z",
   "page": 26,
   "per_page": 100,
-  "total": 2745,
+  "total": 2746,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_85d0a32a1631",
+      "slug": "test-analyzer-agent-role",
+      "title": "Test Analyzer Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85d0a32a1631.json"
+    },
     {
       "id": "opl_b7dda4577651",
       "slug": "test-automation-expert",
@@ -1063,15 +1072,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28c6a4fc379.json"
-    },
-    {
-      "id": "opl_c3134ffd47ac",
-      "slug": "ultra-high-resolution-portrait-restoration",
-      "title": "Ultra-High-Resolution Portrait Restoration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c3134ffd47ac.json"
     }
   ]
 }

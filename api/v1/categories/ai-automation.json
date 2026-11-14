@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-14T20:20:44.061Z",
-  "total": 125,
+  "last_updated": "2026-11-14T21:20:40.296Z",
+  "total": 126,
   "prompts": [
     {
       "id": "opl_75367788da77",
@@ -2133,6 +2133,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d862254f2e6f.json"
+    },
+    {
+      "id": "opl_cd7ea4ae8431",
+      "slug": "structural-fusion-the-thriller-parable",
+      "title": "Structural Fusion: The Thriller-Parable",
+      "prompt": "---\nname: structural-fusion-the-thriller-parable\ndescription: A JSON structured prompt for writing a series that blends thriller and parable genres using a unique double narrative structure.\n---\n\n# Structural Fusion: The Thriller-Parable\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_24086717f080"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd7ea4ae8431.json"
     },
     {
       "id": "opl_cd3e1ea336b2",

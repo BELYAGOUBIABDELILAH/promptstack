@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T20:20:44.061Z",
+  "last_updated": "2026-11-14T21:20:40.296Z",
   "page": 24,
   "per_page": 100,
-  "total": 2745,
+  "total": 2746,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
@@ -793,6 +793,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_541ea0e691c5.json"
     },
     {
+      "id": "opl_cd7ea4ae8431",
+      "slug": "structural-fusion-the-thriller-parable",
+      "title": "Structural Fusion: The Thriller-Parable",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd7ea4ae8431.json"
+    },
+    {
       "id": "opl_9b1e68ce28c5",
       "slug": "structured-iterative-reasoning-protocol-sirp",
       "title": "Structured Iterative Reasoning Protocol (SIRP)",
@@ -1062,15 +1071,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbe24c5ebdd4.json"
-    },
-    {
-      "id": "opl_a3952f48ce29",
-      "slug": "suggest-pricing-tiers",
-      "title": "Suggest Pricing Tiers",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3952f48ce29.json"
     }
   ]
 }
