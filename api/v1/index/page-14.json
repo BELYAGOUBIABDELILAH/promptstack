@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 14,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_a57ede864068",
+      "slug": "improve",
+      "title": "Improve",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a57ede864068.json"
+    },
     {
       "id": "opl_7fc08efed29b",
       "slug": "improve-documentation-wording-and-fix-github-link",
@@ -1095,15 +1104,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57f19e7582c1.json"
-    },
-    {
-      "id": "opl_e41bd6370d66",
-      "slug": "job-search-context-development-tool",
-      "title": "Job Search Context Development Tool",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e41bd6370d66.json"
     }
   ]
 }

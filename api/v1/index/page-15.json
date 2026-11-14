@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 15,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_e41bd6370d66",
+      "slug": "job-search-context-development-tool",
+      "title": "Job Search Context Development Tool",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e41bd6370d66.json"
+    },
     {
       "id": "opl_ee27a5f42243",
       "slug": "jobs-api-guide",
@@ -1040,15 +1049,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_473abac0b35c.json"
-    },
-    {
-      "id": "opl_fbbccc0bbd8a",
-      "slug": "llm-output-evaulator",
-      "title": "LLM Output Evaulator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbbccc0bbd8a.json"
     }
   ]
 }

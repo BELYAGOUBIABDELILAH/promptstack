@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 9,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_ec99faac03b3",
+      "slug": "deep-copy-functionality",
+      "title": "Deep Copy Functionality",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec99faac03b3.json"
+    },
     {
       "id": "opl_cfc0a82257b2",
       "slug": "deep-github-repository-understanding",
@@ -1183,15 +1192,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c6f3ec8e1f4.json"
-    },
-    {
-      "id": "opl_080d7862897e",
-      "slug": "double-system-prompt-creator",
-      "title": "Double System Prompt Creator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_080d7862897e.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 11,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_861fd85c03e6",
+      "slug": "expert-discrete-mathematics-exam-answering",
+      "title": "Expert Discrete Mathematics Exam Answering",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_861fd85c03e6.json"
+    },
     {
       "id": "opl_8c7c1996124c",
       "slug": "expert-guidance-for-acoustic-and-deep-learning-research",
@@ -1046,15 +1055,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4582a6355936.json"
-    },
-    {
-      "id": "opl_feacce82d564",
-      "slug": "generate-a-risk-assessment",
-      "title": "Generate a Risk Assessment",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_feacce82d564.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 19,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_82c11b5141b0",
+      "slug": "passenger-seat-car-selfie-golden-hour-candid",
+      "title": "Passenger Seat Car Selfie (golden hour, candid)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82c11b5141b0.json"
+    },
     {
       "id": "opl_866814c368a2",
       "slug": "password-generator",
@@ -1255,28 +1264,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_072ee8a040d8.json"
-    },
-    {
-      "id": "opl_2c37431f6a7b",
-      "slug": "ppt-generation-assistant",
-      "title": "PPT Generation Assistant",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "slideLimit",
-          "default": "20"
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c37431f6a7b.json"
     }
   ]
 }

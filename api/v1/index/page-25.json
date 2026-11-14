@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 25,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_466aeb000f9d",
+      "slug": "suitable-sunglasses-using-gemini",
+      "title": "suitable sunglasses using gemini",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_466aeb000f9d.json"
+    },
     {
       "id": "opl_08866ab02e63",
       "slug": "summarize-peer-feedback",
@@ -986,15 +995,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7dda4577651.json"
-    },
-    {
-      "id": "opl_09845691da2e",
-      "slug": "test-engineer-agent-role",
-      "title": "Test Engineer Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_09845691da2e.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 12,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_feacce82d564",
+      "slug": "generate-a-risk-assessment",
+      "title": "Generate a Risk Assessment",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_feacce82d564.json"
+    },
     {
       "id": "opl_bbc272113238",
       "slug": "generate-academic-taxonomy",
@@ -1049,15 +1058,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4fa0b0bdd13b.json"
-    },
-    {
-      "id": "opl_37bea3c1cbf3",
-      "slug": "hccvn-ai-vn-pro-max-optimal-ai-system-design",
-      "title": "HCCVN-AI-VN Pro Max: Optimal AI System Design",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37bea3c1cbf3.json"
     }
   ]
 }

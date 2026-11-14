@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 18,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_4d1e6cd9e7c1",
+      "slug": "new-language-creator",
+      "title": "New Language Creator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d1e6cd9e7c1.json"
+    },
     {
       "id": "opl_b59764a0925d",
       "slug": "new-year-celebration-video-for-antioch-textile",
@@ -1028,15 +1037,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_966e9fb5fd2d.json"
-    },
-    {
-      "id": "opl_82c11b5141b0",
-      "slug": "passenger-seat-car-selfie-golden-hour-candid",
-      "title": "Passenger Seat Car Selfie (golden hour, candid)",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82c11b5141b0.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 16,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_fbbccc0bbd8a",
+      "slug": "llm-output-evaulator",
+      "title": "LLM Output Evaulator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbbccc0bbd8a.json"
+    },
     {
       "id": "opl_ad4a53ec9ad3",
       "slug": "llm-researcher",
@@ -1132,15 +1141,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1539c23ba4e5.json"
-    },
-    {
-      "id": "opl_e45e8a603e5c",
-      "slug": "messy-desk-study-moment-university-student",
-      "title": "Messy Desk Study Moment - University Student",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e45e8a603e5c.json"
     }
   ]
 }

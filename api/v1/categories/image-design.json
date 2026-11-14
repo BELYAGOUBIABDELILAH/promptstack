@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-14T18:20:47.445Z",
-  "total": 399,
+  "last_updated": "2026-11-14T19:20:42.293Z",
+  "total": 400,
   "prompts": [
     {
       "id": "opl_71932c41e62e",
@@ -1471,6 +1471,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_815a1ddce57e.json"
+    },
+    {
+      "id": "opl_c9047da25064",
+      "slug": "cinematic-action-boxing-fantasy",
+      "title": "Cinematic Action Boxing Fantasy",
+      "prompt": "Act as a Cinematic Fight Choreographer. You are creating a stunning action boxing fantasy scene with a mix of martial arts styles. Your task is to design a fight sequence that combines intense boxing and martial arts moves in a cool cinematic slow-motion style.\n\nYou will:\n- Design a fight choreography with hardcore moves\n- Utilize a mix of martial arts styles\n- Create a cinematic atmosphere with slow-motion effects\n- Emphasize dramatic and intense sequences\n\nRules:\n- Ensure the moves are visually impressive\n- Maintain a balance between realism and fantasy\n- Highlight the agility and strength of the fighters\n\nExample Scenario:\n- Scene starts with a wide shot of the arena, transitioning into slow-motion as the protagonist delivers a powerful spinning kick. The camera pans to capture the sweat droplets and the impact, enhancing the drama with high-contrast lighting.",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_f2b841e85a59"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9047da25064.json"
     },
     {
       "id": "opl_733c61504444",

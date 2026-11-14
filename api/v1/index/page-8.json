@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 8,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_8d227f75ecdc",
+      "slug": "creating-pwa-ai-chatbot",
+      "title": "Creating PWA AI Chatbot",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d227f75ecdc.json"
+    },
     {
       "id": "opl_27d176898476",
       "slug": "creative-branding-strategist",
@@ -1195,15 +1204,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_611f50d15b8c.json"
-    },
-    {
-      "id": "opl_ec99faac03b3",
-      "slug": "deep-copy-functionality",
-      "title": "Deep Copy Functionality",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec99faac03b3.json"
     }
   ]
 }

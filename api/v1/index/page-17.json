@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 17,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_e45e8a603e5c",
+      "slug": "messy-desk-study-moment-university-student",
+      "title": "Messy Desk Study Moment - University Student",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e45e8a603e5c.json"
+    },
     {
       "id": "opl_002d4610329d",
       "slug": "meta-agent-builder-for-letta-platform",
@@ -1087,15 +1096,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9140c2d27dc.json"
-    },
-    {
-      "id": "opl_4d1e6cd9e7c1",
-      "slug": "new-language-creator",
-      "title": "New Language Creator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d1e6cd9e7c1.json"
     }
   ]
 }

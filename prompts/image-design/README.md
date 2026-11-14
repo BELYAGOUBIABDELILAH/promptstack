@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**399 prompts in this category**
+**400 prompts in this category**
 
 ## Table of Contents
 
@@ -90,6 +90,7 @@
 - [Checklist Pro](checklist-pro.md)
 - [Chinese to English Translation Assistant](chinese-to-english-translation-assistant.md)
 - [Christmas Poster - Festive Holiday Scene](christmas-poster-festive-holiday-scene.md)
+- [Cinematic Action Boxing Fantasy](cinematic-action-boxing-fantasy.md)
 - [Cinematic Landscape Photography of Horse-Drawn Wagon](cinematic-landscape-photography-of-horse-drawn-wagon.md)
 - [Cinematic Neon Alley – Urban Night Walk (Album Cover Style)](cinematic-neon-alley-urban-night-walk-album-cover-style.md)
 - [Class Prep](class-prep.md)

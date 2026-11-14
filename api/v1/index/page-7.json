@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 7,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_ad2de351f33c",
+      "slug": "comprehensive-content-review-plan",
+      "title": "Comprehensive Content Review Plan",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "contentType",
+          "default": "guides, blog posts, comparison pages"
+        },
+        {
+          "name": "outputFormat",
+          "default": "document"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2de351f33c.json"
+    },
     {
       "id": "opl_6c669139cfb3",
       "slug": "comprehensive-data-integration-and-customer-profiling-tool",
@@ -1293,15 +1311,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10251ff96b47.json"
-    },
-    {
-      "id": "opl_8d227f75ecdc",
-      "slug": "creating-pwa-ai-chatbot",
-      "title": "Creating PWA AI Chatbot",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d227f75ecdc.json"
     }
   ]
 }

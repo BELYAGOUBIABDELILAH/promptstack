@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 23,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_4662a31a8bf9",
+      "slug": "senior-market-research-analyst-specializing-in-digital-advertising-and-cross-border-e-commerce",
+      "title": "senior market research analyst specializing in digital advertising and cross-border e-commerce.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "insert_country_name",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4662a31a8bf9.json"
+    },
     {
       "id": "opl_a97d8346a36a",
       "slug": "senior-product-engineer-data-scientist-for-turkish-car-valua",
@@ -1127,15 +1141,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e1483ffff4b.json"
-    },
-    {
-      "id": "opl_0735f852139e",
-      "slug": "speaker-tone-analyser",
-      "title": "Speaker Tone Analyser",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0735f852139e.json"
     }
   ]
 }

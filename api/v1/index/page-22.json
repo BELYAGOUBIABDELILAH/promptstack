@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T18:20:47.445Z",
+  "last_updated": "2026-11-14T19:20:42.293Z",
   "page": 22,
   "per_page": 100,
-  "total": 2743,
+  "total": 2744,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_03a5e7825633",
+      "slug": "researchers-in-the-library",
+      "title": "Researchers in the Library",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03a5e7825633.json"
+    },
     {
       "id": "opl_821723c99689",
       "slug": "restaurant-candle-close-up-intimate-not-explicit",
@@ -1188,20 +1197,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc1014430547.json"
-    },
-    {
-      "id": "opl_4662a31a8bf9",
-      "slug": "senior-market-research-analyst-specializing-in-digital-advertising-and-cross-border-e-commerce",
-      "title": "senior market research analyst specializing in digital advertising and cross-border e-commerce.",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "insert_country_name",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4662a31a8bf9.json"
     }
   ]
 }
