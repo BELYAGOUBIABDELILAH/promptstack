@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T19:20:42.293Z",
+  "last_updated": "2026-11-14T20:20:44.061Z",
   "page": 19,
   "per_page": 100,
-  "total": 2744,
+  "total": 2745,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
@@ -127,6 +127,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ac6b60fe3ca.json"
+    },
+    {
+      "id": "opl_06535b31af8e",
+      "slug": "performing-a-popular-song-at-a-concert",
+      "title": "Performing a Popular Song at a Concert",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06535b31af8e.json"
     },
     {
       "id": "opl_049bb36e802f",
@@ -1250,20 +1259,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c936cf6c943d.json"
-    },
-    {
-      "id": "opl_072ee8a040d8",
-      "slug": "powershell-script-to-move-disabled-ad-users-to-specific-ou",
-      "title": "PowerShell Script to Move Disabled AD Users to Specific OU",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "targetOU",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_072ee8a040d8.json"
     }
   ]
 }

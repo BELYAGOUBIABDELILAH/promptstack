@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T19:20:42.293Z",
+  "last_updated": "2026-11-14T20:20:44.061Z",
   "page": 22,
   "per_page": 100,
-  "total": 2744,
+  "total": 2745,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_707f0d086bf8",
+      "slug": "research-weapon",
+      "title": "Research Weapon",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_707f0d086bf8.json"
+    },
     {
       "id": "opl_03a5e7825633",
       "slug": "researchers-in-the-library",
@@ -1179,24 +1188,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c77f1168293e.json"
-    },
-    {
-      "id": "opl_cc1014430547",
-      "slug": "senior-java-backend-engineer-expert",
-      "title": "Senior Java Backend Engineer Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "experienceLevel",
-          "default": "Advanced"
-        },
-        {
-          "name": "technology",
-          "default": "Spring"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc1014430547.json"
     }
   ]
 }

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T19:20:42.293Z",
+  "last_updated": "2026-11-14T20:20:44.061Z",
   "page": 20,
   "per_page": 100,
-  "total": 2744,
+  "total": 2745,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_072ee8a040d8",
+      "slug": "powershell-script-to-move-disabled-ad-users-to-specific-ou",
+      "title": "PowerShell Script to Move Disabled AD Users to Specific OU",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "targetOU",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_072ee8a040d8.json"
+    },
     {
       "id": "opl_2c37431f6a7b",
       "slug": "ppt-generation-assistant",
@@ -1184,15 +1198,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e8cf0ac8337.json"
-    },
-    {
-      "id": "opl_6b9b84f7dbb4",
-      "slug": "pseudo-personalisation-detective",
-      "title": "Pseudo-personalisation Detective",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b9b84f7dbb4.json"
     }
   ]
 }

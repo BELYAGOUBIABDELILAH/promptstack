@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T19:20:42.293Z",
+  "last_updated": "2026-11-14T20:20:44.061Z",
   "page": 26,
   "per_page": 100,
-  "total": 2744,
+  "total": 2745,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_b7dda4577651",
+      "slug": "test-automation-expert",
+      "title": "Test Automation Expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7dda4577651.json"
+    },
     {
       "id": "opl_09845691da2e",
       "slug": "test-engineer-agent-role",
@@ -1063,15 +1072,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c3134ffd47ac.json"
-    },
-    {
-      "id": "opl_e303b2c11f1c",
-      "slug": "ultra-micro-functional-analyst-prompt",
-      "title": "Ultra-micro Functional Analyst Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e303b2c11f1c.json"
     }
   ]
 }

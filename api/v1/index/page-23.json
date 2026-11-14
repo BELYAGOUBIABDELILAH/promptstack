@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-14T19:20:42.293Z",
+  "last_updated": "2026-11-14T20:20:44.061Z",
   "page": 23,
   "per_page": 100,
-  "total": 2744,
+  "total": 2745,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_cc1014430547",
+      "slug": "senior-java-backend-engineer-expert",
+      "title": "Senior Java Backend Engineer Expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "experienceLevel",
+          "default": "Advanced"
+        },
+        {
+          "name": "technology",
+          "default": "Spring"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc1014430547.json"
+    },
     {
       "id": "opl_4662a31a8bf9",
       "slug": "senior-market-research-analyst-specializing-in-digital-advertising-and-cross-border-e-commerce",
@@ -1132,15 +1150,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_60703e619444.json"
-    },
-    {
-      "id": "opl_7e1483ffff4b",
-      "slug": "speak-your-calendar-ics-generator",
-      "title": "Speak Your Calendar (ICS Generator)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e1483ffff4b.json"
     }
   ]
 }

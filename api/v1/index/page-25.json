@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T19:20:42.293Z",
+  "last_updated": "2026-11-14T20:20:44.061Z",
   "page": 25,
   "per_page": 100,
-  "total": 2744,
+  "total": 2745,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_db4b4e92bfb2",
+      "slug": "suggest-reviewers-for-mr",
+      "title": "Suggest Reviewers for MR",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db4b4e92bfb2.json"
+    },
     {
       "id": "opl_466aeb000f9d",
       "slug": "suitable-sunglasses-using-gemini",
@@ -986,15 +995,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85d0a32a1631.json"
-    },
-    {
-      "id": "opl_b7dda4577651",
-      "slug": "test-automation-expert",
-      "title": "Test Automation Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7dda4577651.json"
     }
   ]
 }

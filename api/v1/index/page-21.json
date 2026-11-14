@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T19:20:42.293Z",
+  "last_updated": "2026-11-14T20:20:44.061Z",
   "page": 21,
   "per_page": 100,
-  "total": 2744,
+  "total": 2745,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_6b9b84f7dbb4",
+      "slug": "pseudo-personalisation-detective",
+      "title": "Pseudo-personalisation Detective",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b9b84f7dbb4.json"
+    },
     {
       "id": "opl_291d7878880b",
       "slug": "psychologist",
@@ -1062,15 +1071,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42f583c31ae2.json"
-    },
-    {
-      "id": "opl_707f0d086bf8",
-      "slug": "research-weapon",
-      "title": "Research Weapon",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_707f0d086bf8.json"
     }
   ]
 }

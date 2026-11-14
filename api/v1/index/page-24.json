@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T19:20:42.293Z",
+  "last_updated": "2026-11-14T20:20:44.061Z",
   "page": 24,
   "per_page": 100,
-  "total": 2744,
+  "total": 2745,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_7e1483ffff4b",
+      "slug": "speak-your-calendar-ics-generator",
+      "title": "Speak Your Calendar (ICS Generator)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e1483ffff4b.json"
+    },
     {
       "id": "opl_0735f852139e",
       "slug": "speaker-tone-analyser",
@@ -1062,15 +1071,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3952f48ce29.json"
-    },
-    {
-      "id": "opl_db4b4e92bfb2",
-      "slug": "suggest-reviewers-for-mr",
-      "title": "Suggest Reviewers for MR",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db4b4e92bfb2.json"
     }
   ]
 }
