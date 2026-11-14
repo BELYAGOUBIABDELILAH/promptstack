@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T17:20:40.816Z",
+  "last_updated": "2026-11-14T18:20:47.445Z",
   "page": 14,
   "per_page": 100,
-  "total": 2742,
+  "total": 2743,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_7fc08efed29b",
+      "slug": "improve-documentation-wording-and-fix-github-link",
+      "title": "Improve documentation wording and fix GitHub link",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7fc08efed29b.json"
+    },
     {
       "id": "opl_ead1420dea62",
       "slug": "improve-my-docs",
@@ -1095,15 +1104,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e41bd6370d66.json"
-    },
-    {
-      "id": "opl_ee27a5f42243",
-      "slug": "jobs-api-guide",
-      "title": "Jobs API Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee27a5f42243.json"
     }
   ]
 }

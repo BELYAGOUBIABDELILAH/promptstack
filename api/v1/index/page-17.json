@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-14T17:20:40.816Z",
+  "last_updated": "2026-11-14T18:20:47.445Z",
   "page": 17,
   "per_page": 100,
-  "total": 2742,
+  "total": 2743,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_002d4610329d",
+      "slug": "meta-agent-builder-for-letta-platform",
+      "title": "Meta Agent Builder for Letta Platform",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "agentType",
+          "default": null
+        },
+        {
+          "name": "optimizationTips",
+          "default": null
+        },
+        {
+          "name": "roleSpecifications",
+          "default": null
+        },
+        {
+          "name": "setupGuide",
+          "default": null
+        },
+        {
+          "name": "workflowName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_002d4610329d.json"
+    },
     {
       "id": "opl_20531de07f76",
       "slug": "meta-prompt",
@@ -1066,15 +1096,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d1e6cd9e7c1.json"
-    },
-    {
-      "id": "opl_b59764a0925d",
-      "slug": "new-year-celebration-video-for-antioch-textile",
-      "title": "New Year Celebration Video for Antioch Textile",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b59764a0925d.json"
     }
   ]
 }

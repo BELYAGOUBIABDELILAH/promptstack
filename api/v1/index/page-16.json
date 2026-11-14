@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T17:20:40.816Z",
+  "last_updated": "2026-11-14T18:20:47.445Z",
   "page": 16,
   "per_page": 100,
-  "total": 2742,
+  "total": 2743,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_ad4a53ec9ad3",
+      "slug": "llm-researcher",
+      "title": "LLM Researcher",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad4a53ec9ad3.json"
+    },
     {
       "id": "opl_c0a14b565b81",
       "slug": "llm-security",
@@ -1132,36 +1141,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e45e8a603e5c.json"
-    },
-    {
-      "id": "opl_002d4610329d",
-      "slug": "meta-agent-builder-for-letta-platform",
-      "title": "Meta Agent Builder for Letta Platform",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "agentType",
-          "default": null
-        },
-        {
-          "name": "optimizationTips",
-          "default": null
-        },
-        {
-          "name": "roleSpecifications",
-          "default": null
-        },
-        {
-          "name": "setupGuide",
-          "default": null
-        },
-        {
-          "name": "workflowName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_002d4610329d.json"
     }
   ]
 }

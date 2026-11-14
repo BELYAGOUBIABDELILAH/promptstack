@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T17:20:40.816Z",
+  "last_updated": "2026-11-14T18:20:47.445Z",
   "page": 22,
   "per_page": 100,
-  "total": 2742,
+  "total": 2743,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_821723c99689",
+      "slug": "restaurant-candle-close-up-intimate-not-explicit",
+      "title": "Restaurant Candle Close-up (intimate, not explicit)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_821723c99689.json"
+    },
     {
       "id": "opl_5f6e8d7fe359",
       "slug": "restaurant-owner",
@@ -1193,15 +1202,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4662a31a8bf9.json"
-    },
-    {
-      "id": "opl_a97d8346a36a",
-      "slug": "senior-product-engineer-data-scientist-for-turkish-car-valua",
-      "title": "Senior Product Engineer + Data Scientist for Turkish Car Valuation Platform",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a97d8346a36a.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T17:20:40.816Z",
+  "last_updated": "2026-11-14T18:20:47.445Z",
   "page": 18,
   "per_page": 100,
-  "total": 2742,
+  "total": 2743,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_b59764a0925d",
+      "slug": "new-year-celebration-video-for-antioch-textile",
+      "title": "New Year Celebration Video for Antioch Textile",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b59764a0925d.json"
+    },
     {
       "id": "opl_12c2ba5f12db",
       "slug": "new-youtube-ideas",
@@ -1028,15 +1037,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82c11b5141b0.json"
-    },
-    {
-      "id": "opl_866814c368a2",
-      "slug": "password-generator",
-      "title": "Password Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_866814c368a2.json"
     }
   ]
 }

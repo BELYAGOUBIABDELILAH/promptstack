@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T17:20:40.816Z",
+  "last_updated": "2026-11-14T18:20:47.445Z",
   "page": 24,
   "per_page": 100,
-  "total": 2742,
+  "total": 2743,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_543d8a0ff40f",
+      "slug": "spec-interview",
+      "title": "Spec Interview",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "specmd",
+          "default": "spec.md"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_543d8a0ff40f.json"
+    },
     {
       "id": "opl_2034dd833392",
       "slug": "spec-requirements-document-generator",
@@ -1057,15 +1071,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_466aeb000f9d.json"
-    },
-    {
-      "id": "opl_08866ab02e63",
-      "slug": "summarize-peer-feedback",
-      "title": "Summarize Peer Feedback",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_08866ab02e63.json"
     }
   ]
 }

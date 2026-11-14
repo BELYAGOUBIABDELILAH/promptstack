@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T17:20:40.816Z",
+  "last_updated": "2026-11-14T18:20:47.445Z",
   "page": 28,
   "per_page": 100,
-  "total": 2742,
+  "total": 2743,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_111ef25485cb",
+      "slug": "why-an-online-pdf-editor-is-essential-for-modern-workflows",
+      "title": "Why an Online PDF Editor Is Essential for Modern Workflows",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_111ef25485cb.json"
+    },
     {
       "id": "opl_611c77c098de",
       "slug": "wicked",

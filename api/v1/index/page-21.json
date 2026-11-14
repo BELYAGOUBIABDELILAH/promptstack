@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T17:20:40.816Z",
+  "last_updated": "2026-11-14T18:20:47.445Z",
   "page": 21,
   "per_page": 100,
-  "total": 2742,
+  "total": 2743,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_8808aa5b467d",
+      "slug": "psychology-clinic-assistant",
+      "title": "Psychology Clinic Assistant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8808aa5b467d.json"
+    },
     {
       "id": "opl_dd2e07dbe59b",
       "slug": "pub-crawl-itinerary-creator",
@@ -1062,15 +1071,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03a5e7825633.json"
-    },
-    {
-      "id": "opl_821723c99689",
-      "slug": "restaurant-candle-close-up-intimate-not-explicit",
-      "title": "Restaurant Candle Close-up (intimate, not explicit)",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_821723c99689.json"
     }
   ]
 }

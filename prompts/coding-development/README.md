@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1093 prompts in this category**
+**1094 prompts in this category**
 
 ## Table of Contents
 
@@ -496,6 +496,7 @@
 - [Health Metrics Calculator](health-metrics-calculator.md)
 - [Hebrew Calendar](hebrew-calendar.md)
 - [High-End Technology-Inspired Website UI Redesign](high-end-technology-inspired-website-ui-redesign.md)
+- [High-precision research and performance architecture engine](high-precision-research-and-performance-architecture-engine.md)
 - [High-Stakes Decision Support System](high-stakes-decision-support-system.md)
 - [High-Velocity Dogfight](high-velocity-dogfight.md)
 - [Home Assistant - Scene & Automation Builder](home-assistant-scene-automation-builder.md)
