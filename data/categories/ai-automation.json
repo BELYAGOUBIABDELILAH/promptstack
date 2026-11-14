@@ -1248,5 +1248,15 @@
     "slug": "comprehensive-book-summarizer",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/comprehensive-book-summarizer.md"
+  },
+  {
+    "act": "Structural Fusion: The Thriller-Parable",
+    "category": "AI & Automation",
+    "prompt": "---\nname: structural-fusion-the-thriller-parable\ndescription: A JSON structured prompt for writing a series that blends thriller and parable genres using a unique double narrative structure.\n---\n\n# Structural Fusion: The Thriller-Parable\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+    "source": "amvicioushecs (prompts.chat)",
+    "type": "TEXT",
+    "slug": "structural-fusion-the-thriller-parable",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/structural-fusion-the-thriller-parable.md"
   }
 ]
