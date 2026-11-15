@@ -1,12 +1,126 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 20,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_39ee306c9837",
+      "slug": "policy-agent-client-manager",
+      "title": "Policy Agent Client Manager",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "birthPlace",
+          "default": null
+        },
+        {
+          "name": "brothersAge",
+          "default": null
+        },
+        {
+          "name": "childrenAge",
+          "default": null
+        },
+        {
+          "name": "clientName",
+          "default": null
+        },
+        {
+          "name": "dateOfBirth",
+          "default": null
+        },
+        {
+          "name": "educationQualification",
+          "default": null
+        },
+        {
+          "name": "fatherAge",
+          "default": null
+        },
+        {
+          "name": "fatherName",
+          "default": null
+        },
+        {
+          "name": "height",
+          "default": null
+        },
+        {
+          "name": "installmentDate",
+          "default": null
+        },
+        {
+          "name": "job",
+          "default": null
+        },
+        {
+          "name": "motherAge",
+          "default": null
+        },
+        {
+          "name": "motherName",
+          "default": null
+        },
+        {
+          "name": "nomineeName",
+          "default": null
+        },
+        {
+          "name": "nomineeRelation",
+          "default": null
+        },
+        {
+          "name": "numberOfBrothers",
+          "default": null
+        },
+        {
+          "name": "numberOfChildren",
+          "default": null
+        },
+        {
+          "name": "numberOfSisters",
+          "default": null
+        },
+        {
+          "name": "phoneNumber",
+          "default": null
+        },
+        {
+          "name": "policyCode",
+          "default": null
+        },
+        {
+          "name": "policyNumber",
+          "default": null
+        },
+        {
+          "name": "reminderFrequency",
+          "default": " monthly, quarterly, half yearly, annually"
+        },
+        {
+          "name": "sistersAge",
+          "default": null
+        },
+        {
+          "name": "term",
+          "default": null
+        },
+        {
+          "name": "totalCollection",
+          "default": null
+        },
+        {
+          "name": "weight",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39ee306c9837.json"
+    },
     {
       "id": "opl_cb5f50496ea3",
       "slug": "pomodoro-timer",
@@ -1180,32 +1294,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_370a4b9066f6.json"
-    },
-    {
-      "id": "opl_bdbbaec90fcb",
-      "slug": "prompt-writer-for-specific-project",
-      "title": "Prompt Writer for Specific Project",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "feature",
-          "default": null
-        },
-        {
-          "name": "list_specific_files_based_on_actual_project_structure",
-          "default": null
-        },
-        {
-          "name": "role",
-          "default": null
-        },
-        {
-          "name": "target_agent",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bdbbaec90fcb.json"
     }
   ]
 }

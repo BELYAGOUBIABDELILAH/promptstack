@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 21,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_bdbbaec90fcb",
+      "slug": "prompt-writer-for-specific-project",
+      "title": "Prompt Writer for Specific Project",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "feature",
+          "default": null
+        },
+        {
+          "name": "list_specific_files_based_on_actual_project_structure",
+          "default": null
+        },
+        {
+          "name": "role",
+          "default": null
+        },
+        {
+          "name": "target_agent",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bdbbaec90fcb.json"
+    },
     {
       "id": "opl_ebb6a41a6964",
       "slug": "prompts-chat-promotional-video-using-remotion",
@@ -1023,15 +1049,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6963011296d.json"
-    },
-    {
-      "id": "opl_330524c0b8d5",
-      "slug": "repository-indexer-agent-role",
-      "title": "Repository Indexer Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_330524c0b8d5.json"
     }
   ]
 }

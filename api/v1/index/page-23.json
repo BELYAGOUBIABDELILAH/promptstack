@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 23,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_19795197a811",
+      "slug": "self-help-book",
+      "title": "Self-Help Book",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19795197a811.json"
+    },
     {
       "id": "opl_7a98c17464c1",
       "slug": "self-summary",
@@ -1172,15 +1181,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_89815fe43684.json"
-    },
-    {
-      "id": "opl_82e88a725438",
-      "slug": "software-quality-assurance-tester",
-      "title": "Software Quality Assurance Tester",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82e88a725438.json"
     }
   ]
 }

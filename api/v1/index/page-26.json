@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 26,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_1d2061a590be",
+      "slug": "technology-transferer",
+      "title": "Technology Transferer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d2061a590be.json"
+    },
     {
       "id": "opl_d37cc9ca91c8",
       "slug": "tel-aviv-guide",
@@ -1022,15 +1031,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1be1ef2ef814.json"
-    },
-    {
-      "id": "opl_29ba9ccc8917",
-      "slug": "ui-designer-role",
-      "title": "UI Designer Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29ba9ccc8917.json"
     }
   ]
 }

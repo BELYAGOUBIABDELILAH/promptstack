@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 22,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_330524c0b8d5",
+      "slug": "repository-indexer-agent-role",
+      "title": "Repository Indexer Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_330524c0b8d5.json"
+    },
     {
       "id": "opl_abfb2556af82",
       "slug": "repository-workflow-editor-agent-role",
@@ -1192,15 +1201,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3acdfaab1a6f.json"
-    },
-    {
-      "id": "opl_19795197a811",
-      "slug": "self-help-book",
-      "title": "Self-Help Book",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19795197a811.json"
     }
   ]
 }

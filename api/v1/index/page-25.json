@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 25,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_8fe28c2a5930",
+      "slug": "stylistic-text-editor",
+      "title": "Stylistic Text Editor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fe28c2a5930.json"
+    },
     {
       "id": "opl_0381fbbd9733",
       "slug": "subculture",
@@ -1000,15 +1009,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b40999a3e917.json"
-    },
-    {
-      "id": "opl_1d2061a590be",
-      "slug": "technology-transferer",
-      "title": "Technology Transferer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d2061a590be.json"
     }
   ]
 }

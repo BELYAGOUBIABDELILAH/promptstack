@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 16,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_0d93a7243452",
+      "slug": "live-stock-market-analysis",
+      "title": "Live Stock market analysis",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d93a7243452.json"
+    },
     {
       "id": "opl_5570efe3d750",
       "slug": "llm-api-guide",
@@ -1119,28 +1128,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0600736c0e8c.json"
-    },
-    {
-      "id": "opl_288f7543b153",
-      "slug": "meeting-room-booking-web-app-development",
-      "title": "Meeting Room Booking Web App Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "databaseName",
-          "default": null
-        },
-        {
-          "name": "projectName",
-          "default": null
-        },
-        {
-          "name": "themeColor",
-          "default": "orange"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_288f7543b153.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**29 prompts in this category**
+**30 prompts in this category**
 
 ## Table of Contents
 
@@ -16,6 +16,7 @@
 - [Expert Discrete Mathematics Exam Answering](expert-discrete-mathematics-exam-answering.md)
 - [Hiring Manager Interview Prep](hiring-manager-interview-prep.md)
 - [Leadership Coach](leadership-coach.md)
+- [Linocut Print of a Red Fox Crossing Snowy Railway Tracks at Dusk](linocut-print-of-a-red-fox-crossing-snowy-railway-tracks-at-.md)
 - [Medical Report Interpreter](medical-report-interpreter.md)
 - [Medication Travel Legality](medication-travel-legality.md)
 - [Meeting Facilitator](meeting-facilitator.md)

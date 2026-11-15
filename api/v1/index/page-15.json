@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 15,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
@@ -835,6 +835,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d0a439fcd79.json"
     },
     {
+      "id": "opl_81a836ce8d37",
+      "slug": "linocut-print-of-a-red-fox-crossing-snowy-railway-tracks-at",
+      "title": "Linocut Print of a Red Fox Crossing Snowy Railway Tracks at Dusk",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81a836ce8d37.json"
+    },
+    {
       "id": "opl_a8d6195dfcbf",
       "slug": "linux-terminal-master",
       "title": "Linux - Terminal Master",
@@ -1045,15 +1054,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a44a5e13e1b5.json"
-    },
-    {
-      "id": "opl_0d93a7243452",
-      "slug": "live-stock-market-analysis",
-      "title": "Live Stock market analysis",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d93a7243452.json"
     }
   ]
 }

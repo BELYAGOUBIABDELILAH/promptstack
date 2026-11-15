@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 18,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_565f0bd783b4",
+      "slug": "nbx",
+      "title": "NBX",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_565f0bd783b4.json"
+    },
     {
       "id": "opl_6b3941ff33dc",
       "slug": "neo4j-helper",
@@ -1052,15 +1061,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_641484c68e7f.json"
-    },
-    {
-      "id": "opl_7c34c94602a6",
-      "slug": "overwhelming-invitation-generator",
-      "title": "Overwhelming Invitation Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c34c94602a6.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T08:20:48.501Z",
+  "last_updated": "2026-11-15T09:20:41.731Z",
   "page": 19,
   "per_page": 100,
-  "total": 2757,
+  "total": 2758,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_7c34c94602a6",
+      "slug": "overwhelming-invitation-generator",
+      "title": "Overwhelming Invitation Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c34c94602a6.json"
+    },
     {
       "id": "opl_49ad0c72a746",
       "slug": "oxford-3000-step-by-step-vocabulary-coach",
@@ -1154,120 +1163,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2518bf1a13f6.json"
-    },
-    {
-      "id": "opl_39ee306c9837",
-      "slug": "policy-agent-client-manager",
-      "title": "Policy Agent Client Manager",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "birthPlace",
-          "default": null
-        },
-        {
-          "name": "brothersAge",
-          "default": null
-        },
-        {
-          "name": "childrenAge",
-          "default": null
-        },
-        {
-          "name": "clientName",
-          "default": null
-        },
-        {
-          "name": "dateOfBirth",
-          "default": null
-        },
-        {
-          "name": "educationQualification",
-          "default": null
-        },
-        {
-          "name": "fatherAge",
-          "default": null
-        },
-        {
-          "name": "fatherName",
-          "default": null
-        },
-        {
-          "name": "height",
-          "default": null
-        },
-        {
-          "name": "installmentDate",
-          "default": null
-        },
-        {
-          "name": "job",
-          "default": null
-        },
-        {
-          "name": "motherAge",
-          "default": null
-        },
-        {
-          "name": "motherName",
-          "default": null
-        },
-        {
-          "name": "nomineeName",
-          "default": null
-        },
-        {
-          "name": "nomineeRelation",
-          "default": null
-        },
-        {
-          "name": "numberOfBrothers",
-          "default": null
-        },
-        {
-          "name": "numberOfChildren",
-          "default": null
-        },
-        {
-          "name": "numberOfSisters",
-          "default": null
-        },
-        {
-          "name": "phoneNumber",
-          "default": null
-        },
-        {
-          "name": "policyCode",
-          "default": null
-        },
-        {
-          "name": "policyNumber",
-          "default": null
-        },
-        {
-          "name": "reminderFrequency",
-          "default": " monthly, quarterly, half yearly, annually"
-        },
-        {
-          "name": "sistersAge",
-          "default": null
-        },
-        {
-          "name": "term",
-          "default": null
-        },
-        {
-          "name": "totalCollection",
-          "default": null
-        },
-        {
-          "name": "weight",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39ee306c9837.json"
     }
   ]
 }
