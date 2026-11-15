@@ -898,5 +898,15 @@
     "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
     "folder": "general",
     "path": "prompts/general/the-mystery-of-easter-island-who-built-the-giant-moai-statue.md"
+  },
+  {
+    "act": "Cat",
+    "category": "General",
+    "prompt": "I want a video about a cat and mouse running together and the rat won the cat by using a jet boster.",
+    "source": "olumide3367@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "cat",
+    "folder": "general",
+    "path": "prompts/general/cat.md"
   }
 ]
