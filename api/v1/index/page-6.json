@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 6,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -914,6 +914,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34b81e7e14fb.json"
     },
     {
+      "id": "opl_22acce163ab0",
+      "slug": "commercial-cleaning-services",
+      "title": "Commercial cleaning services",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_22acce163ab0.json"
+    },
+    {
       "id": "opl_c028a72bc0e1",
       "slug": "commit-message-generator",
       "title": "Commit Message Generator",
@@ -1114,32 +1123,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f216b8d4dc13.json"
-    },
-    {
-      "id": "opl_c58c489ac6af",
-      "slug": "comprehensive-academic-paper-writing-guide",
-      "title": "Comprehensive Academic Paper Writing Guide",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "language",
-          "default": "chinese"
-        },
-        {
-          "name": "length",
-          "default": "medium"
-        },
-        {
-          "name": "style",
-          "default": "APA"
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c58c489ac6af.json"
     }
   ]
 }

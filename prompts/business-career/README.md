@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**62 prompts in this category**
+**63 prompts in this category**
 
 ## Table of Contents
 
@@ -24,6 +24,7 @@
 - [Business management](business-management.md)
 - [Career Path Deliberation Assistant](career-path-deliberation-assistant.md)
 - [China Business Law Assistant](china-business-law-assistant.md)
+- [Commercial cleaning services](commercial-cleaning-services.md)
 - [Create Disaster Recovery Plan](create-disaster-recovery-plan.md)
 - [Create Troubleshooting Guide](create-troubleshooting-guide.md)
 - [Cross Cultural Navigator](cross-cultural-navigator.md)

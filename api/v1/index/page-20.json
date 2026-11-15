@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 20,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_a956056968ea",
+      "slug": "plataforma-escopo-bugbouty-cyber-hunter-lab",
+      "title": "Plataforma Escopo Bugbouty Cyber Hunter Lab",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a956056968ea.json"
+    },
     {
       "id": "opl_360489b713a7",
       "slug": "playing-card-sorcerer-portrait",
@@ -1299,15 +1308,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f0af4935a28.json"
-    },
-    {
-      "id": "opl_45e3d3ce4558",
-      "slug": "prompt-refiner",
-      "title": "Prompt Refiner",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45e3d3ce4558.json"
     }
   ]
 }

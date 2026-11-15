@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 19,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_54289b87b224",
+      "slug": "osint-tools-explorer",
+      "title": "OSINT Tools Explorer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54289b87b224.json"
+    },
     {
       "id": "opl_488c24fe6b20",
       "slug": "osobn-ai-agent-pro-petra-sovadinu",
@@ -1140,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa5586140338.json"
-    },
-    {
-      "id": "opl_a956056968ea",
-      "slug": "plataforma-escopo-bugbouty-cyber-hunter-lab",
-      "title": "Plataforma Escopo Bugbouty Cyber Hunter Lab",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a956056968ea.json"
     }
   ]
 }

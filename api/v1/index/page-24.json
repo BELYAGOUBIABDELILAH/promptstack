@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 24,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_fcaca28321a4",
+      "slug": "socratic-method",
+      "title": "Socratic Method",
+      "category": "Philosophy & Humanities",
+      "folder": "philosophy-humanities",
+      "variables": [
+        {
+          "name": "topic",
+          "default": "justice is necessary in a society"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcaca28321a4.json"
+    },
     {
       "id": "opl_c5bb1f9ef2f9",
       "slug": "socratic-method-for-ethical-discussions",
@@ -1021,24 +1035,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06148d0b1f88.json"
-    },
-    {
-      "id": "opl_66ae9cd90bc1",
-      "slug": "studio-portraits-with-professional-postures",
-      "title": "Studio Portraits with Professional Postures",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "lighting",
-          "default": "soft"
-        },
-        {
-          "name": "positioning",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66ae9cd90bc1.json"
     }
   ]
 }

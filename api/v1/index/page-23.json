@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 23,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_80415e19ecac",
+      "slug": "secteur-bancaire-v-rification-de-conformit-de-texte",
+      "title": "Secteur Bancaire - Vérification de conformité de texte",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "texte a analyser",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80415e19ecac.json"
+    },
     {
       "id": "opl_3f7937ac9e86",
       "slug": "secure-password-generator-tool",
@@ -1162,20 +1176,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ed114f5b669.json"
-    },
-    {
-      "id": "opl_fcaca28321a4",
-      "slug": "socratic-method",
-      "title": "Socratic Method",
-      "category": "Philosophy & Humanities",
-      "folder": "philosophy-humanities",
-      "variables": [
-        {
-          "name": "topic",
-          "default": "justice is necessary in a society"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcaca28321a4.json"
     }
   ]
 }

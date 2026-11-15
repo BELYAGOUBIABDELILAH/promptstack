@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 9,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_0593e48b06c4",
+      "slug": "debugging-oncall-tickets",
+      "title": "Debugging Oncall Tickets",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0593e48b06c4.json"
+    },
     {
       "id": "opl_14a31b8371bc",
       "slug": "debugging-session-assistant",
@@ -1152,15 +1161,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_057f07608415.json"
-    },
-    {
-      "id": "opl_1d19e96ecf5e",
-      "slug": "documents-to-json",
-      "title": "Documents To JSON",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d19e96ecf5e.json"
     }
   ]
 }

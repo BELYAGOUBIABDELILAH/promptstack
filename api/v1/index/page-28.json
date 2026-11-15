@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 28,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_10d1b10cbfc0",
+      "slug": "web-app-security-code-review-owasp-public-test",
+      "title": "Web App Security Code Review (OWASP) - Public Test",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10d1b10cbfc0.json"
+    },
     {
       "id": "opl_14435876d11e",
       "slug": "web-application",

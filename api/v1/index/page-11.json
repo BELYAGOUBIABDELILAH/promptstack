@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 11,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_75000e8ae04c",
+      "slug": "evaluation-prompt-generator-bias-and-censorship",
+      "title": "Evaluation Prompt Generator - Bias And Censorship",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75000e8ae04c.json"
+    },
     {
       "id": "opl_5c74c2ff9b40",
       "slug": "evaluation-prompts-text-to-image",
@@ -1085,15 +1094,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3061529c6a84.json"
-    },
-    {
-      "id": "opl_193d7cda4073",
-      "slug": "futuristic-alps-in-2150",
-      "title": "Futuristic Alps in 2150",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_193d7cda4073.json"
     }
   ]
 }

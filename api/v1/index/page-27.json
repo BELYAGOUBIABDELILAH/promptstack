@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 27,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_2ce6409ef837",
+      "slug": "tvs-raider",
+      "title": "TVS raider",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce6409ef837.json"
+    },
     {
       "id": "opl_bd5f7f631474",
       "slug": "typescript-type-expert-agent-role",
@@ -1210,15 +1219,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40625615849c.json"
-    },
-    {
-      "id": "opl_10d1b10cbfc0",
-      "slug": "web-app-security-code-review-owasp-public-test",
-      "title": "Web App Security Code Review (OWASP) - Public Test",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10d1b10cbfc0.json"
     }
   ]
 }

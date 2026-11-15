@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 22,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_1b35dc65296b",
+      "slug": "remotion",
+      "title": "Remotion",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1b35dc65296b.json"
+    },
     {
       "id": "opl_2cf7651e47d9",
       "slug": "remove-current-vnet",
@@ -1216,20 +1225,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d59fc45f1841.json"
-    },
-    {
-      "id": "opl_80415e19ecac",
-      "slug": "secteur-bancaire-v-rification-de-conformit-de-texte",
-      "title": "Secteur Bancaire - Vérification de conformité de texte",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "texte a analyser",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80415e19ecac.json"
     }
   ]
 }

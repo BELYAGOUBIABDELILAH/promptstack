@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 17,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_ffbeff7bff73",
+      "slug": "meditation-timer",
+      "title": "Meditation Timer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ffbeff7bff73.json"
+    },
     {
       "id": "opl_9b9b3bae3812",
       "slug": "meeting-agenda-generator",
@@ -1054,15 +1063,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_853c4a0bda43.json"
-    },
-    {
-      "id": "opl_cd8627a3b9fe",
-      "slug": "natural-language-schema-definition-mongodb",
-      "title": "Natural Language Schema Definition - MongoDB",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd8627a3b9fe.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 12,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_193d7cda4073",
+      "slug": "futuristic-alps-in-2150",
+      "title": "Futuristic Alps in 2150",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_193d7cda4073.json"
+    },
     {
       "id": "opl_73bfa6e92067",
       "slug": "futuristic-supercar-brand-logo",
@@ -997,15 +1006,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c5e52e7c7ca.json"
-    },
-    {
-      "id": "opl_98504156f41d",
-      "slug": "ha-scene-and-automation-editor",
-      "title": "HA Scene and Automation Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_98504156f41d.json"
     }
   ]
 }

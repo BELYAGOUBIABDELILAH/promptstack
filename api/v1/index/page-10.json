@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 10,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_1d19e96ecf5e",
+      "slug": "documents-to-json",
+      "title": "Documents To JSON",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d19e96ecf5e.json"
+    },
     {
       "id": "opl_278e71b10b30",
       "slug": "doe-framework-directions-template",
@@ -1290,15 +1299,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52989deef86e.json"
-    },
-    {
-      "id": "opl_75000e8ae04c",
-      "slug": "evaluation-prompt-generator-bias-and-censorship",
-      "title": "Evaluation Prompt Generator - Bias And Censorship",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75000e8ae04c.json"
     }
   ]
 }

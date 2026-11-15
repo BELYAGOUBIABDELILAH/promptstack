@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 8,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_bec7b0441cfd",
+      "slug": "create-this-cool-doodles",
+      "title": "Create This cool Doodles.",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "object_list",
+          "default": null
+        },
+        {
+          "name": "theme",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bec7b0441cfd.json"
+    },
     {
       "id": "opl_12972b371656",
       "slug": "create-troubleshooting-guide",
@@ -1217,15 +1235,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c07fa477af7.json"
-    },
-    {
-      "id": "opl_0593e48b06c4",
-      "slug": "debugging-oncall-tickets",
-      "title": "Debugging Oncall Tickets",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0593e48b06c4.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 18,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_cd8627a3b9fe",
+      "slug": "natural-language-schema-definition-mongodb",
+      "title": "Natural Language Schema Definition - MongoDB",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd8627a3b9fe.json"
+    },
     {
       "id": "opl_c9ad3dea2c81",
       "slug": "natural-language-schema-definition-neo4j",
@@ -1052,15 +1061,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13245469ef01.json"
-    },
-    {
-      "id": "opl_54289b87b224",
-      "slug": "osint-tools-explorer",
-      "title": "OSINT Tools Explorer",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54289b87b224.json"
     }
   ]
 }

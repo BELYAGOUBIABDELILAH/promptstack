@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-15T16:20:48.089Z",
+  "last_updated": "2026-11-15T17:20:47.083Z",
   "page": 7,
   "per_page": 100,
-  "total": 2765,
+  "total": 2766,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_c58c489ac6af",
+      "slug": "comprehensive-academic-paper-writing-guide",
+      "title": "Comprehensive Academic Paper Writing Guide",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "language",
+          "default": "chinese"
+        },
+        {
+          "name": "length",
+          "default": "medium"
+        },
+        {
+          "name": "style",
+          "default": "APA"
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c58c489ac6af.json"
+    },
     {
       "id": "opl_76f53f90eb10",
       "slug": "comprehensive-book-summarizer",
@@ -1294,24 +1320,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_066afc702673.json"
-    },
-    {
-      "id": "opl_bec7b0441cfd",
-      "slug": "create-this-cool-doodles",
-      "title": "Create This cool Doodles.",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "object_list",
-          "default": null
-        },
-        {
-          "name": "theme",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bec7b0441cfd.json"
     }
   ]
 }
