@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 18,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_f4408d7c691a",
+      "slug": "network-router-emulator",
+      "title": "Network Router emulator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4408d7c691a.json"
+    },
     {
       "id": "opl_0c7056cce6f8",
       "slug": "networking-engineer-portfolio-website",
@@ -1028,32 +1037,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_faea00d7e9d6.json"
-    },
-    {
-      "id": "opl_513db88f9c50",
-      "slug": "paladin-octem-plus-research-swarm",
-      "title": "Paladin Octem Plus (Research Swarm)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "${int",
-          "default": null
-        },
-        {
-          "name": "bias_scan",
-          "default": null
-        },
-        {
-          "name": "connections",
-          "default": null
-        },
-        {
-          "name": "current_events",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_513db88f9c50.json"
     }
   ]
 }

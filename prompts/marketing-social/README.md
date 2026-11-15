@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**204 prompts in this category**
+**205 prompts in this category**
 
 ## Table of Contents
 
@@ -104,6 +104,7 @@
 - [Hyperrealistic Food Video Creator](hyperrealistic-food-video-creator.md)
 - [IELTS preparation plan for STEM students](ielts-preparation-plan-for-stem-students.md)
 - [Illustrator Style Describer Weavy](illustrator-style-describer-weavy.md)
+- [Image Analysis for Personal Style and Personality Assessment](image-analysis-for-personal-style-and-personality-assessment.md)
 - [Improve](improve.md)
 - [Institutional Video Production Expert](institutional-video-production-expert.md)
 - [Internal Project Proposal for Hospital Collaboration](internal-project-proposal-for-hospital-collaboration.md)

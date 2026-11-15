@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 28,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_dac95f59c8cc",
+      "slug": "what-friendship-should-be-all-about",
+      "title": "What friendship should be all about",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dac95f59c8cc.json"
+    },
     {
       "id": "opl_0ec7b94e3618",
       "slug": "when-to-clear-the-snow-generic",

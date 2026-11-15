@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 14,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_6ead2cbde59c",
+      "slug": "implementador-de-tarefas",
+      "title": "Implementador de Tarefas",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ead2cbde59c.json"
+    },
     {
       "id": "opl_445dc10f3106",
       "slug": "imposter-syndrome-allly",
@@ -1090,20 +1099,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f599aee59759.json"
-    },
-    {
-      "id": "opl_36605c6f3bce",
-      "slug": "job-interviewer",
-      "title": "Job Interviewer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "Position",
-          "default": "Software Developer"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36605c6f3bce.json"
     }
   ]
 }

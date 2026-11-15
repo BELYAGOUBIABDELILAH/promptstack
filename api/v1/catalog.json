@@ -25330,6 +25330,15 @@
     "snippet": "**“Analyze the provided images and extract ONLY the unified visual style. Although the image is composed of a grid of images, treat them as one cohesive style reference - do NOT de"
   },
   {
+    "id": "opl_12fa0493ddfe",
+    "title": "Image Analysis for Personal Style and Personality Assessment",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "image-analysis-for-personal-style-and-personality-assessment",
+    "variables": [],
+    "snippet": "Develop a detailed prompt that allows users to upload an image of an individual. In return, the system will analyze the photograph and provide a comprehensive assessment of various"
+  },
+  {
     "id": "opl_a57ede864068",
     "title": "Improve",
     "category": "Marketing & Social",

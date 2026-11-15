@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 17,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_f2c6c8dcea8a",
+      "slug": "memxus-memory-stop-repeating-yourself-to-ai",
+      "title": "Memxus Memory - Stop repeating yourself to AI",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2c6c8dcea8a.json"
+    },
     {
       "id": "opl_b06c4fd5e59d",
       "slug": "mental-health-adviser",
@@ -1070,15 +1079,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5d9e5f7fbc7.json"
-    },
-    {
-      "id": "opl_f4408d7c691a",
-      "slug": "network-router-emulator",
-      "title": "Network Router emulator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4408d7c691a.json"
     }
   ]
 }

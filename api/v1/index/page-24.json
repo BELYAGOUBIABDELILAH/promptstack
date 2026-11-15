@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 24,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_e316761cd7a9",
+      "slug": "soundproofing-advisor",
+      "title": "Soundproofing Advisor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e316761cd7a9.json"
+    },
     {
       "id": "opl_859141b50b2a",
       "slug": "source-finder",
@@ -1062,15 +1071,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_600b8bc5003a.json"
-    },
-    {
-      "id": "opl_8eb901a9167d",
-      "slug": "subway-platform-street-candid-moody",
-      "title": "Subway Platform (street candid, moody)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8eb901a9167d.json"
     }
   ]
 }

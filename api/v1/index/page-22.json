@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 22,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_aad3ab13f409",
+      "slug": "research-paper-feature-diagram",
+      "title": "Research Paper Feature Diagram",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aad3ab13f409.json"
+    },
     {
       "id": "opl_43d2da139680",
       "slug": "research-problems-faced-by-a-user-persona",
@@ -1167,28 +1176,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85aa22972a2f.json"
-    },
-    {
-      "id": "opl_caafcbb40fd1",
-      "slug": "senior-crypto-yapper-community-strategist",
-      "title": "Senior Crypto Yapper & Community Strategist",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "keyUpdate",
-          "default": null
-        },
-        {
-          "name": "projectName",
-          "default": null
-        },
-        {
-          "name": "Twitter",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_caafcbb40fd1.json"
     }
   ]
 }

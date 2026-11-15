@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 21,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_11b1d98b803d",
+      "slug": "proxmox-virtualization-expert",
+      "title": "Proxmox Virtualization Expert",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11b1d98b803d.json"
+    },
     {
       "id": "opl_fec089c51205",
       "slug": "pseudo-ai-messenger",
@@ -1048,15 +1057,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4574a14644bc.json"
-    },
-    {
-      "id": "opl_aad3ab13f409",
-      "slug": "research-paper-feature-diagram",
-      "title": "Research Paper Feature Diagram",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aad3ab13f409.json"
     }
   ]
 }

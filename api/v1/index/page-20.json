@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 20,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_2e2bf5006138",
+      "slug": "pov-smartphone-with-space-themed-twitter-ui-in-central-park",
+      "title": "POV Smartphone with Space-Themed Twitter UI in Central Park",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e2bf5006138.json"
+    },
     {
       "id": "opl_576eda5f4f7e",
       "slug": "power-bi",
@@ -1189,15 +1198,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e84fea10d58.json"
-    },
-    {
-      "id": "opl_11b1d98b803d",
-      "slug": "proxmox-virtualization-expert",
-      "title": "Proxmox Virtualization Expert",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11b1d98b803d.json"
     }
   ]
 }

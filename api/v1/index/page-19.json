@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 19,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_513db88f9c50",
+      "slug": "paladin-octem-plus-research-swarm",
+      "title": "Paladin Octem Plus (Research Swarm)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "${int",
+          "default": null
+        },
+        {
+          "name": "bias_scan",
+          "default": null
+        },
+        {
+          "name": "connections",
+          "default": null
+        },
+        {
+          "name": "current_events",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_513db88f9c50.json"
+    },
     {
       "id": "opl_6484fd20cd6e",
       "slug": "paper-lantern-harbor-at-dusk",
@@ -1250,15 +1276,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9cdb7ad89489.json"
-    },
-    {
-      "id": "opl_2e2bf5006138",
-      "slug": "pov-smartphone-with-space-themed-twitter-ui-in-central-park",
-      "title": "POV Smartphone with Space-Themed Twitter UI in Central Park",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e2bf5006138.json"
     }
   ]
 }

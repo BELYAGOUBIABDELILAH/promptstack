@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 15,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_36605c6f3bce",
+      "slug": "job-interviewer",
+      "title": "Job Interviewer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "Position",
+          "default": "Software Developer"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36605c6f3bce.json"
+    },
     {
       "id": "opl_76c64aaa7129",
       "slug": "job-posting-snapshot-preservation-engine",
@@ -1040,15 +1054,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e056e7b5c001.json"
-    },
-    {
-      "id": "opl_298abae57027",
-      "slug": "llm-configuration-tuner",
-      "title": "LLM Configuration Tuner",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_298abae57027.json"
     }
   ]
 }

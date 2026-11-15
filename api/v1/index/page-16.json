@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 16,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_298abae57027",
+      "slug": "llm-configuration-tuner",
+      "title": "LLM Configuration Tuner",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_298abae57027.json"
+    },
     {
       "id": "opl_cc89bf239a7f",
       "slug": "llm-expert",
@@ -1132,15 +1141,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_818ce19f96ed.json"
-    },
-    {
-      "id": "opl_f2c6c8dcea8a",
-      "slug": "memxus-memory-stop-repeating-yourself-to-ai",
-      "title": "Memxus Memory - Stop repeating yourself to AI",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2c6c8dcea8a.json"
     }
   ]
 }

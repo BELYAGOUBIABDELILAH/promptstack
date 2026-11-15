@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T01:20:42.040Z",
+  "last_updated": "2026-11-15T02:20:46.043Z",
   "page": 25,
   "per_page": 100,
-  "total": 2750,
+  "total": 2751,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_8eb901a9167d",
+      "slug": "subway-platform-street-candid-moody",
+      "title": "Subway Platform (street candid, moody)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8eb901a9167d.json"
+    },
     {
       "id": "opl_edacfa031fe4",
       "slug": "success-stories",
@@ -981,15 +990,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd3e1ea336b2.json"
-    },
-    {
-      "id": "opl_db3e45387e14",
-      "slug": "terminal-drift",
-      "title": "Terminal Drift",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db3e45387e14.json"
     }
   ]
 }
