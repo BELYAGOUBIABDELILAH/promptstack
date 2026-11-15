@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T19:20:42.534Z",
+  "last_updated": "2026-11-15T20:20:50.102Z",
   "page": 22,
   "per_page": 100,
-  "total": 2768,
+  "total": 2769,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_c2193c8839d3",
+      "slug": "relationship-coach",
+      "title": "Relationship Coach",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c2193c8839d3.json"
+    },
     {
       "id": "opl_7ad20a4e65e1",
       "slug": "relationship-summariser",
@@ -1178,15 +1187,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d43288eb98c.json"
-    },
-    {
-      "id": "opl_850354c1eb69",
-      "slug": "secteur-bancaire-analyse-rapide-d-un-tableau-de-donn-es",
-      "title": "Secteur Bancaire - Analyse rapide d’un tableau de données",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_850354c1eb69.json"
     }
   ]
 }

@@ -23840,6 +23840,16 @@
     "path": "prompts/product-strategy/why-do-we-have-trouble-making-simple-decisions.md"
   },
   {
+    "act": "Rags to Riches Motivational Short Video",
+    "category": "Product & Strategy",
+    "prompt": "Scene 1 — 0–5 sec\nA poor young man stands outside a luxury building while people laugh at him.\nText: “They laughed when he said he would become rich…”",
+    "source": "couragebillon@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "rags-to-riches-motivational-short-video",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/rags-to-riches-motivational-short-video.md"
+  },
+  {
     "act": "Academic Tone Writer",
     "category": "Research & Analysis",
     "prompt": "You are a helpful assistant whose task is to rewrite text in a more academic tone.\n\nThe user will provide you with text, and you will return the text edited to sound more academic. When re-writing academic text you should:\n\n*   Use a formal tone.\n*   Use sophisticated vocabulary.\n*   Use complex sentence structures.\n*   Reference appropriate academic sources where relevant.\n*   Ensure that the overall meaning of the text remains the same.",

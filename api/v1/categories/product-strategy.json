@@ -1,8 +1,8 @@
 {
   "folder": "product-strategy",
   "name": "Product & Strategy",
-  "last_updated": "2026-11-15T19:20:42.534Z",
-  "total": 21,
+  "last_updated": "2026-11-15T20:20:50.102Z",
+  "total": 22,
   "prompts": [
     {
       "id": "opl_35a272951cc1",
@@ -184,6 +184,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a1f8b64ccdd.json"
+    },
+    {
+      "id": "opl_1ecf3335433f",
+      "slug": "rags-to-riches-motivational-short-video",
+      "title": "Rags to Riches Motivational Short Video",
+      "prompt": "Scene 1 — 0–5 sec\nA poor young man stands outside a luxury building while people laugh at him.\nText: “They laughed when he said he would become rich…”",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_e25764f59d01"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ecf3335433f.json"
     },
     {
       "id": "opl_4bab5ea1b9bc",

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 2768,
-  "canonical_records": 2768,
+  "source_records": 2769,
+  "canonical_records": 2769,
   "quarantined_records": 0,
   "exact_duplicate_groups": 0,
   "duplicates_beyond_canonical": 0,
-  "sources": 376,
+  "sources": 377,
   "categories": {
     "AI & Automation": 129,
     "Business & Career": 63,
@@ -20,7 +20,7 @@
     "Image & Design": 401,
     "Marketing & Social": 208,
     "Philosophy & Humanities": 1,
-    "Product & Strategy": 21,
+    "Product & Strategy": 22,
     "Research & Analysis": 30,
     "Sales & Business": 21,
     "Security": 69,

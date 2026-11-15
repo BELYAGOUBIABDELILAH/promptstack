@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T19:20:42.534Z",
+  "last_updated": "2026-11-15T20:20:50.102Z",
   "page": 21,
   "per_page": 100,
-  "total": 2768,
+  "total": 2769,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
@@ -531,6 +531,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32df1a87c7a7.json"
     },
     {
+      "id": "opl_1ecf3335433f",
+      "slug": "rags-to-riches-motivational-short-video",
+      "title": "Rags to Riches Motivational Short Video",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ecf3335433f.json"
+    },
+    {
       "id": "opl_fcf931986ad2",
       "slug": "rainy-umbrella-street-full-body",
       "title": "Rainy Umbrella Street (full-body)",
@@ -1011,15 +1020,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5cf11502bec.json"
-    },
-    {
-      "id": "opl_c2193c8839d3",
-      "slug": "relationship-coach",
-      "title": "Relationship Coach",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c2193c8839d3.json"
     }
   ]
 }

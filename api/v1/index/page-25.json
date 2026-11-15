@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T19:20:42.534Z",
+  "last_updated": "2026-11-15T20:20:50.102Z",
   "page": 25,
   "per_page": 100,
-  "total": 2768,
+  "total": 2769,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_165af672ba87",
+      "slug": "structured-text-captioning",
+      "title": "Structured Text Captioning",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_165af672ba87.json"
+    },
     {
       "id": "opl_970533f38fa4",
       "slug": "student-tier",
@@ -1027,15 +1036,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0220d313175.json"
-    },
-    {
-      "id": "opl_9d6f316cbdb5",
-      "slug": "tech-troubleshooter",
-      "title": "Tech Troubleshooter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d6f316cbdb5.json"
     }
   ]
 }

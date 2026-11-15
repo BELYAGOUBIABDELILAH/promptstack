@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T19:20:42.534Z",
+  "last_updated": "2026-11-15T20:20:50.102Z",
   "page": 24,
   "per_page": 100,
-  "total": 2768,
+  "total": 2769,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_c891fffc88cd",
+      "slug": "social-to-blog-post",
+      "title": "Social To Blog Post",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c891fffc88cd.json"
+    },
     {
       "id": "opl_ebeccd8f6431",
       "slug": "socially-neutral-social-media-commentary-prompt",
@@ -1031,15 +1040,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_497e98d1d7d0.json"
-    },
-    {
-      "id": "opl_165af672ba87",
-      "slug": "structured-text-captioning",
-      "title": "Structured Text Captioning",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_165af672ba87.json"
     }
   ]
 }

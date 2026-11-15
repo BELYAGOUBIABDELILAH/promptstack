@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T19:20:42.534Z",
+  "last_updated": "2026-11-15T20:20:50.102Z",
   "page": 23,
   "per_page": 100,
-  "total": 2768,
+  "total": 2769,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_850354c1eb69",
+      "slug": "secteur-bancaire-analyse-rapide-d-un-tableau-de-donn-es",
+      "title": "Secteur Bancaire - Analyse rapide d’un tableau de données",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_850354c1eb69.json"
+    },
     {
       "id": "opl_b9255fb7381f",
       "slug": "secteur-bancaire-cr-ation-d-un-texte-marketing-simple",
@@ -1200,15 +1209,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ae7079367b6.json"
-    },
-    {
-      "id": "opl_c891fffc88cd",
-      "slug": "social-to-blog-post",
-      "title": "Social To Blog Post",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c891fffc88cd.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T19:20:42.534Z",
+  "last_updated": "2026-11-15T20:20:50.102Z",
   "page": 27,
   "per_page": 100,
-  "total": 2768,
+  "total": 2769,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_2fd7bfa6618d",
+      "slug": "turkish-woman-in-ankara-with-a-surreal-twist",
+      "title": "Turkish woman in Ankara with a surreal twist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2fd7bfa6618d.json"
+    },
     {
       "id": "opl_f82858d537ec",
       "slug": "turn-your-photo-into-a-simpsons-scene",
@@ -1197,28 +1206,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2ea78b34014.json"
-    },
-    {
-      "id": "opl_256df937b88a",
-      "slug": "water-balance-management-platform-design",
-      "title": "Water Balance Management Platform Design",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "alertThreshold",
-          "default": "low"
-        },
-        {
-          "name": "dailyWaterRequirement",
-          "default": null
-        },
-        {
-          "name": "maintenanceFrequency",
-          "default": "weekly"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_256df937b88a.json"
     }
   ]
 }

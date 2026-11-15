@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-15T19:20:42.534Z",
+  "last_updated": "2026-11-15T20:20:50.102Z",
   "page": 28,
   "per_page": 100,
-  "total": 2768,
+  "total": 2769,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_256df937b88a",
+      "slug": "water-balance-management-platform-design",
+      "title": "Water Balance Management Platform Design",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "alertThreshold",
+          "default": "low"
+        },
+        {
+          "name": "dailyWaterRequirement",
+          "default": null
+        },
+        {
+          "name": "maintenanceFrequency",
+          "default": "weekly"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_256df937b88a.json"
+    },
     {
       "id": "opl_26b691263a1a",
       "slug": "weather-dashboard",
