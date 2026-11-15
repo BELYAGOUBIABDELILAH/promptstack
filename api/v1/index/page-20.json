@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 20,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_c2cbfba688dc",
+      "slug": "postgres-helper",
+      "title": "Postgres Helper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c2cbfba688dc.json"
+    },
     {
       "id": "opl_3c599f702129",
       "slug": "postmortem",
@@ -1184,15 +1193,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad562cf6b757.json"
-    },
-    {
-      "id": "opl_a614ab89d33c",
-      "slug": "proofreader",
-      "title": "Proofreader",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a614ab89d33c.json"
     }
   ]
 }

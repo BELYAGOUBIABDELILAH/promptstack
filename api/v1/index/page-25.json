@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 25,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_e8d69ba9e5f8",
+      "slug": "subject-wise-school-performance-dashboard-generator",
+      "title": "Subject-Wise School Performance Dashboard Generator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "academic_term",
+          "default": "2026 Term 1"
+        },
+        {
+          "name": "subject_data",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8d69ba9e5f8.json"
+    },
     {
       "id": "opl_875a8016b02f",
       "slug": "subreddit-digest",
@@ -981,15 +999,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_266b1601ca9c.json"
-    },
-    {
-      "id": "opl_1cf5a02482f3",
-      "slug": "temitope",
-      "title": "Temitope",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1cf5a02482f3.json"
     }
   ]
 }

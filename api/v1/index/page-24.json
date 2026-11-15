@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 24,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_a144ff905396",
+      "slug": "song-recommender",
+      "title": "Song Recommender",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a144ff905396.json"
+    },
     {
       "id": "opl_a6a1de10a72c",
       "slug": "sop-checklist-generator",
@@ -1053,24 +1062,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a948faafcb74.json"
-    },
-    {
-      "id": "opl_e8d69ba9e5f8",
-      "slug": "subject-wise-school-performance-dashboard-generator",
-      "title": "Subject-Wise School Performance Dashboard Generator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "academic_term",
-          "default": "2026 Term 1"
-        },
-        {
-          "name": "subject_data",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8d69ba9e5f8.json"
     }
   ]
 }

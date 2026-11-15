@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 22,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_d541ad3979bd",
+      "slug": "research-and-learn-to-become-top-in-your-field-of-knowledge",
+      "title": "research and learn to become top in your field of knowledge",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "focusArea",
+          "default": null
+        },
+        {
+          "name": "resourceLink",
+          "default": null
+        },
+        {
+          "name": "sub_topic",
+          "default": null
+        },
+        {
+          "name": "title",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d541ad3979bd.json"
+    },
     {
       "id": "opl_6a6d5b1ad354",
       "slug": "research-and-presentation-on-energy-forms",
@@ -1171,20 +1201,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2d139c2ac3b.json"
-    },
-    {
-      "id": "opl_8f94946c38ea",
-      "slug": "semantic-intent-analysis-for-report-generation",
-      "title": "Semantic Intent Analysis for Report Generation",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "input",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f94946c38ea.json"
     }
   ]
 }

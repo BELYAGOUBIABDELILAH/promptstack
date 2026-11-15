@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 13,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
@@ -702,6 +702,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a05239e8aacb.json"
     },
     {
+      "id": "opl_c46b5eafd56b",
+      "slug": "i-am-pragati-a-bca-student-from-shrinath-university-make-a-p",
+      "title": "I am pragati a bca student from shrinath university make a portfolio website video creation for me",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c46b5eafd56b.json"
+    },
+    {
       "id": "opl_427056c60257",
       "slug": "i-think-i-need-a-lawyer-neutral-legal-intake-organizer",
       "title": "I Think I Need a Lawyer — Neutral Legal Intake Organizer",
@@ -1051,15 +1060,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed3231c55378.json"
-    },
-    {
-      "id": "opl_7f7ee5b20f20",
-      "slug": "implement-design-pattern",
-      "title": "Implement Design Pattern",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f7ee5b20f20.json"
     }
   ]
 }

@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 18,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_9df8057b4afc",
+      "slug": "network-engineer",
+      "title": "Network Engineer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "deadline",
+          "default": "two weeks"
+        },
+        {
+          "name": "environment",
+          "default": "corporate"
+        },
+        {
+          "name": "equipmentType",
+          "default": "routers"
+        },
+        {
+          "name": "networkType",
+          "default": "LAN"
+        },
+        {
+          "name": "priority",
+          "default": "medium"
+        },
+        {
+          "name": "securityLevel",
+          "default": "high"
+        },
+        {
+          "name": "taskType",
+          "default": "configuration"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9df8057b4afc.json"
+    },
     {
       "id": "opl_c8f3a99a40c7",
       "slug": "network-engineer-home-edition",
@@ -1028,15 +1066,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c03150cd872.json"
-    },
-    {
-      "id": "opl_573a3fcbc6f7",
-      "slug": "packling-list-checker",
-      "title": "Packling List Checker",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_573a3fcbc6f7.json"
     }
   ]
 }

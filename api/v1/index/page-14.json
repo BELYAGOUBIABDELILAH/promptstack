@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 14,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_7f7ee5b20f20",
+      "slug": "implement-design-pattern",
+      "title": "Implement Design Pattern",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f7ee5b20f20.json"
+    },
     {
       "id": "opl_1a0ac71bd729",
       "slug": "implement-responsive-layout",
@@ -1090,15 +1099,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef22e856236f.json"
-    },
-    {
-      "id": "opl_6079ca8c93e6",
-      "slug": "job-hunt-strategist",
-      "title": "Job Hunt Strategist",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6079ca8c93e6.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "folder": "education-learning",
   "name": "Education & Learning",
-  "last_updated": "2026-11-15T05:20:42.471Z",
-  "total": 78,
+  "last_updated": "2026-11-15T06:20:50.291Z",
+  "total": 79,
   "prompts": [
     {
       "id": "opl_eed064e780bd",
@@ -726,6 +726,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ab25d077bb5.json"
+    },
+    {
+      "id": "opl_c46b5eafd56b",
+      "slug": "i-am-pragati-a-bca-student-from-shrinath-university-make-a-p",
+      "title": "I am pragati a bca student from shrinath university make a portfolio website video creation for me",
+      "prompt": "I am pragati a bca student from shrinath university make a portfolio website video creation for me",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c9a3c3f29327"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c46b5eafd56b.json"
     },
     {
       "id": "opl_5e06eaedaec6",

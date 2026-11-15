@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 27,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_2a80714ac3cb",
+      "slug": "ultimate-inpainting-reference-prompt",
+      "title": "Ultimate Inpainting / Reference Prompt",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a80714ac3cb.json"
+    },
     {
       "id": "opl_127df6b61ca5",
       "slug": "ultimate-stake-us-dice-strategy-builder-all-risk-levels-bankrolls",
@@ -1231,15 +1240,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa8fcda2011a.json"
-    },
-    {
-      "id": "opl_dca1f78ac0b1",
-      "slug": "website-design-recreator-skill",
-      "title": "Website Design Recreator Skill",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dca1f78ac0b1.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 26,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_1cf5a02482f3",
+      "slug": "temitope",
+      "title": "Temitope",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1cf5a02482f3.json"
+    },
     {
       "id": "opl_84cd383b10ed",
       "slug": "temperature-estimator",
@@ -1022,15 +1031,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8442776686ac.json"
-    },
-    {
-      "id": "opl_2a80714ac3cb",
-      "slug": "ultimate-inpainting-reference-prompt",
-      "title": "Ultimate Inpainting / Reference Prompt",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a80714ac3cb.json"
     }
   ]
 }

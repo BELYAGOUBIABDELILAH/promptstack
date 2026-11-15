@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 23,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_8f94946c38ea",
+      "slug": "semantic-intent-analysis-for-report-generation",
+      "title": "Semantic Intent Analysis for Report Generation",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "input",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f94946c38ea.json"
+    },
     {
       "id": "opl_8a22c7f693ce",
       "slug": "semantic-search-navigator",
@@ -1167,15 +1181,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d4910b22e6e.json"
-    },
-    {
-      "id": "opl_a144ff905396",
-      "slug": "song-recommender",
-      "title": "Song Recommender",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a144ff905396.json"
     }
   ]
 }

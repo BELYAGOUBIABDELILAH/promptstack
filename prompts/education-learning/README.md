@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**78 prompts in this category**
+**79 prompts in this category**
 
 ## Table of Contents
 
@@ -43,6 +43,7 @@
 - [HCCVN-AI-VN Pro Max: Optimal AI System Design](hccvn-ai-vn-pro-max-optimal-ai-system-design.md)
 - [Hebrew Learning Coach](hebrew-learning-coach.md)
 - [Human In The Loop](human-in-the-loop.md)
+- [I am pragati a bca student from shrinath university make a portfolio website video creation for me](i-am-pragati-a-bca-student-from-shrinath-university-make-a-p.md)
 - [illustration for teenagers, side silhouette of a young person. Inside the head a question mark transforming into light t. Deep purple and blue tones, minimalist and , v.](illustration-for-teenagers-side-silhouette-of-a-young-person.md)
 - [Improving Business English](improving-business-english.md)
 - [Inference Scenario Automation Tool](inference-scenario-automation-tool.md)

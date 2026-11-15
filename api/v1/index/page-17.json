@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T05:20:42.471Z",
+  "last_updated": "2026-11-15T06:20:50.291Z",
   "page": 17,
   "per_page": 100,
-  "total": 2754,
+  "total": 2755,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_826757f6509d",
+      "slug": "meme-coins-knowledge-and-trading",
+      "title": "Meme coins knowledge  and trading",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_826757f6509d.json"
+    },
     {
       "id": "opl_6fa7a312abf5",
       "slug": "memory-card-game",
@@ -1041,44 +1050,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0536087661c.json"
-    },
-    {
-      "id": "opl_9df8057b4afc",
-      "slug": "network-engineer",
-      "title": "Network Engineer",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "deadline",
-          "default": "two weeks"
-        },
-        {
-          "name": "environment",
-          "default": "corporate"
-        },
-        {
-          "name": "equipmentType",
-          "default": "routers"
-        },
-        {
-          "name": "networkType",
-          "default": "LAN"
-        },
-        {
-          "name": "priority",
-          "default": "medium"
-        },
-        {
-          "name": "securityLevel",
-          "default": "high"
-        },
-        {
-          "name": "taskType",
-          "default": "configuration"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9df8057b4afc.json"
     }
   ]
 }
