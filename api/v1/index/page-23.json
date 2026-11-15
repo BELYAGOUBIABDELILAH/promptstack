@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T14:20:43.833Z",
+  "last_updated": "2026-11-15T15:20:41.455Z",
   "page": 23,
   "per_page": 100,
-  "total": 2763,
+  "total": 2764,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_13d6ec75822c",
+      "slug": "security-analyst-for-vulnerability-triage",
+      "title": "Security Analyst for Vulnerability Triage",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13d6ec75822c.json"
+    },
     {
       "id": "opl_4e47f6c62e33",
       "slug": "security-fixes",
@@ -1167,20 +1176,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c5bb1f9ef2f9.json"
-    },
-    {
-      "id": "opl_49abe1639548",
-      "slug": "socratic-universal-tutor",
-      "title": "Socratic Universal Tutor",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "insert_topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49abe1639548.json"
     }
   ]
 }

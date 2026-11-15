@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T14:20:43.833Z",
+  "last_updated": "2026-11-15T15:20:41.455Z",
   "page": 9,
   "per_page": 100,
-  "total": 2763,
+  "total": 2764,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
@@ -928,6 +928,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f45a7cd42d06.json"
     },
     {
+      "id": "opl_fc8568c9c554",
+      "slug": "distill",
+      "title": "distill",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc8568c9c554.json"
+    },
+    {
       "id": "opl_6879d352ad13",
       "slug": "diy-expert",
       "title": "DIY Expert",
@@ -1152,15 +1161,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_278e71b10b30.json"
-    },
-    {
-      "id": "opl_09404b8d2088",
-      "slug": "does-it-exist",
-      "title": "Does It Exist?",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_09404b8d2088.json"
     }
   ]
 }

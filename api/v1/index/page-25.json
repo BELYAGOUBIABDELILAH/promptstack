@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T14:20:43.833Z",
+  "last_updated": "2026-11-15T15:20:41.455Z",
   "page": 25,
   "per_page": 100,
-  "total": 2763,
+  "total": 2764,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_ede21bbd846a",
+      "slug": "study-review-companion",
+      "title": "Study Review Companion",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "studyLevel",
+          "default": "undergraduate"
+        },
+        {
+          "name": "subject",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ede21bbd846a.json"
+    },
     {
       "id": "opl_c42ae92d3e7e",
       "slug": "study-timer",
@@ -1009,15 +1027,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3e9dd45ec84.json"
-    },
-    {
-      "id": "opl_48e43221ebfe",
-      "slug": "technical-codebase-discovery-onboarding-prompt",
-      "title": "Technical Codebase Discovery & Onboarding Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_48e43221ebfe.json"
     }
   ]
 }

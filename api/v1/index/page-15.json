@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T14:20:43.833Z",
+  "last_updated": "2026-11-15T15:20:41.455Z",
   "page": 15,
   "per_page": 100,
-  "total": 2763,
+  "total": 2764,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_5e3a6b66dcb0",
+      "slug": "job-eoi-email-generator",
+      "title": "Job \"EOI\" Email Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e3a6b66dcb0.json"
+    },
     {
       "id": "opl_10b900094649",
       "slug": "job-and-internship-tracker-for-google-sheets",
@@ -1035,20 +1044,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_acb4b6d18b73.json"
-    },
-    {
-      "id": "opl_2479001f0828",
-      "slug": "literature-reading-and-analysis-assistant",
-      "title": "Literature Reading and Analysis Assistant",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2479001f0828.json"
     }
   ]
 }

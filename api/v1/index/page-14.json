@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T14:20:43.833Z",
+  "last_updated": "2026-11-15T15:20:41.455Z",
   "page": 14,
   "per_page": 100,
-  "total": 2763,
+  "total": 2764,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_b7ba93159659",
+      "slug": "image-to-text-document-processor",
+      "title": "Image To Text Document Processor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7ba93159659.json"
+    },
     {
       "id": "opl_d6668a0b5ea0",
       "slug": "immigration-project-presentation-specialist",
@@ -1094,15 +1103,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca07130344a7.json"
-    },
-    {
-      "id": "opl_5e3a6b66dcb0",
-      "slug": "job-eoi-email-generator",
-      "title": "Job \"EOI\" Email Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e3a6b66dcb0.json"
     }
   ]
 }

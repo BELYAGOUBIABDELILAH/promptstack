@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T14:20:43.833Z",
+  "last_updated": "2026-11-15T15:20:41.455Z",
   "page": 13,
   "per_page": 100,
-  "total": 2763,
+  "total": 2764,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_fa0f9d9f8c4f",
+      "slug": "hallucination-vulnerability-prompt-checker",
+      "title": "Hallucination Vulnerability Prompt Checker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa0f9d9f8c4f.json"
+    },
     {
       "id": "opl_9d26049bce21",
       "slug": "hand-made-site",
@@ -1068,15 +1077,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b52fdce7f91.json"
-    },
-    {
-      "id": "opl_b7ba93159659",
-      "slug": "image-to-text-document-processor",
-      "title": "Image To Text Document Processor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7ba93159659.json"
     }
   ]
 }

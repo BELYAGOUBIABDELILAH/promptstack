@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T14:20:43.833Z",
+  "last_updated": "2026-11-15T15:20:41.455Z",
   "page": 22,
   "per_page": 100,
-  "total": 2763,
+  "total": 2764,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_4b4ad848e15c",
+      "slug": "remove-dead-code",
+      "title": "Remove Dead Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b4ad848e15c.json"
+    },
     {
       "id": "opl_84c0e4105ea5",
       "slug": "removing-visual-noise-in-the-neural-network-s-response",
@@ -1221,15 +1230,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f7937ac9e86.json"
-    },
-    {
-      "id": "opl_13d6ec75822c",
-      "slug": "security-analyst-for-vulnerability-triage",
-      "title": "Security Analyst for Vulnerability Triage",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13d6ec75822c.json"
     }
   ]
 }

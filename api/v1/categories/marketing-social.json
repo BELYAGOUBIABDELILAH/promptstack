@@ -1,8 +1,8 @@
 {
   "folder": "marketing-social",
   "name": "Marketing & Social",
-  "last_updated": "2026-11-15T14:20:43.833Z",
-  "total": 207,
+  "last_updated": "2026-11-15T15:20:41.455Z",
+  "total": 208,
   "prompts": [
     {
       "id": "opl_40dd44cf090d",
@@ -1297,6 +1297,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94ff964ee6a1.json"
+    },
+    {
+      "id": "opl_fc8568c9c554",
+      "slug": "distill",
+      "title": "distill",
+      "prompt": "Here is a prompt designed to strip away complexity and distill any subject down to its absolute core using a vivid analogy:\n\nCore Essence Analogy Prompt\nAct as an expert educator who specializes in radical simplicity. Your goal is to strip away all jargon, academic fluff, and minor details from a subject to reveal its absolute core mechanism using one powerful, sticky analogy.\n\nSubject to distill: [Insert your topic, concept, or process here]\n\nPlease structure your response using the following framework:\n\nThe core truth (one sentence): State the single most important mechanism or purpose of this subject. What is the fundamental problem it solves or the basic rule it follows?\n\nThe anchor analogy: Connect this core truth to a highly familiar, universal human experience (e.g., a sandbox, a kitchen, traffic, a campfire). Explain the subject entirely through this analogy.\n\nThe mapping: Briefly map the key parts of the real subject to the parts of your analogy so the connection is crystal clear (e.g., \"In this scenario, the flour represents X, the oven is Y, and the cake is Z\").\n\nThe takeaway: Conclude with a memorable, one-sentence rule of thumb that perfectly captures the essence of the subject",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_06729541f502"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc8568c9c554.json"
     },
     {
       "id": "opl_adb75ba93759",

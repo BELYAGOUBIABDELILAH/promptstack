@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**207 prompts in this category**
+**208 prompts in this category**
 
 ## Table of Contents
 
@@ -70,6 +70,7 @@
 - [Customizable Birthday Message Generator](customizable-birthday-message-generator.md)
 - [Customized Gift Idea Brainstorm Assistant](customized-gift-idea-brainstorm-assistant.md)
 - [Detailed mirror-selfie room scene](detailed-mirror-selfie-room-scene.md)
+- [distill](distill.md)
 - [Documentary Finder](documentary-finder.md)
 - [Draft PR to Ready to Review PR](draft-pr-to-ready-to-review-pr.md)
 - [Draft Social Media Post for Event](draft-social-media-post-for-event.md)
