@@ -1,8 +1,8 @@
 {
   "folder": "product-strategy",
   "name": "Product & Strategy",
-  "last_updated": "2026-11-15T00:20:42.452Z",
-  "total": 20,
+  "last_updated": "2026-11-15T01:20:42.040Z",
+  "total": 21,
   "prompts": [
     {
       "id": "opl_35a272951cc1",
@@ -345,6 +345,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85b155f35397.json"
+    },
+    {
+      "id": "opl_0b8597d871e9",
+      "slug": "why-do-we-have-trouble-making-simple-decisions",
+      "title": "Why Do We Have Trouble Making Simple Decisions?",
+      "prompt": "why do we procrastinate? why do I procrastinate? Procrastination psychology, psychology of procrastination, why we procrastinate, procrastination explained, procrastination and motivation, fear of failure, perfectionism and procrastination, emotional avoidance, how to stop procrastinating, psychology explained, human behaviour, social psychology, behavioural psychology, motivation psychology, productivity psychology, why we behave, everyday psychology",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_84d385f310bc"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b8597d871e9.json"
     }
   ]
 }

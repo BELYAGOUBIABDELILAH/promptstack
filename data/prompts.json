@@ -23670,6 +23670,16 @@
     "path": "prompts/product-strategy/riverside-boardwalk-and-restaurants-view.md"
   },
   {
+    "act": "Why Do We Have Trouble Making Simple Decisions?",
+    "category": "Product & Strategy",
+    "prompt": "why do we procrastinate? why do I procrastinate? Procrastination psychology, psychology of procrastination, why we procrastinate, procrastination explained, procrastination and motivation, fear of failure, perfectionism and procrastination, emotional avoidance, how to stop procrastinating, psychology explained, human behaviour, social psychology, behavioural psychology, motivation psychology, productivity psychology, why we behave, everyday psychology",
+    "source": "ibromul423@gmail.com,pschoenjunk@gmail.com,psychoctopuspto@gmail.com,MasterTPsych0,PsychoticGao (prompts.chat)",
+    "type": "TEXT",
+    "slug": "why-do-we-have-trouble-making-simple-decisions",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/why-do-we-have-trouble-making-simple-decisions.md"
+  },
+  {
     "act": "Academic Tone Writer",
     "category": "Research & Analysis",
     "prompt": "You are a helpful assistant whose task is to rewrite text in a more academic tone.\n\nThe user will provide you with text, and you will return the text edited to sound more academic. When re-writing academic text you should:\n\n*   Use a formal tone.\n*   Use sophisticated vocabulary.\n*   Use complex sentence structures.\n*   Reference appropriate academic sources where relevant.\n*   Ensure that the overall meaning of the text remains the same.",

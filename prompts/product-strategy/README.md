@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**20 prompts in this category**
+**21 prompts in this category**
 
 ## Table of Contents
 
@@ -26,3 +26,4 @@
 - [Symphony Event Invitation and Guide](symphony-event-invitation-and-guide.md)
 - [Tech Product Finder](tech-product-finder.md)
 - [The Lovelyline](the-lovelyline.md)
+- [Why Do We Have Trouble Making Simple Decisions?](why-do-we-have-trouble-making-simple-decisions.md)

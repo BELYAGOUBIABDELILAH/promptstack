@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T00:20:42.452Z",
+  "last_updated": "2026-11-15T01:20:42.040Z",
   "page": 28,
   "per_page": 100,
-  "total": 2749,
+  "total": 2750,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
@@ -78,6 +78,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_111ef25485cb.json"
+    },
+    {
+      "id": "opl_0b8597d871e9",
+      "slug": "why-do-we-have-trouble-making-simple-decisions",
+      "title": "Why Do We Have Trouble Making Simple Decisions?",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b8597d871e9.json"
     },
     {
       "id": "opl_611c77c098de",
