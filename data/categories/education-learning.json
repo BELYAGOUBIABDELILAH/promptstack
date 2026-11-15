@@ -778,5 +778,15 @@
     "slug": "tma-help",
     "folder": "education-learning",
     "path": "prompts/education-learning/tma-help.md"
+  },
+  {
+    "act": "I am pragati a bca student from shrinath university make a portfolio website video creation for me",
+    "category": "Education & Learning",
+    "prompt": "I am pragati a bca student from shrinath university make a portfolio website video creation for me",
+    "source": "pragatitiwary15@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "i-am-pragati-a-bca-student-from-shrinath-university-make-a-p",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/i-am-pragati-a-bca-student-from-shrinath-university-make-a-p.md"
   }
 ]
