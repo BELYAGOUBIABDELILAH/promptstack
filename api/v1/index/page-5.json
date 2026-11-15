@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 5,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
@@ -741,6 +741,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00824810f0de.json"
     },
     {
+      "id": "opl_b03dd0da6e83",
+      "slug": "cat",
+      "title": "Cat",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b03dd0da6e83.json"
+    },
+    {
       "id": "opl_1a1550b4f327",
       "slug": "categorize-features",
       "title": "Categorize Features",
@@ -1093,15 +1102,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_815a1ddce57e.json"
-    },
-    {
-      "id": "opl_5568a60b6b16",
-      "slug": "ci-cd-strategy-for-springboot-rest-apis-deployment",
-      "title": "CI/CD Strategy for SpringBoot REST APIs Deployment",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5568a60b6b16.json"
     }
   ]
 }

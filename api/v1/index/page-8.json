@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 8,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_10251ff96b47",
+      "slug": "creating-a-project-management-tool",
+      "title": "Creating a Project Management Tool",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "features",
+          "default": "Task Tracking, Collaboration, Reporting"
+        },
+        {
+          "name": "technologies",
+          "default": "React, Node.js"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10251ff96b47.json"
+    },
     {
       "id": "opl_8d227f75ecdc",
       "slug": "creating-pwa-ai-chatbot",
@@ -1195,15 +1213,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7559e5ee65e5.json"
-    },
-    {
-      "id": "opl_611f50d15b8c",
-      "slug": "decluttering-assistant",
-      "title": "Decluttering Assistant",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_611f50d15b8c.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 12,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_a5b0226830bc",
+      "slug": "gathering-planner-interview",
+      "title": "Gathering Planner Interview",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5b0226830bc.json"
+    },
     {
       "id": "opl_053f693d0eb1",
       "slug": "gemi-gotchi",
@@ -1014,32 +1023,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf64955d5b01.json"
-    },
-    {
-      "id": "opl_c0a0e2004b94",
-      "slug": "handle-the-bug-in-feature",
-      "title": "Handle the bug in feature",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "actual_issue",
-          "default": null
-        },
-        {
-          "name": "code_snippet",
-          "default": null
-        },
-        {
-          "name": "expected_behavior",
-          "default": null
-        },
-        {
-          "name": "feature_description",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0a0e2004b94.json"
     }
   ]
 }

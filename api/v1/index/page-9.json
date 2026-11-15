@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 9,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_611f50d15b8c",
+      "slug": "decluttering-assistant",
+      "title": "Decluttering Assistant",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_611f50d15b8c.json"
+    },
     {
       "id": "opl_b44297ca6418",
       "slug": "deconstruct",
@@ -1152,28 +1161,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0539435d2943.json"
-    },
-    {
-      "id": "opl_79075a96478d",
-      "slug": "doom-horror-death-image-simulator",
-      "title": "Doom Horror Death Image Simulator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "intensity",
-          "default": "medium"
-        },
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "scenario",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_79075a96478d.json"
     }
   ]
 }

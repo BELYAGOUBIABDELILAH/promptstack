@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 6,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_5568a60b6b16",
+      "slug": "ci-cd-strategy-for-springboot-rest-apis-deployment",
+      "title": "CI/CD Strategy for SpringBoot REST APIs Deployment",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5568a60b6b16.json"
+    },
     {
       "id": "opl_98d613a70c02",
       "slug": "cinematic-3x3-focal-lengths-grid",
@@ -1136,28 +1145,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f0f781ff605.json"
-    },
-    {
-      "id": "opl_5bd5683933f4",
-      "slug": "comprehensive-code-review-expert",
-      "title": "Comprehensive Code Review Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "codeSnippet",
-          "default": null
-        },
-        {
-          "name": "focusAreas",
-          "default": "quality, efficiency"
-        },
-        {
-          "name": "language",
-          "default": "JavaScript"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bd5683933f4.json"
     }
   ]
 }

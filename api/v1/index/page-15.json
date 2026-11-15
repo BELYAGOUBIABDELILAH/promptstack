@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 15,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_ef22e856236f",
+      "slug": "job-hunt-email-finder",
+      "title": "Job Hunt Email Finder",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef22e856236f.json"
+    },
     {
       "id": "opl_6079ca8c93e6",
       "slug": "job-hunt-strategist",
@@ -1045,15 +1054,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5570efe3d750.json"
-    },
-    {
-      "id": "opl_47212e7fdb3f",
-      "slug": "llm-approach-guide",
-      "title": "LLM Approach Guide",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47212e7fdb3f.json"
     }
   ]
 }

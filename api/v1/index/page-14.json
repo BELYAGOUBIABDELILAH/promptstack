@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 14,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_ed3231c55378",
+      "slug": "implement-data-retention-policies",
+      "title": "Implement Data Retention Policies",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed3231c55378.json"
+    },
     {
       "id": "opl_7f7ee5b20f20",
       "slug": "implement-design-pattern",
@@ -1090,15 +1099,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_194ec4af2fbd.json"
-    },
-    {
-      "id": "opl_ef22e856236f",
-      "slug": "job-hunt-email-finder",
-      "title": "Job Hunt Email Finder",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef22e856236f.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 27,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_8442776686ac",
+      "slug": "ultimate-2025-2026-ai-life-strategist-retrospective",
+      "title": "Ultimate 2025-2026 AI Life Strategist & Retrospective",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8442776686ac.json"
+    },
     {
       "id": "opl_2a80714ac3cb",
       "slug": "ultimate-inpainting-reference-prompt",
@@ -1231,15 +1240,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5727a736fa8.json"
-    },
-    {
-      "id": "opl_aa8fcda2011a",
-      "slug": "website-design-recreation-workflow",
-      "title": "Website Design Recreation Workflow",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa8fcda2011a.json"
     }
   ]
 }

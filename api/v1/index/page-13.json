@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 13,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_c0a0e2004b94",
+      "slug": "handle-the-bug-in-feature",
+      "title": "Handle the bug in feature",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "actual_issue",
+          "default": null
+        },
+        {
+          "name": "code_snippet",
+          "default": null
+        },
+        {
+          "name": "expected_behavior",
+          "default": null
+        },
+        {
+          "name": "feature_description",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0a0e2004b94.json"
+    },
     {
       "id": "opl_055dfd05d21d",
       "slug": "hardware-oem-lookup",
@@ -1051,15 +1077,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db7593a0c2a0.json"
-    },
-    {
-      "id": "opl_ed3231c55378",
-      "slug": "implement-data-retention-policies",
-      "title": "Implement Data Retention Policies",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed3231c55378.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 26,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_266b1601ca9c",
+      "slug": "tell-your-story",
+      "title": "Tell Your Story",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_266b1601ca9c.json"
+    },
     {
       "id": "opl_1cf5a02482f3",
       "slug": "temitope",
@@ -1022,15 +1031,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54af463578e8.json"
-    },
-    {
-      "id": "opl_8442776686ac",
-      "slug": "ultimate-2025-2026-ai-life-strategist-retrospective",
-      "title": "Ultimate 2025-2026 AI Life Strategist & Retrospective",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8442776686ac.json"
     }
   ]
 }

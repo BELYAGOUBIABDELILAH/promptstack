@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 17,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_95185b1ce09d",
+      "slug": "melancholic-dawn-on-the-misty-pier",
+      "title": "Melancholic Dawn on the Misty Pier",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95185b1ce09d.json"
+    },
     {
       "id": "opl_826757f6509d",
       "slug": "meme-coins-knowledge-and-trading",
@@ -1041,15 +1050,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b3941ff33dc.json"
-    },
-    {
-      "id": "opl_a0536087661c",
-      "slug": "neon-flow-grid-snake",
-      "title": "Neon Flow Grid Snake",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0536087661c.json"
     }
   ]
 }

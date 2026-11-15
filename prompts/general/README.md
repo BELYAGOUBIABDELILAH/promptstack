@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**90 prompts in this category**
+**91 prompts in this category**
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@
 - [Black Magic Mantra: Unleashing Creativity and Innovation](black-magic-mantra-unleashing-creativity-and-innovation.md)
 - [Break Down Costs](break-down-costs.md)
 - [Casual day planner](casual-day-planner.md)
+- [Cat](cat.md)
 - [Chemical Reactor](chemical-reactor.md)
 - [Classical Music Composer](classical-music-composer.md)
 - [Comment Text Isolator](comment-text-isolator.md)

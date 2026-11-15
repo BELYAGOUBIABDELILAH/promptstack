@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:20:50.291Z",
+  "last_updated": "2026-11-15T07:20:42.625Z",
   "page": 18,
   "per_page": 100,
-  "total": 2755,
+  "total": 2756,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_a0536087661c",
+      "slug": "neon-flow-grid-snake",
+      "title": "Neon Flow Grid Snake",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0536087661c.json"
+    },
     {
       "id": "opl_9df8057b4afc",
       "slug": "network-engineer",
@@ -1057,15 +1066,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49ad0c72a746.json"
-    },
-    {
-      "id": "opl_3c03150cd872",
-      "slug": "packer-automation-imaging-expert",
-      "title": "Packer Automation & Imaging Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c03150cd872.json"
     }
   ]
 }

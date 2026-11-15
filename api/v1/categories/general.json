@@ -1,8 +1,8 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-15T06:20:50.291Z",
-  "total": 90,
+  "last_updated": "2026-11-15T07:20:42.625Z",
+  "total": 91,
   "prompts": [
     {
       "id": "opl_b382de4bccd8",
@@ -147,6 +147,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00824810f0de.json"
+    },
+    {
+      "id": "opl_b03dd0da6e83",
+      "slug": "cat",
+      "title": "Cat",
+      "prompt": "I want a video about a cat and mouse running together and the rat won the cat by using a jet boster.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_93dabcef48f5"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b03dd0da6e83.json"
     },
     {
       "id": "opl_4c2899ebbcd3",
