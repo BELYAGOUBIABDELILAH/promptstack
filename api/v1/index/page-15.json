@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T10:20:47.509Z",
+  "last_updated": "2026-11-15T11:20:43.088Z",
   "page": 15,
   "per_page": 100,
-  "total": 2759,
+  "total": 2760,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_f3458de14e65",
+      "slug": "job-description-evaluator",
+      "title": "Job Description Evaluator",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3458de14e65.json"
+    },
     {
       "id": "opl_194ec4af2fbd",
       "slug": "job-fit",
@@ -1045,15 +1054,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40c850d49ccf.json"
-    },
-    {
-      "id": "opl_fb2b5ae93e55",
-      "slug": "live-minutes-taker",
-      "title": "Live Minutes Taker",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb2b5ae93e55.json"
     }
   ]
 }

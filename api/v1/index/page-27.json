@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-15T10:20:47.509Z",
+  "last_updated": "2026-11-15T11:20:43.088Z",
   "page": 27,
   "per_page": 100,
-  "total": 2759,
+  "total": 2760,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_0e48b5a0727c",
+      "slug": "ugc-style-tiktok-script-generator-for-gen-z-skincare",
+      "title": "UGC-Style TikTok Script Generator for Gen Z Skincare",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "callToAction",
+          "default": null
+        },
+        {
+          "name": "keyBenefits",
+          "default": null
+        },
+        {
+          "name": "productName",
+          "default": null
+        },
+        {
+          "name": "trendyElement",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e48b5a0727c.json"
+    },
     {
       "id": "opl_1be1ef2ef814",
       "slug": "ui-architect-agent-role",
@@ -1218,15 +1244,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9ecb156896b.json"
-    },
-    {
-      "id": "opl_efc1ff8e3006",
-      "slug": "web-product-architect",
-      "title": "WEB Product Architect",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_efc1ff8e3006.json"
     }
   ]
 }

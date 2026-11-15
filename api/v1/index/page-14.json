@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T10:20:47.509Z",
+  "last_updated": "2026-11-15T11:20:43.088Z",
   "page": 14,
   "per_page": 100,
-  "total": 2759,
+  "total": 2760,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_7a929f18966a",
+      "slug": "impasto-oil-portrait-of-an-iranian-woman-with",
+      "title": "Impasto Oil Portrait of an Iranian Woman with “خفه شدم از سکوت”",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7a929f18966a.json"
+    },
     {
       "id": "opl_db7593a0c2a0",
       "slug": "implement-ci-cd-best-practices",
@@ -1090,15 +1099,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c47742e5e00.json"
-    },
-    {
-      "id": "opl_f3458de14e65",
-      "slug": "job-description-evaluator",
-      "title": "Job Description Evaluator",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3458de14e65.json"
     }
   ]
 }

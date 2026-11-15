@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1096 prompts in this category**
+**1097 prompts in this category**
 
 ## Table of Contents
 
@@ -516,6 +516,7 @@
 - [HTS Veri Analiz Portalı Geliştirme ve Hata Ayıklama](hts-veri-analiz-portal-geli-tirme-ve-hata-ay-klama.md)
 - [HTTP Benchmarking Tool CLI](http-benchmarking-tool-cli.md)
 - [HTWind-Widget-Creator](htwind-widget-creator.md)
+- [human](human.md)
 - [Hypnotherapist](hypnotherapist.md)
 - [Hypnotherapist Guidance for Stress Management](hypnotherapist-guidance-for-stress-management.md)
 - [Idea Notepad](idea-notepad.md)

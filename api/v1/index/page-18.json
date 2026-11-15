@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T10:20:47.509Z",
+  "last_updated": "2026-11-15T11:20:43.088Z",
   "page": 18,
   "per_page": 100,
-  "total": 2759,
+  "total": 2760,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_d1fc09a208d1",
+      "slug": "natural-language-to-yaml",
+      "title": "Natural Language To YAML",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1fc09a208d1.json"
+    },
     {
       "id": "opl_9db571502ee7",
       "slug": "navigate-large-codebase-quickly",
@@ -1052,15 +1061,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a36f3854aa2c.json"
-    },
-    {
-      "id": "opl_95639bed1dd1",
-      "slug": "output-to-prompt",
-      "title": "Output To Prompt",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95639bed1dd1.json"
     }
   ]
 }

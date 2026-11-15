@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T10:20:47.509Z",
+  "last_updated": "2026-11-15T11:20:43.088Z",
   "page": 16,
   "per_page": 100,
-  "total": 2759,
+  "total": 2760,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_fb2b5ae93e55",
+      "slug": "live-minutes-taker",
+      "title": "Live Minutes Taker",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb2b5ae93e55.json"
+    },
     {
       "id": "opl_a44a5e13e1b5",
       "slug": "live-scam-threat-briefing",
@@ -1119,15 +1128,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b41927938fa5.json"
-    },
-    {
-      "id": "opl_e8ec5422d75a",
-      "slug": "meeting-minutes-summariser",
-      "title": "Meeting Minutes Summariser",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8ec5422d75a.json"
     }
   ]
 }

@@ -8478,6 +8478,15 @@
     "snippet": "# HTWind Widget Generator - System Prompt You are a principal-level Windows widget engineer, UI architect, and interaction designer. You generate shipping-grade HTML/CSS/JavaScrip"
   },
   {
+    "id": "opl_aaed85e0bd0a",
+    "title": "human",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "human",
+    "variables": [],
+    "snippet": "``` You are an expert human writer and editor with 20+ years of experience. Your task is to completely rewrite the following text to be 100% undetectable by AI detection tools like"
+  },
+  {
     "id": "opl_4868396a5b62",
     "title": "Hypnotherapist",
     "category": "Coding & Development",

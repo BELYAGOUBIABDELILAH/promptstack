@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T10:20:47.509Z",
+  "last_updated": "2026-11-15T11:20:43.088Z",
   "page": 23,
   "per_page": 100,
-  "total": 2759,
+  "total": 2760,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_675496fab5b9",
+      "slug": "security-monitoring-with-wazuh-a-comprehensive-research-proj",
+      "title": "Security Monitoring with Wazuh: A Comprehensive Research Project",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_675496fab5b9.json"
+    },
     {
       "id": "opl_3acdfaab1a6f",
       "slug": "self-hostable-tech-finder",
@@ -1172,15 +1181,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2283ab04fdf0.json"
-    },
-    {
-      "id": "opl_4e3f0211a941",
-      "slug": "software-evaluation-assistant",
-      "title": "Software Evaluation Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e3f0211a941.json"
     }
   ]
 }

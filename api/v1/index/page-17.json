@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T10:20:47.509Z",
+  "last_updated": "2026-11-15T11:20:43.088Z",
   "page": 17,
   "per_page": 100,
-  "total": 2759,
+  "total": 2760,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_e8ec5422d75a",
+      "slug": "meeting-minutes-summariser",
+      "title": "Meeting Minutes Summariser",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8ec5422d75a.json"
+    },
     {
       "id": "opl_0600736c0e8c",
       "slug": "meeting-notes-synthesizer",
@@ -1054,15 +1063,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbe7790d4e52.json"
-    },
-    {
-      "id": "opl_d1fc09a208d1",
-      "slug": "natural-language-to-yaml",
-      "title": "Natural Language To YAML",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1fc09a208d1.json"
     }
   ]
 }
