@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 25,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_970533f38fa4",
+      "slug": "student-tier",
+      "title": "Student Tier",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_970533f38fa4.json"
+    },
     {
       "id": "opl_06148d0b1f88",
       "slug": "studio-beauty-editorial-close-up-pro",
@@ -1027,15 +1036,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d6f316cbdb5.json"
-    },
-    {
-      "id": "opl_033d0e595e8a",
-      "slug": "tech-with-apis",
-      "title": "Tech With APIs",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_033d0e595e8a.json"
     }
   ]
 }

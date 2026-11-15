@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 19,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_053fe6928418",
+      "slug": "organise-my-folders",
+      "title": "Organise My Folders",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_053fe6928418.json"
+    },
     {
       "id": "opl_13245469ef01",
       "slug": "os2-0-safe-delivery-context-master",
@@ -1140,15 +1149,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34fb3ff3ba24.json"
-    },
-    {
-      "id": "opl_46f57cec6cc5",
-      "slug": "plant-bouquet-warm-lamp-your-example-vibe-adult-safe",
-      "title": "Plant Bouquet Warm Lamp (your example vibe, adult-safe)",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_46f57cec6cc5.json"
     }
   ]
 }

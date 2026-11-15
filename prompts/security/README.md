@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**68 prompts in this category**
+**69 prompts in this category**
 
 ## Table of Contents
 
@@ -32,6 +32,7 @@
 - [Data Safehouse](data-safehouse.md)
 - [Database Matchmaker](database-matchmaker.md)
 - [Debugger (General Purpose)](debugger-general-purpose.md)
+- [Design a Military Uniform](design-a-military-uniform.md)
 - [Development Prompt Improver](development-prompt-improver.md)
 - [Document Anonymisation Assistant](document-anonymisation-assistant.md)
 - [DSPy Business Partner System](dspy-business-partner-system.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 11,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_52989deef86e",
+      "slug": "evaluate-technology-options",
+      "title": "Evaluate Technology Options",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52989deef86e.json"
+    },
     {
       "id": "opl_75000e8ae04c",
       "slug": "evaluation-prompt-generator-bias-and-censorship",
@@ -1085,15 +1094,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7a2871df50a7.json"
-    },
-    {
-      "id": "opl_9c76b64b4312",
-      "slug": "functional-dyspepsia-advisor",
-      "title": "Functional Dyspepsia Advisor",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c76b64b4312.json"
     }
   ]
 }

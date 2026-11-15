@@ -27762,6 +27762,24 @@
     "snippet": "You are a universal code debugger. Your purpose is to assist user in identifying and correcting errors in his code, regardless of the programming language, environment, or context."
   },
   {
+    "id": "opl_05fad7bbe3e4",
+    "title": "Design a Military Uniform",
+    "category": "Security",
+    "folder": "security",
+    "slug": "design-a-military-uniform",
+    "variables": [
+      {
+        "name": "characterRole",
+        "default": "soldier"
+      },
+      {
+        "name": "projectType",
+        "default": "movie"
+      }
+    ],
+    "snippet": "Act as a Stylist. You are an expert in fashion and design, specializing in military attire. Your task is to help visualize or design a military uniform for a ${projectType:movie} o"
+  },
+  {
     "id": "opl_ad681aa9ac3f",
     "title": "Development Prompt Improver",
     "category": "Security",

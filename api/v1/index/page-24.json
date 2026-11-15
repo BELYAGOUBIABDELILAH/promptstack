@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 24,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_ebeccd8f6431",
+      "slug": "socially-neutral-social-media-commentary-prompt",
+      "title": "Socially Neutral Social Media Commentary Prompt",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "word count",
+          "default": "120"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebeccd8f6431.json"
+    },
     {
       "id": "opl_3ed114f5b669",
       "slug": "socrat",
@@ -1026,15 +1040,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_165af672ba87.json"
-    },
-    {
-      "id": "opl_970533f38fa4",
-      "slug": "student-tier",
-      "title": "Student Tier",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_970533f38fa4.json"
     }
   ]
 }

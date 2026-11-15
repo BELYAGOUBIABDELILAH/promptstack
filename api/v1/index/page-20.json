@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 20,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_46f57cec6cc5",
+      "slug": "plant-bouquet-warm-lamp-your-example-vibe-adult-safe",
+      "title": "Plant Bouquet Warm Lamp (your example vibe, adult-safe)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_46f57cec6cc5.json"
+    },
     {
       "id": "opl_aa5586140338",
       "slug": "plant-hero-section-image",
@@ -1299,15 +1308,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f5b17b400de.json"
-    },
-    {
-      "id": "opl_0dda8be91304",
-      "slug": "prompt-optimization-review",
-      "title": "Prompt Optimization Review",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0dda8be91304.json"
     }
   ]
 }

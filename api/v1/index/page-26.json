@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 26,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_033d0e595e8a",
+      "slug": "tech-with-apis",
+      "title": "Tech With APIs",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_033d0e595e8a.json"
+    },
     {
       "id": "opl_a0bbe0da823b",
       "slug": "tech-writer",
@@ -1005,15 +1014,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2fd7bfa6618d.json"
-    },
-    {
-      "id": "opl_f82858d537ec",
-      "slug": "turn-your-photo-into-a-simpsons-scene",
-      "title": "Turn Your Photo Into a Simpsons Scene",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f82858d537ec.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 14,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_18987b422956",
+      "slug": "image-editor",
+      "title": "Image Editor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18987b422956.json"
+    },
     {
       "id": "opl_9a5db3262cb8",
       "slug": "image-pii-checker",
@@ -1094,15 +1103,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d70e0f7df245.json"
-    },
-    {
-      "id": "opl_dda3fe99fa58",
-      "slug": "japanese-kanji-quiz-machine",
-      "title": "Japanese Kanji quiz machine",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dda3fe99fa58.json"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 2767,
-  "canonical_records": 2767,
+  "source_records": 2768,
+  "canonical_records": 2768,
   "quarantined_records": 0,
   "exact_duplicate_groups": 0,
   "duplicates_beyond_canonical": 0,
-  "sources": 375,
+  "sources": 376,
   "categories": {
     "AI & Automation": 129,
     "Business & Career": 63,
@@ -23,7 +23,7 @@
     "Product & Strategy": 21,
     "Research & Analysis": 30,
     "Sales & Business": 21,
-    "Security": 68,
+    "Security": 69,
     "Travel & Places": 6,
     "Writing & Content": 258
   }

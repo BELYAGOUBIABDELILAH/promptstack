@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 21,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_0dda8be91304",
+      "slug": "prompt-optimization-review",
+      "title": "Prompt Optimization Review",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0dda8be91304.json"
+    },
     {
       "id": "opl_5f0af4935a28",
       "slug": "4-optimized-versions-of-a-prompt-in-arabic",
@@ -1011,15 +1020,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c2193c8839d3.json"
-    },
-    {
-      "id": "opl_7ad20a4e65e1",
-      "slug": "relationship-summariser",
-      "title": "Relationship Summariser",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ad20a4e65e1.json"
     }
   ]
 }

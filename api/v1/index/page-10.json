@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 10,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_057f07608415",
+      "slug": "documentation-maintainer-agent-role",
+      "title": "Documentation Maintainer Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_057f07608415.json"
+    },
     {
       "id": "opl_1d19e96ecf5e",
       "slug": "documents-to-json",
@@ -1290,15 +1299,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d56c783ea2c6.json"
-    },
-    {
-      "id": "opl_52989deef86e",
-      "slug": "evaluate-technology-options",
-      "title": "Evaluate Technology Options",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52989deef86e.json"
     }
   ]
 }

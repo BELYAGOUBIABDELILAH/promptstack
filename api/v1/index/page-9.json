@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 9,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
@@ -235,6 +235,24 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b62b8e6bc79c.json"
+    },
+    {
+      "id": "opl_05fad7bbe3e4",
+      "slug": "design-a-military-uniform",
+      "title": "Design a Military Uniform",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "characterRole",
+          "default": "soldier"
+        },
+        {
+          "name": "projectType",
+          "default": "movie"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05fad7bbe3e4.json"
     },
     {
       "id": "opl_33ad84e729b6",
@@ -1152,15 +1170,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95e51d502563.json"
-    },
-    {
-      "id": "opl_057f07608415",
-      "slug": "documentation-maintainer-agent-role",
-      "title": "Documentation Maintainer Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_057f07608415.json"
     }
   ]
 }

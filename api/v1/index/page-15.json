@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 15,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_dda3fe99fa58",
+      "slug": "japanese-kanji-quiz-machine",
+      "title": "Japanese Kanji quiz machine",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dda3fe99fa58.json"
+    },
     {
       "id": "opl_b144c6deecf3",
       "slug": "javascript-console",
@@ -1035,15 +1044,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_980a7e1de7f6.json"
-    },
-    {
-      "id": "opl_d83f1922752e",
-      "slug": "linux-terminal",
-      "title": "Linux Terminal",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d83f1922752e.json"
     }
   ]
 }

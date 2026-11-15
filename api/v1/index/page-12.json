@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 12,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_9c76b64b4312",
+      "slug": "functional-dyspepsia-advisor",
+      "title": "Functional Dyspepsia Advisor",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c76b64b4312.json"
+    },
     {
       "id": "opl_3061529c6a84",
       "slug": "future-vision",
@@ -997,15 +1006,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5aa7820599d8.json"
-    },
-    {
-      "id": "opl_6c8ed5f5d467",
-      "slug": "gym-mirror-ugc-realism-no-logos",
-      "title": "Gym Mirror (UGC realism, no logos)",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c8ed5f5d467.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 17,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_2b30e3cd9ece",
+      "slug": "medication-travel-legality",
+      "title": "Medication Travel Legality",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b30e3cd9ece.json"
+    },
     {
       "id": "opl_c4c3d7437f3a",
       "slug": "medieval-text-generator",
@@ -1054,15 +1063,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96c02e7af37f.json"
-    },
-    {
-      "id": "opl_808ead823329",
-      "slug": "national-safety-week",
-      "title": "National safety week",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_808ead823329.json"
     }
   ]
 }

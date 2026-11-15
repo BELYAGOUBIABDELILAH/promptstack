@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 16,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_d83f1922752e",
+      "slug": "linux-terminal",
+      "title": "Linux Terminal",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d83f1922752e.json"
+    },
     {
       "id": "opl_133043f33e3b",
       "slug": "list-generator-general-purpose",
@@ -1142,15 +1151,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b39f66e89ad.json"
-    },
-    {
-      "id": "opl_2b30e3cd9ece",
-      "slug": "medication-travel-legality",
-      "title": "Medication Travel Legality",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b30e3cd9ece.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T18:20:42.151Z",
+  "last_updated": "2026-11-15T19:20:42.534Z",
   "page": 22,
   "per_page": 100,
-  "total": 2767,
+  "total": 2768,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_7ad20a4e65e1",
+      "slug": "relationship-summariser",
+      "title": "Relationship Summariser",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ad20a4e65e1.json"
+    },
     {
       "id": "opl_de1d33a21800",
       "slug": "remote-worker-fitness-trainer",
@@ -1178,32 +1187,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_850354c1eb69.json"
-    },
-    {
-      "id": "opl_b9255fb7381f",
-      "slug": "secteur-bancaire-cr-ation-d-un-texte-marketing-simple",
-      "title": "Secteur Bancaire - Création d’un texte marketing simple",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "atout_principal",
-          "default": null
-        },
-        {
-          "name": "nom_du_produit_financier",
-          "default": null
-        },
-        {
-          "name": "public_cible",
-          "default": null
-        },
-        {
-          "name": "valeur_ajoute_de_loffre",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9255fb7381f.json"
     }
   ]
 }
