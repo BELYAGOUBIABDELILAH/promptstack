@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 19,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_a36f3854aa2c",
+      "slug": "output-format-prompting-guide",
+      "title": "Output Format Prompting Guide",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a36f3854aa2c.json"
+    },
     {
       "id": "opl_95639bed1dd1",
       "slug": "output-to-prompt",
@@ -1145,24 +1154,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e6bdbb8ce13.json"
-    },
-    {
-      "id": "opl_3479ca451809",
-      "slug": "poe-your-best-bud-chatbot",
-      "title": "Poe - Your Best Bud Chatbot",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "conversationTopic",
-          "default": null
-        },
-        {
-          "name": "userName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3479ca451809.json"
     }
   ]
 }

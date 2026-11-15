@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 11,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_2730dbde5543",
+      "slug": "exam-science-study-notes",
+      "title": "exam science study notes",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2730dbde5543.json"
+    },
     {
       "id": "opl_90948faae56c",
       "slug": "excel-data-to-figma-presentation-designer",
@@ -1085,15 +1094,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37bd4411833e.json"
-    },
-    {
-      "id": "opl_e9a67537ad07",
-      "slug": "game-theory-for-students-easy-and-engaging-learning",
-      "title": "Game Theory for Students: Easy and Engaging Learning",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9a67537ad07.json"
     }
   ]
 }

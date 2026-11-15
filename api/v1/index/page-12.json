@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 12,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_e9a67537ad07",
+      "slug": "game-theory-for-students-easy-and-engaging-learning",
+      "title": "Game Theory for Students: Easy and Engaging Learning",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9a67537ad07.json"
+    },
     {
       "id": "opl_630e6aa67ea8",
       "slug": "gaslighter",
@@ -997,15 +1006,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d26049bce21.json"
-    },
-    {
-      "id": "opl_2601e584df55",
-      "slug": "hand-off",
-      "title": "Hand-off",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2601e584df55.json"
     }
   ]
 }

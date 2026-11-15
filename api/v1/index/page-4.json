@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 4,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prompts": [
+    {
+      "id": "opl_19c100086884",
+      "slug": "assistant-ideator-tech",
+      "title": "Assistant Ideator - Tech",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19c100086884.json"
+    },
     {
       "id": "opl_cea78ab8cf13",
       "slug": "assistant-ideator-user-defined-topic",
@@ -1177,15 +1186,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b95275537831.json"
-    },
-    {
-      "id": "opl_f2960ee3443b",
-      "slug": "break-down-epic-into-issues",
-      "title": "Break Down Epic into Issues",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2960ee3443b.json"
     }
   ]
 }

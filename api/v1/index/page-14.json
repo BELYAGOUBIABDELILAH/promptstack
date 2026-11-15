@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 14,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_abecdcdb1290",
+      "slug": "impact-metrics",
+      "title": "Impact Metrics",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_abecdcdb1290.json"
+    },
     {
       "id": "opl_7a929f18966a",
       "slug": "impasto-oil-portrait-of-an-iranian-woman-with",
@@ -1090,15 +1099,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10b900094649.json"
-    },
-    {
-      "id": "opl_2c47742e5e00",
-      "slug": "job-description-analyst-for-user",
-      "title": "Job Description Analyst For user",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c47742e5e00.json"
     }
   ]
 }

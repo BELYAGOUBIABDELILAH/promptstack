@@ -1,0 +1,16 @@
+{
+  "id": "opl_82fbff0e4688",
+  "slug": "alfa",
+  "title": "alfa",
+  "prompt": "Organise every asset into granular sectors and identify clear trends/narratives. If applicable, highlight geographical rotations. \n\nBased on the % price change on the page, organise the sectors according to:\n\nBullish = green dot\nNeutral = yellow dot\nBearish = red dot\n\nIf available: Highlight mentions by these accounts in the last 30 days:\n\n@aleabitoreddit, @MoneyPrinter0x, @crypto_condom, @degentradingLSD, and @ChrisCamillo",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_06729541f502"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82fbff0e4688.json"
+}

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 5,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_f2960ee3443b",
+      "slug": "break-down-epic-into-issues",
+      "title": "Break Down Epic into Issues",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2960ee3443b.json"
+    },
     {
       "id": "opl_04e8bde45957",
       "slug": "break-this-text-down",
@@ -1088,15 +1097,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_893c71c13b45.json"
-    },
-    {
-      "id": "opl_80e4f8f5ef51",
-      "slug": "chore-list-generator",
-      "title": "Chore List Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80e4f8f5ef51.json"
     }
   ]
 }

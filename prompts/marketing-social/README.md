@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**206 prompts in this category**
+**207 prompts in this category**
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@
 - [AI Tech Advisor](ai-tech-advisor.md)
 - [AI Tour Guide Business Plan for Foreign Tourists in China](ai-tour-guide-business-plan-for-foreign-tourists-in-china.md)
 - [Alarmist News Bot](alarmist-news-bot.md)
+- [alfa](alfa.md)
 - [All About DNS](all-about-dns.md)
 - [Android App Finder](android-app-finder.md)
 - [Assistente de Geração de Imagens com Identidade Visual Padrão](assistente-de-gera-o-de-imagens-com-identidade-visual-padr-o.md)

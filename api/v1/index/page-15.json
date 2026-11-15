@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 15,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_2c47742e5e00",
+      "slug": "job-description-analyst-for-user",
+      "title": "Job Description Analyst For user",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c47742e5e00.json"
+    },
     {
       "id": "opl_f3458de14e65",
       "slug": "job-description-evaluator",
@@ -1032,28 +1041,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fdf298cf25c7.json"
-    },
-    {
-      "id": "opl_40c850d49ccf",
-      "slug": "literature-review-writing-assistant",
-      "title": "Literature Review Writing Assistant",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "citationStyle",
-          "default": "APA"
-        },
-        {
-          "name": "sourceType",
-          "default": null
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40c850d49ccf.json"
     }
   ]
 }

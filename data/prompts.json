@@ -23550,6 +23550,16 @@
     "path": "prompts/marketing-social/refute.md"
   },
   {
+    "act": "alfa",
+    "category": "Marketing & Social",
+    "prompt": "Organise every asset into granular sectors and identify clear trends/narratives. If applicable, highlight geographical rotations. \n\nBased on the % price change on the page, organise the sectors according to:\n\nBullish = green dot\nNeutral = yellow dot\nBearish = red dot\n\nIf available: Highlight mentions by these accounts in the last 30 days:\n\n@aleabitoreddit, @MoneyPrinter0x, @crypto_condom, @degentradingLSD, and @ChrisCamillo",
+    "source": "kennynah85@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "alfa",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/alfa.md"
+  },
+  {
     "act": "Socratic Method",
     "category": "Philosophy & Humanities",
     "prompt": "I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.\n\nRules:\n- I will make a statement or propose a topic, and you will ask probing questions to test my logic, definitions, and underlying assumptions.\n- Explore concepts such as justice, virtue, ethics, knowledge, and courage.\n- Respond with one thoughtful question at a time.\n- Initial topic: ${topic:justice is necessary in a society}",

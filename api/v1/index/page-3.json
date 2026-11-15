@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 3,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
@@ -229,6 +229,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b6870386e462.json"
+    },
+    {
+      "id": "opl_82fbff0e4688",
+      "slug": "alfa",
+      "title": "alfa",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82fbff0e4688.json"
     },
     {
       "id": "opl_35ff56d0ed8e",
@@ -1120,15 +1129,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e55ce3782914.json"
-    },
-    {
-      "id": "opl_19c100086884",
-      "slug": "assistant-ideator-tech",
-      "title": "Assistant Ideator - Tech",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19c100086884.json"
     }
   ]
 }

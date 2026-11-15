@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 21,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_4fd4584543a3",
+      "slug": "prompt-to-parameters",
+      "title": "Prompt To Parameters",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4fd4584543a3.json"
+    },
     {
       "id": "opl_6d356a77cd16",
       "slug": "prompt-to-platform",
@@ -1011,15 +1020,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84c0e4105ea5.json"
-    },
-    {
-      "id": "opl_bcc2951c7d8b",
-      "slug": "rephraser-with-obfuscation",
-      "title": "Rephraser with Obfuscation",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bcc2951c7d8b.json"
     }
   ]
 }

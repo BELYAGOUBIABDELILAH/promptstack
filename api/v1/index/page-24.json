@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 24,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_2283ab04fdf0",
+      "slug": "software-discovery-system-prompt-generator",
+      "title": "Software Discovery System Prompt Generator",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2283ab04fdf0.json"
+    },
     {
       "id": "opl_4e3f0211a941",
       "slug": "software-evaluation-assistant",
@@ -1043,15 +1052,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c42ae92d3e7e.json"
-    },
-    {
-      "id": "opl_b089eff768ec",
-      "slug": "studying-for-exam",
-      "title": "studying for exam",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b089eff768ec.json"
     }
   ]
 }

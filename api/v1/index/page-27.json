@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 27,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_535fce2327ed",
+      "slug": "ubuntu-audio-input-output-loop-virtual-connection-specialist",
+      "title": "ubuntu audio input/output,loop/virtual connection specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_535fce2327ed.json"
+    },
     {
       "id": "opl_0e48b5a0727c",
       "slug": "ugc-style-tiktok-script-generator-for-gen-z-skincare",
@@ -1235,15 +1244,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef89b8c2cc72.json"
-    },
-    {
-      "id": "opl_a9ecb156896b",
-      "slug": "web-design-consultant",
-      "title": "Web Design Consultant",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9ecb156896b.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 8,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_12972b371656",
+      "slug": "create-troubleshooting-guide",
+      "title": "Create Troubleshooting Guide",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12972b371656.json"
+    },
     {
       "id": "opl_c6bfd1c22278",
       "slug": "creating-a-comprehensive-elasticsearch-search-project-with-f",
@@ -1217,15 +1226,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14a31b8371bc.json"
-    },
-    {
-      "id": "opl_a0d747b73e7a",
-      "slug": "decision-filter",
-      "title": "Decision Filter",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0d747b73e7a.json"
     }
   ]
 }

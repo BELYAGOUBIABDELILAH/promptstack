@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T11:20:43.088Z",
+  "last_updated": "2026-11-15T12:20:40.015Z",
   "page": 20,
   "per_page": 100,
-  "total": 2760,
+  "total": 2761,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_3479ca451809",
+      "slug": "poe-your-best-bud-chatbot",
+      "title": "Poe - Your Best Bud Chatbot",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "conversationTopic",
+          "default": null
+        },
+        {
+          "name": "userName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3479ca451809.json"
+    },
     {
       "id": "opl_3cc15bc67dda",
       "slug": "poet",
@@ -1285,15 +1303,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be9a03ac48aa.json"
-    },
-    {
-      "id": "opl_4fd4584543a3",
-      "slug": "prompt-to-parameters",
-      "title": "Prompt To Parameters",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4fd4584543a3.json"
     }
   ]
 }

@@ -87754,6 +87754,17 @@ Rules:
 - Ensure you have all necessary equipment checked before the concert.",feroz2258@gmail.com (prompts.chat),TEXT,performing-a-popular-song-at-a-concert,marketing-social,prompts/marketing-social/performing-a-popular-song-at-a-concert.md
 Image Analysis for Personal Style and Personality Assessment,Marketing & Social,"Develop a detailed prompt that allows users to upload an image of an individual. In return, the system will analyze the photograph and provide a comprehensive assessment of various aspects of the person depicted. This analysis should include insights into the individual’s personal style, as reflected in their choice of attire and accessories, as well as observations regarding their demeanor and behavior. The output should not only note specific fashion elements such as color schemes, clothing types, and overall aesthetic but also delve into the subtler nuances of body language and facial expressions, offering a well-rounded perspective on the individual’s personality. This interactive experience should be engaging and informative, inviting users to gain a deeper understanding of the person in the image beyond mere appearances.",adamsofea1111 (prompts.chat),TEXT,image-analysis-for-personal-style-and-personality-assessment,marketing-social,prompts/marketing-social/image-analysis-for-personal-style-and-personality-assessment.md
 Refute,Marketing & Social,"Act as an omniscient Debate God. I will present an argument on this page, and you will systematically dismantle it using flawless logic, rhetorical mastery, and undeniable structure.Analyze the argument I provide and structure your refutation exactly as follows:The Fatal Flaw: Identify the weakest link in the argument (e.g., logical fallacy, factual inaccuracy, unproven assumption, or false dilemma) and expose it in one razor-sharp sentence.The Deconstruction: Provide a \(\frac{3}{4}\) paragraph breakdown using rigorous logic to dismantle their premise. Use precise terminology (e.g., ad hominem, straw man, post hoc ergo propter hoc).The Counter-Lethal: Present a bulleted list of 3 devastating counter-points or alternative explanations that completely flip the narrative.The Checkmate: Conclude with a memorable, rhetorical closing statement that leaves no room for rebuttal.",kennynah85@gmail.com (prompts.chat),TEXT,refute,marketing-social,prompts/marketing-social/refute.md
+alfa,Marketing & Social,"Organise every asset into granular sectors and identify clear trends/narratives. If applicable, highlight geographical rotations. 
+
+Based on the % price change on the page, organise the sectors according to:
+
+Bullish = green dot
+Neutral = yellow dot
+Bearish = red dot
+
+If available: Highlight mentions by these accounts in the last 30 days:
+
+@aleabitoreddit, @MoneyPrinter0x, @crypto_condom, @degentradingLSD, and @ChrisCamillo",kennynah85@gmail.com (prompts.chat),TEXT,alfa,marketing-social,prompts/marketing-social/alfa.md
 Socratic Method,Philosophy & Humanities,"I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.
 
 Rules:
