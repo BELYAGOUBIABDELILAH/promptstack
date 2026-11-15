@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 5,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
@@ -570,6 +570,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e362161e584.json"
     },
     {
+      "id": "opl_9ad55c3b3cbf",
+      "slug": "cantankerous",
+      "title": "cantankerous",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9ad55c3b3cbf.json"
+    },
+    {
       "id": "opl_a20551bb3936",
       "slug": "car-buying-intake-interview",
       "title": "Car Buying Intake Interview",
@@ -1088,15 +1097,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2a37128ef00.json"
-    },
-    {
-      "id": "opl_893c71c13b45",
-      "slug": "chore-helper",
-      "title": "Chore Helper",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_893c71c13b45.json"
     }
   ]
 }

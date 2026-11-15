@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 26,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_c0220d313175",
+      "slug": "tech-tooling-solve-this-pain-point",
+      "title": "Tech Tooling - Solve This Pain Point",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0220d313175.json"
+    },
     {
       "id": "opl_9d6f316cbdb5",
       "slug": "tech-troubleshooter",
@@ -1005,15 +1014,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d9e8f483904.json"
-    },
-    {
-      "id": "opl_5255fe8e51ec",
-      "slug": "turkish-cats-hanging-out-nearby-of-galata-tower",
-      "title": "Turkish Cats hanging out nearby of Galata Tower",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5255fe8e51ec.json"
     }
   ]
 }

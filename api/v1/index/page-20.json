@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 20,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_34fb3ff3ba24",
+      "slug": "planner-agent-for-epic-decomposition",
+      "title": "Planner Agent for Epic Decomposition",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34fb3ff3ba24.json"
+    },
     {
       "id": "opl_46f57cec6cc5",
       "slug": "plant-bouquet-warm-lamp-your-example-vibe-adult-safe",
@@ -1299,15 +1308,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e2a8a8050eeb.json"
-    },
-    {
-      "id": "opl_7f5b17b400de",
-      "slug": "prompt-length-analyst",
-      "title": "Prompt Length Analyst",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f5b17b400de.json"
     }
   ]
 }

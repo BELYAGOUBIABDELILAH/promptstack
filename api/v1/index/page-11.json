@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 11,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_d56c783ea2c6",
+      "slug": "evaluate-and-suggest-improvements-for-computer-science-phd-t",
+      "title": "Evaluate and Suggest Improvements for Computer Science PhD Thesis",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d56c783ea2c6.json"
+    },
     {
       "id": "opl_52989deef86e",
       "slug": "evaluate-technology-options",
@@ -1085,15 +1094,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6edc7b53a333.json"
-    },
-    {
-      "id": "opl_7a2871df50a7",
-      "slug": "functional-analyst",
-      "title": "Functional Analyst",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7a2871df50a7.json"
     }
   ]
 }

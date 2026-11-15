@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 15,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_d70e0f7df245",
+      "slug": "japan",
+      "title": "Japan",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d70e0f7df245.json"
+    },
     {
       "id": "opl_dda3fe99fa58",
       "slug": "japanese-kanji-quiz-machine",
@@ -1035,15 +1044,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49f82d318802.json"
-    },
-    {
-      "id": "opl_980a7e1de7f6",
-      "slug": "linux-tech-support",
-      "title": "Linux Tech Support",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_980a7e1de7f6.json"
     }
   ]
 }

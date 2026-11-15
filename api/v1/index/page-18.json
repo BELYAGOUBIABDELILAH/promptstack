@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 18,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_96c02e7af37f",
+      "slug": "narrative-point-of-view-transformer",
+      "title": "Narrative Point of View Transformer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96c02e7af37f.json"
+    },
     {
       "id": "opl_808ead823329",
       "slug": "national-safety-week",
@@ -1052,15 +1061,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40c0e9f55557.json"
-    },
-    {
-      "id": "opl_3939f7c8e1a4",
-      "slug": "organisational-system-guide",
-      "title": "Organisational System Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3939f7c8e1a4.json"
     }
   ]
 }

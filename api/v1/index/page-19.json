@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 19,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_3939f7c8e1a4",
+      "slug": "organisational-system-guide",
+      "title": "Organisational System Guide",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3939f7c8e1a4.json"
+    },
     {
       "id": "opl_053fe6928418",
       "slug": "organise-my-folders",
@@ -1140,15 +1149,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_62fc72648120.json"
-    },
-    {
-      "id": "opl_34fb3ff3ba24",
-      "slug": "planner-agent-for-epic-decomposition",
-      "title": "Planner Agent for Epic Decomposition",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34fb3ff3ba24.json"
     }
   ]
 }

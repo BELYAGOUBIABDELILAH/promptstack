@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 17,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_9b39f66e89ad",
+      "slug": "medication-name-translator",
+      "title": "Medication Name Translator",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b39f66e89ad.json"
+    },
     {
       "id": "opl_2b30e3cd9ece",
       "slug": "medication-travel-legality",
@@ -1054,15 +1063,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85bc45ae2d4f.json"
-    },
-    {
-      "id": "opl_96c02e7af37f",
-      "slug": "narrative-point-of-view-transformer",
-      "title": "Narrative Point of View Transformer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96c02e7af37f.json"
     }
   ]
 }

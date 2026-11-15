@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 7,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_f216b8d4dc13",
+      "slug": "composer",
+      "title": "Composer",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f216b8d4dc13.json"
+    },
     {
       "id": "opl_c58c489ac6af",
       "slug": "comprehensive-academic-paper-writing-guide",
@@ -1311,15 +1320,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfd21f64448c.json"
-    },
-    {
-      "id": "opl_066afc702673",
-      "slug": "create-technical-design-document",
-      "title": "Create Technical Design Document",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_066afc702673.json"
     }
   ]
 }

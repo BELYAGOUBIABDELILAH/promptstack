@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1098 prompts in this category**
+**1099 prompts in this category**
 
 ## Table of Contents
 
@@ -181,6 +181,7 @@
 - [Cafe Window Seat (close-up, tactile realism)](cafe-window-seat-close-up-tactile-realism.md)
 - [Calendar To Timesheet](calendar-to-timesheet.md)
 - [Candlestick Reversal Pattern Detector in Pine Script](candlestick-reversal-pattern-detector-in-pine-script.md)
+- [cantankerous](cantankerous.md)
 - [Car Buying Intake Interview](car-buying-intake-interview.md)
 - [Career Coach](career-coach.md)
 - [Career Counselor](career-counselor.md)

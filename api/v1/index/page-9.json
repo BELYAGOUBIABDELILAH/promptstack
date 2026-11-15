@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 9,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_6c07fa477af7",
+      "slug": "debugger-general-tech-suport",
+      "title": "Debugger (General Tech Suport)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c07fa477af7.json"
+    },
     {
       "id": "opl_0593e48b06c4",
       "slug": "debugging-oncall-tickets",
@@ -1161,15 +1170,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fe437aa25035.json"
-    },
-    {
-      "id": "opl_95e51d502563",
-      "slug": "documentation-generator-general-purpose",
-      "title": "Documentation Generator (General Purpose)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95e51d502563.json"
     }
   ]
 }

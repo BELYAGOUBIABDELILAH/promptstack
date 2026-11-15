@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 16,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_980a7e1de7f6",
+      "slug": "linux-tech-support",
+      "title": "Linux Tech Support",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_980a7e1de7f6.json"
+    },
     {
       "id": "opl_d83f1922752e",
       "slug": "linux-terminal",
@@ -1142,15 +1151,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca51d4accaba.json"
-    },
-    {
-      "id": "opl_9b39f66e89ad",
-      "slug": "medication-name-translator",
-      "title": "Medication Name Translator",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b39f66e89ad.json"
     }
   ]
 }

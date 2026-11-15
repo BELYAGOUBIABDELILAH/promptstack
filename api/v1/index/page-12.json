@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 12,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_7a2871df50a7",
+      "slug": "functional-analyst",
+      "title": "Functional Analyst",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7a2871df50a7.json"
+    },
     {
       "id": "opl_9c76b64b4312",
       "slug": "functional-dyspepsia-advisor",
@@ -984,28 +993,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ded83035ef8.json"
-    },
-    {
-      "id": "opl_5aa7820599d8",
-      "slug": "gu-a-para-dise-ar-y-vender-un-libro-en-hotmart",
-      "title": "Guía para Diseñar y Vender un Libro en Hotmart",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "bookTitle",
-          "default": null
-        },
-        {
-          "name": "priceRange",
-          "default": null
-        },
-        {
-          "name": "targetAudience",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5aa7820599d8.json"
     }
   ]
 }

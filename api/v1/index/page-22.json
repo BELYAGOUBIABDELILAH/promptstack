@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 22,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_b5cf11502bec",
+      "slug": "reimagined-logo-for-google",
+      "title": "Reimagined Logo for Google",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5cf11502bec.json"
+    },
     {
       "id": "opl_c2193c8839d3",
       "slug": "relationship-coach",
@@ -1178,15 +1187,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a645564fdb6.json"
-    },
-    {
-      "id": "opl_6d43288eb98c",
-      "slug": "secrets-parser",
-      "title": "Secrets Parser",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d43288eb98c.json"
     }
   ]
 }

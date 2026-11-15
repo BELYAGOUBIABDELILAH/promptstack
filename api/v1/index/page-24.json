@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T20:20:50.102Z",
+  "last_updated": "2026-11-15T21:20:43.186Z",
   "page": 24,
   "per_page": 100,
-  "total": 2769,
+  "total": 2770,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_2ae7079367b6",
+      "slug": "social-network-post-reformatter",
+      "title": "Social Network Post Reformatter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ae7079367b6.json"
+    },
     {
       "id": "opl_c891fffc88cd",
       "slug": "social-to-blog-post",
@@ -1031,15 +1040,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a492e5c9d237.json"
-    },
-    {
-      "id": "opl_497e98d1d7d0",
-      "slug": "structured-system-prompt-generator",
-      "title": "Structured System Prompt Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_497e98d1d7d0.json"
     }
   ]
 }
