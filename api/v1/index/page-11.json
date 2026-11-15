@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 11,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_41b8f05ecd31",
+      "slug": "evening-at-a-turkish-dessert-shop-a-photographic-story",
+      "title": "Evening at a Turkish Dessert Shop - A Photographic Story",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41b8f05ecd31.json"
+    },
     {
       "id": "opl_2730dbde5543",
       "slug": "exam-science-study-notes",
@@ -1085,15 +1094,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a81764f788a.json"
-    },
-    {
-      "id": "opl_37bd4411833e",
-      "slug": "game-design",
-      "title": "Game design",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37bd4411833e.json"
     }
   ]
 }

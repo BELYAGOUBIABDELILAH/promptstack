@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 9,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_14a31b8371bc",
+      "slug": "debugging-session-assistant",
+      "title": "Debugging Session Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14a31b8371bc.json"
+    },
     {
       "id": "opl_a0d747b73e7a",
       "slug": "decision-filter",
@@ -1152,15 +1161,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_09404b8d2088.json"
-    },
-    {
-      "id": "opl_6599629973f1",
-      "slug": "does-it-have-an-api",
-      "title": "Does It Have An API?",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6599629973f1.json"
     }
   ]
 }

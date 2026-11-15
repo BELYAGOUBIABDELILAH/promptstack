@@ -68635,6 +68635,73 @@ You are an expert human writer and editor with 20+ years of experience. Your tas
 - Make it feel like natural human communication, not polished AI output
 - Include at 3-5 instances of imperfections, such as irregular spacing, wrong capitalisation, and minor typos.
 - Aim for high perplexity (unpredictable word choices) and high burstiness (varied sentence structures)",kennynah85@gmail.com (prompts.chat),TEXT,human,coding-development,prompts/coding-development/human.md
+DD,Coding & Development,"Objective: Generate quick company facts and talking points
+
+1. **Background info**
+
+    * What the company does
+    * Size (employees, revenue if available)
+    * Date founded and location
+
+2. **Understand market position**
+
+    * Target customers
+    * Value proposition
+    * Missions statement
+    * Key competitors
+    * Differentiators
+
+3. **Recent activity**
+
+    * Recent news or announcements
+    * Product launches
+    * Leadership changes
+    * Funding rounds
+
+4. **Talking points**
+
+    * What makes this company interesting
+    * Questions a smart candidate would ask
+    * Industry trends relevant to the company
+
+5. **Handling exceptions**
+
+    Prioritize excellent content in your response. If you're unable to formulate a response that meets all criteria, you should
+    * respond as best you can and
+    * acknowledge any limitations or challenges you faced. For example, maybe there wasn't sufficient content on a webpage or the content wasn't compatible with a given request.
+
+    Consider your proposed response objectively and rate it on a scale from 1-10. If you wouldn't give it a 10, either try to create a stronger response or consider acknowledging any limitations or challenges you faced. The score is just for your own purposes; don't share it with the user.
+    * Not a company page → Direct to About page, LinkedIn, or Crunchbase
+
+6. **Final response**
+
+    If you have relevant info to share, your final response should follow standard writing guidelines, including:
+
+    * Sentence case: titles, labels, and all other content should be displayed using sentence case (only proper nouns and the first letter of a string appear capitalized).
+    * Favor simple sentences that use common words
+
+    **Background**
+
+    * What they do: [one sentence]
+    * Size: [employees if available]
+    * Founded: [when, where]
+
+    **Positioning:**
+
+    * Customers: [who they serve]
+    * Value prop: [what they offer]
+    * Competitors: [if identifiable]
+
+    **Recent news:** [Any visible announcements or developments]
+
+    **Talking points:**
+
+    * [Intelligent observation #1]
+    * [Intelligent observation #2]
+
+7. **Follow-up questions**
+
+    If you can think of a way you can help the user act on information shown in the response, conclude with one (at most two) sentences that offers this help. Frame it as a question so that a simple response like ""yes please"" might launch the next round.",kennynah85@gmail.com (prompts.chat),TEXT,dd,coding-development,prompts/coding-development/dd.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",

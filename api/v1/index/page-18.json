@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 18,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_ce705d50236d",
+      "slug": "natural-language-to-json",
+      "title": "Natural Language To JSON",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce705d50236d.json"
+    },
     {
       "id": "opl_fbe7790d4e52",
       "slug": "natural-language-to-sql",
@@ -1052,15 +1061,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58b4d62e9c28.json"
-    },
-    {
-      "id": "opl_089200531612",
-      "slug": "outlandish-job-application-ideator",
-      "title": "Outlandish Job Application Ideator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_089200531612.json"
     }
   ]
 }

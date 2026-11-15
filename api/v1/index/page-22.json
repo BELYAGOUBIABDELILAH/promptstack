@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 22,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_84c0e4105ea5",
+      "slug": "removing-visual-noise-in-the-neural-network-s-response",
+      "title": "Removing visual noise in the neural network's response",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84c0e4105ea5.json"
+    },
     {
       "id": "opl_bcc2951c7d8b",
       "slug": "rephraser-with-obfuscation",
@@ -1221,15 +1230,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13d6ec75822c.json"
-    },
-    {
-      "id": "opl_4e47f6c62e33",
-      "slug": "security-fixes",
-      "title": "security fixes",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e47f6c62e33.json"
     }
   ]
 }

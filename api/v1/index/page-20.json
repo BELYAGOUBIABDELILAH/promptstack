@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 20,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_4e6bdbb8ce13",
+      "slug": "podcast-on-demand",
+      "title": "Podcast On Demand",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e6bdbb8ce13.json"
+    },
     {
       "id": "opl_3479ca451809",
       "slug": "poe-your-best-bud-chatbot",
@@ -1294,15 +1303,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f8adb947547e.json"
-    },
-    {
-      "id": "opl_be9a03ac48aa",
-      "slug": "prompt-to-llm",
-      "title": "Prompt To LLM",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be9a03ac48aa.json"
     }
   ]
 }

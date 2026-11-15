@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 21,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_be9a03ac48aa",
+      "slug": "prompt-to-llm",
+      "title": "Prompt To LLM",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be9a03ac48aa.json"
+    },
     {
       "id": "opl_4fd4584543a3",
       "slug": "prompt-to-parameters",
@@ -1011,15 +1020,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b4ad848e15c.json"
-    },
-    {
-      "id": "opl_84c0e4105ea5",
-      "slug": "removing-visual-noise-in-the-neural-network-s-response",
-      "title": "Removing visual noise in the neural network's response",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84c0e4105ea5.json"
     }
   ]
 }

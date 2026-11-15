@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 25,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_c42ae92d3e7e",
+      "slug": "study-timer",
+      "title": "Study Timer",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "breakDuration",
+          "default": "5"
+        },
+        {
+          "name": "studyDuration",
+          "default": "25"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c42ae92d3e7e.json"
+    },
     {
       "id": "opl_b089eff768ec",
       "slug": "studying-for-exam",
@@ -1000,15 +1018,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_48e43221ebfe.json"
-    },
-    {
-      "id": "opl_06887c0e1fe9",
-      "slug": "technical-documentation-generator",
-      "title": "Technical Documentation Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06887c0e1fe9.json"
     }
   ]
 }

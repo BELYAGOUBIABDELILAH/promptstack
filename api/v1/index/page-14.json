@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 14,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_d6668a0b5ea0",
+      "slug": "immigration-project-presentation-specialist",
+      "title": "Immigration Project Presentation Specialist",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "clientName",
+          "default": null
+        },
+        {
+          "name": "keyBenefits",
+          "default": null
+        },
+        {
+          "name": "projectType",
+          "default": null
+        },
+        {
+          "name": "visualStyle",
+          "default": "modern"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6668a0b5ea0.json"
+    },
     {
       "id": "opl_abecdcdb1290",
       "slug": "impact-metrics",
@@ -1077,28 +1103,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e3a6b66dcb0.json"
-    },
-    {
-      "id": "opl_10b900094649",
-      "slug": "job-and-internship-tracker-for-google-sheets",
-      "title": "Job and Internship Tracker for Google Sheets",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "graduationDate",
-          "default": "December 2026"
-        },
-        {
-          "name": "interests",
-          "default": "AI/ML, Computer Vision, Defense"
-        },
-        {
-          "name": "major",
-          "default": "Computer Engineering"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10b900094649.json"
     }
   ]
 }

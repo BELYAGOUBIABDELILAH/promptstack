@@ -6277,6 +6277,15 @@
     "snippet": "I want you to act as a DAX terminal for Microsoft's analytical services. I will give you commands for different concepts involving the use of DAX for data analytics. I want you to"
   },
   {
+    "id": "opl_232cc7e663fb",
+    "title": "DD",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "dd",
+    "variables": [],
+    "snippet": "Objective: Generate quick company facts and talking points 1. **Background info** * What the company does * Size (employees, revenue if available) * Date founded and"
+  },
+  {
     "id": "opl_b5d42656fb6e",
     "title": "Dead Code Surgeon - Phased Codebase Audit & Cleanup Roadmap",
     "category": "Coding & Development",

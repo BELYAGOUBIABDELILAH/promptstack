@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T12:20:40.015Z",
+  "last_updated": "2026-11-15T13:20:43.548Z",
   "page": 24,
   "per_page": 100,
-  "total": 2761,
+  "total": 2762,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_7f389a31500d",
+      "slug": "software-alternative-finder",
+      "title": "Software Alternative Finder",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f389a31500d.json"
+    },
     {
       "id": "opl_2283ab04fdf0",
       "slug": "software-discovery-system-prompt-generator",
@@ -1034,24 +1043,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ede21bbd846a.json"
-    },
-    {
-      "id": "opl_c42ae92d3e7e",
-      "slug": "study-timer",
-      "title": "Study Timer",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "breakDuration",
-          "default": "5"
-        },
-        {
-          "name": "studyDuration",
-          "default": "25"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c42ae92d3e7e.json"
     }
   ]
 }
