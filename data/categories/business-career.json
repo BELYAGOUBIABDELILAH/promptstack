@@ -618,5 +618,15 @@
     "slug": "kra-for-business-dept",
     "folder": "business-career",
     "path": "prompts/business-career/kra-for-business-dept.md"
+  },
+  {
+    "act": "Commercial cleaning services",
+    "category": "Business & Career",
+    "prompt": "Write a captivating prompt showing proposed clients how their business facility can be well managed. Cleaned and maintained...",
+    "source": "esther.bekenawei@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "commercial-cleaning-services",
+    "folder": "business-career",
+    "path": "prompts/business-career/commercial-cleaning-services.md"
   }
 ]
