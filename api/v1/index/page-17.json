@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 17,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_f88a338b845f",
+      "slug": "meeting-summary-and-action-plan-generator",
+      "title": "Meeting Summary and Action Plan Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f88a338b845f.json"
+    },
     {
       "id": "opl_95185b1ce09d",
       "slug": "melancholic-dawn-on-the-misty-pier",
@@ -1041,15 +1050,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_565f0bd783b4.json"
-    },
-    {
-      "id": "opl_6b3941ff33dc",
-      "slug": "neo4j-helper",
-      "title": "Neo4j Helper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b3941ff33dc.json"
     }
   ]
 }

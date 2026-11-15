@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 20,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_cb5f50496ea3",
+      "slug": "pomodoro-timer",
+      "title": "Pomodoro Timer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "Long Breaks",
+          "default": "15min"
+        },
+        {
+          "name": "Short Breaks",
+          "default": "5min"
+        },
+        {
+          "name": "Work Intervals",
+          "default": "25min"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb5f50496ea3.json"
+    },
     {
       "id": "opl_f00874aedb30",
       "slug": "post-mortem-report-author",
@@ -1184,15 +1206,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bdbbaec90fcb.json"
-    },
-    {
-      "id": "opl_ebb6a41a6964",
-      "slug": "prompts-chat-promotional-video-using-remotion",
-      "title": "prompts.chat Promotional Video using Remotion",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebb6a41a6964.json"
     }
   ]
 }

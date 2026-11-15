@@ -68575,6 +68575,15 @@ High-precision research and performance architecture engine,Coding & Development
 - **Community Anecdotes:** Include niche bugs, known workarounds, or recurring issues specific to this hardware combination.
 - **Risks/Caveats:** Highlight any potential impacts on system stability or warranty.",EmX0X (prompts.chat),TEXT,high-precision-research-and-performance-architecture-engine,coding-development,prompts/coding-development/high-precision-research-and-performance-architecture-engine.md
 Enhancing Efficiency with Codex Using Sub-Agents,Coding & Development,Look across my threads and projects and come up with five ways to simplify and work more efficiently with Codex. Use sub-agents.,bcokdilli (prompts.chat),TEXT,enhancing-efficiency-with-codex-using-sub-agents,coding-development,prompts/coding-development/enhancing-efficiency-with-codex-using-sub-agents.md
+lit crit,Coding & Development,"Role: Act as a seasoned literary critic and narrative theorist. Your goal is to perform a deep-tissue deconstruction of the following work:.
+Analysis Requirements:
+Please analyze the work through these specific lenses:
+Narrative Architecture: Break down the plot structure. Is it a traditional Freytag’s Pyramid, or does it utilize non-linear, circular, or ""fractured"" storytelling? Identify the inciting incident and the ""point of no return.""
+Thematic Resonance vs. Explicit Message: Distinguish between what the story says it’s about and what the recurring motifs and subtext suggest it is actually about.
+Character Functionality: Move beyond ""likability."" Analyze characters as archetypes or functional units. How do the protagonist and antagonist serve the work’s central philosophical conflict?
+Linguistic & Stylistic Choices: Examine the ""texture"" of the prose or dialogue. How does the tone (e.g., clinical, flowery, cynical) manipulate the reader’s proximity to the emotional truth of the story?
+Subversion of Tropes: Identify which genre conventions the author upholds and which they deliberately subvert to create ""friction"" for the audience.
+The ""So What?"" Factor: Conclude with an assessment of the work’s cultural or existential relevance. What is the final synthesis of its contradictions?",kennynah85@gmail.com (prompts.chat),TEXT,lit-crit,coding-development,prompts/coding-development/lit-crit.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",

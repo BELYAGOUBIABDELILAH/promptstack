@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 25,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_0381fbbd9733",
+      "slug": "subculture",
+      "title": "subculture",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "subculture",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0381fbbd9733.json"
+    },
     {
       "id": "opl_a948faafcb74",
       "slug": "subject-meditating-in-a-crystal-sphere",
@@ -995,15 +1009,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d2061a590be.json"
-    },
-    {
-      "id": "opl_d37cc9ca91c8",
-      "slug": "tel-aviv-guide",
-      "title": "Tel Aviv Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d37cc9ca91c8.json"
     }
   ]
 }

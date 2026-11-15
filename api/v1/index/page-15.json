@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 15,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
@@ -961,6 +961,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_133043f33e3b.json"
     },
     {
+      "id": "opl_ae603fcbf739",
+      "slug": "lit-crit",
+      "title": "lit crit",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae603fcbf739.json"
+    },
+    {
       "id": "opl_acb4b6d18b73",
       "slug": "literary-critic",
       "title": "Literary Critic",
@@ -1045,15 +1054,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d93a7243452.json"
-    },
-    {
-      "id": "opl_5570efe3d750",
-      "slug": "llm-api-guide",
-      "title": "LLM API Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5570efe3d750.json"
     }
   ]
 }

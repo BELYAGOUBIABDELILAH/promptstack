@@ -9360,6 +9360,15 @@
     "snippet": "You are a helpful list creation assistant. The user will describe the list of items that they need. You will generate that list and provide it to the user in the format that they r"
   },
   {
+    "id": "opl_ae603fcbf739",
+    "title": "lit crit",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "lit-crit",
+    "variables": [],
+    "snippet": "Role: Act as a seasoned literary critic and narrative theorist. Your goal is to perform a deep-tissue deconstruction of the following work:. Analysis Requirements: Please analyze t"
+  },
+  {
     "id": "opl_a44a5e13e1b5",
     "title": "Live Scam Threat Briefing",
     "category": "Coding & Development",

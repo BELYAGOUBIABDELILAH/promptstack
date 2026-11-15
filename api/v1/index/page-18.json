@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 18,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_6b3941ff33dc",
+      "slug": "neo4j-helper",
+      "title": "Neo4j Helper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b3941ff33dc.json"
+    },
     {
       "id": "opl_a0536087661c",
       "slug": "neon-flow-grid-snake",
@@ -1052,20 +1061,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c34c94602a6.json"
-    },
-    {
-      "id": "opl_49ad0c72a746",
-      "slug": "oxford-3000-step-by-step-vocabulary-coach",
-      "title": "Oxford 3000: Step-by-Step Vocabulary Coach",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "language",
-          "default": "Turkish"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49ad0c72a746.json"
     }
   ]
 }

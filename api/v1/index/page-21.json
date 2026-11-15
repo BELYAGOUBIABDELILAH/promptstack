@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 21,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_ebb6a41a6964",
+      "slug": "prompts-chat-promotional-video-using-remotion",
+      "title": "prompts.chat Promotional Video using Remotion",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebb6a41a6964.json"
+    },
     {
       "id": "opl_ad562cf6b757",
       "slug": "prompts-chat-taste",
@@ -1023,15 +1032,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_330524c0b8d5.json"
-    },
-    {
-      "id": "opl_abfb2556af82",
-      "slug": "repository-workflow-editor-agent-role",
-      "title": "Repository Workflow Editor Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_abfb2556af82.json"
     }
   ]
 }

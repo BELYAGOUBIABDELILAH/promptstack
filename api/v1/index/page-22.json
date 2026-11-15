@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 22,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_abfb2556af82",
+      "slug": "repository-workflow-editor-agent-role",
+      "title": "Repository Workflow Editor Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_abfb2556af82.json"
+    },
     {
       "id": "opl_fbd9141852b7",
       "slug": "research-analyst",
@@ -1192,15 +1201,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19795197a811.json"
-    },
-    {
-      "id": "opl_7a98c17464c1",
-      "slug": "self-summary",
-      "title": "Self-summary",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7a98c17464c1.json"
     }
   ]
 }

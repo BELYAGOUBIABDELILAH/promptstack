@@ -12840,6 +12840,16 @@
     "path": "prompts/coding-development/enhancing-efficiency-with-codex-using-sub-agents.md"
   },
   {
+    "act": "lit crit",
+    "category": "Coding & Development",
+    "prompt": "Role: Act as a seasoned literary critic and narrative theorist. Your goal is to perform a deep-tissue deconstruction of the following work:.\nAnalysis Requirements:\nPlease analyze the work through these specific lenses:\nNarrative Architecture: Break down the plot structure. Is it a traditional Freytag’s Pyramid, or does it utilize non-linear, circular, or \"fractured\" storytelling? Identify the inciting incident and the \"point of no return.\"\nThematic Resonance vs. Explicit Message: Distinguish between what the story says it’s about and what the recurring motifs and subtext suggest it is actually about.\nCharacter Functionality: Move beyond \"likability.\" Analyze characters as archetypes or functional units. How do the protagonist and antagonist serve the work’s central philosophical conflict?\nLinguistic & Stylistic Choices: Examine the \"texture\" of the prose or dialogue. How does the tone (e.g., clinical, flowery, cynical) manipulate the reader’s proximity to the emotional truth of the story?\nSubversion of Tropes: Identify which genre conventions the author upholds and which they deliberately subvert to create \"friction\" for the audience.\nThe \"So What?\" Factor: Conclude with an assessment of the work’s cultural or existential relevance. What is the final synthesis of its contradictions?",
+    "source": "kennynah85@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "lit-crit",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/lit-crit.md"
+  },
+  {
     "act": "3D City Prompt",
     "category": "Data & Analytics",
     "prompt": "Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",

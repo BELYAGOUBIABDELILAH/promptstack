@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 26,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_d37cc9ca91c8",
+      "slug": "tel-aviv-guide",
+      "title": "Tel Aviv Guide",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d37cc9ca91c8.json"
+    },
     {
       "id": "opl_266b1601ca9c",
       "slug": "tell-your-story",
@@ -1022,15 +1031,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29ba9ccc8917.json"
-    },
-    {
-      "id": "opl_54af463578e8",
-      "slug": "uipath-xaml-code-review-specialist",
-      "title": "UiPath XAML Code Review Specialist",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54af463578e8.json"
     }
   ]
 }

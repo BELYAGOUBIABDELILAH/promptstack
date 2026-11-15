@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-15T07:20:42.625Z",
-  "total": 1095,
+  "last_updated": "2026-11-15T08:20:48.501Z",
+  "total": 1096,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -11251,6 +11251,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_133043f33e3b.json"
+    },
+    {
+      "id": "opl_ae603fcbf739",
+      "slug": "lit-crit",
+      "title": "lit crit",
+      "prompt": "Role: Act as a seasoned literary critic and narrative theorist. Your goal is to perform a deep-tissue deconstruction of the following work:.\nAnalysis Requirements:\nPlease analyze the work through these specific lenses:\nNarrative Architecture: Break down the plot structure. Is it a traditional Freytag’s Pyramid, or does it utilize non-linear, circular, or \"fractured\" storytelling? Identify the inciting incident and the \"point of no return.\"\nThematic Resonance vs. Explicit Message: Distinguish between what the story says it’s about and what the recurring motifs and subtext suggest it is actually about.\nCharacter Functionality: Move beyond \"likability.\" Analyze characters as archetypes or functional units. How do the protagonist and antagonist serve the work’s central philosophical conflict?\nLinguistic & Stylistic Choices: Examine the \"texture\" of the prose or dialogue. How does the tone (e.g., clinical, flowery, cynical) manipulate the reader’s proximity to the emotional truth of the story?\nSubversion of Tropes: Identify which genre conventions the author upholds and which they deliberately subvert to create \"friction\" for the audience.\nThe \"So What?\" Factor: Conclude with an assessment of the work’s cultural or existential relevance. What is the final synthesis of its contradictions?",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_06729541f502"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae603fcbf739.json"
     },
     {
       "id": "opl_a44a5e13e1b5",

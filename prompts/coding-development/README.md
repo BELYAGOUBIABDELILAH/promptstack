@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1095 prompts in this category**
+**1096 prompts in this category**
 
 ## Table of Contents
 
@@ -603,6 +603,7 @@
 - [Linux Tech Support](linux-tech-support.md)
 - [Linux Terminal](linux-terminal.md)
 - [List Generator - General Purpose](list-generator-general-purpose.md)
+- [lit crit](lit-crit.md)
 - [Live Scam Threat Briefing](live-scam-threat-briefing.md)
 - [LLM API Guide](llm-api-guide.md)
 - [LLM Background Assistant](llm-background-assistant.md)

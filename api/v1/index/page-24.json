@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T07:20:42.625Z",
+  "last_updated": "2026-11-15T08:20:48.501Z",
   "page": 24,
   "per_page": 100,
-  "total": 2756,
+  "total": 2757,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_dfcd272b2bab",
+      "slug": "solar-system-scale-model-classroom-poster",
+      "title": "Solar System Scale Model Classroom Poster",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfcd272b2bab.json"
+    },
     {
       "id": "opl_9d4910b22e6e",
       "slug": "solr-search-engine",
@@ -1043,20 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fe28c2a5930.json"
-    },
-    {
-      "id": "opl_0381fbbd9733",
-      "slug": "subculture",
-      "title": "subculture",
-      "category": "General",
-      "folder": "general",
-      "variables": [
-        {
-          "name": "subculture",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0381fbbd9733.json"
     }
   ]
 }
