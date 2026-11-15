@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T02:20:46.043Z",
+  "last_updated": "2026-11-15T03:20:41.940Z",
   "page": 25,
   "per_page": 100,
-  "total": 2751,
+  "total": 2752,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_600b8bc5003a",
+      "slug": "subtitled-content-for-language-learners",
+      "title": "Subtitled Content For Language Learners",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_600b8bc5003a.json"
+    },
     {
       "id": "opl_8eb901a9167d",
       "slug": "subway-platform-street-candid-moody",
@@ -981,15 +990,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59566f37dd24.json"
-    },
-    {
-      "id": "opl_cd3e1ea336b2",
-      "slug": "template-response-genie",
-      "title": "Template Response Genie",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd3e1ea336b2.json"
     }
   ]
 }

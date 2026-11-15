@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T02:20:46.043Z",
+  "last_updated": "2026-11-15T03:20:41.940Z",
   "page": 24,
   "per_page": 100,
-  "total": 2751,
+  "total": 2752,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_8103fba1c322",
+      "slug": "sophisticated-istanbul-stroll",
+      "title": "Sophisticated Istanbul Stroll",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8103fba1c322.json"
+    },
     {
       "id": "opl_e316761cd7a9",
       "slug": "soundproofing-advisor",
@@ -1062,15 +1071,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_018f80a88159.json"
-    },
-    {
-      "id": "opl_600b8bc5003a",
-      "slug": "subtitled-content-for-language-learners",
-      "title": "Subtitled Content For Language Learners",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_600b8bc5003a.json"
     }
   ]
 }

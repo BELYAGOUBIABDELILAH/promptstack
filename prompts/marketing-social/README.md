@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**205 prompts in this category**
+**206 prompts in this category**
 
 ## Table of Contents
 
@@ -162,6 +162,7 @@
 - [Radical Responsibility Mirror (Shadow Work)](radical-responsibility-mirror-shadow-work.md)
 - [Recruiter](recruiter.md)
 - [Recursive Niche Deconstruction for Market Research](recursive-niche-deconstruction-for-market-research.md)
+- [Refute](refute.md)
 - [Review the social media content](review-the-social-media-content.md)
 - [RFQ](rfq.md)
 - [RIP McKinsey: Here are 10 prompts to replace expensive business consultants](rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine.md)

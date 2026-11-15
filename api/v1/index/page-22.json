@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T02:20:46.043Z",
+  "last_updated": "2026-11-15T03:20:41.940Z",
   "page": 22,
   "per_page": 100,
-  "total": 2751,
+  "total": 2752,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_4574a14644bc",
+      "slug": "research-nri-nro-account-services-in-india",
+      "title": "Research NRI/NRO Account Services in India",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4574a14644bc.json"
+    },
     {
       "id": "opl_aad3ab13f409",
       "slug": "research-paper-feature-diagram",
@@ -1167,15 +1176,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3297de90aa3.json"
-    },
-    {
-      "id": "opl_85aa22972a2f",
-      "slug": "senior-backend-engineer",
-      "title": "Senior Backend Engineer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85aa22972a2f.json"
     }
   ]
 }

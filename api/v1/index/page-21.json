@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T02:20:46.043Z",
+  "last_updated": "2026-11-15T03:20:41.940Z",
   "page": 21,
   "per_page": 100,
-  "total": 2751,
+  "total": 2752,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
@@ -824,6 +824,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93bfdd44430d.json"
     },
     {
+      "id": "opl_c8ae2071e62c",
+      "slug": "refute",
+      "title": "Refute",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8ae2071e62c.json"
+    },
+    {
       "id": "opl_b547b5c3fe3e",
       "slug": "regex-generator",
       "title": "RegEx Generator",
@@ -1048,15 +1057,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c92d7367097.json"
-    },
-    {
-      "id": "opl_4574a14644bc",
-      "slug": "research-nri-nro-account-services-in-india",
-      "title": "Research NRI/NRO Account Services in India",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4574a14644bc.json"
     }
   ]
 }

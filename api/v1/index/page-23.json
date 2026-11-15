@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T02:20:46.043Z",
+  "last_updated": "2026-11-15T03:20:41.940Z",
   "page": 23,
   "per_page": 100,
-  "total": 2751,
+  "total": 2752,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_85aa22972a2f",
+      "slug": "senior-backend-engineer",
+      "title": "Senior Backend Engineer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85aa22972a2f.json"
+    },
     {
       "id": "opl_caafcbb40fd1",
       "slug": "senior-crypto-yapper-community-strategist",
@@ -1167,15 +1176,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9c7f58c0256.json"
-    },
-    {
-      "id": "opl_8103fba1c322",
-      "slug": "sophisticated-istanbul-stroll",
-      "title": "Sophisticated Istanbul Stroll",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8103fba1c322.json"
     }
   ]
 }

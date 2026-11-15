@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T02:20:46.043Z",
+  "last_updated": "2026-11-15T03:20:41.940Z",
   "page": 26,
   "per_page": 100,
-  "total": 2751,
+  "total": 2752,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_cd3e1ea336b2",
+      "slug": "template-response-genie",
+      "title": "Template Response Genie",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd3e1ea336b2.json"
+    },
     {
       "id": "opl_db3e45387e14",
       "slug": "terminal-drift",
@@ -1068,15 +1077,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b13571c9c446.json"
-    },
-    {
-      "id": "opl_66d4e7ee17a3",
-      "slug": "ultra-brief-one-sentence-answers",
-      "title": "Ultra Brief One-Sentence Answers",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66d4e7ee17a3.json"
     }
   ]
 }
