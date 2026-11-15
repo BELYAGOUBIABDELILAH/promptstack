@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 24,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_88573fe776d5",
+      "slug": "social-media-swipe-post-content-1",
+      "title": "Social media swipe post content #1",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88573fe776d5.json"
+    },
     {
       "id": "opl_2ae7079367b6",
       "slug": "social-network-post-reformatter",
@@ -1031,15 +1040,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77e7ba155c4d.json"
-    },
-    {
-      "id": "opl_a492e5c9d237",
-      "slug": "structured-prompt-editor",
-      "title": "Structured Prompt Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a492e5c9d237.json"
     }
   ]
 }

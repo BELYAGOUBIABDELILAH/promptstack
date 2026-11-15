@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 19,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_40c0e9f55557",
+      "slug": "orchestration-agent-manager",
+      "title": "Orchestration Agent Manager",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40c0e9f55557.json"
+    },
     {
       "id": "opl_3939f7c8e1a4",
       "slug": "organisational-system-guide",
@@ -1135,20 +1144,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6dff90a630b.json"
-    },
-    {
-      "id": "opl_62fc72648120",
-      "slug": "planjedor-de-tarefas",
-      "title": "Planjedor de Tarefas",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "plans_path",
-          "default": "plans"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_62fc72648120.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 16,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_49f82d318802",
+      "slug": "linux-script-developer",
+      "title": "Linux Script Developer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49f82d318802.json"
+    },
     {
       "id": "opl_980a7e1de7f6",
       "slug": "linux-tech-support",
@@ -1142,15 +1151,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37c37529be2e.json"
-    },
-    {
-      "id": "opl_ca51d4accaba",
-      "slug": "medical-report-interpreter",
-      "title": "Medical Report Interpreter",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca51d4accaba.json"
     }
   ]
 }

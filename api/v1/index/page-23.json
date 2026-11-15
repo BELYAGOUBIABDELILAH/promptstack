@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 23,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_0a645564fdb6",
+      "slug": "second-opinion",
+      "title": "Second Opinion",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a645564fdb6.json"
+    },
     {
       "id": "opl_6d43288eb98c",
       "slug": "secrets-parser",
@@ -1200,15 +1209,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04d22b3eb11a.json"
-    },
-    {
-      "id": "opl_88573fe776d5",
-      "slug": "social-media-swipe-post-content-1",
-      "title": "Social media swipe post content #1",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88573fe776d5.json"
     }
   ]
 }

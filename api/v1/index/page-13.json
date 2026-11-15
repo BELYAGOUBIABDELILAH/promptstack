@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 13,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_8ded83035ef8",
+      "slug": "guessing-game-master",
+      "title": "Guessing Game Master",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ded83035ef8.json"
+    },
     {
       "id": "opl_5aa7820599d8",
       "slug": "gu-a-para-dise-ar-y-vender-un-libro-en-hotmart",
@@ -1081,15 +1090,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12fa0493ddfe.json"
-    },
-    {
-      "id": "opl_113fa5c88828",
-      "slug": "image-analysis-inventory-assistant",
-      "title": "Image Analysis Inventory Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_113fa5c88828.json"
     }
   ]
 }

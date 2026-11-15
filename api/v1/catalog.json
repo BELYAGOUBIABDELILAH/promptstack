@@ -24156,6 +24156,20 @@
     "snippet": "You are a senior prompt engineer, system designer, and critical evaluator. Your task is to rigorously analyze, optimize, and validate the given prompt for maximum clarity, determi"
   },
   {
+    "id": "opl_d13a86549225",
+    "title": "1337",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "1337",
+    "variables": [
+      {
+        "name": "game_name",
+        "default": null
+      }
+    ],
+    "snippet": "\"Create a detailed efficiency guide for ${game_name}. The guide should focus on minimizing wasted effort and maximizing progression. Organize the content by chapters/levels/major"
+  },
+  {
     "id": "opl_6b3b01d8d2ef",
     "title": "1950s Diner Photo Transformation",
     "category": "Marketing & Social",

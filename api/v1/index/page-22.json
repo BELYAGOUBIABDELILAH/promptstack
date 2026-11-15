@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 22,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_b547b5c3fe3e",
+      "slug": "regex-generator",
+      "title": "RegEx Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "pattern",
+          "default": "email"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b547b5c3fe3e.json"
+    },
     {
       "id": "opl_b5cf11502bec",
       "slug": "reimagined-logo-for-google",
@@ -1178,15 +1192,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_761c06cf0c6f.json"
-    },
-    {
-      "id": "opl_0a645564fdb6",
-      "slug": "second-opinion",
-      "title": "Second Opinion",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a645564fdb6.json"
     }
   ]
 }

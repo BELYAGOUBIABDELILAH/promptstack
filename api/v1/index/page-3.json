@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 3,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_ade15f194d7f",
+      "slug": "ai-trying-to-escape-the-box",
+      "title": "AI Trying to Escape the Box",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ade15f194d7f.json"
+    },
     {
       "id": "opl_b47865ae8c4c",
       "slug": "ai-use-case-ideation-assistant",
@@ -1120,15 +1129,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_022b454f1481.json"
-    },
-    {
-      "id": "opl_e55ce3782914",
-      "slug": "assistant-ideator-prompt-eng",
-      "title": "Assistant Ideator - Prompt Eng",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e55ce3782914.json"
     }
   ]
 }

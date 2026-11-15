@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 7,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_5e488f8e2f63",
+      "slug": "component-documentation",
+      "title": "Component Documentation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "shade",
+          "default": null
+        },
+        {
+          "name": "size",
+          "default": null
+        },
+        {
+          "name": "variant",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e488f8e2f63.json"
+    },
     {
       "id": "opl_f216b8d4dc13",
       "slug": "composer",
@@ -1311,15 +1333,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd898c70f5cd.json"
-    },
-    {
-      "id": "opl_cfd21f64448c",
-      "slug": "create-style-guide-md",
-      "title": "Create STYLE_GUIDE.md",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfd21f64448c.json"
     }
   ]
 }

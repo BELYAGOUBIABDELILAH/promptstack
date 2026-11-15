@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 28,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_ad2d63646dda",
+      "slug": "warm-toned-creative-scene-with-paper-figures",
+      "title": "Warm-Toned Creative Scene with Paper Figures",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2d63646dda.json"
+    },
     {
       "id": "opl_f2ea78b34014",
       "slug": "wary-bear-in-a-hostile-woodland",

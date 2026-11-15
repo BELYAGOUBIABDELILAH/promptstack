@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 21,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_e2a8a8050eeb",
+      "slug": "prompt-improvement-agent",
+      "title": "Prompt Improvement Agent",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e2a8a8050eeb.json"
+    },
     {
       "id": "opl_7f5b17b400de",
       "slug": "prompt-length-analyst",
@@ -1006,20 +1015,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8ae2071e62c.json"
-    },
-    {
-      "id": "opl_b547b5c3fe3e",
-      "slug": "regex-generator",
-      "title": "RegEx Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "pattern",
-          "default": "email"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b547b5c3fe3e.json"
     }
   ]
 }

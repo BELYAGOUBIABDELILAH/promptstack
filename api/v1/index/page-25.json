@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 25,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_a492e5c9d237",
+      "slug": "structured-prompt-editor",
+      "title": "Structured Prompt Editor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a492e5c9d237.json"
+    },
     {
       "id": "opl_497e98d1d7d0",
       "slug": "structured-system-prompt-generator",
@@ -1027,15 +1036,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c299da4cd577.json"
-    },
-    {
-      "id": "opl_422aa78cb47b",
-      "slug": "tech-tool-finder",
-      "title": "Tech Tool Finder",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_422aa78cb47b.json"
     }
   ]
 }

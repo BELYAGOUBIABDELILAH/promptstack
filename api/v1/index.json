@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 1,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prev": null,
@@ -337,6 +337,20 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a53d1e183bb3.json"
+    },
+    {
+      "id": "opl_d13a86549225",
+      "slug": "1337",
+      "title": "1337",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "game_name",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d13a86549225.json"
     },
     {
       "id": "opl_6b3b01d8d2ef",
@@ -1287,24 +1301,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_574d8f4132c0.json"
-    },
-    {
-      "id": "opl_ebad42ac7380",
-      "slug": "act-as-a-job-application-reviewer",
-      "title": "Act as a Job Application Reviewer",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "jobDescription",
-          "default": null
-        },
-        {
-          "name": "resume",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebad42ac7380.json"
     }
   ]
 }

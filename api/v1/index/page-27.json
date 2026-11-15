@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 27,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_0d9e8f483904",
+      "slug": "tumor-medical-industry-solution-business-plan",
+      "title": "Tumor Medical Industry Solution Business Plan",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d9e8f483904.json"
+    },
     {
       "id": "opl_5255fe8e51ec",
       "slug": "turkish-cats-hanging-out-nearby-of-galata-tower",
@@ -1197,15 +1206,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_834ed4796632.json"
-    },
-    {
-      "id": "opl_ad2d63646dda",
-      "slug": "warm-toned-creative-scene-with-paper-figures",
-      "title": "Warm-Toned Creative Scene with Paper Figures",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2d63646dda.json"
     }
   ]
 }

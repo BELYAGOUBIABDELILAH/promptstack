@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 2,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
   "prompts": [
+    {
+      "id": "opl_ebad42ac7380",
+      "slug": "act-as-a-job-application-reviewer",
+      "title": "Act as a Job Application Reviewer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "jobDescription",
+          "default": null
+        },
+        {
+          "name": "resume",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebad42ac7380.json"
+    },
     {
       "id": "opl_46acf34b8ad2",
       "slug": "act-as-a-lawyer-and-judicial-advisor-with-25-years-of-experience-in-drafting-defense-memoranda-in-saudi-courts-only-with-the-condition-of-adhering-to-the-legal-provisions-currently-in-force",
@@ -1163,15 +1181,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea9bc2ec4484.json"
-    },
-    {
-      "id": "opl_ade15f194d7f",
-      "slug": "ai-trying-to-escape-the-box",
-      "title": "AI Trying to Escape the Box",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ade15f194d7f.json"
     }
   ]
 }

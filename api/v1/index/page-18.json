@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T21:20:43.186Z",
+  "last_updated": "2026-11-15T22:20:39.600Z",
   "page": 18,
   "per_page": 100,
-  "total": 2770,
+  "total": 2771,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_85bc45ae2d4f",
+      "slug": "narrative-momentum-prediction-engine",
+      "title": "Narrative Momentum Prediction Engine",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85bc45ae2d4f.json"
+    },
     {
       "id": "opl_96c02e7af37f",
       "slug": "narrative-point-of-view-transformer",
@@ -1052,15 +1061,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9756e9ed5b28.json"
-    },
-    {
-      "id": "opl_40c0e9f55557",
-      "slug": "orchestration-agent-manager",
-      "title": "Orchestration Agent Manager",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40c0e9f55557.json"
     }
   ]
 }
