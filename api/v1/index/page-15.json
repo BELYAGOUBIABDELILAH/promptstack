@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 15,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_f599aee59759",
+      "slug": "job-hunt-tooling-assistant",
+      "title": "Job Hunt Tooling Assistant",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f599aee59759.json"
+    },
     {
       "id": "opl_36605c6f3bce",
       "slug": "job-interviewer",
@@ -1045,15 +1054,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52b9f08b68ae.json"
-    },
-    {
-      "id": "opl_e056e7b5c001",
-      "slug": "llm-bias-censorship-evaulator",
-      "title": "LLM Bias & Censorship Evaulator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e056e7b5c001.json"
     }
   ]
 }

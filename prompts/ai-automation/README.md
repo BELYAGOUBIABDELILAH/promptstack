@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**126 prompts in this category**
+**127 prompts in this category**
 
 ## Table of Contents
 
@@ -46,6 +46,7 @@
 - [Data Analyst](data-analyst.md)
 - [Day Plan Generator (From Tasks)](day-plan-generator-from-tasks.md)
 - [Debugging Oncall Tickets](debugging-oncall-tickets.md)
+- [deconstruct](deconstruct.md)
 - [Deep Learning Loop](deep-learning-loop.md)
 - [Designing a Feature Testing Page for Enterprise WeChat/DingTalk](designing-a-feature-testing-page-for-enterprise-wechat-dingtalk.md)
 - [Dizi ve Film Özeti Çeviri Asistanı](dizi-ve-film-zeti-eviri-asistan.md)

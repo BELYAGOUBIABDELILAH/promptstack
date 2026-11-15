@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 9,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_b44297ca6418",
+      "slug": "deconstruct",
+      "title": "deconstruct",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b44297ca6418.json"
+    },
     {
       "id": "opl_ec99faac03b3",
       "slug": "deep-copy-functionality",
@@ -1178,20 +1187,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_386cd7297623.json"
-    },
-    {
-      "id": "opl_6c6f3ec8e1f4",
-      "slug": "double-exposure-portrait",
-      "title": "Double Exposure Portrait",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "name",
-          "default": "sunny forest"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c6f3ec8e1f4.json"
     }
   ]
 }

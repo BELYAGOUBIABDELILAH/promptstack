@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 26,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_59566f37dd24",
+      "slug": "template-document-generation-context",
+      "title": "Template Document Generation (Context)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59566f37dd24.json"
+    },
     {
       "id": "opl_cd3e1ea336b2",
       "slug": "template-response-genie",
@@ -1043,40 +1052,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_127df6b61ca5.json"
-    },
-    {
-      "id": "opl_b13571c9c446",
-      "slug": "ultimate-stake-us-dice-wagering-strategy-builder-rollover-playthrough-completion",
-      "title": "Ultimate Stake.us Dice Wagering Strategy Builder — Rollover & Playthrough Completion",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "acceptable_loss",
-          "default": "10% of bankroll"
-        },
-        {
-          "name": "bankroll",
-          "default": "$18 SC"
-        },
-        {
-          "name": "num_strategies",
-          "default": "5"
-        },
-        {
-          "name": "risk_level",
-          "default": "Medium"
-        },
-        {
-          "name": "session_length",
-          "default": "30 minutes"
-        },
-        {
-          "name": "wagering_target",
-          "default": "$100 SC"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b13571c9c446.json"
     }
   ]
 }

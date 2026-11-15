@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 13,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_ba09572f620f",
+      "slug": "hardware-specification-analyst",
+      "title": "Hardware Specification Analyst",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba09572f620f.json"
+    },
     {
       "id": "opl_af176ba1811e",
       "slug": "harry-potter-marauder-s-map",
@@ -1051,15 +1060,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a0ac71bd729.json"
-    },
-    {
-      "id": "opl_e9001d204e81",
-      "slug": "implement-role-based-access-control",
-      "title": "Implement Role-Based Access Control",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9001d204e81.json"
     }
   ]
 }

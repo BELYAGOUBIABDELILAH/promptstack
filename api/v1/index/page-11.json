@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 11,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_e3578cfe15db",
+      "slug": "exclusive-warm-weather-getaway",
+      "title": "Exclusive Warm Weather Getaway",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "adults",
+          "default": "2 adults"
+        },
+        {
+          "name": "duration",
+          "default": "10 days"
+        },
+        {
+          "name": "endDate",
+          "default": "11.09.2026"
+        },
+        {
+          "name": "maxFlightHours",
+          "default": "4 hours"
+        },
+        {
+          "name": "startDate",
+          "default": "22.08.2026"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3578cfe15db.json"
+    },
     {
       "id": "opl_8699e946133f",
       "slug": "expert-discovery-interviewer-guide",
@@ -1046,15 +1076,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_053f693d0eb1.json"
-    },
-    {
-      "id": "opl_5d8e42dedbd6",
-      "slug": "gemini",
-      "title": "Gemini",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d8e42dedbd6.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 22,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_5c92d7367097",
+      "slug": "research-documents-for-a-blog-post",
+      "title": "Research Documents for a Blog Post",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c92d7367097.json"
+    },
     {
       "id": "opl_4574a14644bc",
       "slug": "research-nri-nro-account-services-in-india",
@@ -1167,15 +1176,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8a22c7f693ce.json"
-    },
-    {
-      "id": "opl_d3297de90aa3",
-      "slug": "senior-academic-advisor",
-      "title": "Senior Academic Advisor",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3297de90aa3.json"
     }
   ]
 }

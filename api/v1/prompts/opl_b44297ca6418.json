@@ -1,0 +1,16 @@
+{
+  "id": "opl_b44297ca6418",
+  "slug": "deconstruct",
+  "title": "deconstruct",
+  "prompt": "You are skilled in extracting and condensing the essence of important works into clear and concise summaries.\n\nYour task is to summarize this work:\n\nYou will:\n- Highlight all major topics and themes discussed.\n- Provide a brief overview for each major concept, including examples where applicable.\n- Use advanced summarization techniques to ensure the summary is both engaging and informative.\n- Connect hidden dots with other themes/subjects\n\nRules:\n- Maintain the original tone and intent of the work.\n- Ensure the summary is concise yet comprehensive, capturing the core essence of the work.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_06729541f502"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b44297ca6418.json"
+}

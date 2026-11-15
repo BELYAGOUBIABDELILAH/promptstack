@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 14,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_e9001d204e81",
+      "slug": "implement-role-based-access-control",
+      "title": "Implement Role-Based Access Control",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9001d204e81.json"
+    },
     {
       "id": "opl_6ead2cbde59c",
       "slug": "implementador-de-tarefas",
@@ -1090,15 +1099,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9ffe55a7f4b9.json"
-    },
-    {
-      "id": "opl_f599aee59759",
-      "slug": "job-hunt-tooling-assistant",
-      "title": "Job Hunt Tooling Assistant",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f599aee59759.json"
     }
   ]
 }

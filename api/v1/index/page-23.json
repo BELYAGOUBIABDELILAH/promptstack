@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 23,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_d3297de90aa3",
+      "slug": "senior-academic-advisor",
+      "title": "Senior Academic Advisor",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3297de90aa3.json"
+    },
     {
       "id": "opl_85aa22972a2f",
       "slug": "senior-backend-engineer",
@@ -1167,15 +1176,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6a1de10a72c.json"
-    },
-    {
-      "id": "opl_f9c7f58c0256",
-      "slug": "sop-documentation-generator",
-      "title": "SOP Documentation Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9c7f58c0256.json"
     }
   ]
 }

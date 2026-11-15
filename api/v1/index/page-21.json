@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 21,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_0e84fea10d58",
+      "slug": "protocol-2084-the-alleyway-hack",
+      "title": "Protocol 2084: The Alleyway Hack",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "year",
+          "default": "2084"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e84fea10d58.json"
+    },
     {
       "id": "opl_11b1d98b803d",
       "slug": "proxmox-virtualization-expert",
@@ -1048,15 +1062,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a6d5b1ad354.json"
-    },
-    {
-      "id": "opl_5c92d7367097",
-      "slug": "research-documents-for-a-blog-post",
-      "title": "Research Documents for a Blog Post",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c92d7367097.json"
     }
   ]
 }

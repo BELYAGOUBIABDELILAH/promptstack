@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 20,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_9cdb7ad89489",
+      "slug": "potato-critic",
+      "title": "Potato Critic",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9cdb7ad89489.json"
+    },
     {
       "id": "opl_2e2bf5006138",
       "slug": "pov-smartphone-with-space-themed-twitter-ui-in-central-park",
@@ -1184,20 +1193,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_953fb3669220.json"
-    },
-    {
-      "id": "opl_0e84fea10d58",
-      "slug": "protocol-2084-the-alleyway-hack",
-      "title": "Protocol 2084: The Alleyway Hack",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "year",
-          "default": "2084"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e84fea10d58.json"
     }
   ]
 }

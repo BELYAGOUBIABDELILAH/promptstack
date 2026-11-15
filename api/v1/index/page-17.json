@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 17,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_818ce19f96ed",
+      "slug": "memory-profiler-cli",
+      "title": "Memory Profiler CLI",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_818ce19f96ed.json"
+    },
     {
       "id": "opl_f2c6c8dcea8a",
       "slug": "memxus-memory-stop-repeating-yourself-to-ai",
@@ -1070,15 +1079,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8f3a99a40c7.json"
-    },
-    {
-      "id": "opl_d5d9e5f7fbc7",
-      "slug": "network-packet-analyzer-cli",
-      "title": "Network Packet Analyzer CLI",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5d9e5f7fbc7.json"
     }
   ]
 }

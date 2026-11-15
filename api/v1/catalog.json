@@ -453,6 +453,15 @@
     "snippet": "Help solve complex deployment issues. Given the oncall ticket: 1. Summarize the issue in one sentence 2. Identify the most likely failure point (service, dependency, config, data)"
   },
   {
+    "id": "opl_b44297ca6418",
+    "title": "deconstruct",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "deconstruct",
+    "variables": [],
+    "snippet": "You are skilled in extracting and condensing the essence of important works into clear and concise summaries. Your task is to summarize this work: You will: - Highlight all major"
+  },
+  {
     "id": "opl_5494a68ac6ba",
     "title": "Deep Learning Loop",
     "category": "AI & Automation",

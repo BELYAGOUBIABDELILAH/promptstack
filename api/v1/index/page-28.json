@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 28,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_5e21fec4c4db",
+      "slug": "weekly-updates-for-1-1",
+      "title": "Weekly Updates for 1:1",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e21fec4c4db.json"
+    },
     {
       "id": "opl_f731bd512f44",
       "slug": "wfgy-2-0-core-flagship-self-healing-reasoning-os-for-any-llm",

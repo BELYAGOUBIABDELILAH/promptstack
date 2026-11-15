@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T03:20:41.940Z",
+  "last_updated": "2026-11-15T04:20:42.072Z",
   "page": 10,
   "per_page": 100,
-  "total": 2752,
+  "total": 2753,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_6c6f3ec8e1f4",
+      "slug": "double-exposure-portrait",
+      "title": "Double Exposure Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "name",
+          "default": "sunny forest"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c6f3ec8e1f4.json"
+    },
     {
       "id": "opl_080d7862897e",
       "slug": "double-system-prompt-creator",
@@ -1272,36 +1286,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcc7361cbf96.json"
-    },
-    {
-      "id": "opl_e3578cfe15db",
-      "slug": "exclusive-warm-weather-getaway",
-      "title": "Exclusive Warm Weather Getaway",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "adults",
-          "default": "2 adults"
-        },
-        {
-          "name": "duration",
-          "default": "10 days"
-        },
-        {
-          "name": "endDate",
-          "default": "11.09.2026"
-        },
-        {
-          "name": "maxFlightHours",
-          "default": "4 hours"
-        },
-        {
-          "name": "startDate",
-          "default": "22.08.2026"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3578cfe15db.json"
     }
   ]
 }
