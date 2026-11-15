@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 16,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_cc89bf239a7f",
+      "slug": "llm-expert",
+      "title": "LLM Expert",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc89bf239a7f.json"
+    },
     {
       "id": "opl_c5da927ca878",
       "slug": "llm-fine-tune-guide",
@@ -1132,15 +1141,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2c6c8dcea8a.json"
-    },
-    {
-      "id": "opl_b06c4fd5e59d",
-      "slug": "mental-health-adviser",
-      "title": "Mental Health Adviser",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b06c4fd5e59d.json"
     }
   ]
 }

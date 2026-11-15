@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 22,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_43d2da139680",
+      "slug": "research-problems-faced-by-a-user-persona",
+      "title": "Research Problems Faced by a User Persona",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_43d2da139680.json"
+    },
     {
       "id": "opl_95f4122ade39",
       "slug": "research-project-analysis-and-ipd-feasibility-recommendation",
@@ -1180,15 +1189,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_caafcbb40fd1.json"
-    },
-    {
-      "id": "opl_8e97d0b1192f",
-      "slug": "senior-frontend-debugger-for-spa-websites-angular-react-vite",
-      "title": "Senior Frontend Debugger for SPA Websites (Angular, React, Vite)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e97d0b1192f.json"
     }
   ]
 }

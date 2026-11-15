@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 12,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_8da397f75815",
+      "slug": "gemini-md",
+      "title": "gemini.md",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8da397f75815.json"
+    },
     {
       "id": "opl_4582a6355936",
       "slug": "gen-z-content-online-sales-prompt-generator",
@@ -1031,24 +1040,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba09572f620f.json"
-    },
-    {
-      "id": "opl_af176ba1811e",
-      "slug": "harry-potter-marauder-s-map",
-      "title": "Harry Potter / Marauder’s Map",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "aspect_ratio",
-          "default": null
-        },
-        {
-          "name": "city_name",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af176ba1811e.json"
     }
   ]
 }

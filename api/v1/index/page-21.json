@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 21,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_fec089c51205",
+      "slug": "pseudo-ai-messenger",
+      "title": "Pseudo AI Messenger",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fec089c51205.json"
+    },
     {
       "id": "opl_116e6ec609c9",
       "slug": "pseudo-anti-spam-bot-mailer",
@@ -1048,15 +1057,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aad3ab13f409.json"
-    },
-    {
-      "id": "opl_43d2da139680",
-      "slug": "research-problems-faced-by-a-user-persona",
-      "title": "Research Problems Faced by a User Persona",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_43d2da139680.json"
     }
   ]
 }

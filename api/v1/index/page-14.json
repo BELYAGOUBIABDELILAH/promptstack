@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 14,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_445dc10f3106",
+      "slug": "imposter-syndrome-allly",
+      "title": "Imposter Syndrome Allly",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_445dc10f3106.json"
+    },
     {
       "id": "opl_e30304c30b0d",
       "slug": "impressionistic-urban-solitude",
@@ -1095,15 +1104,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36605c6f3bce.json"
-    },
-    {
-      "id": "opl_76c64aaa7129",
-      "slug": "job-posting-snapshot-preservation-engine",
-      "title": "Job Posting Snapshot & Preservation Engine",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76c64aaa7129.json"
     }
   ]
 }

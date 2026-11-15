@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**67 prompts in this category**
+**68 prompts in this category**
 
 ## Table of Contents
 
@@ -40,6 +40,7 @@
 - [Etsy POD Masterclass: From Zero to Hero](etsy-pod-masterclass-from-zero-to-hero.md)
 - [Expert Legal Analyst in Tax and Commercial Law](expert-legal-analyst-in-tax-and-commercial-law.md)
 - [Fantasy Console Simulator](fantasy-console-simulator.md)
+- [Five Cinematic Face-Locked Portrait Scenes](five-cinematic-face-locked-portrait-scenes.md)
 - [Generate Security Documentation](generate-security-documentation.md)
 - [Geopolitical Effect Modeller](geopolitical-effect-modeller.md)
 - [Geopolitical Relationship Briefer](geopolitical-relationship-briefer.md)

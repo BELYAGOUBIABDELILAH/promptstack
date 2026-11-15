@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 20,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_576eda5f4f7e",
+      "slug": "power-bi",
+      "title": "Power BI",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_576eda5f4f7e.json"
+    },
     {
       "id": "opl_4376d1b5d78c",
       "slug": "power-in-the-shadows",
@@ -1189,15 +1198,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11b1d98b803d.json"
-    },
-    {
-      "id": "opl_fec089c51205",
-      "slug": "pseudo-ai-messenger",
-      "title": "Pseudo AI Messenger",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fec089c51205.json"
     }
   ]
 }

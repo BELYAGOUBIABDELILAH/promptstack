@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 26,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_6ef1fe484dfe",
+      "slug": "terminal-velocity",
+      "title": "Terminal Velocity",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ef1fe484dfe.json"
+    },
     {
       "id": "opl_9f0224cf321a",
       "slug": "terraform-platform-engineer",
@@ -1068,15 +1077,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff225bb36f30.json"
-    },
-    {
-      "id": "opl_2cfb03bf5e3f",
-      "slug": "ultra-realistic-bedroom-selfie-description",
-      "title": "Ultra Realistic Bedroom Selfie Description",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cfb03bf5e3f.json"
     }
   ]
 }

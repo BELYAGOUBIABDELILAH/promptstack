@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 19,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_6484fd20cd6e",
+      "slug": "paper-lantern-harbor-at-dusk",
+      "title": "Paper Lantern Harbor at Dusk",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6484fd20cd6e.json"
+    },
     {
       "id": "opl_961d17fdd979",
       "slug": "paper-lantern-harbor-close-up-boat-detail",
@@ -1250,15 +1259,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e2bf5006138.json"
-    },
-    {
-      "id": "opl_576eda5f4f7e",
-      "slug": "power-bi",
-      "title": "Power BI",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_576eda5f4f7e.json"
     }
   ]
 }

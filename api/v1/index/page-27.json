@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 27,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_2cfb03bf5e3f",
+      "slug": "ultra-realistic-bedroom-selfie-description",
+      "title": "Ultra Realistic Bedroom Selfie Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cfb03bf5e3f.json"
+    },
     {
       "id": "opl_66432abaf290",
       "slug": "ultra-realistic-candid-photo-of-a-turkish-woman-in-istanbul",
@@ -1194,15 +1203,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dac95f59c8cc.json"
-    },
-    {
-      "id": "opl_0ec7b94e3618",
-      "slug": "when-to-clear-the-snow-generic",
-      "title": "When to clear the snow (generic)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ec7b94e3618.json"
     }
   ]
 }

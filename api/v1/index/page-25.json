@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T23:20:42.069Z",
+  "last_updated": "2026-11-15T00:20:42.452Z",
   "page": 25,
   "per_page": 100,
-  "total": 2748,
+  "total": 2749,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_edacfa031fe4",
+      "slug": "success-stories",
+      "title": "Success Stories",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_edacfa031fe4.json"
+    },
     {
       "id": "opl_e11364b84c2d",
       "slug": "sudoku-game",
@@ -981,15 +990,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db3e45387e14.json"
-    },
-    {
-      "id": "opl_6ef1fe484dfe",
-      "slug": "terminal-velocity",
-      "title": "Terminal Velocity",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ef1fe484dfe.json"
     }
   ]
 }
