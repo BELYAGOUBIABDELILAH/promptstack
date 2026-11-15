@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**209 prompts in this category**
+**210 prompts in this category**
 
 ## Table of Contents
 
@@ -192,6 +192,7 @@
 - [Stock Market Analysis Expert](stock-market-analysis-expert.md)
 - [Stock Market Analyst: Market Move Suggestions](stock-market-analyst-market-move-suggestions.md)
 - [Strategic Decision-Making Matrix](strategic-decision-making-matrix.md)
+- [subvert](subvert.md)
 - [suitable sunglasses using gemini](suitable-sunglasses-using-gemini.md)
 - [Super Trader Model for Stock Analysis](super-trader-model-for-stock-analysis.md)
 - [Tech Reviewer](tech-reviewer.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T22:20:39.600Z",
+  "last_updated": "2026-11-15T23:20:40.799Z",
   "page": 27,
   "per_page": 100,
-  "total": 2771,
+  "total": 2772,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_34f6bcc21661",
+      "slug": "tts-tester",
+      "title": "TTS Tester",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34f6bcc21661.json"
+    },
     {
       "id": "opl_0d9e8f483904",
       "slug": "tumor-medical-industry-solution-business-plan",
@@ -1197,15 +1206,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e50ee3b058ea.json"
-    },
-    {
-      "id": "opl_834ed4796632",
-      "slug": "war",
-      "title": "war",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_834ed4796632.json"
     }
   ]
 }
