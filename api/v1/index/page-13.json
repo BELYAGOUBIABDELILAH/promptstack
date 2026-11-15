@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 13,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_4c5e52e7c7ca",
+      "slug": "gyroscopic-maze-run",
+      "title": "Gyroscopic Maze Run",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c5e52e7c7ca.json"
+    },
     {
       "id": "opl_98504156f41d",
       "slug": "ha-scene-and-automation-editor",
@@ -1068,15 +1077,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18987b422956.json"
-    },
-    {
-      "id": "opl_9a5db3262cb8",
-      "slug": "image-pii-checker",
-      "title": "Image PII Checker",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a5db3262cb8.json"
     }
   ]
 }

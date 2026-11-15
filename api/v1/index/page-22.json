@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 22,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_de1d33a21800",
+      "slug": "remote-worker-fitness-trainer",
+      "title": "Remote Worker Fitness Trainer",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de1d33a21800.json"
+    },
     {
       "id": "opl_1b35dc65296b",
       "slug": "remotion",
@@ -1195,36 +1204,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9255fb7381f.json"
-    },
-    {
-      "id": "opl_d59fc45f1841",
-      "slug": "secteur-bancaire-email-professionnel",
-      "title": "Secteur Bancaire - Email Professionnel",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "action attendue",
-          "default": null
-        },
-        {
-          "name": "object du mail",
-          "default": null
-        },
-        {
-          "name": "points clés",
-          "default": null
-        },
-        {
-          "name": "theme",
-          "default": null
-        },
-        {
-          "name": "type de client",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d59fc45f1841.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 26,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_a0bbe0da823b",
+      "slug": "tech-writer",
+      "title": "Tech Writer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0bbe0da823b.json"
+    },
     {
       "id": "opl_c7d14e21fd52",
       "slug": "tech-challenged-customer",
@@ -1005,15 +1014,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f82858d537ec.json"
-    },
-    {
-      "id": "opl_4dcb40a69075",
-      "slug": "tv-premiere-weekly-listing-prompt",
-      "title": "TV Premiere Weekly Listing Prompt",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4dcb40a69075.json"
     }
   ]
 }

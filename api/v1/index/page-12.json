@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 12,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_3061529c6a84",
+      "slug": "future-vision",
+      "title": "Future Vision",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3061529c6a84.json"
+    },
     {
       "id": "opl_193d7cda4073",
       "slug": "futuristic-alps-in-2150",
@@ -997,15 +1006,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c8ed5f5d467.json"
-    },
-    {
-      "id": "opl_4c5e52e7c7ca",
-      "slug": "gyroscopic-maze-run",
-      "title": "Gyroscopic Maze Run",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c5e52e7c7ca.json"
     }
   ]
 }

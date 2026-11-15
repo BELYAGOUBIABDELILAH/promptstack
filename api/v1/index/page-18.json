@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 18,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_853c4a0bda43",
+      "slug": "native-english-editor",
+      "title": "Native English Editor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_853c4a0bda43.json"
+    },
     {
       "id": "opl_cd8627a3b9fe",
       "slug": "natural-language-schema-definition-mongodb",
@@ -1052,15 +1061,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_053fe6928418.json"
-    },
-    {
-      "id": "opl_13245469ef01",
-      "slug": "os2-0-safe-delivery-context-master",
-      "title": "OS2.0 SAFe Delivery Context (Master)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13245469ef01.json"
     }
   ]
 }

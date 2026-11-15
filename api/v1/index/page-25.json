@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 25,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_06148d0b1f88",
+      "slug": "studio-beauty-editorial-close-up-pro",
+      "title": "Studio Beauty Editorial (close-up, pro)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06148d0b1f88.json"
+    },
     {
       "id": "opl_66ae9cd90bc1",
       "slug": "studio-portraits-with-professional-postures",
@@ -1027,15 +1036,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_033d0e595e8a.json"
-    },
-    {
-      "id": "opl_a0bbe0da823b",
-      "slug": "tech-writer",
-      "title": "Tech Writer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0bbe0da823b.json"
     }
   ]
 }

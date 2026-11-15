@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 21,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_5f0af4935a28",
+      "slug": "4-optimized-versions-of-a-prompt-in-arabic",
+      "title": "Prompt Optimizer for Arabic Content",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f0af4935a28.json"
+    },
     {
       "id": "opl_45e3d3ce4558",
       "slug": "prompt-refiner",
@@ -1011,15 +1020,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ad20a4e65e1.json"
-    },
-    {
-      "id": "opl_de1d33a21800",
-      "slug": "remote-worker-fitness-trainer",
-      "title": "Remote Worker Fitness Trainer",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de1d33a21800.json"
     }
   ]
 }

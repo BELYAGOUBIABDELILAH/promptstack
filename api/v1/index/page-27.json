@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 27,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_4dcb40a69075",
+      "slug": "tv-premiere-weekly-listing-prompt",
+      "title": "TV Premiere Weekly Listing Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4dcb40a69075.json"
+    },
     {
       "id": "opl_2ce6409ef837",
       "slug": "tvs-raider",
@@ -1210,15 +1219,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_26b691263a1a.json"
-    },
-    {
-      "id": "opl_40625615849c",
-      "slug": "web-app-for-task-management-and-scheduling",
-      "title": "Web App for Task Management and Scheduling",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40625615849c.json"
     }
   ]
 }

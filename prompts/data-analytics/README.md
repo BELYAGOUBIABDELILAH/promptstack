@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**176 prompts in this category**
+**177 prompts in this category**
 
 ## Table of Contents
 
@@ -83,6 +83,7 @@
 - [Expert Guidance for Acoustic and Deep Learning Research](expert-guidance-for-acoustic-and-deep-learning-research.md)
 - [Exploring Gaps in Thesis Writing Literature with ChatGPT](exploring-gaps-in-thesis-writing-literature-with-chatgpt.md)
 - [Extreme Close-up Macro Photography of a Young Woman's Face](extreme-close-up-macro-photography-of-a-young-woman-s-face.md)
+- [Factcheck](factcheck.md)
 - [FDR Analysis Program for Commercial Aircraft](fdr-analysis-program-for-commercial-aircraft.md)
 - [Fierce Medieval Queen on Iron Throne Portrait](fierce-medieval-queen-on-iron-throne-portrait.md)
 - [Film Critic](film-critic.md)

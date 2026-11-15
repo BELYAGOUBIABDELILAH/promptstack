@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T17:20:47.083Z",
+  "last_updated": "2026-11-15T18:20:42.151Z",
   "page": 24,
   "per_page": 100,
-  "total": 2766,
+  "total": 2767,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_3ed114f5b669",
+      "slug": "socrat",
+      "title": "Socrat",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ed114f5b669.json"
+    },
     {
       "id": "opl_fcaca28321a4",
       "slug": "socratic-method",
@@ -1026,15 +1035,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_970533f38fa4.json"
-    },
-    {
-      "id": "opl_06148d0b1f88",
-      "slug": "studio-beauty-editorial-close-up-pro",
-      "title": "Studio Beauty Editorial (close-up, pro)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06148d0b1f88.json"
     }
   ]
 }
