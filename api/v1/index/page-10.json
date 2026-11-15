@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 10,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_0539435d2943",
+      "slug": "domain-name-ideator",
+      "title": "Domain Name Ideator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0539435d2943.json"
+    },
     {
       "id": "opl_79075a96478d",
       "slug": "doom-horror-death-image-simulator",
@@ -1285,20 +1294,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2730dbde5543.json"
-    },
-    {
-      "id": "opl_90948faae56c",
-      "slug": "excel-data-to-figma-presentation-designer",
-      "title": "Excel Data to Figma Presentation Designer",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "targetAudience",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90948faae56c.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 25,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_d1fe27250ac8",
+      "slug": "stylelint-plugin-author",
+      "title": "Stylelint Plugin Author",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1fe27250ac8.json"
+    },
     {
       "id": "opl_8fe28c2a5930",
       "slug": "stylistic-text-editor",
@@ -1000,15 +1009,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2d9aff704bb1.json"
-    },
-    {
-      "id": "opl_b40999a3e917",
-      "slug": "technical-writing-tools-advisor",
-      "title": "Technical Writing Tools Advisor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b40999a3e917.json"
     }
   ]
 }

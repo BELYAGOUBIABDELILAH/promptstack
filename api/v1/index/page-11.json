@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 11,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_90948faae56c",
+      "slug": "excel-data-to-figma-presentation-designer",
+      "title": "Excel Data to Figma Presentation Designer",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "targetAudience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90948faae56c.json"
+    },
     {
       "id": "opl_941c71576dcd",
       "slug": "excel-formula-sensei",
@@ -1080,15 +1094,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9a67537ad07.json"
-    },
-    {
-      "id": "opl_630e6aa67ea8",
-      "slug": "gaslighter",
-      "title": "Gaslighter",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_630e6aa67ea8.json"
     }
   ]
 }

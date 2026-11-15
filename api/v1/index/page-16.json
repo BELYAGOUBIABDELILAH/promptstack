@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 16,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_a44a5e13e1b5",
+      "slug": "live-scam-threat-briefing",
+      "title": "Live Scam Threat Briefing",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a44a5e13e1b5.json"
+    },
     {
       "id": "opl_0d93a7243452",
       "slug": "live-stock-market-analysis",
@@ -1119,15 +1128,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8ec5422d75a.json"
-    },
-    {
-      "id": "opl_0600736c0e8c",
-      "slug": "meeting-notes-synthesizer",
-      "title": "Meeting Notes Synthesizer",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0600736c0e8c.json"
     }
   ]
 }

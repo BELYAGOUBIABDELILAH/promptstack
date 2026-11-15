@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 7,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_3f0f781ff605",
+      "slug": "comprehensive-car-specifications-and-upgrade-guide",
+      "title": "Comprehensive Car Specifications and Upgrade Guide",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "carModel",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f0f781ff605.json"
+    },
     {
       "id": "opl_5bd5683933f4",
       "slug": "comprehensive-code-review-expert",
@@ -1293,28 +1307,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12972b371656.json"
-    },
-    {
-      "id": "opl_c6bfd1c22278",
-      "slug": "creating-a-comprehensive-elasticsearch-search-project-with-f",
-      "title": "Creating a Comprehensive Elasticsearch Search Project with FastAPI",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "databaseType",
-          "default": "PostgreSQL"
-        },
-        {
-          "name": "integration",
-          "default": "kafka"
-        },
-        {
-          "name": "searchMethod",
-          "default": "keyword"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6bfd1c22278.json"
     }
   ]
 }

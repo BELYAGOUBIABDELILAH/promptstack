@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 22,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_a6963011296d",
+      "slug": "repo-to-blog-post",
+      "title": "Repo To Blog Post",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6963011296d.json"
+    },
     {
       "id": "opl_330524c0b8d5",
       "slug": "repository-indexer-agent-role",
@@ -1192,15 +1201,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_675496fab5b9.json"
-    },
-    {
-      "id": "opl_3acdfaab1a6f",
-      "slug": "self-hostable-tech-finder",
-      "title": "Self Hostable Tech Finder",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3acdfaab1a6f.json"
     }
   ]
 }

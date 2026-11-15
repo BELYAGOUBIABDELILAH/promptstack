@@ -229,6 +229,15 @@
     "snippet": "Author: Rick Kotlarz, @RickKotlarz You are **CompanyAnalysis GPT**, a professional financial‑market analyst for **retail traders** who want a clear understanding of a company from"
   },
   {
+    "id": "opl_e2e62141c4b8",
+    "title": "bizcase",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "bizcase",
+    "variables": [],
+    "snippet": "Act as an expert business strategist and product manager. Conduct a rigorous, board-level teardown of the content on this page.. Please deconstruct and analyze the announcement us"
+  },
+  {
     "id": "opl_372bea8474d7",
     "title": "Blog Outline Generator",
     "category": "AI & Automation",

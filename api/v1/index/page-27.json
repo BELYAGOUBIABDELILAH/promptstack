@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 27,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_1be1ef2ef814",
+      "slug": "ui-architect-agent-role",
+      "title": "UI Architect Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1be1ef2ef814.json"
+    },
     {
       "id": "opl_29ba9ccc8917",
       "slug": "ui-designer-role",
@@ -1218,15 +1227,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_efc1ff8e3006.json"
-    },
-    {
-      "id": "opl_b9fe8c4b5510",
-      "slug": "web-typography",
-      "title": "Web Typography",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9fe8c4b5510.json"
     }
   ]
 }

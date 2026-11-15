@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 23,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_3acdfaab1a6f",
+      "slug": "self-hostable-tech-finder",
+      "title": "Self Hostable Tech Finder",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3acdfaab1a6f.json"
+    },
     {
       "id": "opl_19795197a811",
       "slug": "self-help-book",
@@ -1172,15 +1181,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e3f0211a941.json"
-    },
-    {
-      "id": "opl_89815fe43684",
-      "slug": "software-implementor-ai-agent-for-data-entry-and-testing",
-      "title": "Software Implementor AI Agent for Data Entry and Testing",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_89815fe43684.json"
     }
   ]
 }

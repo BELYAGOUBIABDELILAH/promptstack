@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 17,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_0600736c0e8c",
+      "slug": "meeting-notes-synthesizer",
+      "title": "Meeting Notes Synthesizer",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0600736c0e8c.json"
+    },
     {
       "id": "opl_288f7543b153",
       "slug": "meeting-room-booking-web-app-development",
@@ -1054,15 +1063,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1fc09a208d1.json"
-    },
-    {
-      "id": "opl_9db571502ee7",
-      "slug": "navigate-large-codebase-quickly",
-      "title": "Navigate Large Codebase Quickly",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9db571502ee7.json"
     }
   ]
 }

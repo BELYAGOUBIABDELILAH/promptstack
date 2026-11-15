@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**127 prompts in this category**
+**128 prompts in this category**
 
 ## Table of Contents
 
@@ -27,6 +27,7 @@
 - [Autoresponse Spoofer](autoresponse-spoofer.md)
 - [Bank Transaction Analysis](bank-transaction-analysis.md)
 - [Big 4 style report for retail traders - Enter the name and ticker of a U.S. publicly traded company.](big-4-style-report-for-retail-traders-enter-the-name-and-ticker-of-a-u-s-publicly-traded-company.md)
+- [bizcase](bizcase.md)
 - [Blog Outline Generator](blog-outline-generator.md)
 - [Book Publication Q&A](book-publication-q-a.md)
 - [Book Summarizer](book-summarizer.md)

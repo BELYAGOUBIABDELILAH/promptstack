@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 26,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_b40999a3e917",
+      "slug": "technical-writing-tools-advisor",
+      "title": "Technical Writing Tools Advisor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b40999a3e917.json"
+    },
     {
       "id": "opl_1d2061a590be",
       "slug": "technology-transferer",
@@ -1022,15 +1031,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e48b5a0727c.json"
-    },
-    {
-      "id": "opl_1be1ef2ef814",
-      "slug": "ui-architect-agent-role",
-      "title": "UI Architect Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1be1ef2ef814.json"
     }
   ]
 }

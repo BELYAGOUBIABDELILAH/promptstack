@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 5,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_04e8bde45957",
+      "slug": "break-this-text-down",
+      "title": "Break This Text Down",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04e8bde45957.json"
+    },
     {
       "id": "opl_1c634925633e",
       "slug": "brief-generator-general-purpose",
@@ -1088,20 +1097,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80e4f8f5ef51.json"
-    },
-    {
-      "id": "opl_815a1ddce57e",
-      "slug": "christmas-poster-festive-holiday-scene",
-      "title": "Christmas Poster - Festive Holiday Scene",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "size",
-          "default": "1080x1080"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_815a1ddce57e.json"
     }
   ]
 }

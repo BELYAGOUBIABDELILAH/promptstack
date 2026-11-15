@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 21,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_370a4b9066f6",
+      "slug": "prompt-to-tool-ideator",
+      "title": "Prompt To Tool Ideator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_370a4b9066f6.json"
+    },
     {
       "id": "opl_bdbbaec90fcb",
       "slug": "prompt-writer-for-specific-project",
@@ -1040,15 +1049,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45fa4c2575d5.json"
-    },
-    {
-      "id": "opl_a6963011296d",
-      "slug": "repo-to-blog-post",
-      "title": "Repo To Blog Post",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6963011296d.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 14,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_db7593a0c2a0",
+      "slug": "implement-ci-cd-best-practices",
+      "title": "Implement CI/CD Best Practices",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db7593a0c2a0.json"
+    },
     {
       "id": "opl_ed3231c55378",
       "slug": "implement-data-retention-policies",
@@ -1090,15 +1099,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3458de14e65.json"
-    },
-    {
-      "id": "opl_194ec4af2fbd",
-      "slug": "job-fit",
-      "title": "Job Fit",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_194ec4af2fbd.json"
     }
   ]
 }

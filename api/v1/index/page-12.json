@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 12,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_630e6aa67ea8",
+      "slug": "gaslighter",
+      "title": "Gaslighter",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_630e6aa67ea8.json"
+    },
     {
       "id": "opl_a5b0226830bc",
       "slug": "gathering-planner-interview",
@@ -997,32 +1006,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2601e584df55.json"
-    },
-    {
-      "id": "opl_cf64955d5b01",
-      "slug": "handle-bug-in-feature",
-      "title": "handle bug in feature",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "describe_feature",
-          "default": null
-        },
-        {
-          "name": "paste_relevant_code",
-          "default": null
-        },
-        {
-          "name": "what_is_happening",
-          "default": null
-        },
-        {
-          "name": "what_should_happen",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf64955d5b01.json"
     }
   ]
 }

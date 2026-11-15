@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 20,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_2518bf1a13f6",
+      "slug": "pokemon-master",
+      "title": "Pokemon master",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2518bf1a13f6.json"
+    },
     {
       "id": "opl_39ee306c9837",
       "slug": "policy-agent-client-manager",
@@ -1285,15 +1294,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d356a77cd16.json"
-    },
-    {
-      "id": "opl_370a4b9066f6",
-      "slug": "prompt-to-tool-ideator",
-      "title": "Prompt To Tool Ideator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_370a4b9066f6.json"
     }
   ]
 }

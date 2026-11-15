@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-15T09:20:41.731Z",
+  "last_updated": "2026-11-15T10:20:47.509Z",
   "page": 13,
   "per_page": 100,
-  "total": 2758,
+  "total": 2759,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_cf64955d5b01",
+      "slug": "handle-bug-in-feature",
+      "title": "handle bug in feature",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "describe_feature",
+          "default": null
+        },
+        {
+          "name": "paste_relevant_code",
+          "default": null
+        },
+        {
+          "name": "what_is_happening",
+          "default": null
+        },
+        {
+          "name": "what_should_happen",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf64955d5b01.json"
+    },
     {
       "id": "opl_c0a0e2004b94",
       "slug": "handle-the-bug-in-feature",
@@ -1068,15 +1094,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7a929f18966a.json"
-    },
-    {
-      "id": "opl_db7593a0c2a0",
-      "slug": "implement-ci-cd-best-practices",
-      "title": "Implement CI/CD Best Practices",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db7593a0c2a0.json"
     }
   ]
 }
