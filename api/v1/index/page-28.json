@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 28,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_bdc12adf1755",
+      "slug": "website-security-vulnerability-checker",
+      "title": "Website Security Vulnerability Checker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "reportFormat",
+          "default": "PDF"
+        },
+        {
+          "name": "websiteUrl",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bdc12adf1755.json"
+    },
     {
       "id": "opl_5e21fec4c4db",
       "slug": "weekly-updates-for-1-1",

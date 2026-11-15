@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 9,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
@@ -15,6 +15,15 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b44297ca6418.json"
+    },
+    {
+      "id": "opl_2414da59c7f8",
+      "slug": "deduce",
+      "title": "Deduce",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2414da59c7f8.json"
     },
     {
       "id": "opl_ec99faac03b3",
@@ -1165,28 +1174,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_79075a96478d.json"
-    },
-    {
-      "id": "opl_386cd7297623",
-      "slug": "dota-2-hero-stats-and-builds-website-design",
-      "title": "Dota 2 Hero Stats and Builds Website Design",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "heroName",
-          "default": null
-        },
-        {
-          "name": "metaBuild",
-          "default": null
-        },
-        {
-          "name": "winRate",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_386cd7297623.json"
     }
   ]
 }

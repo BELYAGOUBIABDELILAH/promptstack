@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 16,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_52b9f08b68ae",
+      "slug": "llm-background-assistant",
+      "title": "LLM Background Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52b9f08b68ae.json"
+    },
     {
       "id": "opl_e056e7b5c001",
       "slug": "llm-bias-censorship-evaulator",
@@ -1132,15 +1141,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_826757f6509d.json"
-    },
-    {
-      "id": "opl_6fa7a312abf5",
-      "slug": "memory-card-game",
-      "title": "Memory Card Game",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fa7a312abf5.json"
     }
   ]
 }

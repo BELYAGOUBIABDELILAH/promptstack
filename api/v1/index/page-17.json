@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 17,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_6fa7a312abf5",
+      "slug": "memory-card-game",
+      "title": "Memory Card Game",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fa7a312abf5.json"
+    },
     {
       "id": "opl_818ce19f96ed",
       "slug": "memory-profiler-cli",
@@ -1070,15 +1079,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9df8057b4afc.json"
-    },
-    {
-      "id": "opl_c8f3a99a40c7",
-      "slug": "network-engineer-home-edition",
-      "title": "Network Engineer: Home Edition",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8f3a99a40c7.json"
     }
   ]
 }

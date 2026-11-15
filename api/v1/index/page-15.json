@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 15,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_9ffe55a7f4b9",
+      "slug": "job-hunt-summary-crafter",
+      "title": "Job Hunt Summary Crafter",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9ffe55a7f4b9.json"
+    },
     {
       "id": "opl_f599aee59759",
       "slug": "job-hunt-tooling-assistant",
@@ -1045,15 +1054,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5513e705a48.json"
-    },
-    {
-      "id": "opl_52b9f08b68ae",
-      "slug": "llm-background-assistant",
-      "title": "LLM Background Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52b9f08b68ae.json"
     }
   ]
 }

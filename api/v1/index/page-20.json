@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 20,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_3c599f702129",
+      "slug": "postmortem",
+      "title": "postmortem",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c599f702129.json"
+    },
     {
       "id": "opl_9cdb7ad89489",
       "slug": "potato-critic",
@@ -1184,15 +1193,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a614ab89d33c.json"
-    },
-    {
-      "id": "opl_953fb3669220",
-      "slug": "proofreader-inconsistencies",
-      "title": "Proofreader - Inconsistencies",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_953fb3669220.json"
     }
   ]
 }

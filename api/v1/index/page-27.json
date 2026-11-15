@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 27,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_127df6b61ca5",
+      "slug": "ultimate-stake-us-dice-strategy-builder-all-risk-levels-bankrolls",
+      "title": "Ultimate Stake.us Dice Strategy Builder — All Risk Levels & Bankrolls",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "bankroll",
+          "default": "$50 SC"
+        },
+        {
+          "name": "num_strategies",
+          "default": "5"
+        },
+        {
+          "name": "profit_goal",
+          "default": "10% of bankroll"
+        },
+        {
+          "name": "risk_level",
+          "default": "Medium"
+        },
+        {
+          "name": "stop_loss",
+          "default": "25% of bankroll"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_127df6b61ca5.json"
+    },
     {
       "id": "opl_b13571c9c446",
       "slug": "ultimate-stake-us-dice-wagering-strategy-builder-rollover-playthrough-completion",
@@ -1210,24 +1240,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dca1f78ac0b1.json"
-    },
-    {
-      "id": "opl_bdc12adf1755",
-      "slug": "website-security-vulnerability-checker",
-      "title": "Website Security Vulnerability Checker",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "reportFormat",
-          "default": "PDF"
-        },
-        {
-          "name": "websiteUrl",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bdc12adf1755.json"
     }
   ]
 }

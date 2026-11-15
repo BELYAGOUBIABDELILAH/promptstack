@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**175 prompts in this category**
+**176 prompts in this category**
 
 ## Table of Contents
 
@@ -63,6 +63,7 @@
 - [Data Trends Identifier](data-trends-identifier.md)
 - [Data Visualization and Storytelling](data-visualization-and-storytelling.md)
 - [Debater](debater.md)
+- [Deduce](deduce.md)
 - [Deep Research - Gemini](deep-research-gemini.md)
 - [Default Meeting Summary](default-meeting-summary.md)
 - [Description Text Generator](description-text-generator.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 18,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_c8f3a99a40c7",
+      "slug": "network-engineer-home-edition",
+      "title": "Network Engineer: Home Edition",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8f3a99a40c7.json"
+    },
     {
       "id": "opl_d5d9e5f7fbc7",
       "slug": "network-packet-analyzer-cli",
@@ -1028,15 +1037,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_573a3fcbc6f7.json"
-    },
-    {
-      "id": "opl_209a5a82d0dc",
-      "slug": "page-by-page-build",
-      "title": "Page-by-Page Build",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_209a5a82d0dc.json"
     }
   ]
 }

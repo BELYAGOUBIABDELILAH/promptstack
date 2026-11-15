@@ -15553,6 +15553,15 @@
     "snippet": "I want you to act as a debater. I will provide you with some topics related to current events and your task is to research both sides of the debates, present valid arguments for ea"
   },
   {
+    "id": "opl_2414da59c7f8",
+    "title": "Deduce",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "deduce",
+    "variables": [],
+    "snippet": "You are acting as a Senior Intelligence Analyst. Your task is to investigate an unknown or undisclosed entity (Asset/Person/Event) by triangulating multiple circumstantial clues an"
+  },
+  {
     "id": "opl_2df5a2ac21e8",
     "title": "Deep Research - Gemini",
     "category": "Data & Analytics",

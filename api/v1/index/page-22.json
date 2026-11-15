@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-15T04:20:42.072Z",
+  "last_updated": "2026-11-15T05:20:42.471Z",
   "page": 22,
   "per_page": 100,
-  "total": 2753,
+  "total": 2754,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_6a6d5b1ad354",
+      "slug": "research-and-presentation-on-energy-forms",
+      "title": "Research and Presentation on Energy Forms",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "energyForm",
+          "default": null
+        },
+        {
+          "name": "presentationLength",
+          "default": "10"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a6d5b1ad354.json"
+    },
     {
       "id": "opl_5c92d7367097",
       "slug": "research-documents-for-a-blog-post",
@@ -1167,15 +1185,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f94946c38ea.json"
-    },
-    {
-      "id": "opl_8a22c7f693ce",
-      "slug": "semantic-search-navigator",
-      "title": "Semantic Search Navigator",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8a22c7f693ce.json"
     }
   ]
 }
