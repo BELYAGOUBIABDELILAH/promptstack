@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 15,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_ca07130344a7",
+      "slug": "jewish-holidays-calendar",
+      "title": "Jewish Holidays Calendar",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca07130344a7.json"
+    },
     {
       "id": "opl_5e3a6b66dcb0",
       "slug": "job-eoi-email-generator",
@@ -1035,15 +1044,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae603fcbf739.json"
-    },
-    {
-      "id": "opl_acb4b6d18b73",
-      "slug": "literary-critic",
-      "title": "Literary Critic",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_acb4b6d18b73.json"
     }
   ]
 }

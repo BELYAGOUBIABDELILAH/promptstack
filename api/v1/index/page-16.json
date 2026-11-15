@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 16,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_acb4b6d18b73",
+      "slug": "literary-critic",
+      "title": "Literary Critic",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_acb4b6d18b73.json"
+    },
     {
       "id": "opl_2479001f0828",
       "slug": "literature-reading-and-analysis-assistant",
@@ -1142,15 +1151,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ffbeff7bff73.json"
-    },
-    {
-      "id": "opl_9b9b3bae3812",
-      "slug": "meeting-agenda-generator",
-      "title": "Meeting Agenda Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b9b3bae3812.json"
     }
   ]
 }

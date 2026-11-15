@@ -489,6 +489,20 @@
     "snippet": "--- name: designing-a-feature-testing-page-for-enterprise-wechatdingtalk description: Create a feature testing page design for Enterprise WeChat/DingTalk focusing on address book m"
   },
   {
+    "id": "opl_6e531c39c4e6",
+    "title": "dialectic",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "dialectic",
+    "variables": [
+      {
+        "name": "insert_subject",
+        "default": null
+      }
+    ],
+    "snippet": "The \"Universal Steelman & Synthesis\" Prompt \"Act as a Master Dialectician. I want to explore the subject of ${insert_subject}. Task 1: The Steelman of the Opposing View. Identify"
+  },
+  {
     "id": "opl_6cd82fa1997c",
     "title": "Dizi ve Film Özeti Çeviri Asistanı",
     "category": "AI & Automation",

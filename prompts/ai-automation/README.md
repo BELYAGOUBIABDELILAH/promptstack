@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**128 prompts in this category**
+**129 prompts in this category**
 
 ## Table of Contents
 
@@ -50,6 +50,7 @@
 - [deconstruct](deconstruct.md)
 - [Deep Learning Loop](deep-learning-loop.md)
 - [Designing a Feature Testing Page for Enterprise WeChat/DingTalk](designing-a-feature-testing-page-for-enterprise-wechat-dingtalk.md)
+- [dialectic](dialectic.md)
 - [Dizi ve Film Özeti Çeviri Asistanı](dizi-ve-film-zeti-eviri-asistan.md)
 - [Dual Lighting Narrative Scene](dual-lighting-narrative-scene.md)
 - [Elocutionist](elocutionist.md)

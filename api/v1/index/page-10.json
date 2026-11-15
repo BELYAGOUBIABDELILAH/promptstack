@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 10,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_278e71b10b30",
+      "slug": "doe-framework-directions-template",
+      "title": "DOE Framework - Directions Template",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [
+        {
+          "name": "project_name",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_278e71b10b30.json"
+    },
     {
       "id": "opl_09404b8d2088",
       "slug": "does-it-exist",
@@ -1285,15 +1299,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75000e8ae04c.json"
-    },
-    {
-      "id": "opl_5c74c2ff9b40",
-      "slug": "evaluation-prompts-text-to-image",
-      "title": "Evaluation Prompts - Text To Image",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c74c2ff9b40.json"
     }
   ]
 }

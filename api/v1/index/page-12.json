@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 12,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_73bfa6e92067",
+      "slug": "futuristic-supercar-brand-logo",
+      "title": "Futuristic Supercar Brand Logo",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_73bfa6e92067.json"
+    },
     {
       "id": "opl_6a81764f788a",
       "slug": "galactic-smuggler",
@@ -997,15 +1006,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_98504156f41d.json"
-    },
-    {
-      "id": "opl_baf3af767da3",
-      "slug": "habit-tracker",
-      "title": "Habit Tracker",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_baf3af767da3.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 27,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_bd5f7f631474",
+      "slug": "typescript-type-expert-agent-role",
+      "title": "TypeScript Type Expert Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd5f7f631474.json"
+    },
     {
       "id": "opl_e3ad4ae9d318",
       "slug": "typescript-unit-testing-with-vitest",
@@ -1210,40 +1219,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10d1b10cbfc0.json"
-    },
-    {
-      "id": "opl_14435876d11e",
-      "slug": "web-application",
-      "title": "Web Application",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "applicationType",
-          "default": "travel booking"
-        },
-        {
-          "name": "deadline",
-          "default": null
-        },
-        {
-          "name": "environment",
-          "default": "production"
-        },
-        {
-          "name": "features",
-          "default": "booking system, payment gateway"
-        },
-        {
-          "name": "hostingSpace",
-          "default": null
-        },
-        {
-          "name": "technologyStack",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14435876d11e.json"
     }
   ]
 }

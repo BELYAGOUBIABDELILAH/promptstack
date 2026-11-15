@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 21,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_2a2b7f4c3611",
+      "slug": "prompt-shortener",
+      "title": "Prompt Shortener",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a2b7f4c3611.json"
+    },
     {
       "id": "opl_f8adb947547e",
       "slug": "prompt-suggestor",
@@ -1011,15 +1020,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1b35dc65296b.json"
-    },
-    {
-      "id": "opl_2cf7651e47d9",
-      "slug": "remove-current-vnet",
-      "title": "remove current vnet",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cf7651e47d9.json"
     }
   ]
 }

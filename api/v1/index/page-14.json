@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 14,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_9b52fdce7f91",
+      "slug": "image-to-mermaid",
+      "title": "Image To Mermaid",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b52fdce7f91.json"
+    },
     {
       "id": "opl_b7ba93159659",
       "slug": "image-to-text-document-processor",
@@ -1094,15 +1103,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2f2d0b6d422.json"
-    },
-    {
-      "id": "opl_ca07130344a7",
-      "slug": "jewish-holidays-calendar",
-      "title": "Jewish Holidays Calendar",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca07130344a7.json"
     }
   ]
 }

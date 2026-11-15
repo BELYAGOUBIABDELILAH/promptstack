@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 26,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_b3e9dd45ec84",
+      "slug": "technical-architecture",
+      "title": "Technical Architecture",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3e9dd45ec84.json"
+    },
     {
       "id": "opl_48e43221ebfe",
       "slug": "technical-codebase-discovery-onboarding-prompt",
@@ -1005,15 +1014,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce6409ef837.json"
-    },
-    {
-      "id": "opl_bd5f7f631474",
-      "slug": "typescript-type-expert-agent-role",
-      "title": "TypeScript Type Expert Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd5f7f631474.json"
     }
   ]
 }

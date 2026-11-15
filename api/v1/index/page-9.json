@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 9,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
@@ -722,6 +722,20 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f6e3e2bfb902.json"
     },
     {
+      "id": "opl_6e531c39c4e6",
+      "slug": "dialectic",
+      "title": "dialectic",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "insert_subject",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6e531c39c4e6.json"
+    },
+    {
       "id": "opl_01a9313158e6",
       "slug": "dictated-data-formatter",
       "title": "Dictated Data Formatter",
@@ -1147,20 +1161,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d19e96ecf5e.json"
-    },
-    {
-      "id": "opl_278e71b10b30",
-      "slug": "doe-framework-directions-template",
-      "title": "DOE Framework - Directions Template",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [
-        {
-          "name": "project_name",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_278e71b10b30.json"
     }
   ]
 }

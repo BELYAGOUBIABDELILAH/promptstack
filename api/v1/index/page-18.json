@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 18,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_c9ad3dea2c81",
+      "slug": "natural-language-schema-definition-neo4j",
+      "title": "Natural Language Schema Definition Neo4j",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9ad3dea2c81.json"
+    },
     {
       "id": "opl_5f209dff50bc",
       "slug": "natural-language-to-csv",
@@ -1052,15 +1061,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54289b87b224.json"
-    },
-    {
-      "id": "opl_488c24fe6b20",
-      "slug": "osobn-ai-agent-pro-petra-sovadinu",
-      "title": "Osobní AI Agent pro Petra Sovadinu",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_488c24fe6b20.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 24,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_c5bb1f9ef2f9",
+      "slug": "socratic-method-for-ethical-discussions",
+      "title": "Socratic Method for Ethical Discussions",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c5bb1f9ef2f9.json"
+    },
     {
       "id": "opl_49abe1639548",
       "slug": "socratic-universal-tutor",
@@ -1030,15 +1039,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66ae9cd90bc1.json"
-    },
-    {
-      "id": "opl_5f526d340ad0",
-      "slug": "study-planner",
-      "title": "Study planner",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f526d340ad0.json"
     }
   ]
 }

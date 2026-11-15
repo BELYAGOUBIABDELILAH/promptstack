@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-15T15:20:41.455Z",
+  "last_updated": "2026-11-15T16:20:48.089Z",
   "page": 20,
   "per_page": 100,
-  "total": 2764,
+  "total": 2765,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_360489b713a7",
+      "slug": "playing-card-sorcerer-portrait",
+      "title": "Playing Card Sorcerer Portrait",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "specificcard",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_360489b713a7.json"
+    },
     {
       "id": "opl_ae03946ac6d3",
       "slug": "plug-type-identiifer",
@@ -1294,15 +1308,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45e3d3ce4558.json"
-    },
-    {
-      "id": "opl_2a2b7f4c3611",
-      "slug": "prompt-shortener",
-      "title": "Prompt Shortener",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a2b7f4c3611.json"
     }
   ]
 }
