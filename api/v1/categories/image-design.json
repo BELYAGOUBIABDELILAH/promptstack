@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-15T13:20:43.548Z",
-  "total": 400,
+  "last_updated": "2026-11-15T14:20:43.833Z",
+  "total": 401,
   "prompts": [
     {
       "id": "opl_71932c41e62e",
@@ -6484,6 +6484,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bde3892eb67d.json"
+    },
+    {
+      "id": "opl_e2e109e100db",
+      "slug": "the-greedy-cat",
+      "title": "The greedy Cat",
+      "prompt": "Art Style: 2D classic cartoon animation, bright warm colors, exaggerated expressions, smooth animation\n\nCharacters: Consistent characters - orange chubby cat with green eyes sleeping. Small brown mouse with big ears eating. Keep these designs same in all videos.\n\nScene: Cozy kitchen on a quiet Sunday morning. Sunlight through window. Fridge with a note, small table, sunbeam on floor.\n\nAction: Small brown mouse sits at tiny table eating toast, drinking milk from a thimble, and eating a strawberry. Orange cat sleeps peacefully in a sunbeam with a fish thought bubble above him. Everything is calm.\n\nMood: Peaceful, cozy, wholesome\n\nDetails: NO talking, NO speech bubbles, NO on-screen text\n\nVideo Length: 7 seconds${Tom and Jerry",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_87ff9c08130f"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e2e109e100db.json"
     },
     {
       "id": "opl_1aee54f7cb21",

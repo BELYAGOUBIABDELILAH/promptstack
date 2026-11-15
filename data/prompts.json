@@ -21500,6 +21500,16 @@
     "path": "prompts/image-design/cinematic-action-boxing-fantasy.md"
   },
   {
+    "act": "The greedy Cat",
+    "category": "Image & Design",
+    "prompt": "Art Style: 2D classic cartoon animation, bright warm colors, exaggerated expressions, smooth animation\n\nCharacters: Consistent characters - orange chubby cat with green eyes sleeping. Small brown mouse with big ears eating. Keep these designs same in all videos.\n\nScene: Cozy kitchen on a quiet Sunday morning. Sunlight through window. Fridge with a note, small table, sunbeam on floor.\n\nAction: Small brown mouse sits at tiny table eating toast, drinking milk from a thimble, and eating a strawberry. Orange cat sleeps peacefully in a sunbeam with a fish thought bubble above him. Everything is calm.\n\nMood: Peaceful, cozy, wholesome\n\nDetails: NO talking, NO speech bubbles, NO on-screen text\n\nVideo Length: 7 seconds${Tom and Jerry",
+    "source": "raphaeldaniel244@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "the-greedy-cat",
+    "folder": "image-design",
+    "path": "prompts/image-design/the-greedy-cat.md"
+  },
+  {
     "act": "A/B Testing Plan",
     "category": "Marketing & Social",
     "prompt": "Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.\nStructure:\n- Hypothesis: What we believe will happen and why\n- Variable being tested: (headline / CTA / layout / image / copy)\n- Control version: [current]\n- Test version: [proposed change]\n- Success metric: (CVR / CTR / time on page / bounce rate)\n- Minimum sample size needed and estimated duration\n- How to declare a winner (statistical significance threshold: 95%)\nRun one test at a time. Document results before moving to the next.",

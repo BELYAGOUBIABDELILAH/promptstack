@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**400 prompts in this category**
+**401 prompts in this category**
 
 ## Table of Contents
 
@@ -377,6 +377,7 @@
 - [The Aether Prince at the Crystal Gala](the-aether-prince-at-the-crystal-gala.md)
 - [The Glass Doppelgänger](the-glass-doppelg-nger.md)
 - [The Gravedigger's Vigil](the-gravedigger-s-vigil.md)
+- [The greedy Cat](the-greedy-cat.md)
 - [The Midnight Informant](the-midnight-informant.md)
 - [The Midnight Melody Mystery](the-midnight-melody-mystery.md)
 - [The Silent Standoff](the-silent-standoff.md)

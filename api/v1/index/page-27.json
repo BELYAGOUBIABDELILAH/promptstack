@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T13:20:43.548Z",
+  "last_updated": "2026-11-15T14:20:43.833Z",
   "page": 27,
   "per_page": 100,
-  "total": 2762,
+  "total": 2763,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_127f6a1164a8",
+      "slug": "typing-speed-test",
+      "title": "Typing Speed Test",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_127f6a1164a8.json"
+    },
     {
       "id": "opl_b114fefe45a6",
       "slug": "typographic-portrait-artwork-creation",
@@ -1235,15 +1244,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_034bd1451eea.json"
-    },
-    {
-      "id": "opl_607b80dae178",
-      "slug": "web-browser",
-      "title": "Web Browser",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_607b80dae178.json"
     }
   ]
 }
