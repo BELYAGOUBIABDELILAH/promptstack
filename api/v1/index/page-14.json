@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 14,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_3450580dc8e6",
+      "slug": "identify-security-issues-in-mr",
+      "title": "Identify Security Issues in MR",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3450580dc8e6.json"
+    },
     {
       "id": "opl_e1b5fc41705b",
       "slug": "identify-the-key-skills-needed-for-effective-project-plannin",
@@ -1105,15 +1114,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3dbb6bbe19f.json"
-    },
-    {
-      "id": "opl_4650908ddf96",
-      "slug": "israel-to-row-price-comparison",
-      "title": "Israel To ROW Price Comparison",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4650908ddf96.json"
     }
   ]
 }

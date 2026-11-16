@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 12,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_bb67b2da0672",
+      "slug": "framework-upgrade-impact-analysis",
+      "title": "Framework Upgrade Impact Analysis",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb67b2da0672.json"
+    },
     {
       "id": "opl_6bc4b1462e89",
       "slug": "freeform-text-converter",
@@ -1001,15 +1010,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40236cc4518f.json"
-    },
-    {
-      "id": "opl_3841b68f06ca",
-      "slug": "graphics",
-      "title": "GRAPHICS",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3841b68f06ca.json"
     }
   ]
 }

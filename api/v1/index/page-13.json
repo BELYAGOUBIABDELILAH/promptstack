@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 13,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_3841b68f06ca",
+      "slug": "graphics",
+      "title": "GRAPHICS",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3841b68f06ca.json"
+    },
     {
       "id": "opl_7f78514fc7e6",
       "slug": "gravity-flux-flappy-engine",
@@ -1044,15 +1053,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c62aca7e0f83.json"
-    },
-    {
-      "id": "opl_3450580dc8e6",
-      "slug": "identify-security-issues-in-mr",
-      "title": "Identify Security Issues in MR",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3450580dc8e6.json"
     }
   ]
 }

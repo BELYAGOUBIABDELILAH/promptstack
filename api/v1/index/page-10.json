@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 10,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
@@ -505,6 +505,15 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_722eabe7516d.json"
+    },
+    {
+      "id": "opl_985620aa7610",
+      "slug": "e-commerce-website",
+      "title": "E-commerce website",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_985620aa7610.json"
     },
     {
       "id": "opl_ddad2f29fc63",
@@ -1282,15 +1291,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10b81a16f4af.json"
-    },
-    {
-      "id": "opl_29c0d627d22a",
-      "slug": "essay-writer",
-      "title": "Essay Writer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29c0d627d22a.json"
     }
   ]
 }

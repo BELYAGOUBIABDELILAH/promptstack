@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 20,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_af3506b7174d",
+      "slug": "pipeline-failure-and-duration-comparison",
+      "title": "Pipeline Failure and Duration Comparison",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af3506b7174d.json"
+    },
     {
       "id": "opl_1a5c95f1b230",
       "slug": "pirate",
@@ -1351,15 +1360,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7291e2ffb88a.json"
-    },
-    {
-      "id": "opl_6d9b707a017d",
-      "slug": "prompt-data-identifier",
-      "title": "Prompt Data Identifier",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d9b707a017d.json"
     }
   ]
 }

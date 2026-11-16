@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 27,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_c1853f62840f",
+      "slug": "top-failing-jobs",
+      "title": "Top Failing Jobs",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1853f62840f.json"
+    },
     {
       "id": "opl_d31d5c9bfa40",
       "slug": "top-programming-expert",
@@ -1126,32 +1135,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d4b36d7a95.json"
-    },
-    {
-      "id": "opl_1a958c678693",
-      "slug": "video-extractor-prompt",
-      "title": "Video extractor prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "code_here_with_inline_comments_explaining_what_each_line_does",
-          "default": null
-        },
-        {
-          "name": "concept_name",
-          "default": null
-        },
-        {
-          "name": "infer_the_main_topic_from_the_content",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a958c678693.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 22,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_e6bec92474a8",
+      "slug": "recognize-sponsors",
+      "title": "Recognize Sponsors",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6bec92474a8.json"
+    },
     {
       "id": "opl_82aad9634b1e",
       "slug": "recommendation-capture-utility",
@@ -1114,32 +1123,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa0bf40ae54f.json"
-    },
-    {
-      "id": "opl_743c7082ea93",
-      "slug": "scientific-paper-drafting-for-analytical-data",
-      "title": "Scientific Paper Drafting for Analytical Data",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "journalName",
-          "default": "Journal Name"
-        },
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "length",
-          "default": "medium"
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_743c7082ea93.json"
     }
   ]
 }

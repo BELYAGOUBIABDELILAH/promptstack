@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 16,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_81a836ce8d37",
+      "slug": "linocut-print-of-a-red-fox-crossing-snowy-railway-tracks-at",
+      "title": "Linocut Print of a Red Fox Crossing Snowy Railway Tracks at Dusk",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81a836ce8d37.json"
+    },
     {
       "id": "opl_a8d6195dfcbf",
       "slug": "linux-terminal-master",
@@ -1129,15 +1138,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3858cd12b6c0.json"
-    },
-    {
-      "id": "opl_92d905a331d9",
-      "slug": "mcp-info",
-      "title": "MCP Info",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92d905a331d9.json"
     }
   ]
 }

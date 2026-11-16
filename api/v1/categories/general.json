@@ -1,8 +1,8 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-16T20:20:46.050Z",
-  "total": 92,
+  "last_updated": "2026-11-16T21:20:43.656Z",
+  "total": 93,
   "prompts": [
     {
       "id": "opl_b382de4bccd8",
@@ -428,6 +428,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af1877570a88.json"
+    },
+    {
+      "id": "opl_985620aa7610",
+      "slug": "e-commerce-website",
+      "title": "E-commerce website",
+      "prompt": "I want to make a e-com website so make a prompt for me.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_cc61477315f5"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_985620aa7610.json"
     },
     {
       "id": "opl_6bc4b1462e89",

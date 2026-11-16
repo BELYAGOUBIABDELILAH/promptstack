@@ -19192,6 +19192,15 @@
     "snippet": "Explain {{topic}} in simple terms, as if talking to a 10-year-old."
   },
   {
+    "id": "opl_985620aa7610",
+    "title": "E-commerce website",
+    "category": "General",
+    "folder": "general",
+    "slug": "e-commerce-website",
+    "variables": [],
+    "snippet": "I want to make a e-com website so make a prompt for me."
+  },
+  {
     "id": "opl_6bc4b1462e89",
     "title": "Freeform Text Converter",
     "category": "General",

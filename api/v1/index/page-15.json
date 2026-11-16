@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 15,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_4650908ddf96",
+      "slug": "israel-to-row-price-comparison",
+      "title": "Israel To ROW Price Comparison",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4650908ddf96.json"
+    },
     {
       "id": "opl_3acc0e899684",
       "slug": "israel-to-row-salary-calculator",
@@ -1061,15 +1070,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d0a439fcd79.json"
-    },
-    {
-      "id": "opl_81a836ce8d37",
-      "slug": "linocut-print-of-a-red-fox-crossing-snowy-railway-tracks-at",
-      "title": "Linocut Print of a Red Fox Crossing Snowy Railway Tracks at Dusk",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81a836ce8d37.json"
     }
   ]
 }

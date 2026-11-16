@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T20:20:46.050Z",
+  "last_updated": "2026-11-16T21:20:43.656Z",
   "page": 21,
   "per_page": 100,
-  "total": 2793,
+  "total": 2794,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_6d9b707a017d",
+      "slug": "prompt-data-identifier",
+      "title": "Prompt Data Identifier",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d9b707a017d.json"
+    },
     {
       "id": "opl_cc022b5e56aa",
       "slug": "prompt-editor-mimic-structured-output",
@@ -997,15 +1006,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ce643d2c5bc.json"
-    },
-    {
-      "id": "opl_e6bec92474a8",
-      "slug": "recognize-sponsors",
-      "title": "Recognize Sponsors",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6bec92474a8.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**92 prompts in this category**
+**93 prompts in this category**
 
 ## Table of Contents
 
@@ -32,6 +32,7 @@
 - [Dream Interpreter](dream-interpreter.md)
 - [Dress](dress.md)
 - [Dummy Test Prompt](dummy-test-prompt.md)
+- [E-commerce website](e-commerce-website.md)
 - [Freeform Text Converter](freeform-text-converter.md)
 - [Gaslighter](gaslighter.md)
 - [Golden Prompt for Short, Useful Answers](golden-prompt-for-short-useful-answers.md)
