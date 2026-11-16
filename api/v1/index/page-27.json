@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T23:20:40.799Z",
+  "last_updated": "2026-11-16T00:20:39.908Z",
   "page": 27,
   "per_page": 100,
-  "total": 2772,
+  "total": 2773,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_010e0c41f29f",
+      "slug": "tts-script-generator",
+      "title": "TTS Script Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_010e0c41f29f.json"
+    },
     {
       "id": "opl_34f6bcc21661",
       "slug": "tts-tester",
@@ -1197,15 +1206,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_15afc0159c52.json"
-    },
-    {
-      "id": "opl_e50ee3b058ea",
-      "slug": "walking-back-home",
-      "title": "Walking back home",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e50ee3b058ea.json"
     }
   ]
 }

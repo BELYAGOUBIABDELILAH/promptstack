@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-15T23:20:40.799Z",
+  "last_updated": "2026-11-16T00:20:39.908Z",
   "page": 28,
   "per_page": 100,
-  "total": 2772,
+  "total": 2773,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_e50ee3b058ea",
+      "slug": "walking-back-home",
+      "title": "Walking back home",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e50ee3b058ea.json"
+    },
     {
       "id": "opl_834ed4796632",
       "slug": "war",

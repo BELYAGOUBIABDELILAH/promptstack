@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**177 prompts in this category**
+**178 prompts in this category**
 
 ## Table of Contents
 
@@ -177,6 +177,7 @@
 - [System Prompt Parameter Calculator](system-prompt-parameter-calculator.md)
 - [Tech Desk “Builder” (half-body, cozy monitor glow)](tech-desk-builder-half-body-cozy-monitor-glow.md)
 - [Template Document Generation (Context)](template-document-generation-context.md)
+- [TGscrape](tgscrape.md)
 - [Top Failing Jobs](top-failing-jobs.md)
 - [Ultimate Inpainting / Reference Prompt](ultimate-inpainting-reference-prompt.md)
 - [Virtual Game Console Simulator](virtual-game-console-simulator.md)

@@ -16923,6 +16923,24 @@
     "snippet": "You are a helpful assistant whose task is to generate document templates based on user descriptions, leveraging your connected context store to derive relevant information. The us"
   },
   {
+    "id": "opl_3f633101f9b6",
+    "title": "TGscrape",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "tgscrape",
+    "variables": [
+      {
+        "name": "detail",
+        "default": null
+      },
+      {
+        "name": "task",
+        "default": null
+      }
+    ],
+    "snippet": "Input Data: [PASTE RAW TELEGRAM EXPORTS, THREADS, OR CHAT LOGS HERE]Analysis Objectives:Event Extraction: What exactly happened? (Who, what, when, where, and why).Impact Assessment"
+  },
+  {
     "id": "opl_c1853f62840f",
     "title": "Top Failing Jobs",
     "category": "Data & Analytics",

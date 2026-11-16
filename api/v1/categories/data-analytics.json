@@ -1,8 +1,8 @@
 {
   "folder": "data-analytics",
   "name": "Data & Analytics",
-  "last_updated": "2026-11-15T23:20:40.799Z",
-  "total": 177,
+  "last_updated": "2026-11-16T00:20:39.908Z",
+  "total": 178,
   "prompts": [
     {
       "id": "opl_af5d6540d293",
@@ -3153,6 +3153,31 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59566f37dd24.json"
+    },
+    {
+      "id": "opl_3f633101f9b6",
+      "slug": "tgscrape",
+      "title": "TGscrape",
+      "prompt": "Input Data: [PASTE RAW TELEGRAM EXPORTS, THREADS, OR CHAT LOGS HERE]Analysis Objectives:Event Extraction: What exactly happened? (Who, what, when, where, and why).Impact Assessment: What is the immediate or potential consequence of this information?Actionability: What should be done about this? Identify concrete next steps or decisions required.Output Structure:Format your response exactly as follows using Markdown:🚨 Executive SummaryProvide a 2-3 sentence summary of the critical events and current operational state based on the feeds.🔑 Key Intelligence Gaps (KIG)What critical information is currently missing that prevents a complete assessment?📋 Actionable Tasks & DirectivesList concrete, prioritized tasks for the team/user to execute based on this intel.Priority 1: ${task} - [Rationale/Risk of inaction]Priority 2: ${task} - [Rationale/Risk of inaction]🌍 Geopolitical / Market Context (If Applicable)Briefly explain the broader context, sentiment shifts, or emerging trends.Narrative 1: ${detail}Narrative 2: ${detail}",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "detail",
+          "default": null
+        },
+        {
+          "name": "task",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_06729541f502"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f633101f9b6.json"
     },
     {
       "id": "opl_c1853f62840f",
