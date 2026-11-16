@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 26,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_2f96428122b8",
+      "slug": "tabs",
+      "title": "tabs",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "tab_x",
+          "default": null
+        },
+        {
+          "name": "tab_y",
+          "default": null
+        },
+        {
+          "name": "tab_z",
+          "default": null
+        },
+        {
+          "name": "which_tab_to_buy_from_and_why",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f96428122b8.json"
+    },
     {
       "id": "opl_d457ff1879ea",
       "slug": "taglish-technical-storytelling-editor",
@@ -1002,15 +1028,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d31d5c9bfa40.json"
-    },
-    {
-      "id": "opl_3d2a55d1ab3f",
-      "slug": "topic-article",
-      "title": "Topic Article",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d2a55d1ab3f.json"
     }
   ]
 }

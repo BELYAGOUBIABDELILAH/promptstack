@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 16,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_c8eb310bead8",
+      "slug": "linux-desktop-automation",
+      "title": "Linux Desktop Automation",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8eb310bead8.json"
+    },
     {
       "id": "opl_97ba8ea3841a",
       "slug": "linux-distros-head-to-head",
@@ -1129,15 +1138,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3844aedd3deb.json"
-    },
-    {
-      "id": "opl_c9432168d480",
-      "slug": "mcp-server-finder",
-      "title": "MCP Server Finder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9432168d480.json"
     }
   ]
 }

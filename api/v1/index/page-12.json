@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 12,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_fc749700ee08",
+      "slug": "friend",
+      "title": "Friend",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc749700ee08.json"
+    },
     {
       "id": "opl_4a94e97b165d",
       "slug": "fringe-ideology-quiz",
@@ -1001,15 +1010,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f78514fc7e6.json"
-    },
-    {
-      "id": "opl_ded2a9070435",
-      "slug": "grid-based-match-3-chain-reaction-logic",
-      "title": "Grid-Based Match-3 Chain Reaction Logic",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ded2a9070435.json"
     }
   ]
 }

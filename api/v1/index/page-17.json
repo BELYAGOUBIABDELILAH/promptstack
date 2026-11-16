@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 17,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_c9432168d480",
+      "slug": "mcp-server-finder",
+      "title": "MCP Server Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9432168d480.json"
+    },
     {
       "id": "opl_53c4a03dfd2a",
       "slug": "mdct-step-by-step-calculation",
@@ -1067,15 +1076,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b526987361f7.json"
-    },
-    {
-      "id": "opl_715a0835186c",
-      "slug": "n8n-script-writer",
-      "title": "N8N Script Writer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_715a0835186c.json"
     }
   ]
 }

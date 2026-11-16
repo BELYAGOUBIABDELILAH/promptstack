@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 15,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_c1227e96e594",
+      "slug": "israel-travel-advisor",
+      "title": "Israel Travel Advisor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1227e96e594.json"
+    },
     {
       "id": "opl_ed1154ab170f",
       "slug": "israel-travel-planner",
@@ -1061,15 +1070,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a8d6195dfcbf.json"
-    },
-    {
-      "id": "opl_c8eb310bead8",
-      "slug": "linux-desktop-automation",
-      "title": "Linux Desktop Automation",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8eb310bead8.json"
     }
   ]
 }

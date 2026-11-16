@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 19,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_c9a82582fab6",
+      "slug": "optimize-algorithm-performance",
+      "title": "Optimize Algorithm Performance",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9a82582fab6.json"
+    },
     {
       "id": "opl_0f110d2e237d",
       "slug": "optimize-blog-post-for-seo",
@@ -1122,32 +1131,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a5c95f1b230.json"
-    },
-    {
-      "id": "opl_5bce50473b57",
-      "slug": "pitch",
-      "title": "Pitch",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "audience",
-          "default": null
-        },
-        {
-          "name": "differentiator",
-          "default": null
-        },
-        {
-          "name": "problem",
-          "default": null
-        },
-        {
-          "name": "product",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bce50473b57.json"
     }
   ]
 }

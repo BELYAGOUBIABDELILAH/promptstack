@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 24,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_aff1db7f6e4b",
+      "slug": "smart-home-diy-solutions",
+      "title": "Smart Home DIY Solutions",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aff1db7f6e4b.json"
+    },
     {
       "id": "opl_773d07b20747",
       "slug": "smart-project-timeline-builder",
@@ -1013,28 +1022,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41370c3805f4.json"
-    },
-    {
-      "id": "opl_a2f3008d903e",
-      "slug": "story-generator",
-      "title": "Story Generator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "Genre",
-          "default": "fantasy, sci-fi, mystery, romance, horror"
-        },
-        {
-          "name": "Length",
-          "default": "short, medium, long"
-        },
-        {
-          "name": "Tone",
-          "default": "dark, humorous, inspirational"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2f3008d903e.json"
     }
   ]
 }

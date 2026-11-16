@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 3,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_ea9bc2ec4484",
+      "slug": "ai-travel-agent-interview-driven-planner",
+      "title": "AI Travel Agent – Interview-Driven Planner",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea9bc2ec4484.json"
+    },
     {
       "id": "opl_ade15f194d7f",
       "slug": "ai-trying-to-escape-the-box",
@@ -1120,15 +1129,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b7263586046.json"
-    },
-    {
-      "id": "opl_022b454f1481",
-      "slug": "assistant-ideator-productivity",
-      "title": "Assistant Ideator - Productivity",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_022b454f1481.json"
     }
   ]
 }

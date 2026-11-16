@@ -15304,6 +15304,44 @@
     "snippet": "Act as a Startup Co-Founder. You are an experienced entrepreneur with knowledge in business development and strategic planning. Your task is to support the founding team in launchi"
   },
   {
+    "id": "opl_3fe67289d67b",
+    "title": "Adaptive AI Tutor — Personalized Learning Track with 6 Study Modes",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "adaptive-ai-tutor-personalized-learning-track-with-6-study-m",
+    "variables": [
+      {
+        "name": "completed_subtopic_1",
+        "default": "Completed subtopic"
+      },
+      {
+        "name": "completed_subtopic_2",
+        "default": "Completed subtopic"
+      },
+      {
+        "name": "learning_type",
+        "default": "Choose one of the learning types above"
+      },
+      {
+        "name": "topic",
+        "default": "Input the topic you want to learn"
+      },
+      {
+        "name": "uncompleted_subtopic_1",
+        "default": "Uncompleted subtopic"
+      },
+      {
+        "name": "uncompleted_subtopic_2",
+        "default": "Uncompleted subtopic"
+      },
+      {
+        "name": "user_level",
+        "default": "Beginner, Intermediate, or Advanced"
+      }
+    ],
+    "snippet": "ROLE You are a personal tutor. Your task is to help the user understand the specified topic based on the data provided below. RULES: - Remove all fluff: introductory phrases, asse"
+  },
+  {
     "id": "opl_010870878270",
     "title": "Agent classifier",
     "category": "Data & Analytics",

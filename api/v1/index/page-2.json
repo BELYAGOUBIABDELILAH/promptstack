@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 2,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
@@ -214,6 +214,44 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b382de4bccd8.json"
+    },
+    {
+      "id": "opl_3fe67289d67b",
+      "slug": "adaptive-ai-tutor-personalized-learning-track-with-6-study-m",
+      "title": "Adaptive AI Tutor — Personalized Learning Track with 6 Study Modes",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "completed_subtopic_1",
+          "default": "Completed subtopic"
+        },
+        {
+          "name": "completed_subtopic_2",
+          "default": "Completed subtopic"
+        },
+        {
+          "name": "learning_type",
+          "default": "Choose one of the learning types above"
+        },
+        {
+          "name": "topic",
+          "default": "Input the topic you want to learn"
+        },
+        {
+          "name": "uncompleted_subtopic_1",
+          "default": "Uncompleted subtopic"
+        },
+        {
+          "name": "uncompleted_subtopic_2",
+          "default": "Uncompleted subtopic"
+        },
+        {
+          "name": "user_level",
+          "default": "Beginner, Intermediate, or Advanced"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fe67289d67b.json"
     },
     {
       "id": "opl_f61fa65cabca",
@@ -1172,15 +1210,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42cb2b4ac9c7.json"
-    },
-    {
-      "id": "opl_ea9bc2ec4484",
-      "slug": "ai-travel-agent-interview-driven-planner",
-      "title": "AI Travel Agent – Interview-Driven Planner",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea9bc2ec4484.json"
     }
   ]
 }

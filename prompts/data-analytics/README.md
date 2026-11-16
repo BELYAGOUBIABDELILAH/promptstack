@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**178 prompts in this category**
+**179 prompts in this category**
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@
 - [Academic PowerPoint Presentation Designer](academic-powerpoint-presentation-designer.md)
 - [Act as a Senior Research Paper Evaluator](act-as-a-senior-research-paper-evaluator.md)
 - [Act as a Startup Co-Founder](act-as-a-startup-co-founder.md)
+- [Adaptive AI Tutor — Personalized Learning Track with 6 Study Modes](adaptive-ai-tutor-personalized-learning-track-with-6-study-m.md)
 - [Agent classifier](agent-classifier.md)
 - [Agent router](agent-router.md)
 - [AI Around The World](ai-around-the-world.md)

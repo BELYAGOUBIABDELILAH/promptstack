@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 6,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_fd4c648dbe64",
+      "slug": "chinese-to-english-translation-proofreading-expert",
+      "title": "Chinese to English Translation Proofreading Expert",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "input",
+          "default": null
+        },
+        {
+          "name": "output",
+          "default": "Hello"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd4c648dbe64.json"
+    },
     {
       "id": "opl_3f197ee0ef24",
       "slug": "chinese-english-translator",
@@ -1096,15 +1114,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3fd67d692ed.json"
-    },
-    {
-      "id": "opl_355e6b5d9630",
-      "slug": "competitive-landscape-analyst",
-      "title": "Competitive Landscape Analyst",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_355e6b5d9630.json"
     }
   ]
 }

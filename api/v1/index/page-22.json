@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 22,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_54324a05637b",
+      "slug": "recruiter",
+      "title": "Recruiter",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54324a05637b.json"
+    },
     {
       "id": "opl_cb3fc3814e90",
       "slug": "recruiter-for-hiring-sales-professionals-with-databricks-experience",
@@ -1188,15 +1197,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1c0554b4e3d.json"
-    },
-    {
-      "id": "opl_6e82f92f5b72",
-      "slug": "scope-of-service-outliner-sla",
-      "title": "Scope Of Service Outliner (SLA)",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6e82f92f5b72.json"
     }
   ]
 }

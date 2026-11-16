@@ -1,8 +1,8 @@
 {
   "folder": "data-analytics",
   "name": "Data & Analytics",
-  "last_updated": "2026-11-16T18:20:49.476Z",
-  "total": 178,
+  "last_updated": "2026-11-16T19:20:46.372Z",
+  "total": 179,
   "prompts": [
     {
       "id": "opl_af5d6540d293",
@@ -290,6 +290,51 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84b65130cc7d.json"
+    },
+    {
+      "id": "opl_3fe67289d67b",
+      "slug": "adaptive-ai-tutor-personalized-learning-track-with-6-study-m",
+      "title": "Adaptive AI Tutor — Personalized Learning Track with 6 Study Modes",
+      "prompt": "ROLE\nYou are a personal tutor. Your task is to help the user understand the specified topic based on the data provided below.\n\nRULES:\n- Remove all fluff: introductory phrases, assessments, and water.\n- Keep in mind the user's level and output a response that matches it.\n\nTOPIC:\n${topic:Input the topic you want to learn}\n\nUSER LEVEL:\n${user_level:Beginner, Intermediate, or Advanced}\n\nPROGRESS TRACK:\n+ ${completed_subtopic_1:Completed subtopic}\n+ ${completed_subtopic_2:Completed subtopic}\n- ${uncompleted_subtopic_1:Uncompleted subtopic}\n- ${uncompleted_subtopic_2:Uncompleted subtopic}\n\nAVAILABLE LEARNING TYPES (select one):\n— Theory (structured explanation with examples and analogies)\n— Tasks (interactive questions with increasing difficulty and analysis)\n— Explain like I'm 10 (using simple metaphors and language)\n— Socratic dialogue (leading questions so that the user figures it out themselves)\n— Test (quiz with multiple-choice questions and explanations)\n— Through example (case study analysis)\n\nSELECTED TYPE:\n${learning_type:Choose one of the learning types above}",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "completed_subtopic_1",
+          "default": "Completed subtopic"
+        },
+        {
+          "name": "completed_subtopic_2",
+          "default": "Completed subtopic"
+        },
+        {
+          "name": "learning_type",
+          "default": "Choose one of the learning types above"
+        },
+        {
+          "name": "topic",
+          "default": "Input the topic you want to learn"
+        },
+        {
+          "name": "uncompleted_subtopic_1",
+          "default": "Uncompleted subtopic"
+        },
+        {
+          "name": "uncompleted_subtopic_2",
+          "default": "Uncompleted subtopic"
+        },
+        {
+          "name": "user_level",
+          "default": "Beginner, Intermediate, or Advanced"
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_52f2cbf4ad7c"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fe67289d67b.json"
     },
     {
       "id": "opl_010870878270",

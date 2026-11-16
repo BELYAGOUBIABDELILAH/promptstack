@@ -1,12 +1,58 @@
 {
-  "last_updated": "2026-11-16T18:20:49.476Z",
+  "last_updated": "2026-11-16T19:20:46.372Z",
   "page": 14,
   "per_page": 100,
-  "total": 2791,
+  "total": 2792,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_f070f85e3987",
+      "slug": "ielts-preparation-plan-for-stem-students",
+      "title": "IELTS preparation plan for STEM students",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "age",
+          "default": null
+        },
+        {
+          "name": "daily_hours",
+          "default": null
+        },
+        {
+          "name": "department",
+          "default": null
+        },
+        {
+          "name": "level",
+          "default": "intermediate / upper-intermediate / unsure"
+        },
+        {
+          "name": "name",
+          "default": null
+        },
+        {
+          "name": "target_score",
+          "default": "7.0–7.5 overall, minimum 6.5 in each module"
+        },
+        {
+          "name": "timeline",
+          "default": "8 weeks / 3 months / flexible"
+        },
+        {
+          "name": "university",
+          "default": null
+        },
+        {
+          "name": "weaknesses",
+          "default": "Writing / Speaking / Reading / Listening / Grammar / Vocabulary"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f070f85e3987.json"
+    },
     {
       "id": "opl_eea1cf8384af",
       "slug": "if-you-liked-this",
@@ -1068,15 +1114,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3acc0e899684.json"
-    },
-    {
-      "id": "opl_c1227e96e594",
-      "slug": "israel-travel-advisor",
-      "title": "Israel Travel Advisor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1227e96e594.json"
     }
   ]
 }
