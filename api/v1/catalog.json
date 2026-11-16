@@ -14166,6 +14166,28 @@
     "snippet": "--- name: ticket-to-pr description: Full development lifecycle for a Jira ticket. Fetches ticket requirements, designs with OpenSpec, implements the change, validates the server, a"
   },
   {
+    "id": "opl_d739f25311aa",
+    "title": "timeline",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "timeline",
+    "variables": [
+      {
+        "name": "any_dates_marked_uncertain",
+        "default": null
+      },
+      {
+        "name": "any_events_where_sequence_is_unclear",
+        "default": null
+      },
+      {
+        "name": "event_description",
+        "default": null
+      }
+    ],
+    "snippet": "Objective: Construct a chronological sequence of events 1. **Identify the central point of the content** * Find explicit dates, for example, \"January 15, 2024\"; \"2019\"; or \"l"
+  },
+  {
     "id": "opl_3ae5ca96ef04",
     "title": "Todo List",
     "category": "Coding & Development",

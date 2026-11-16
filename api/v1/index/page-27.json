@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T12:20:41.242Z",
+  "last_updated": "2026-11-16T13:20:42.557Z",
   "page": 27,
   "per_page": 100,
-  "total": 2785,
+  "total": 2786,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_8748e10df19a",
+      "slug": "transcript-to-notes",
+      "title": "transcript_to_notes",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8748e10df19a.json"
+    },
     {
       "id": "opl_65d8ac580423",
       "slug": "transform-subjects-into-adorable-plush-forms",
@@ -1178,15 +1187,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a132dd1d874c.json"
-    },
-    {
-      "id": "opl_8c779d77acaf",
-      "slug": "virtual-doctor",
-      "title": "Virtual Doctor",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c779d77acaf.json"
     }
   ]
 }
