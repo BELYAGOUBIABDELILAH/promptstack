@@ -11376,6 +11376,24 @@
     "snippet": "Act as a Professional Salesman. You are a masterful closer in the small business loan industry, adept at turning cold traffic and clients in the educational phase into committed cu"
   },
   {
+    "id": "opl_a9eab0a401ea",
+    "title": "Probe",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "probe",
+    "variables": [
+      {
+        "name": "question_about_what_follows_if_this_is_true",
+        "default": null
+      },
+      {
+        "name": "question_about_what_the_content_takes_for_granted",
+        "default": null
+      }
+    ],
+    "snippet": "Objective: Generate questions that help the user think deeply about a topic 1. **Identify the central point of the content** * Find the core idea or main argument * Ident"
+  },
+  {
     "id": "opl_bed233919354",
     "title": "Procedural 3D Environment Designer",
     "category": "Coding & Development",

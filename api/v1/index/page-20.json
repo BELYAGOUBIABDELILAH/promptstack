@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T15:20:43.390Z",
+  "last_updated": "2026-11-16T16:20:44.588Z",
   "page": 20,
   "per_page": 100,
-  "total": 2788,
+  "total": 2789,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
@@ -651,6 +651,24 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5297083501b.json"
+    },
+    {
+      "id": "opl_a9eab0a401ea",
+      "slug": "probe",
+      "title": "Probe",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "question_about_what_follows_if_this_is_true",
+          "default": null
+        },
+        {
+          "name": "question_about_what_the_content_takes_for_granted",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9eab0a401ea.json"
     },
     {
       "id": "opl_bed233919354",
@@ -1304,15 +1322,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_144f64e242db.json"
-    },
-    {
-      "id": "opl_e80c3657ef46",
-      "slug": "prompt-engineering-tool-ideas",
-      "title": "Prompt Engineering Tool Ideas",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e80c3657ef46.json"
     }
   ]
 }

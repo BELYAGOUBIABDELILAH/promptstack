@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T15:20:43.390Z",
+  "last_updated": "2026-11-16T16:20:44.588Z",
   "page": 23,
   "per_page": 100,
-  "total": 2788,
+  "total": 2789,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_f445e90a6a31",
+      "slug": "screenshot-to-calendar-appointment",
+      "title": "Screenshot To Calendar Appointment",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f445e90a6a31.json"
+    },
     {
       "id": "opl_505a17665fcf",
       "slug": "screenshot-to-csv",
@@ -1208,20 +1217,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_773d07b20747.json"
-    },
-    {
-      "id": "opl_ac0142f11cd3",
-      "slug": "smart-rewriter-clarity-booster",
-      "title": "Smart Rewriter & Clarity Booster",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "content",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac0142f11cd3.json"
     }
   ]
 }

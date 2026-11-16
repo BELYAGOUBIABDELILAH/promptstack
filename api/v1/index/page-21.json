@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T15:20:43.390Z",
+  "last_updated": "2026-11-16T16:20:44.588Z",
   "page": 21,
   "per_page": 100,
-  "total": 2788,
+  "total": 2789,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_e80c3657ef46",
+      "slug": "prompt-engineering-tool-ideas",
+      "title": "Prompt Engineering Tool Ideas",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e80c3657ef46.json"
+    },
     {
       "id": "opl_2c2d6807e205",
       "slug": "prompt-enhancer",
@@ -997,24 +1006,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb3fc3814e90.json"
-    },
-    {
-      "id": "opl_3b92d416d0b9",
-      "slug": "recursive-niche-deconstruction-for-market-research",
-      "title": "Recursive Niche Deconstruction for Market Research",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "industry",
-          "default": null
-        },
-        {
-          "name": "region",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b92d416d0b9.json"
     }
   ]
 }

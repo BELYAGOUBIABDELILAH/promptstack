@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-16T15:20:43.390Z",
+  "last_updated": "2026-11-16T16:20:44.588Z",
   "page": 28,
   "per_page": 100,
-  "total": 2788,
+  "total": 2789,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_93f99e512baa",
+      "slug": "vintage-invention-patent",
+      "title": "Vintage Invention Patent",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "invention",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93f99e512baa.json"
+    },
     {
       "id": "opl_53b13812d2f0",
       "slug": "viral-tiktok-gl-hwein-recipe-in-five-languages",

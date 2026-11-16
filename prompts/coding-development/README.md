@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1104 prompts in this category**
+**1105 prompts in this category**
 
 ## Table of Contents
 
@@ -760,6 +760,7 @@
 - [Privacy-First Chat App with Multi-Feature Support](privacy-first-chat-app-with-multi-feature-support.md)
 - [Private Group Coaching Infrastructure](private-group-coaching-infrastructure.md)
 - [Pro Closer for Small Business Loans](pro-closer-for-small-business-loans.md)
+- [Probe](probe.md)
 - [Procedural 3D Environment Designer](procedural-3d-environment-designer.md)
 - [Product Planner Agent Role](product-planner-agent-role.md)
 - [Production-Grade PostHog Integration for Next.js 15 (App Router)](production-grade-posthog-integration-for-next-js-15-app-rout.md)
