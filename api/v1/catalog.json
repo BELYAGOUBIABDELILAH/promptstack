@@ -13739,6 +13739,32 @@
     "snippet": "\"Attached is an image of a table listing the model parameters for the ${insert_model_name} model (from [Insert Author/Paper Name]). Please extract the data and convert it into a CS"
   },
   {
+    "id": "opl_2f96428122b8",
+    "title": "tabs",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "tabs",
+    "variables": [
+      {
+        "name": "tab_x",
+        "default": null
+      },
+      {
+        "name": "tab_y",
+        "default": null
+      },
+      {
+        "name": "tab_z",
+        "default": null
+      },
+      {
+        "name": "which_tab_to_buy_from_and_why",
+        "default": null
+      }
+    ],
+    "snippet": "Objective: Compare product in current tab to items in other tabs 1. **Identify open product tabs** * List all tabs with product pages, \"comparison tabs\" * Verify they're"
+  },
+  {
     "id": "opl_e3f0501ca6aa",
     "title": "Talent Coach",
     "category": "Coding & Development",

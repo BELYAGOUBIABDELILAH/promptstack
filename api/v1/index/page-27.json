@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T07:20:44.915Z",
+  "last_updated": "2026-11-16T08:20:46.905Z",
   "page": 27,
   "per_page": 100,
-  "total": 2780,
+  "total": 2781,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_36e891d57cf5",
+      "slug": "translate-document-to-arabic",
+      "title": "Translate Document to Arabic",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36e891d57cf5.json"
+    },
     {
       "id": "opl_8548a46bdf04",
       "slug": "travel-guide",
@@ -1187,15 +1196,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c589d167be7b.json"
-    },
-    {
-      "id": "opl_b12f61799c88",
-      "slug": "vision-to-json",
-      "title": "Vision-to-json",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b12f61799c88.json"
     }
   ]
 }

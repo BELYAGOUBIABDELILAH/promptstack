@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T07:20:44.915Z",
+  "last_updated": "2026-11-16T08:20:46.905Z",
   "page": 26,
   "per_page": 100,
-  "total": 2780,
+  "total": 2781,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_e5d81b2b7d0e",
+      "slug": "teacher-of-react-js",
+      "title": "Teacher of React.js",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5d81b2b7d0e.json"
+    },
     {
       "id": "opl_5bb5bb62879e",
       "slug": "tech-career-pathfinder",
@@ -989,15 +998,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5e4be86fffe.json"
-    },
-    {
-      "id": "opl_36e891d57cf5",
-      "slug": "translate-document-to-arabic",
-      "title": "Translate Document to Arabic",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36e891d57cf5.json"
     }
   ]
 }

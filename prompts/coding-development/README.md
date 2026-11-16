@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1102 prompts in this category**
+**1103 prompts in this category**
 
 ## Table of Contents
 
@@ -980,6 +980,7 @@
 - [System Prompt Updater](system-prompt-updater.md)
 - [SYSTEM PROMPT: THE INFINITE ROLE GENERATOR](system-prompt-the-infinite-role-generator.md)
 - [Table in PDF to CSV conversion](table-in-pdf-to-csv-conversion.md)
+- [tabs](tabs.md)
 - [Talent Coach](talent-coach.md)
 - [Task Creator](task-creator.md)
 - [Tattoo Studio Booking Web App Development](tattoo-studio-booking-web-app-development.md)

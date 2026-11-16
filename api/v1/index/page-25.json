@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T07:20:44.915Z",
+  "last_updated": "2026-11-16T08:20:46.905Z",
   "page": 25,
   "per_page": 100,
-  "total": 2780,
+  "total": 2781,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
@@ -965,6 +965,32 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6745f4c5b69.json"
     },
     {
+      "id": "opl_2f96428122b8",
+      "slug": "tabs",
+      "title": "tabs",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "tab_x",
+          "default": null
+        },
+        {
+          "name": "tab_y",
+          "default": null
+        },
+        {
+          "name": "tab_z",
+          "default": null
+        },
+        {
+          "name": "which_tab_to_buy_from_and_why",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f96428122b8.json"
+    },
+    {
       "id": "opl_d457ff1879ea",
       "slug": "taglish-technical-storytelling-editor",
       "title": "Taglish Technical Storytelling Editor",
@@ -1040,15 +1066,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6a9368b9c87.json"
-    },
-    {
-      "id": "opl_e5d81b2b7d0e",
-      "slug": "teacher-of-react-js",
-      "title": "Teacher of React.js",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5d81b2b7d0e.json"
     }
   ]
 }
