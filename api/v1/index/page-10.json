@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 10,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_5d12ad6a5815",
+      "slug": "document-workflow-expert",
+      "title": "Document Workflow Expert",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d12ad6a5815.json"
+    },
     {
       "id": "opl_adb75ba93759",
       "slug": "documentary-finder",
@@ -1282,15 +1291,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3af4742f6818.json"
-    },
-    {
-      "id": "opl_3575affb3371",
-      "slug": "ethereum-developer",
-      "title": "Ethereum Developer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3575affb3371.json"
     }
   ]
 }

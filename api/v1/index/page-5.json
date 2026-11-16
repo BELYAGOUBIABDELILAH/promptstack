@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 5,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_3819ba21a020",
+      "slug": "brandable-domain-name-finder",
+      "title": "Brandable Domain Name Finder",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "maxLength",
+          "default": "6"
+        },
+        {
+          "name": "platform",
+          "default": "GoDaddy"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3819ba21a020.json"
+    },
     {
       "id": "opl_b95275537831",
       "slug": "break-down-costs",
@@ -1088,15 +1106,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd4c648dbe64.json"
-    },
-    {
-      "id": "opl_3f197ee0ef24",
-      "slug": "chinese-english-translator",
-      "title": "Chinese-English Translator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f197ee0ef24.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 8,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_2bff6241834d",
+      "slug": "create-security-test-cases",
+      "title": "Create Security Test Cases",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2bff6241834d.json"
+    },
     {
       "id": "opl_cd898c70f5cd",
       "slug": "create-social-media-copy-for-employees",
@@ -1226,15 +1235,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3db6de86af3.json"
-    },
-    {
-      "id": "opl_87cb0a7d6411",
-      "slug": "debug-race-conditions",
-      "title": "Debug Race Conditions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_87cb0a7d6411.json"
     }
   ]
 }

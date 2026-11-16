@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 17,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_53c4a03dfd2a",
+      "slug": "mdct-step-by-step-calculation",
+      "title": "MDCT Step-by-Step Calculation",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53c4a03dfd2a.json"
+    },
     {
       "id": "opl_6d3ff37f74f9",
       "slug": "mechanical-keyboard-shopper",
@@ -1067,15 +1076,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_715a0835186c.json"
-    },
-    {
-      "id": "opl_42ae41de67f9",
-      "slug": "n8n-workflow-editor",
-      "title": "N8N Workflow Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42ae41de67f9.json"
     }
   ]
 }

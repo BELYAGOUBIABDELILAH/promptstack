@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 19,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_0f110d2e237d",
+      "slug": "optimize-blog-post-for-seo",
+      "title": "Optimize Blog Post for SEO",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f110d2e237d.json"
+    },
     {
       "id": "opl_47923106c24d",
       "slug": "optimize-database-queries",
@@ -1139,36 +1148,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bce50473b57.json"
-    },
-    {
-      "id": "opl_93cb36ec58c3",
-      "slug": "pitchside-tunnel-moment-with-your-favorite-footballer",
-      "title": "Pitchside Tunnel Moment with Your Favorite Footballer",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "Footballer Name",
-          "default": null
-        },
-        {
-          "name": "Jersey Number",
-          "default": null
-        },
-        {
-          "name": "Jersey Team Name",
-          "default": null
-        },
-        {
-          "name": "Mood",
-          "default": null
-        },
-        {
-          "name": "User Outfit Description",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93cb36ec58c3.json"
     }
   ]
 }

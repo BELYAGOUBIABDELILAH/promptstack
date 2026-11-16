@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 15,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_ed1154ab170f",
+      "slug": "israel-travel-planner",
+      "title": "Israel Travel Planner",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed1154ab170f.json"
+    },
     {
       "id": "opl_a9cb3d97b8b0",
       "slug": "issue-brief-generator",
@@ -1061,15 +1070,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8eb310bead8.json"
-    },
-    {
-      "id": "opl_97ba8ea3841a",
-      "slug": "linux-distros-head-to-head",
-      "title": "Linux Distros Head To Head",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97ba8ea3841a.json"
     }
   ]
 }

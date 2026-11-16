@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 23,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_4c5b78ee233a",
+      "slug": "screenplay-script-with-cinematography-details",
+      "title": "Screenplay Script with Cinematography Details",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c5b78ee233a.json"
+    },
     {
       "id": "opl_f445e90a6a31",
       "slug": "screenshot-to-calendar-appointment",
@@ -1187,36 +1196,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aff1db7f6e4b.json"
-    },
-    {
-      "id": "opl_773d07b20747",
-      "slug": "smart-project-timeline-builder",
-      "title": "Smart Project Timeline Builder",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "priority_style",
-          "default": null
-        },
-        {
-          "name": "project_goal",
-          "default": null
-        },
-        {
-          "name": "project_type",
-          "default": null
-        },
-        {
-          "name": "team_structure",
-          "default": null
-        },
-        {
-          "name": "timeline_length",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_773d07b20747.json"
     }
   ]
 }

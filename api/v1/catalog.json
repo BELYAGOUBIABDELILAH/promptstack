@@ -4191,6 +4191,28 @@
     "snippet": "# Email Reformatting Assistant Your role is to assist user with his emails, enhancing their clarity and readability, and emphasizing the Bottom Line Up Front (BLUF) methodology."
   },
   {
+    "id": "opl_93a796da24a0",
+    "title": "bond",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "bond",
+    "variables": [
+      {
+        "name": "calculate",
+        "default": null
+      },
+      {
+        "name": "identify_regime",
+        "default": null
+      },
+      {
+        "name": "search_result",
+        "default": null
+      }
+    ],
+    "snippet": "The Dynamic Macro Master Prompt (V7.1) Execution Instruction: Before answering, use your search tool to find the \"Current Daily Yields\" for US Treasuries (2Y, 10Y, 30Y) and Japan"
+  },
+  {
     "id": "opl_563dc6016c17",
     "title": "Boss Update Batcher",
     "category": "Coding & Development",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 26,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_d457ff1879ea",
+      "slug": "taglish-technical-storytelling-editor",
+      "title": "Taglish Technical Storytelling Editor",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d457ff1879ea.json"
+    },
     {
       "id": "opl_e878ed0ead56",
       "slug": "take-my-stuff-please",
@@ -1002,15 +1011,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d2a55d1ab3f.json"
-    },
-    {
-      "id": "opl_c1d2440353a8",
-      "slug": "trace-authentication-and-authorization-flow",
-      "title": "Trace Authentication and Authorization Flow",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1d2440353a8.json"
     }
   ]
 }

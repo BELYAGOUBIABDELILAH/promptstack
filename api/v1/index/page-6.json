@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 6,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_3f197ee0ef24",
+      "slug": "chinese-english-translator",
+      "title": "Chinese-English Translator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f197ee0ef24.json"
+    },
     {
       "id": "opl_b2a37128ef00",
       "slug": "chore-documentation-generator",
@@ -1096,15 +1105,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_355e6b5d9630.json"
-    },
-    {
-      "id": "opl_affc2fa8a8f5",
-      "slug": "competitor-awareness",
-      "title": "Competitor Awareness",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_affc2fa8a8f5.json"
     }
   ]
 }

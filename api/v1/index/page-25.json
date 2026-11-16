@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 25,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_3b9f9a1ef1e1",
+      "slug": "storyboard-grid",
+      "title": "Storyboard Grid",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b9f9a1ef1e1.json"
+    },
     {
       "id": "opl_9323432cb5d4",
       "slug": "storybook-with-stories-creation",
@@ -1079,15 +1088,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f96428122b8.json"
-    },
-    {
-      "id": "opl_d457ff1879ea",
-      "slug": "taglish-technical-storytelling-editor",
-      "title": "Taglish Technical Storytelling Editor",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d457ff1879ea.json"
     }
   ]
 }

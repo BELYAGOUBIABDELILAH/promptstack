@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-16T17:20:41.642Z",
+  "last_updated": "2026-11-16T18:20:49.476Z",
   "page": 20,
   "per_page": 100,
-  "total": 2790,
+  "total": 2791,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_93cb36ec58c3",
+      "slug": "pitchside-tunnel-moment-with-your-favorite-footballer",
+      "title": "Pitchside Tunnel Moment with Your Favorite Footballer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "Footballer Name",
+          "default": null
+        },
+        {
+          "name": "Jersey Number",
+          "default": null
+        },
+        {
+          "name": "Jersey Team Name",
+          "default": null
+        },
+        {
+          "name": "Mood",
+          "default": null
+        },
+        {
+          "name": "User Outfit Description",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93cb36ec58c3.json"
+    },
     {
       "id": "opl_431731b99080",
       "slug": "pixar-style-family-wallpaper-prompt",
@@ -1313,15 +1343,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05c8f10ec341.json"
-    },
-    {
-      "id": "opl_144f64e242db",
-      "slug": "prompt-engineering-expert",
-      "title": "Prompt Engineering Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_144f64e242db.json"
     }
   ]
 }

@@ -12990,6 +12990,16 @@
     "path": "prompts/coding-development/probe.md"
   },
   {
+    "act": "bond",
+    "category": "Coding & Development",
+    "prompt": "The Dynamic Macro Master Prompt (V7.1)\n\nExecution Instruction: Before answering, use your search tool to find the \"Current Daily Yields\" for US Treasuries (2Y, 10Y, 30Y) and Japan Government Bonds (2Y, 10Y, 30Y). Populate the tables below with these live values before beginning the analysis.\n\nRole: Senior Cross-Asset Portfolio Strategist.\n\nTask: Synthesize live yield data to determine global \"Risk On/Off\" posture and identify potential volatility triggers.\n\nSection 1: Live Core Data Inputs\n\nTable A: US vs. Japan Multi-Tenor Snapshot\n\n1-Month TrendTenorUS Treasury (UST)Japan (JGB)Spread (UST - JGB)[Assess 🟢🟡🔴]2-Year${search_result}${search_result}${calculate}[Assess 🟢🟡🔴]10-Year${search_result}${search_result}${calculate}[Assess 🟢🟡🔴]30-Year${search_result}${search_result}${calculate}\n\nTable B: US 10Y-2Y Spread Matrix\n\n1-Month TrendMetricCurrent ValueRegime Signal[Assess 🟢🟡🔴]US 10Y-2Y Spread${search_result}${identify_regime}Section 2: Analysis Framework\n\nUS Spread Analysis: Evaluate the current 10Y-2Y spread. Is the curve steepening or flattening? Contrast this with the 2% AI-led GDP expansion vs. the Middle East energy blockade.\n\nThe \"Yen Carry\" Pressure Test: Analyze the 10Y UST-JGB spread. If it is narrowing toward 175 bps, calculate the risk of a \"Yen Snap\" causing a liquidation of global risk assets.\n\nRepatriation Risk: Analyze the 30Y spread. Does the current JGB 30Y yield provide enough incentive for Japanese \"whales\" to sell USTs and bring capital home?\n\nRisk On/Off Synthesis: Define the \"Net Signal.\"\n\nSection 3: Output Requirements\n\nRisk-Off Probability Score: (1–10).\n\nTactical Asset Forecast: BTC/USD, Nasdaq 100, and USD/JPY.\n\nThe \"Sentinel\" Play: One growth-focused position and one protective hedge.",
+    "source": "kennynah85@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "bond",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/bond.md"
+  },
+  {
     "act": "3D City Prompt",
     "category": "Data & Analytics",
     "prompt": "Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",

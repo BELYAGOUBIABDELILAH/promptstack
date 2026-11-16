@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1105 prompts in this category**
+**1106 prompts in this category**
 
 ## Table of Contents
 
@@ -152,6 +152,7 @@
 - [Blog System Development Guide](blog-system-development-guide.md)
 - [blood grouping detection using image processing](blood-grouping-detection-using-image-processing.md)
 - [BLUF Email Reformatter](bluf-email-reformatter.md)
+- [bond](bond.md)
 - [Boss Update Batcher](boss-update-batcher.md)
 - [Brainstorming Assistant](brainstorming-assistant.md)
 - [Brainstorming Technically Grounded Product Ideas](brainstorming-technically-grounded-product-ideas.md)

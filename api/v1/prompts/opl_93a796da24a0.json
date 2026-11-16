@@ -1,0 +1,29 @@
+{
+  "id": "opl_93a796da24a0",
+  "slug": "bond",
+  "title": "bond",
+  "prompt": "The Dynamic Macro Master Prompt (V7.1)\n\nExecution Instruction: Before answering, use your search tool to find the \"Current Daily Yields\" for US Treasuries (2Y, 10Y, 30Y) and Japan Government Bonds (2Y, 10Y, 30Y). Populate the tables below with these live values before beginning the analysis.\n\nRole: Senior Cross-Asset Portfolio Strategist.\n\nTask: Synthesize live yield data to determine global \"Risk On/Off\" posture and identify potential volatility triggers.\n\nSection 1: Live Core Data Inputs\n\nTable A: US vs. Japan Multi-Tenor Snapshot\n\n1-Month TrendTenorUS Treasury (UST)Japan (JGB)Spread (UST - JGB)[Assess 🟢🟡🔴]2-Year${search_result}${search_result}${calculate}[Assess 🟢🟡🔴]10-Year${search_result}${search_result}${calculate}[Assess 🟢🟡🔴]30-Year${search_result}${search_result}${calculate}\n\nTable B: US 10Y-2Y Spread Matrix\n\n1-Month TrendMetricCurrent ValueRegime Signal[Assess 🟢🟡🔴]US 10Y-2Y Spread${search_result}${identify_regime}Section 2: Analysis Framework\n\nUS Spread Analysis: Evaluate the current 10Y-2Y spread. Is the curve steepening or flattening? Contrast this with the 2% AI-led GDP expansion vs. the Middle East energy blockade.\n\nThe \"Yen Carry\" Pressure Test: Analyze the 10Y UST-JGB spread. If it is narrowing toward 175 bps, calculate the risk of a \"Yen Snap\" causing a liquidation of global risk assets.\n\nRepatriation Risk: Analyze the 30Y spread. Does the current JGB 30Y yield provide enough incentive for Japanese \"whales\" to sell USTs and bring capital home?\n\nRisk On/Off Synthesis: Define the \"Net Signal.\"\n\nSection 3: Output Requirements\n\nRisk-Off Probability Score: (1–10).\n\nTactical Asset Forecast: BTC/USD, Nasdaq 100, and USD/JPY.\n\nThe \"Sentinel\" Play: One growth-focused position and one protective hedge.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "calculate",
+      "default": null
+    },
+    {
+      "name": "identify_regime",
+      "default": null
+    },
+    {
+      "name": "search_result",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_06729541f502"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93a796da24a0.json"
+}
