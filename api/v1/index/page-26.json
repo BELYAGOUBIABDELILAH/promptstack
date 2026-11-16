@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 26,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_f7d0da66aece",
+      "slug": "tech-desk-builder-half-body-cozy-monitor-glow",
+      "title": "Tech Desk “Builder” (half-body, cozy monitor glow)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f7d0da66aece.json"
+    },
     {
       "id": "opl_6802d60e43f5",
       "slug": "tech-diagnostic-utility",
@@ -1014,15 +1023,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cebd927bc6a2.json"
-    },
-    {
-      "id": "opl_29735b81b19b",
-      "slug": "travel-poster",
-      "title": "Travel Poster",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29735b81b19b.json"
     }
   ]
 }

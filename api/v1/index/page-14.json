@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 14,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_66c9f79f722d",
+      "slug": "image-analysis-for-night-portrait-in-heavy-snowfall",
+      "title": "Image Analysis for Night Portrait in Heavy Snowfall",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66c9f79f722d.json"
+    },
     {
       "id": "opl_12fa0493ddfe",
       "slug": "image-analysis-for-personal-style-and-personality-assessment",
@@ -1068,15 +1077,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c6ff0c1a538.json"
-    },
-    {
-      "id": "opl_c56ff7d2cd9f",
-      "slug": "it-expert",
-      "title": "IT Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c56ff7d2cd9f.json"
     }
   ]
 }

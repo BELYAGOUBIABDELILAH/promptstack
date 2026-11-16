@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**210 prompts in this category**
+**211 prompts in this category**
 
 ## Table of Contents
 
@@ -88,6 +88,7 @@
 - [Extract a Writing Outline from Scientific Content](extract-a-writing-outline-from-scientific-content.md)
 - [Feature coding template](feature-coding-template.md)
 - [Finding the company](finding-the-company.md)
+- [flaneur](flaneur.md)
 - [Football Player Introduction Poster Template](football-player-introduction-poster-template.md)
 - [Futuristic Supercar Brand Logo](futuristic-supercar-brand-logo.md)
 - [Game design](game-design.md)

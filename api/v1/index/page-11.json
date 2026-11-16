@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 11,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
@@ -826,6 +826,44 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7858f47911cd.json"
     },
     {
+      "id": "opl_9a1e2b947055",
+      "slug": "flaneur",
+      "title": "flaneur",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "amount",
+          "default": null
+        },
+        {
+          "name": "family",
+          "default": null
+        },
+        {
+          "name": "flexible",
+          "default": null
+        },
+        {
+          "name": "hiking",
+          "default": null
+        },
+        {
+          "name": "passport_nationality",
+          "default": null
+        },
+        {
+          "name": "please_recommend",
+          "default": null
+        },
+        {
+          "name": "singapore",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a1e2b947055.json"
+    },
+    {
       "id": "opl_11937f01aa64",
       "slug": "flashcard-study-system",
       "title": "Flashcard Study System",
@@ -1068,32 +1106,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c08e05dd184.json"
-    },
-    {
-      "id": "opl_9963ff6cb88e",
-      "slug": "full-stack-engineer-for-airline-simulation-center-app",
-      "title": "Full-Stack Engineer for Airline Simulation Center App",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "backendFramework",
-          "default": "Node.js"
-        },
-        {
-          "name": "database",
-          "default": "MongoDB"
-        },
-        {
-          "name": "frontendFramework",
-          "default": "React"
-        },
-        {
-          "name": "projectName",
-          "default": "Airline Inventory Management"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9963ff6cb88e.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 20,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_4656768fe78d",
+      "slug": "plain-english-security-concept-explainer",
+      "title": "Plain-English Security Concept Explainer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4656768fe78d.json"
+    },
     {
       "id": "opl_39f738036191",
       "slug": "plaintalk-style-guide",
@@ -1299,15 +1308,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8dbe2a791531.json"
-    },
-    {
-      "id": "opl_0d0b7efbc537",
-      "slug": "prompt-forensics",
-      "title": "Prompt Forensics",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d0b7efbc537.json"
     }
   ]
 }

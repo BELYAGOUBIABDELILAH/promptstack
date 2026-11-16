@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 18,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_dc08e8e310f1",
+      "slug": "nanobanana-try-clothing",
+      "title": "nanobanana try clothing",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dc08e8e310f1.json"
+    },
     {
       "id": "opl_40edc16be67f",
       "slug": "narcissistic-emotional-abuse-gaslighting-identifier",
@@ -1052,15 +1061,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f070b2219de4.json"
-    },
-    {
-      "id": "opl_4ec95395315e",
-      "slug": "opus-driven-deep-thinking-system",
-      "title": "Opus-Driven Deep Thinking System",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ec95395315e.json"
     }
   ]
 }

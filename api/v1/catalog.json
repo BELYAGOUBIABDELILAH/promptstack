@@ -25274,6 +25274,44 @@
     "snippet": "I want to find company which deal with plc ,scada, hmi work which company has less employees which are located out side of india find them on linkdin"
   },
   {
+    "id": "opl_9a1e2b947055",
+    "title": "flaneur",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "flaneur",
+    "variables": [
+      {
+        "name": "amount",
+        "default": null
+      },
+      {
+        "name": "family",
+        "default": null
+      },
+      {
+        "name": "flexible",
+        "default": null
+      },
+      {
+        "name": "hiking",
+        "default": null
+      },
+      {
+        "name": "passport_nationality",
+        "default": null
+      },
+      {
+        "name": "please_recommend",
+        "default": null
+      },
+      {
+        "name": "singapore",
+        "default": null
+      }
+    ],
+    "snippet": "Act as an expert travel planner. Help me plan a detailed trip with the following criteria. **Trip Basics** - **Destination**: - **Dates**: - **Travelers**: 2 seniors, 1 ad"
+  },
+  {
     "id": "opl_c9cf417f799a",
     "title": "Football Player Introduction Poster Template",
     "category": "Marketing & Social",

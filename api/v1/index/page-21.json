@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 21,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_0d0b7efbc537",
+      "slug": "prompt-forensics",
+      "title": "Prompt Forensics",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d0b7efbc537.json"
+    },
     {
       "id": "opl_1ca211e33e28",
       "slug": "prompt-generator",
@@ -1011,15 +1020,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_28d4400baaf6.json"
-    },
-    {
-      "id": "opl_7ac38b718a59",
-      "slug": "refine-your-resume-for-professionalism-and-ats-compatibility",
-      "title": "Refine Your Resume for Professionalism and ATS Compatibility",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ac38b718a59.json"
     }
   ]
 }

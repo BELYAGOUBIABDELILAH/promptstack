@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 23,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_1c07974b7c95",
+      "slug": "screw-identifier",
+      "title": "Screw Identifier",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c07974b7c95.json"
+    },
     {
       "id": "opl_8fa03c895867",
       "slug": "script-generation-agent",
@@ -1200,15 +1209,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b770efa63af.json"
-    },
-    {
-      "id": "opl_fb3ea3b1e144",
-      "slug": "social-media-influencer",
-      "title": "Social Media Influencer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb3ea3b1e144.json"
     }
   ]
 }

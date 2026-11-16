@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 24,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_fb3ea3b1e144",
+      "slug": "social-media-influencer",
+      "title": "Social Media Influencer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb3ea3b1e144.json"
+    },
     {
       "id": "opl_68610627af4d",
       "slug": "social-media-manager",
@@ -1027,15 +1036,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb7df10c5182.json"
-    },
-    {
-      "id": "opl_e8b3b0437c7c",
-      "slug": "strict-markdown-only-output-enforcement",
-      "title": "Strict Markdown-Only Output Enforcement",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8b3b0437c7c.json"
     }
   ]
 }

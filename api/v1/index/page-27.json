@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 27,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_29735b81b19b",
+      "slug": "travel-poster",
+      "title": "Travel Poster",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29735b81b19b.json"
+    },
     {
       "id": "opl_2223ec24cea9",
       "slug": "trend-researcher",
@@ -1175,15 +1184,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b763d639fdb7.json"
-    },
-    {
-      "id": "opl_cf2b4f2e7197",
-      "slug": "voice-conversation-coach",
-      "title": "Voice Conversation Coach",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf2b4f2e7197.json"
     }
   ]
 }

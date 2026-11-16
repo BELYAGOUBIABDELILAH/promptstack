@@ -23690,6 +23690,16 @@
     "path": "prompts/marketing-social/subvert.md"
   },
   {
+    "act": "flaneur",
+    "category": "Marketing & Social",
+    "prompt": "Act as an expert travel planner. Help me plan a detailed trip with the following criteria. \n\n\n\n**Trip Basics**\n\n- **Destination**: \n\n- **Dates**: \n\n- **Travelers**: 2 seniors, 1 adult\n\n- **Trip style**: ${family}\n\n\n\n**Budget & Logistics**\n\n- **Total budget**: $${amount} for everything, or $${amount}/day per person. Include flights.\n\n- **Currency to use**: [SGD/USD/etc]\n\n- **Accommodation preference**: [Hotel, Airbnb, Hostel, Resort, 4-star+]. Area to stay in if any: [___]\n\n- **Transport**: [Public transport only, Rent a car, Mix, Rideshare/Grab, Walking]\n\n\n\n**Interests & Constraints**\n\n- **Must-dos**: ${please_recommend}\n\n- **Interests**: [Food, Museums, Nature, Shopping, History]\n\n- **Avoid**: ${hiking}\n\n- **Pace**: ${flexible}\n\n\n\n**Output Format I Want:**\n\n1. **Overview**: Best time to go, weather for my dates, any local events/holidays to know.\n\n2. **Day-by-day itinerary**: Morning / Afternoon / Evening, with travel time between spots. Include 1 backup indoor option per day.\n\n3. **Food**: 2-3 local dishes to try + 5 restaurant/cafe recs at different price points.\n\n4. **Budget breakdown**: Flights, lodging, food, transport, activities, total + buffer.\n\n5. **Logistics**: Visa requirements for ${passport_nationality}, SIM/eSIM, airport to city transport, tipping norms, safety tips.\n\n6. **Packing list**: Tailored to weather + activities.\n\n7. **Booking timeline**: What to book now vs later.\n\n\n\nMake it realistic for travel from ${singapore}. Keep transit times honest and don’t pack days too tightly.",
+    "source": "kennynah85@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "flaneur",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/flaneur.md"
+  },
+  {
     "act": "Socratic Method",
     "category": "Philosophy & Humanities",
     "prompt": "I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.\n\nRules:\n- I will make a statement or propose a topic, and you will ask probing questions to test my logic, definitions, and underlying assumptions.\n- Explore concepts such as justice, virtue, ethics, knowledge, and courage.\n- Respond with one thoughtful question at a time.\n- Initial topic: ${topic:justice is necessary in a society}",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 17,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_9cc1d2db9d6e",
+      "slug": "media-monitoring-search-generator",
+      "title": "Media Monitoring Search Generator",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9cc1d2db9d6e.json"
+    },
     {
       "id": "opl_6dc4b9809f06",
       "slug": "medical-appointment-notes-prepper",
@@ -1067,15 +1076,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2e3faf6b462.json"
-    },
-    {
-      "id": "opl_dc08e8e310f1",
-      "slug": "nanobanana-try-clothing",
-      "title": "nanobanana try clothing",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dc08e8e310f1.json"
     }
   ]
 }

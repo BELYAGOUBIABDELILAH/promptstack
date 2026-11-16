@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 15,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_c56ff7d2cd9f",
+      "slug": "it-expert",
+      "title": "IT Expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c56ff7d2cd9f.json"
+    },
     {
       "id": "opl_dfef08ee30f0",
       "slug": "iteration-polish",
@@ -1061,15 +1070,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0798188b8d73.json"
-    },
-    {
-      "id": "opl_933c603bd07b",
-      "slug": "linux-monitoring-dashboard-with-react",
-      "title": "Linux Monitoring Dashboard with React",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_933c603bd07b.json"
     }
   ]
 }

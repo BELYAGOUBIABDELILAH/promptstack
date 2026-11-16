@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T04:20:43.870Z",
+  "last_updated": "2026-11-16T05:20:50.593Z",
   "page": 19,
   "per_page": 100,
-  "total": 2777,
+  "total": 2778,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_4ec95395315e",
+      "slug": "opus-driven-deep-thinking-system",
+      "title": "Opus-Driven Deep Thinking System",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ec95395315e.json"
+    },
     {
       "id": "opl_80fe12b3b3be",
       "slug": "oracle-payroll-unsupported-localization-guide",
@@ -1135,15 +1144,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f233ec2783d.json"
-    },
-    {
-      "id": "opl_4656768fe78d",
-      "slug": "plain-english-security-concept-explainer",
-      "title": "Plain-English Security Concept Explainer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4656768fe78d.json"
     }
   ]
 }
