@@ -218,5 +218,15 @@
     "slug": "rags-to-riches-motivational-short-video",
     "folder": "product-strategy",
     "path": "prompts/product-strategy/rags-to-riches-motivational-short-video.md"
+  },
+  {
+    "act": "Income-Based Housing Apartment Website Concept",
+    "category": "Product & Strategy",
+    "prompt": "i want you to create the most outstanding ai featured apartment websites that uses real location to determine whether you are qualified for the income based housing or regular listings.",
+    "source": "gemechuabdela.32@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "income-based-housing-apartment-website-concept",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/income-based-housing-apartment-website-concept.md"
   }
 ]
