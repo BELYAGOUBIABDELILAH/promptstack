@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 14,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_e87eff2b4b15",
+      "slug": "illustrator-style-describer-weavy",
+      "title": "Illustrator Style Describer Weavy",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e87eff2b4b15.json"
+    },
     {
       "id": "opl_66c9f79f722d",
       "slug": "image-analysis-for-night-portrait-in-heavy-snowfall",
@@ -1068,15 +1077,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af0b104e83d0.json"
-    },
-    {
-      "id": "opl_9c6ff0c1a538",
-      "slug": "it-architect",
-      "title": "IT Architect",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c6ff0c1a538.json"
     }
   ]
 }

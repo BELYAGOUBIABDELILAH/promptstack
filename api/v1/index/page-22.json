@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 22,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_28d4400baaf6",
+      "slug": "refactoring-expert-agent-role",
+      "title": "Refactoring Expert Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_28d4400baaf6.json"
+    },
     {
       "id": "opl_7ac38b718a59",
       "slug": "refine-your-resume-for-professionalism-and-ats-compatibility",
@@ -1174,15 +1183,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3370a734943f.json"
-    },
-    {
-      "id": "opl_8539746317d4",
-      "slug": "screenwriter",
-      "title": "Screenwriter",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8539746317d4.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 23,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_8539746317d4",
+      "slug": "screenwriter",
+      "title": "Screenwriter",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8539746317d4.json"
+    },
     {
       "id": "opl_1c07974b7c95",
       "slug": "screw-identifier",
@@ -1213,15 +1222,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aab664c3ad43.json"
-    },
-    {
-      "id": "opl_c0228596c478",
-      "slug": "social-media-cocktail-web-site-post",
-      "title": "Social Media Cocktail Web Site Post",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0228596c478.json"
     }
   ]
 }

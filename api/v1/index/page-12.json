@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 12,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_7c08e05dd184",
+      "slug": "frontend-developer-skill",
+      "title": "Frontend Developer Skill",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c08e05dd184.json"
+    },
     {
       "id": "opl_9963ff6cb88e",
       "slug": "full-stack-engineer-for-airline-simulation-center-app",
@@ -1001,15 +1010,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_587e71cce938.json"
-    },
-    {
-      "id": "opl_aaf1d1a9e4e1",
-      "slug": "growth-product-manager",
-      "title": "Growth Product Manager",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aaf1d1a9e4e1.json"
     }
   ]
 }

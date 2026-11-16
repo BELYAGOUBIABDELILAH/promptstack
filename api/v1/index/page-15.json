@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 15,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_9c6ff0c1a538",
+      "slug": "it-architect",
+      "title": "IT Architect",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c6ff0c1a538.json"
+    },
     {
       "id": "opl_c56ff7d2cd9f",
       "slug": "it-expert",
@@ -1061,15 +1070,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34f777f2997b.json"
-    },
-    {
-      "id": "opl_0798188b8d73",
-      "slug": "linux-logs-advisor",
-      "title": "Linux Logs Advisor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0798188b8d73.json"
     }
   ]
 }

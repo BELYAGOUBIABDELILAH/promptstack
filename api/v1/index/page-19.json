@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 19,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_f070b2219de4",
+      "slug": "optimize-large-data-reading-in-code",
+      "title": "Optimize Large Data Reading in Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f070b2219de4.json"
+    },
     {
       "id": "opl_4ec95395315e",
       "slug": "opus-driven-deep-thinking-system",
@@ -1135,15 +1144,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_112beba76314.json"
-    },
-    {
-      "id": "opl_3f233ec2783d",
-      "slug": "plagiarism-checker",
-      "title": "Plagiarism Checker",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f233ec2783d.json"
     }
   ]
 }

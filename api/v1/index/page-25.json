@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 25,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_8d9a4a4b4f93",
+      "slug": "streamline-my-tech-stack",
+      "title": "Streamline My Tech Stack",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d9a4a4b4f93.json"
+    },
     {
       "id": "opl_bb7df10c5182",
       "slug": "streamlit-app-generator",
@@ -1040,15 +1049,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5d81b2b7d0e.json"
-    },
-    {
-      "id": "opl_5bb5bb62879e",
-      "slug": "tech-career-pathfinder",
-      "title": "Tech Career Pathfinder",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bb5bb62879e.json"
     }
   ]
 }

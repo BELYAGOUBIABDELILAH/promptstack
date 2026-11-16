@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 10,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_2cdc54431d12",
+      "slug": "documentary-on-humanitarian-refugee-crises",
+      "title": "Documentary on Humanitarian & Refugee Crises",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cdc54431d12.json"
+    },
     {
       "id": "opl_fe437aa25035",
       "slug": "documentation",
@@ -1290,15 +1299,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b774380c244.json"
-    },
-    {
-      "id": "opl_0a3e96249478",
-      "slug": "etymologist",
-      "title": "Etymologist",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a3e96249478.json"
     }
   ]
 }

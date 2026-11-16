@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 18,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_a2e3faf6b462",
+      "slug": "nano-banana-pro-prompt-generator-instruction-outputs-json-bl",
+      "title": "Nano Banana Pro Prompt Generator Instruction (Outputs JSON blocks like these)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2e3faf6b462.json"
+    },
     {
       "id": "opl_dc08e8e310f1",
       "slug": "nanobanana-try-clothing",
@@ -1052,15 +1061,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f20b14f742f.json"
-    },
-    {
-      "id": "opl_f070b2219de4",
-      "slug": "optimize-large-data-reading-in-code",
-      "title": "Optimize Large Data Reading in Code",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f070b2219de4.json"
     }
   ]
 }

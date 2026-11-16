@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 13,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_aaf1d1a9e4e1",
+      "slug": "growth-product-manager",
+      "title": "Growth Product Manager",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aaf1d1a9e4e1.json"
+    },
     {
       "id": "opl_6eaeea7002ea",
       "slug": "guess-the-llm",
@@ -1081,15 +1090,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fff28d74490.json"
-    },
-    {
-      "id": "opl_e87eff2b4b15",
-      "slug": "illustrator-style-describer-weavy",
-      "title": "Illustrator Style Describer Weavy",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e87eff2b4b15.json"
     }
   ]
 }

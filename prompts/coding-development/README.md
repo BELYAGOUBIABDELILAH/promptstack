@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1101 prompts in this category**
+**1102 prompts in this category**
 
 ## Table of Contents
 
@@ -359,6 +359,7 @@
 - [Developer Relations Consultant](developer-relations-consultant.md)
 - [Developer Work Analysis from Git Diff and Commit Message](developer-work-analysis-from-git-diff-and-commit-message.md)
 - [Development Q&A](development-q-a.md)
+- [devil adv](devil-adv.md)
 - [DevOps Automator](devops-automator.md)
 - [DevOps Automator Agent Role](devops-automator-agent-role.md)
 - [Devops Engineer](devops-engineer.md)

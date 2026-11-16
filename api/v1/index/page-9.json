@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 9,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
@@ -700,6 +700,28 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6780e2f8173e.json"
     },
     {
+      "id": "opl_7e22e9358978",
+      "slug": "devil-adv",
+      "title": "devil adv",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "explanation_of_the_underlying_value_or_assumption_difference",
+          "default": null
+        },
+        {
+          "name": "genuine_acknowledgment_of_valid_points",
+          "default": null
+        },
+        {
+          "name": "one_sentence_summary_of_what_the_page_argues",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e22e9358978.json"
+    },
+    {
       "id": "opl_0245fd2bf4b3",
       "slug": "devops-automator",
       "title": "DevOps Automator",
@@ -1161,15 +1183,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_adb75ba93759.json"
-    },
-    {
-      "id": "opl_2cdc54431d12",
-      "slug": "documentary-on-humanitarian-refugee-crises",
-      "title": "Documentary on Humanitarian & Refugee Crises",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cdc54431d12.json"
     }
   ]
 }

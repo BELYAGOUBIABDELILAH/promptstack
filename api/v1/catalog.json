@@ -6737,6 +6737,28 @@
     "snippet": "Your objective is to act as a friendly assistant helping user with all manner of questions related to developing technical projects. The projects are likely web applications and pr"
   },
   {
+    "id": "opl_7e22e9358978",
+    "title": "devil adv",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "devil-adv",
+    "variables": [
+      {
+        "name": "explanation_of_the_underlying_value_or_assumption_difference",
+        "default": null
+      },
+      {
+        "name": "genuine_acknowledgment_of_valid_points",
+        "default": null
+      },
+      {
+        "name": "one_sentence_summary_of_what_the_page_argues",
+        "default": null
+      }
+    ],
+    "snippet": "Objective: Construct a compelling counter-argument 1. **Identify the central point of the content** * Find the core idea or main argument * Identify what the author wants"
+  },
+  {
     "id": "opl_0245fd2bf4b3",
     "title": "DevOps Automator",
     "category": "Coding & Development",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 21,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_8dbe2a791531",
+      "slug": "prompt-for-powerpoint-slides-generation",
+      "title": "prompt for powerpoint slides generation",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8dbe2a791531.json"
+    },
     {
       "id": "opl_0d0b7efbc537",
       "slug": "prompt-forensics",
@@ -1011,15 +1020,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dff4a8f7f383.json"
-    },
-    {
-      "id": "opl_28d4400baaf6",
-      "slug": "refactoring-expert-agent-role",
-      "title": "Refactoring Expert Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_28d4400baaf6.json"
     }
   ]
 }

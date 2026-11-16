@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T06:20:45.459Z",
+  "last_updated": "2026-11-16T07:20:44.915Z",
   "page": 16,
   "per_page": 100,
-  "total": 2779,
+  "total": 2780,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_0798188b8d73",
+      "slug": "linux-logs-advisor",
+      "title": "Linux Logs Advisor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0798188b8d73.json"
+    },
     {
       "id": "opl_933c603bd07b",
       "slug": "linux-monitoring-dashboard-with-react",
@@ -1129,15 +1138,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e7edbcfe6186.json"
-    },
-    {
-      "id": "opl_deb1ab371d41",
-      "slug": "media-mention-report-generator",
-      "title": "Media Mention Report Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_deb1ab371d41.json"
     }
   ]
 }
