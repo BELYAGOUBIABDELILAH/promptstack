@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T11:20:54.127Z",
+  "last_updated": "2026-11-16T12:20:41.242Z",
   "page": 22,
   "per_page": 100,
-  "total": 2784,
+  "total": 2785,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_6a0f03b4e114",
+      "slug": "reduce-code-complexity",
+      "title": "Reduce Code Complexity",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a0f03b4e114.json"
+    },
     {
       "id": "opl_dff4a8f7f383",
       "slug": "refactor-for-better-readability",
@@ -1174,15 +1183,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37d5e6ed6550.json"
-    },
-    {
-      "id": "opl_17126fc9d057",
-      "slug": "screenshot-to-json",
-      "title": "Screenshot To JSON",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_17126fc9d057.json"
     }
   ]
 }

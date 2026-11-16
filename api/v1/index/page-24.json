@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T11:20:54.127Z",
+  "last_updated": "2026-11-16T12:20:41.242Z",
   "page": 24,
   "per_page": 100,
-  "total": 2784,
+  "total": 2785,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_9c088db4afa2",
+      "slug": "sniper-precision-debugging-skill",
+      "title": "Sniper-Precision Debugging Skill",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c088db4afa2.json"
+    },
     {
       "id": "opl_02f500654515",
       "slug": "snippet-generator",
@@ -1005,24 +1014,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_55a20213c0d9.json"
-    },
-    {
-      "id": "opl_c96e7c609e36",
-      "slug": "strategic-decision-making-matrix",
-      "title": "Strategic Decision-Making Matrix",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "option_a",
-          "default": null
-        },
-        {
-          "name": "option_b",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c96e7c609e36.json"
     }
   ]
 }

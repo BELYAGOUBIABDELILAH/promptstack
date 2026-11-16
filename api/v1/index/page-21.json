@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T11:20:54.127Z",
+  "last_updated": "2026-11-16T12:20:41.242Z",
   "page": 21,
   "per_page": 100,
-  "total": 2784,
+  "total": 2785,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_eb04521cb11e",
+      "slug": "prompt-example-adder",
+      "title": "Prompt Example Adder",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb04521cb11e.json"
+    },
     {
       "id": "opl_97e19e52adb1",
       "slug": "prompt-for-humanizing-ai-text-english-version",
@@ -1011,15 +1020,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac02b9507672.json"
-    },
-    {
-      "id": "opl_6a0f03b4e114",
-      "slug": "reduce-code-complexity",
-      "title": "Reduce Code Complexity",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a0f03b4e114.json"
     }
   ]
 }

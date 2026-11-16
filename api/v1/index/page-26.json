@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T11:20:54.127Z",
+  "last_updated": "2026-11-16T12:20:41.242Z",
   "page": 26,
   "per_page": 100,
-  "total": 2784,
+  "total": 2785,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_ea601fded788",
+      "slug": "tattoo-studio-booking-web-app-development",
+      "title": "Tattoo Studio Booking Web App Development",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea601fded788.json"
+    },
     {
       "id": "opl_5ce2ad85bfa7",
       "slug": "tcre-framework-ai-prompt-engineer",
@@ -994,15 +1003,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8748e10df19a.json"
-    },
-    {
-      "id": "opl_65d8ac580423",
-      "slug": "transform-subjects-into-adorable-plush-forms",
-      "title": "Transform Subjects into Adorable Plush Forms",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65d8ac580423.json"
     }
   ]
 }

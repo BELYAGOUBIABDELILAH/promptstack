@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T11:20:54.127Z",
+  "last_updated": "2026-11-16T12:20:41.242Z",
   "page": 20,
   "per_page": 100,
-  "total": 2784,
+  "total": 2785,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
@@ -689,6 +689,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c889f2d0e329.json"
     },
     {
+      "id": "opl_a469d0e05646",
+      "slug": "product-pitch-and-business-plan-helper",
+      "title": "Product Pitch and Business Plan Helper",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a469d0e05646.json"
+    },
+    {
       "id": "opl_04c4257a6a1b",
       "slug": "product-planner-agent-role",
       "title": "Product Planner Agent Role",
@@ -1304,15 +1313,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1413f1c111bd.json"
-    },
-    {
-      "id": "opl_eb04521cb11e",
-      "slug": "prompt-example-adder",
-      "title": "Prompt Example Adder",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb04521cb11e.json"
     }
   ]
 }

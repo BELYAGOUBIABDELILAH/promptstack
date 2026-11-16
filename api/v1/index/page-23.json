@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T11:20:54.127Z",
+  "last_updated": "2026-11-16T12:20:41.242Z",
   "page": 23,
   "per_page": 100,
-  "total": 2784,
+  "total": 2785,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_17126fc9d057",
+      "slug": "screenshot-to-json",
+      "title": "Screenshot To JSON",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_17126fc9d057.json"
+    },
     {
       "id": "opl_3370a734943f",
       "slug": "screenshot-to-markdown-table",
@@ -1213,15 +1222,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebe584f3bc2f.json"
-    },
-    {
-      "id": "opl_9c088db4afa2",
-      "slug": "sniper-precision-debugging-skill",
-      "title": "Sniper-Precision Debugging Skill",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c088db4afa2.json"
     }
   ]
 }

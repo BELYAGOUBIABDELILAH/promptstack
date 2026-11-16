@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**63 prompts in this category**
+**64 prompts in this category**
 
 ## Table of Contents
 
@@ -49,6 +49,7 @@
 - [Movie Binge Strategist On Call](movie-binge-strategist-on-call.md)
 - [Multi-Tenant Data Isolation](multi-tenant-data-isolation.md)
 - [Non-Personal Email Challenge](non-personal-email-challenge.md)
+- [Product Pitch and Business Plan Helper](product-pitch-and-business-plan-helper.md)
 - [Productivity Stack Streamliner](productivity-stack-streamliner.md)
 - [Professional Networking Language for Career Fairs](professional-networking-language-for-career-fairs.md)
 - [Professional Real Estate Appointment Setter](professional-real-estate-appointment-setter.md)

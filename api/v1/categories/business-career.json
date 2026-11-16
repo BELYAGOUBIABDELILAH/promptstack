@@ -1,8 +1,8 @@
 {
   "folder": "business-career",
   "name": "Business & Career",
-  "last_updated": "2026-11-16T11:20:54.127Z",
-  "total": 63,
+  "last_updated": "2026-11-16T12:20:41.242Z",
+  "total": 64,
   "prompts": [
     {
       "id": "opl_9051647e5ce0",
@@ -762,6 +762,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1539c67cc61.json"
+    },
+    {
+      "id": "opl_a469d0e05646",
+      "slug": "product-pitch-and-business-plan-helper",
+      "title": "Product Pitch and Business Plan Helper",
+      "prompt": "To help me Edith create image I want him to do and also help me in convincing some in business plan and also bring idea to make someone love my product or my idea",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_4bdd475b52eb"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a469d0e05646.json"
     },
     {
       "id": "opl_de8c032672a2",

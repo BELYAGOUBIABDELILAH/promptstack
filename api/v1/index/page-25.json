@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T11:20:54.127Z",
+  "last_updated": "2026-11-16T12:20:41.242Z",
   "page": 25,
   "per_page": 100,
-  "total": 2784,
+  "total": 2785,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_c96e7c609e36",
+      "slug": "strategic-decision-making-matrix",
+      "title": "Strategic Decision-Making Matrix",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "option_a",
+          "default": null
+        },
+        {
+          "name": "option_b",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c96e7c609e36.json"
+    },
     {
       "id": "opl_ad898a07da3a",
       "slug": "strategy-consultant",
@@ -1065,15 +1083,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d42c3c5a1328.json"
-    },
-    {
-      "id": "opl_ea601fded788",
-      "slug": "tattoo-studio-booking-web-app-development",
-      "title": "Tattoo Studio Booking Web App Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea601fded788.json"
     }
   ]
 }
