@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 15,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_a9cb3d97b8b0",
+      "slug": "issue-brief-generator",
+      "title": "Issue Brief Generator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9cb3d97b8b0.json"
+    },
     {
       "id": "opl_6cc1bc2f5d33",
       "slug": "issue-closure-rate-comparison",
@@ -1061,15 +1070,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97ba8ea3841a.json"
-    },
-    {
-      "id": "opl_9c8cdd1b0851",
-      "slug": "linux-graphic-debugger",
-      "title": "Linux Graphic Debugger",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c8cdd1b0851.json"
     }
   ]
 }

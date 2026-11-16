@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 27,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_6b5c41c2021a",
+      "slug": "trading-investing-simulation-platform",
+      "title": "Trading & Investing Simulation Platform",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5c41c2021a.json"
+    },
     {
       "id": "opl_33bbbb6a43a0",
       "slug": "train-waiter",
@@ -1148,36 +1157,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93f99e512baa.json"
-    },
-    {
-      "id": "opl_53b13812d2f0",
-      "slug": "viral-tiktok-gl-hwein-recipe-in-five-languages",
-      "title": "Viral TikTok Glühwein Recipe in Five Languages",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "de",
-          "default": null
-        },
-        {
-          "name": "en",
-          "default": null
-        },
-        {
-          "name": "es",
-          "default": null
-        },
-        {
-          "name": "fr",
-          "default": null
-        },
-        {
-          "name": "it",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53b13812d2f0.json"
     }
   ]
 }

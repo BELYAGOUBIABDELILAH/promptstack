@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 22,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_798a3475511d",
+      "slug": "red-dead-redemption-2-double-exposure-effect",
+      "title": "Red Dead Redemption 2 - Double Exposure Effect",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_798a3475511d.json"
+    },
     {
       "id": "opl_ac02b9507672",
       "slug": "redesign-front-end-with-codex",
@@ -1179,15 +1188,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f445e90a6a31.json"
-    },
-    {
-      "id": "opl_505a17665fcf",
-      "slug": "screenshot-to-csv",
-      "title": "Screenshot To CSV",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_505a17665fcf.json"
     }
   ]
 }

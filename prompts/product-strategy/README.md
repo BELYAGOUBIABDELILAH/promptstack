@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**22 prompts in this category**
+**23 prompts in this category**
 
 ## Table of Contents
 
@@ -14,6 +14,7 @@
 - [Google Chrome Support](google-chrome-support.md)
 - [Growth Product Manager](growth-product-manager.md)
 - [Hardware OEM Lookup](hardware-oem-lookup.md)
+- [Income-Based Housing Apartment Website Concept](income-based-housing-apartment-website-concept.md)
 - [Innovative Use Case Generator for New Tools](innovative-use-case-generator-for-new-tools.md)
 - [Instructional Video on Muscles for Students](instructional-video-on-muscles-for-students.md)
 - [PRD Writer](prd-writer.md)

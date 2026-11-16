@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 28,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_53b13812d2f0",
+      "slug": "viral-tiktok-gl-hwein-recipe-in-five-languages",
+      "title": "Viral TikTok Glühwein Recipe in Five Languages",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "de",
+          "default": null
+        },
+        {
+          "name": "en",
+          "default": null
+        },
+        {
+          "name": "es",
+          "default": null
+        },
+        {
+          "name": "fr",
+          "default": null
+        },
+        {
+          "name": "it",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53b13812d2f0.json"
+    },
     {
       "id": "opl_a132dd1d874c",
       "slug": "viral-video-analyzer-for-tiktok-and-xiaohongshu",

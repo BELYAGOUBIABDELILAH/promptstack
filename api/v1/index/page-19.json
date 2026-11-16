@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 19,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_47923106c24d",
+      "slug": "optimize-database-queries",
+      "title": "Optimize Database Queries",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "engine",
+          "default": "PostgreSQL"
+        },
+        {
+          "name": "query",
+          "default": null
+        },
+        {
+          "name": "schema",
+          "default": "Provide relevant table DDL, column types, and existing indexes"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47923106c24d.json"
+    },
     {
       "id": "opl_402cc5518249",
       "slug": "optimize-e-commerce-listing-for-high-ctr-with-holiday-design",
@@ -1147,15 +1169,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93cb36ec58c3.json"
-    },
-    {
-      "id": "opl_431731b99080",
-      "slug": "pixar-style-family-wallpaper-prompt",
-      "title": "Pixar-Style Family Wallpaper Prompt",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_431731b99080.json"
     }
   ]
 }

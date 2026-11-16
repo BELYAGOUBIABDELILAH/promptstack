@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 18,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_e39a8312de47",
+      "slug": "na",
+      "title": "Na",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e39a8312de47.json"
+    },
     {
       "id": "opl_fcfe9d0dd9a2",
       "slug": "name-and-prompt-for-digital-avatar-application",
@@ -1022,28 +1031,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f110d2e237d.json"
-    },
-    {
-      "id": "opl_47923106c24d",
-      "slug": "optimize-database-queries",
-      "title": "Optimize Database Queries",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "engine",
-          "default": "PostgreSQL"
-        },
-        {
-          "name": "query",
-          "default": null
-        },
-        {
-          "name": "schema",
-          "default": "Provide relevant table DDL, column types, and existing indexes"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47923106c24d.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 25,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_7338177aec31",
+      "slug": "stranded-in-time-the-victorian-traveler-s-panic",
+      "title": "Stranded in Time: The Victorian Traveler’s Panic",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7338177aec31.json"
+    },
     {
       "id": "opl_55a20213c0d9",
       "slug": "strategic-app-design-content-engineering-prompt",
@@ -1079,15 +1088,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3f0501ca6aa.json"
-    },
-    {
-      "id": "opl_818098498fbc",
-      "slug": "task-creator",
-      "title": "Task Creator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_818098498fbc.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 20,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_431731b99080",
+      "slug": "pixar-style-family-wallpaper-prompt",
+      "title": "Pixar-Style Family Wallpaper Prompt",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_431731b99080.json"
+    },
     {
       "id": "opl_b99337a7ce14",
       "slug": "pixel-art-prompt-generator",
@@ -1304,15 +1313,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e80c3657ef46.json"
-    },
-    {
-      "id": "opl_2c2d6807e205",
-      "slug": "prompt-enhancer",
-      "title": "Prompt Enhancer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c2d6807e205.json"
     }
   ]
 }

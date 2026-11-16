@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 14,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
@@ -351,6 +351,15 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfac3d3bf3f4.json"
+    },
+    {
+      "id": "opl_2db7b4495d6e",
+      "slug": "income-based-housing-apartment-website-concept",
+      "title": "Income-Based Housing Apartment Website Concept",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2db7b4495d6e.json"
     },
     {
       "id": "opl_07597432c16a",
@@ -1068,15 +1077,6 @@
       "folder": "travel-places",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed1154ab170f.json"
-    },
-    {
-      "id": "opl_a9cb3d97b8b0",
-      "slug": "issue-brief-generator",
-      "title": "Issue Brief Generator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9cb3d97b8b0.json"
     }
   ]
 }

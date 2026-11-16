@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-16T14:20:48.827Z",
-  "total_prompts": 2787,
-  "source_records": 2787,
-  "total_sources": 380,
+  "last_updated": "2026-11-16T15:20:43.390Z",
+  "total_prompts": 2788,
+  "source_records": 2788,
+  "total_sources": 381,
   "total_categories": 19,
   "total_pages": 28,
   "per_page": 100,
@@ -104,7 +104,7 @@
     {
       "folder": "product-strategy",
       "name": "Product & Strategy",
-      "prompt_count": 22,
+      "prompt_count": 23,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/product-strategy.json"
     },
     {

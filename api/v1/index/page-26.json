@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T14:20:48.827Z",
+  "last_updated": "2026-11-16T15:20:43.390Z",
   "page": 26,
   "per_page": 100,
-  "total": 2787,
+  "total": 2788,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_818098498fbc",
+      "slug": "task-creator",
+      "title": "Task Creator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_818098498fbc.json"
+    },
     {
       "id": "opl_d42c3c5a1328",
       "slug": "task-manager-setup",
@@ -1007,15 +1016,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf106018f032.json"
-    },
-    {
-      "id": "opl_6b5c41c2021a",
-      "slug": "trading-investing-simulation-platform",
-      "title": "Trading & Investing Simulation Platform",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5c41c2021a.json"
     }
   ]
 }
