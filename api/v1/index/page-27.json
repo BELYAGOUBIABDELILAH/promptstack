@@ -1,12 +1,46 @@
 {
-  "last_updated": "2026-11-16T05:20:50.593Z",
+  "last_updated": "2026-11-16T06:20:45.459Z",
   "page": 27,
   "per_page": 100,
-  "total": 2778,
+  "total": 2779,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_cebd927bc6a2",
+      "slug": "travel-planner-prompt",
+      "title": "Travel Planner Prompt",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [
+        {
+          "name": "budget",
+          "default": null
+        },
+        {
+          "name": "city",
+          "default": null
+        },
+        {
+          "name": "constraints",
+          "default": null
+        },
+        {
+          "name": "dates",
+          "default": null
+        },
+        {
+          "name": "interests",
+          "default": null
+        },
+        {
+          "name": "pace",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cebd927bc6a2.json"
+    },
     {
       "id": "opl_29735b81b19b",
       "slug": "travel-poster",
@@ -1162,28 +1196,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4a2dc69add89.json"
-    },
-    {
-      "id": "opl_b763d639fdb7",
-      "slug": "voice-cloning-assistant",
-      "title": "Voice Cloning Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "dataRequirements",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "softwareTool",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b763d639fdb7.json"
     }
   ]
 }

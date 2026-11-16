@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T05:20:50.593Z",
+  "last_updated": "2026-11-16T06:20:45.459Z",
   "page": 26,
   "per_page": 100,
-  "total": 2778,
+  "total": 2779,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_31fbc389edbb",
+      "slug": "tech-courses-and-certifications",
+      "title": "Tech Courses and Certifications",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31fbc389edbb.json"
+    },
     {
       "id": "opl_f7d0da66aece",
       "slug": "tech-desk-builder-half-body-cozy-monitor-glow",
@@ -989,40 +998,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8548a46bdf04.json"
-    },
-    {
-      "id": "opl_cebd927bc6a2",
-      "slug": "travel-planner-prompt",
-      "title": "Travel Planner Prompt",
-      "category": "Travel & Places",
-      "folder": "travel-places",
-      "variables": [
-        {
-          "name": "budget",
-          "default": null
-        },
-        {
-          "name": "city",
-          "default": null
-        },
-        {
-          "name": "constraints",
-          "default": null
-        },
-        {
-          "name": "dates",
-          "default": null
-        },
-        {
-          "name": "interests",
-          "default": null
-        },
-        {
-          "name": "pace",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cebd927bc6a2.json"
     }
   ]
 }

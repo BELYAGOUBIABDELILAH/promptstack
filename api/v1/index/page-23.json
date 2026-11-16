@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T05:20:50.593Z",
+  "last_updated": "2026-11-16T06:20:45.459Z",
   "page": 23,
   "per_page": 100,
-  "total": 2778,
+  "total": 2779,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
@@ -845,6 +845,28 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd88a6720bd1.json"
     },
     {
+      "id": "opl_d21d5a7442cd",
+      "slug": "shop",
+      "title": "shop",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "ideal_buyer",
+          "default": null
+        },
+        {
+          "name": "what_reviewers_complain_about",
+          "default": null
+        },
+        {
+          "name": "what_reviewers_love",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d21d5a7442cd.json"
+    },
+    {
       "id": "opl_cd0486ec5d66",
       "slug": "shopping-list-generator-non-food",
       "title": "Shopping List Generator (Non-Food)",
@@ -1200,15 +1222,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0228596c478.json"
-    },
-    {
-      "id": "opl_6b770efa63af",
-      "slug": "social-media-content-strategist-platform-native",
-      "title": "Social Media Content Strategist (Platform-Native)",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b770efa63af.json"
     }
   ]
 }

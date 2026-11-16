@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1100 prompts in this category**
+**1101 prompts in this category**
 
 ## Table of Contents
 
@@ -895,6 +895,7 @@
 - [Shell Script Agent Role](shell-script-agent-role.md)
 - [Shields.io Badge Generator](shields-io-badge-generator.md)
 - [Shift Tracking Telegram Mini App](shift-tracking-telegram-mini-app.md)
+- [shop](shop.md)
 - [Sidebar Dashboard Design](sidebar-dashboard-design.md)
 - [Simple Data Editor](simple-data-editor.md)
 - [Simple Text Anonymisation](simple-text-anonymisation.md)

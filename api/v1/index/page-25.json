@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T05:20:50.593Z",
+  "last_updated": "2026-11-16T06:20:45.459Z",
   "page": 25,
   "per_page": 100,
-  "total": 2778,
+  "total": 2779,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_bb7df10c5182",
+      "slug": "streamlit-app-generator",
+      "title": "Streamlit App Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb7df10c5182.json"
+    },
     {
       "id": "opl_e8b3b0437c7c",
       "slug": "strict-markdown-only-output-enforcement",
@@ -1040,15 +1049,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bb5bb62879e.json"
-    },
-    {
-      "id": "opl_31fbc389edbb",
-      "slug": "tech-courses-and-certifications",
-      "title": "Tech Courses and Certifications",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31fbc389edbb.json"
     }
   ]
 }
