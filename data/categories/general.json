@@ -908,5 +908,15 @@
     "slug": "cat",
     "folder": "general",
     "path": "prompts/general/cat.md"
+  },
+  {
+    "act": "Happy new month",
+    "category": "General",
+    "prompt": "Create a simple and good looking flyer for the month of August ‘happy new month’ flyer with this picture (remove the picture background and place it in a proper place to compliment the flyer ) \n\nUnder my brand naw Whykay Entertainment",
+    "source": "adesida706@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "happy-new-month",
+    "folder": "general",
+    "path": "prompts/general/happy-new-month.md"
   }
 ]
