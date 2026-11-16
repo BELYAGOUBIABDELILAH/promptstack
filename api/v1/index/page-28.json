@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 28,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_3dfbc550f265",
+      "slug": "vr-headset-experience-simulator",
+      "title": "VR Headset Experience Simulator",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "graphicQuality",
+          "default": "high"
+        },
+        {
+          "name": "platform",
+          "default": "Oculus"
+        },
+        {
+          "name": "scenario",
+          "default": "horror"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3dfbc550f265.json"
+    },
     {
       "id": "opl_9a678834565a",
       "slug": "vr-horror-death-chatroom-simulator",

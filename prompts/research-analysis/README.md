@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**30 prompts in this category**
+**31 prompts in this category**
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@
 - [Does It Exist?](does-it-exist.md)
 - [Expert Discrete Mathematics Exam Answering](expert-discrete-mathematics-exam-answering.md)
 - [Hiring Manager Interview Prep](hiring-manager-interview-prep.md)
+- [Isometric Voxel Game Scene of a Mountain Hot Spring Inn](isometric-voxel-game-scene-of-a-mountain-hot-spring-inn.md)
 - [Leadership Coach](leadership-coach.md)
 - [Linocut Print of a Red Fox Crossing Snowy Railway Tracks at Dusk](linocut-print-of-a-red-fox-crossing-snowy-railway-tracks-at-.md)
 - [Medical Report Interpreter](medical-report-interpreter.md)

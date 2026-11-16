@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 19,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_80fe12b3b3be",
+      "slug": "oracle-payroll-unsupported-localization-guide",
+      "title": "Oracle Payroll Unsupported Localization Guide",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80fe12b3b3be.json"
+    },
     {
       "id": "opl_fe4a0c2002b8",
       "slug": "orchestrate-multi-agent-workflows",
@@ -1135,15 +1144,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4656768fe78d.json"
-    },
-    {
-      "id": "opl_39f738036191",
-      "slug": "plaintalk-style-guide",
-      "title": "PlainTalk Style Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39f738036191.json"
     }
   ]
 }

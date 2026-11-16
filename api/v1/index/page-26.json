@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 26,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_6802d60e43f5",
+      "slug": "tech-diagnostic-utility",
+      "title": "Tech Diagnostic Utility",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6802d60e43f5.json"
+    },
     {
       "id": "opl_cfe09f0ac2df",
       "slug": "tech-product-finder",
@@ -1014,15 +1023,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29735b81b19b.json"
-    },
-    {
-      "id": "opl_2223ec24cea9",
-      "slug": "trend-researcher",
-      "title": "Trend Researcher",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2223ec24cea9.json"
     }
   ]
 }

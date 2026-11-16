@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 20,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_39f738036191",
+      "slug": "plaintalk-style-guide",
+      "title": "PlainTalk Style Guide",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39f738036191.json"
+    },
     {
       "id": "opl_268362f1cf35",
       "slug": "plan-check-agent",
@@ -1299,15 +1308,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d0b7efbc537.json"
-    },
-    {
-      "id": "opl_1ca211e33e28",
-      "slug": "prompt-generator",
-      "title": "Prompt Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ca211e33e28.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 15,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_dfef08ee30f0",
+      "slug": "iteration-polish",
+      "title": "Iteration & Polish",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "page",
+          "default": null
+        },
+        {
+          "name": "reference_site_x",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfef08ee30f0.json"
+    },
     {
       "id": "opl_b608d8b784a1",
       "slug": "iterative-prompt-refinement-loop",
@@ -1052,15 +1070,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_933c603bd07b.json"
-    },
-    {
-      "id": "opl_7228db6cc447",
-      "slug": "linux-monitoring-single-html",
-      "title": "Linux monitoring single html",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7228db6cc447.json"
     }
   ]
 }

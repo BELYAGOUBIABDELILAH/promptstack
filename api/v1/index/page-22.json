@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 22,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_11275fa63160",
+      "slug": "reflected-self-portrait-in-an-urban-convex-traffic-mirror",
+      "title": "Reflected Self-Portrait in an Urban Convex Traffic Mirror",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11275fa63160.json"
+    },
     {
       "id": "opl_93bfdd44430d",
       "slug": "reflective-companion-not-advice",
@@ -1174,15 +1183,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c07974b7c95.json"
-    },
-    {
-      "id": "opl_8fa03c895867",
-      "slug": "script-generation-agent",
-      "title": "Script Generation Agent",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fa03c895867.json"
     }
   ]
 }

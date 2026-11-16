@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 18,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_40edc16be67f",
+      "slug": "narcissistic-emotional-abuse-gaslighting-identifier",
+      "title": "Narcissistic & Emotional Abuse: Gaslighting Identifier",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40edc16be67f.json"
+    },
     {
       "id": "opl_a084a9602383",
       "slug": "narcissistic-personality-disorder",
@@ -1052,15 +1061,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ec95395315e.json"
-    },
-    {
-      "id": "opl_80fe12b3b3be",
-      "slug": "oracle-payroll-unsupported-localization-guide",
-      "title": "Oracle Payroll Unsupported Localization Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80fe12b3b3be.json"
     }
   ]
 }

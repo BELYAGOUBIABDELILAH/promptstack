@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 17,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_6dc4b9809f06",
+      "slug": "medical-appointment-notes-prepper",
+      "title": "Medical Appointment Notes Prepper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dc4b9809f06.json"
+    },
     {
       "id": "opl_37c37529be2e",
       "slug": "medical-consultant",
@@ -1067,15 +1076,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dc08e8e310f1.json"
-    },
-    {
-      "id": "opl_40edc16be67f",
-      "slug": "narcissistic-emotional-abuse-gaslighting-identifier",
-      "title": "Narcissistic & Emotional Abuse: Gaslighting Identifier",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40edc16be67f.json"
     }
   ]
 }

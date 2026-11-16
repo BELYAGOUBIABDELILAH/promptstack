@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 24,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_68610627af4d",
+      "slug": "social-media-manager",
+      "title": "Social Media Manager",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68610627af4d.json"
+    },
     {
       "id": "opl_6d4fa5ec0233",
       "slug": "social-media-post-analyzer",
@@ -1027,28 +1036,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8b3b0437c7c.json"
-    },
-    {
-      "id": "opl_541ea0e691c5",
-      "slug": "stripe-payment-builder",
-      "title": "Stripe Payment Builder",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "amount",
-          "default": "0.00"
-        },
-        {
-          "name": "frequency",
-          "default": null
-        },
-        {
-          "name": "paymentType",
-          "default": "One-time"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_541ea0e691c5.json"
     }
   ]
 }

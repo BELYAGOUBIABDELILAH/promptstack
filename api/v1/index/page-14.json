@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 14,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
@@ -953,6 +953,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_884c20d40558.json"
     },
     {
+      "id": "opl_a5fc6bffd181",
+      "slug": "isometric-voxel-game-scene-of-a-mountain-hot-spring-inn",
+      "title": "Isometric Voxel Game Scene of a Mountain Hot Spring Inn",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5fc6bffd181.json"
+    },
+    {
       "id": "opl_ad2013999a04",
       "slug": "israel-news-summary",
       "title": "Israel News Summary",
@@ -1068,24 +1077,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c56ff7d2cd9f.json"
-    },
-    {
-      "id": "opl_dfef08ee30f0",
-      "slug": "iteration-polish",
-      "title": "Iteration & Polish",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "page",
-          "default": null
-        },
-        {
-          "name": "reference_site_x",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfef08ee30f0.json"
     }
   ]
 }

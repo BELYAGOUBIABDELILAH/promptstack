@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T03:20:44.491Z",
+  "last_updated": "2026-11-16T04:20:43.870Z",
   "page": 16,
   "per_page": 100,
-  "total": 2776,
+  "total": 2777,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_7228db6cc447",
+      "slug": "linux-monitoring-single-html",
+      "title": "Linux monitoring single html",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7228db6cc447.json"
+    },
     {
       "id": "opl_cb640b88b164",
       "slug": "linux-package-management-guide",
@@ -1129,15 +1138,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9cc1d2db9d6e.json"
-    },
-    {
-      "id": "opl_6dc4b9809f06",
-      "slug": "medical-appointment-notes-prepper",
-      "title": "Medical Appointment Notes Prepper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dc4b9809f06.json"
     }
   ]
 }
