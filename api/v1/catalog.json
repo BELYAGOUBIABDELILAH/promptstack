@@ -26728,6 +26728,15 @@
     "snippet": "read this${specmd:spec.md} and interview me in detail using the AskUserQuestionTool (or similar tool) about literally anything: technical implementation, UI & UX, concerns, tradeof"
   },
   {
+    "id": "opl_1928e376b3ac",
+    "title": "speech100",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "speech100",
+    "variables": [],
+    "snippet": "Compose a speech in the style of Li Shengwu’s eulogy — Open with short, conversational sentences recalling a personal anecdote, transition into longer, balanced clauses that refl"
+  },
+  {
     "id": "opl_383b13944508",
     "title": "Spotify Playlist Cover Generator",
     "category": "Marketing & Social",

@@ -1,0 +1,16 @@
+{
+  "id": "opl_1928e376b3ac",
+  "slug": "speech100",
+  "title": "speech100",
+  "prompt": "Compose a speech in the style of Li Shengwu’s eulogy —\n\nOpen with short, conversational sentences recalling a personal anecdote,\n\ntransition into longer, balanced clauses that reflect on principles or history,\n\nuse parallel structures and triadic rhythm to emphasize achievements,\n\nmaintain restrained vocabulary with clarity over flourish,\n\ninsert a poetic interlude or metaphor to slow the pace and invite reflection,\n\nclose with clipped, declarative sentences that deliver emotional resonance,\n\na dignified voice that honors legacy while remaining grounded.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_06729541f502"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1928e376b3ac.json"
+}

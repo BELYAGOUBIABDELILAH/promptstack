@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T16:20:44.588Z",
+  "last_updated": "2026-11-16T17:20:41.642Z",
   "page": 24,
   "per_page": 100,
-  "total": 2789,
+  "total": 2790,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
@@ -436,6 +436,15 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41275487f643.json"
+    },
+    {
+      "id": "opl_1928e376b3ac",
+      "slug": "speech100",
+      "title": "speech100",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1928e376b3ac.json"
     },
     {
       "id": "opl_46b6b34e1374",
@@ -1005,15 +1014,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b9f9a1ef1e1.json"
-    },
-    {
-      "id": "opl_9323432cb5d4",
-      "slug": "storybook-with-stories-creation",
-      "title": "Storybook with stories creation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9323432cb5d4.json"
     }
   ]
 }

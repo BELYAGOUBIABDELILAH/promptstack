@@ -23790,6 +23790,16 @@
     "path": "prompts/marketing-social/echo-innovation.md"
   },
   {
+    "act": "speech100",
+    "category": "Marketing & Social",
+    "prompt": "Compose a speech in the style of Li Shengwu’s eulogy —\n\nOpen with short, conversational sentences recalling a personal anecdote,\n\ntransition into longer, balanced clauses that reflect on principles or history,\n\nuse parallel structures and triadic rhythm to emphasize achievements,\n\nmaintain restrained vocabulary with clarity over flourish,\n\ninsert a poetic interlude or metaphor to slow the pace and invite reflection,\n\nclose with clipped, declarative sentences that deliver emotional resonance,\n\na dignified voice that honors legacy while remaining grounded.",
+    "source": "kennynah85@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "speech100",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/speech100.md"
+  },
+  {
     "act": "Socratic Method",
     "category": "Philosophy & Humanities",
     "prompt": "I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.\n\nRules:\n- I will make a statement or propose a topic, and you will ask probing questions to test my logic, definitions, and underlying assumptions.\n- Explore concepts such as justice, virtue, ethics, knowledge, and courage.\n- Respond with one thoughtful question at a time.\n- Initial topic: ${topic:justice is necessary in a society}",

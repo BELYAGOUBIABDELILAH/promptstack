@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**212 prompts in this category**
+**213 prompts in this category**
 
 ## Table of Contents
 
@@ -190,6 +190,7 @@
 - [Source-Hunting / OSINT Mode](source-hunting-osint-mode.md)
 - [Spanish girl in nightclub](spanish-girl-in-nightclub.md)
 - [Spec Interview](spec-interview.md)
+- [speech100](speech100.md)
 - [Spotify Playlist Cover Generator](spotify-playlist-cover-generator.md)
 - [Stock Market Analysis Expert](stock-market-analysis-expert.md)
 - [Stock Market Analyst: Market Move Suggestions](stock-market-analyst-market-move-suggestions.md)
