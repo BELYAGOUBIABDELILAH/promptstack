@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-16T10:20:41.002Z",
+  "last_updated": "2026-11-16T11:20:54.127Z",
   "page": 26,
   "per_page": 100,
-  "total": 2783,
+  "total": 2784,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_5ce2ad85bfa7",
+      "slug": "tcre-framework-ai-prompt-engineer",
+      "title": "TCRE Framework - AI Prompt Engineer",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "insert_objective",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ce2ad85bfa7.json"
+    },
     {
       "id": "opl_c6a9368b9c87",
       "slug": "tea-taster",
@@ -989,15 +1003,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65d8ac580423.json"
-    },
-    {
-      "id": "opl_7f9226b534cc",
-      "slug": "transform-the-provided-clothing-product-image",
-      "title": "Transform the provided clothing product image.",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f9226b534cc.json"
     }
   ]
 }

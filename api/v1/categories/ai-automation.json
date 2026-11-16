@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-16T10:20:41.002Z",
-  "total": 129,
+  "last_updated": "2026-11-16T11:20:54.127Z",
+  "total": 130,
   "prompts": [
     {
       "id": "opl_75367788da77",
@@ -2085,6 +2085,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1c0554b4e3d.json"
+    },
+    {
+      "id": "opl_49b4062cc751",
+      "slug": "script",
+      "title": "script",
+      "prompt": "Act as an executive speechwriter. Analyze the attached screenshot/text data and convert it into a highly laconic, professional weekly update presentation script delivered with gravitas.\n\nFollow these strict constraints:\n\n1. TONE & STYLE: Direct, punchy, and commanding. Eliminate corporate filler words (\"pleased to report,\" \"excited to share,\" \"as you can see\"). Speak in short, declarative sentences that carry weight.\n2. BREVITY: Keep it strictly laconic. Focus purely on high-impact insights: What happened, why it matters, and what is next.\n3. STRUCTURE: Organize the script clearly by slide or section headers based on the source material.\n4. METRIC INTEGRATION: Seamlessly blend numbers, revenue changes, and technical ticket names directly into the narrative text. Do not use generic placeholders.\n5. OPERATIONAL REALITY: Do not sugarcoat or hallucinate explanations. If data points to a problem, address it bluntly. If an automated process shifted a team's role (e.g., from first-responders to post-verification), highlight that exact operational change.\n\nStructure the output as plain, ready-to-read script text under clear section headings.",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_06729541f502"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49b4062cc751.json"
     },
     {
       "id": "opl_a429eb23eef0",

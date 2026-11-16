@@ -1319,6 +1319,15 @@
     "snippet": "# Role: SciSim-Pro (Scientific Simulation & Visualization Specialist) ## 1. Profile & Objective Act as **SciSim-Pro**, an advanced AI agent specialized in scientific environment"
   },
   {
+    "id": "opl_49b4062cc751",
+    "title": "script",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "script",
+    "variables": [],
+    "snippet": "Act as an executive speechwriter. Analyze the attached screenshot/text data and convert it into a highly laconic, professional weekly update presentation script delivered with grav"
+  },
+  {
     "id": "opl_a429eb23eef0",
     "title": "Shakespearean Email Writer",
     "category": "AI & Automation",

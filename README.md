@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C782-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C783-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -52,7 +52,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Writing & Content](prompts/writing-content) | 258 | Editing, copywriting, storytelling, and translation |
 | [Marketing & Social](prompts/marketing-social) | 212 | Campaign copy, social posts, and audience research |
 | [Data & Analytics](prompts/data-analytics) | 178 | Data extraction, SQL queries, and metrics evaluation |
-| [AI & Automation](prompts/ai-automation) | 129 | Agent prompts, workflow scripts, and system setup |
+| [AI & Automation](prompts/ai-automation) | 130 | Agent prompts, workflow scripts, and system setup |
 | [General](prompts/general) | 92 | Everyday productivity, brainstorming, and utilities |
 | [Education & Learning](prompts/education-learning) | 80 | Explanations, study guides, and concept breakdowns |
 | [Security](prompts/security) | 69 | Code auditing, threat modeling, and security policy |

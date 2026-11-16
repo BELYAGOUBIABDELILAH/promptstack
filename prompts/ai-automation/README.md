@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**129 prompts in this category**
+**130 prompts in this category**
 
 ## Table of Contents
 
@@ -115,6 +115,7 @@
 - [Reverse-Engineering Vox's Hybrid Video Strategy](reverse-engineering-vox-s-hybrid-video-strategy.md)
 - [Romantic Rainy Scene Video](romantic-rainy-scene-video.md)
 - [SciSim Pro - Simulator for science (ASCII/Textual Art spatial diagrams support)](scisim-pro-simulator-for-science-ascii-textual-art-spatial-diagrams-support.md)
+- [script](script.md)
 - [Shakespearean Email Writer](shakespearean-email-writer.md)
 - [Shakespearean Text Generator (Full)](shakespearean-text-generator-full.md)
 - [Smart Project Timeline Builder](smart-project-timeline-builder.md)

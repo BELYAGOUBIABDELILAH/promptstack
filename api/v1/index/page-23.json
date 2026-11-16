@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T10:20:41.002Z",
+  "last_updated": "2026-11-16T11:20:54.127Z",
   "page": 23,
   "per_page": 100,
-  "total": 2783,
+  "total": 2784,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
@@ -33,6 +33,15 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c07974b7c95.json"
+    },
+    {
+      "id": "opl_49b4062cc751",
+      "slug": "script",
+      "title": "script",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49b4062cc751.json"
     },
     {
       "id": "opl_8fa03c895867",
@@ -1213,15 +1222,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c088db4afa2.json"
-    },
-    {
-      "id": "opl_02f500654515",
-      "slug": "snippet-generator",
-      "title": "Snippet Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02f500654515.json"
     }
   ]
 }

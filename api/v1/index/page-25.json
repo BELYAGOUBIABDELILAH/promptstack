@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T10:20:41.002Z",
+  "last_updated": "2026-11-16T11:20:54.127Z",
   "page": 25,
   "per_page": 100,
-  "total": 2783,
+  "total": 2784,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_ad898a07da3a",
+      "slug": "strategy-consultant",
+      "title": "Strategy Consultant",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad898a07da3a.json"
+    },
     {
       "id": "opl_8c84c481de67",
       "slug": "streaks-mobile-app-development-prompt",
@@ -1065,20 +1074,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea601fded788.json"
-    },
-    {
-      "id": "opl_5ce2ad85bfa7",
-      "slug": "tcre-framework-ai-prompt-engineer",
-      "title": "TCRE Framework - AI Prompt Engineer",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "insert_objective",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ce2ad85bfa7.json"
     }
   ]
 }

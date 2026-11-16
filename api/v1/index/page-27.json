@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T10:20:41.002Z",
+  "last_updated": "2026-11-16T11:20:54.127Z",
   "page": 27,
   "per_page": 100,
-  "total": 2783,
+  "total": 2784,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_7f9226b534cc",
+      "slug": "transform-the-provided-clothing-product-image",
+      "title": "Transform the provided clothing product image.",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f9226b534cc.json"
+    },
     {
       "id": "opl_60d3528019bc",
       "slug": "transforming-a-photo-into-a-post-apocalyptic-scene",
@@ -1178,15 +1187,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb6f4fedba3e.json"
-    },
-    {
-      "id": "opl_cf524f2effa1",
-      "slug": "virtual-fitness-coach",
-      "title": "Virtual Fitness Coach",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf524f2effa1.json"
     }
   ]
 }

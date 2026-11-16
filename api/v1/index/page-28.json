@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T10:20:41.002Z",
+  "last_updated": "2026-11-16T11:20:54.127Z",
   "page": 28,
   "per_page": 100,
-  "total": 2783,
+  "total": 2784,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_cf524f2effa1",
+      "slug": "virtual-fitness-coach",
+      "title": "Virtual Fitness Coach",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf524f2effa1.json"
+    },
     {
       "id": "opl_ba985b5bbb94",
       "slug": "virtual-game-console-simulator",
