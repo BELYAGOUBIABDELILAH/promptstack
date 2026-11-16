@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 23,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_aa0bf40ae54f",
+      "slug": "scientific-drawing-assistant",
+      "title": "Scientific Drawing Assistant",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "colorScheme",
+          "default": "monochrome"
+        },
+        {
+          "name": "journalGuidelines",
+          "default": null
+        },
+        {
+          "name": "preferredTool",
+          "default": "Illustrator"
+        },
+        {
+          "name": "scientificConcept",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa0bf40ae54f.json"
+    },
     {
       "id": "opl_743c7082ea93",
       "slug": "scientific-paper-drafting-for-analytical-data",
@@ -1240,15 +1266,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f13263bb5ca.json"
-    },
-    {
-      "id": "opl_1be06113a63d",
-      "slug": "small-functional-analyst-mode",
-      "title": "Small Functional Analyst mode",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1be06113a63d.json"
     }
   ]
 }

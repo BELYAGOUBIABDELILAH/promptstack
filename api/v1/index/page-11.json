@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 11,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_10b81a16f4af",
+      "slug": "esp32-ui-library-development",
+      "title": "ESP32 UI Library Development",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10b81a16f4af.json"
+    },
     {
       "id": "opl_29c0d627d22a",
       "slug": "essay-writer",
@@ -1114,15 +1123,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd389a01fbee.json"
-    },
-    {
-      "id": "opl_324df7009f25",
-      "slug": "forum-post-drafter",
-      "title": "Forum Post Drafter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_324df7009f25.json"
     }
   ]
 }

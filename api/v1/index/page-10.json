@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 10,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_5080e937b389",
+      "slug": "document-table-finder",
+      "title": "Document Table Finder",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5080e937b389.json"
+    },
     {
       "id": "opl_6e3f4bd2cee3",
       "slug": "document-template-generator",
@@ -1282,15 +1291,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1fe965830390.json"
-    },
-    {
-      "id": "opl_10b81a16f4af",
-      "slug": "esp32-ui-library-development",
-      "title": "ESP32 UI Library Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10b81a16f4af.json"
     }
   ]
 }

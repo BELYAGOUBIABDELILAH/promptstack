@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 24,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_1be06113a63d",
+      "slug": "small-functional-analyst-mode",
+      "title": "Small Functional Analyst mode",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1be06113a63d.json"
+    },
     {
       "id": "opl_84285c45f20a",
       "slug": "smart-application-developer-assistant",
@@ -1034,15 +1043,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52a659314c8a.json"
-    },
-    {
-      "id": "opl_f5e20b0cf4e7",
-      "slug": "storage-recs-from-photos",
-      "title": "Storage Recs (From Photos)",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f5e20b0cf4e7.json"
     }
   ]
 }

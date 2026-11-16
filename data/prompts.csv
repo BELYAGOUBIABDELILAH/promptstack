@@ -69172,6 +69172,60 @@ Risk-Off Probability Score: (1–10).
 Tactical Asset Forecast: BTC/USD, Nasdaq 100, and USD/JPY.
 
 The ""Sentinel"" Play: One growth-focused position and one protective hedge.",kennynah85@gmail.com (prompts.chat),TEXT,bond,coding-development,prompts/coding-development/bond.md
+alfakennybody,Coding & Development,"Analyze ${oust}.
+
+Ignore consensus opinions and focus entirely on variant perception. Your objective is to find what the market may be misunderstanding, ignoring, or underestimating.
+
+Provide:
+
+1) Business Summary
+- what does the company do?
+- how does it make money?
+- why does it matter?
+
+> Bull Case
+What could go right?
+What are investors missing?
+What hidden growth drivers exist?
+What future catalysts could emerge?
+What optionality is not reflected in the stock price?
+
+> Bear Case
+What could go wrong?
+What risks are underappreciated?
+What assumptions must be true for the thesis to fail?
+
+> Variant Perception
+What does Wall Street currently believe?
+What alternative outcome could occur?
+Why is consensus potentially wrong?
+
+> Catalysts
+Earnings
+Product launches
+Partnerships
+Regulatory developments
+Industry shifts
+Capital allocation decisions
+
+> Management
+Insider ownership
+Insider buying/selling
+Capital allocation quality
+Track record
+
+> Competitive Position
+Moat
+Market share
+Industry positioning
+Competitive advantages
+
+> Probability-Weighted Outcomes
+Bear Case (% probability)
+Base Case (% probability)
+Bull Case (% probability)
+
+If Wall Street is wrong and the bull case plays out, what would need to happen for this stock to double, triple, or become a long-term market leader?",kennynah85@gmail.com (prompts.chat),TEXT,alfakennybody,coding-development,prompts/coding-development/alfakennybody.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",

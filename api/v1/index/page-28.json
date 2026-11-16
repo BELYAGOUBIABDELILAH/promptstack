@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 28,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_b4d4b36d7a95",
+      "slug": "vibrant-fauvist-style-sunlit-living-room-illustration",
+      "title": "Vibrant Fauvist Style Sunlit Living Room Illustration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d4b36d7a95.json"
+    },
     {
       "id": "opl_1a958c678693",
       "slug": "video-extractor-prompt",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 9,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_fbe3e7b7d341",
+      "slug": "debug-failing-pipeline",
+      "title": "Debug Failing Pipeline",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbe3e7b7d341.json"
+    },
     {
       "id": "opl_d3db6de86af3",
       "slug": "debug-memory-leak",
@@ -1174,15 +1183,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d8661ce4a23c.json"
-    },
-    {
-      "id": "opl_5080e937b389",
-      "slug": "document-table-finder",
-      "title": "Document Table Finder",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5080e937b389.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1106 prompts in this category**
+**1107 prompts in this category**
 
 ## Table of Contents
 
@@ -79,6 +79,7 @@
 - [AI-Powered Personal Compliment & Coaching Engine](ai-powered-personal-compliment-coaching-engine.md)
 - [AI2sql SQL Model — Query Generator](ai2sql-sql-model-query-generator.md)
 - [Alexa Said THIS… and Miss Nancy Didn’t Like It 😳](alexa-said-this-and-miss-nancy-didn-t-like-it.md)
+- [alfakennybody](alfakennybody.md)
 - [Alien Visitor](alien-visitor.md)
 - [Alternative Text Generator](alternative-text-generator.md)
 - [Amateur Girls' Night Selfie - Casual and Imperfect](amateur-girls-night-selfie-casual-and-imperfect.md)

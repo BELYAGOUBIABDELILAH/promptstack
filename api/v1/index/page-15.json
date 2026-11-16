@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 15,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_d3dbb6bbe19f",
+      "slug": "israel-tech-shopping-assistant",
+      "title": "Israel Tech Shopping Assistant",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3dbb6bbe19f.json"
+    },
     {
       "id": "opl_4650908ddf96",
       "slug": "israel-to-row-price-comparison",
@@ -1048,28 +1057,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1bb926d85f38.json"
-    },
-    {
-      "id": "opl_4d0a439fcd79",
-      "slug": "linkedin-recommendation-request-message-prompt",
-      "title": "LinkedIn: Recommendation request message prompt",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "industry",
-          "default": null
-        },
-        {
-          "name": "job_title",
-          "default": null
-        },
-        {
-          "name": "sector",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d0a439fcd79.json"
     }
   ]
 }

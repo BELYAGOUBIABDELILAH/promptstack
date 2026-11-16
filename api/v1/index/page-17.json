@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 17,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_3858cd12b6c0",
+      "slug": "mbbs",
+      "title": "Mbbs",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "mcq",
+          "default": null
+        },
+        {
+          "name": "theory",
+          "default": null
+        },
+        {
+          "name": "viva",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3858cd12b6c0.json"
+    },
     {
       "id": "opl_92d905a331d9",
       "slug": "mcp-info",
@@ -1042,40 +1064,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66c6f1ca12e9.json"
-    },
-    {
-      "id": "opl_f0aba3db64b4",
-      "slug": "2026-size-neler-getirecek",
-      "title": "Mystical 2026 Astrology Poster",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "birth_date",
-          "default": null
-        },
-        {
-          "name": "birth_place",
-          "default": null
-        },
-        {
-          "name": "birth_time",
-          "default": null
-        },
-        {
-          "name": "ref_image",
-          "default": null
-        },
-        {
-          "name": "tr_or_en",
-          "default": null
-        },
-        {
-          "name": "user_uploaded_image",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0aba3db64b4.json"
     }
   ]
 }

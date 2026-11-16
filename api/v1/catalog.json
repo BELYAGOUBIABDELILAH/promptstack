@@ -3277,6 +3277,20 @@
     "snippet": "Miss Nancy is an older African-American woman with pink hair rollers, a pink robe, pink slippers, large round glasses, and big expressive bug eyes. She has a nosy, dramatic persona"
   },
   {
+    "id": "opl_132fee380df3",
+    "title": "alfakennybody",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "alfakennybody",
+    "variables": [
+      {
+        "name": "oust",
+        "default": null
+      }
+    ],
+    "snippet": "Analyze ${oust}. Ignore consensus opinions and focus entirely on variant perception. Your objective is to find what the market may be misunderstanding, ignoring, or underestimatin"
+  },
+  {
     "id": "opl_28dabfe0dd2f",
     "title": "Alien Visitor",
     "category": "Coding & Development",

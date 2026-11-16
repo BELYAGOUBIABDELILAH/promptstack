@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 5,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_ca3b6e0c146a",
+      "slug": "brainstorming-technically-grounded-product-ideas",
+      "title": "Brainstorming Technically Grounded Product Ideas",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "constraints",
+          "default": null
+        },
+        {
+          "name": "context",
+          "default": null
+        },
+        {
+          "name": "goal",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca3b6e0c146a.json"
+    },
     {
       "id": "opl_5d154608eabf",
       "slug": "brand-reliability-assistant",
@@ -1083,20 +1105,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_032ffe51f26b.json"
-    },
-    {
-      "id": "opl_92865b5ff4be",
-      "slug": "chinese-to-english-translation-assistant",
-      "title": "Chinese to English Translation Assistant",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "input",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92865b5ff4be.json"
     }
   ]
 }

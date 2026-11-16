@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 13,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_40236cc4518f",
+      "slug": "graphic-design-questions",
+      "title": "Graphic Design Questions",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40236cc4518f.json"
+    },
     {
       "id": "opl_3841b68f06ca",
       "slug": "graphics",
@@ -1044,15 +1053,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f06fe289be8.json"
-    },
-    {
-      "id": "opl_c62aca7e0f83",
-      "slug": "identify-high-churn-risk-customers",
-      "title": "Identify High Churn Risk Customers",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c62aca7e0f83.json"
     }
   ]
 }

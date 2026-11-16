@@ -1,0 +1,21 @@
+{
+  "id": "opl_132fee380df3",
+  "slug": "alfakennybody",
+  "title": "alfakennybody",
+  "prompt": "Analyze ${oust}.\n\nIgnore consensus opinions and focus entirely on variant perception. Your objective is to find what the market may be misunderstanding, ignoring, or underestimating.\n\nProvide:\n\n1) Business Summary\n- what does the company do?\n- how does it make money?\n- why does it matter?\n\n> Bull Case\nWhat could go right?\nWhat are investors missing?\nWhat hidden growth drivers exist?\nWhat future catalysts could emerge?\nWhat optionality is not reflected in the stock price?\n\n> Bear Case\nWhat could go wrong?\nWhat risks are underappreciated?\nWhat assumptions must be true for the thesis to fail?\n\n> Variant Perception\nWhat does Wall Street currently believe?\nWhat alternative outcome could occur?\nWhy is consensus potentially wrong?\n\n> Catalysts\nEarnings\nProduct launches\nPartnerships\nRegulatory developments\nIndustry shifts\nCapital allocation decisions\n\n> Management\nInsider ownership\nInsider buying/selling\nCapital allocation quality\nTrack record\n\n> Competitive Position\nMoat\nMarket share\nIndustry positioning\nCompetitive advantages\n\n> Probability-Weighted Outcomes\nBear Case (% probability)\nBase Case (% probability)\nBull Case (% probability)\n\nIf Wall Street is wrong and the bull case plays out, what would need to happen for this stock to double, triple, or become a long-term market leader?",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "oust",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_06729541f502"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_132fee380df3.json"
+}

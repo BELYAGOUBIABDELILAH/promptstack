@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 8,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_824a96a33e6f",
+      "slug": "create-python-dev-container",
+      "title": "Create Python Dev Container",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_824a96a33e6f.json"
+    },
     {
       "id": "opl_94edc98a868f",
       "slug": "create-satirical-and-bold-song-lyrics",
@@ -1235,15 +1244,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e53dea9c3961.json"
-    },
-    {
-      "id": "opl_fbe3e7b7d341",
-      "slug": "debug-failing-pipeline",
-      "title": "Debug Failing Pipeline",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbe3e7b7d341.json"
     }
   ]
 }

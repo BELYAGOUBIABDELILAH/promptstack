@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 4,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prompts": [
+    {
+      "id": "opl_3b7263586046",
+      "slug": "assistant-ideator-organisation",
+      "title": "Assistant Ideator - Organisation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b7263586046.json"
+    },
     {
       "id": "opl_022b454f1481",
       "slug": "assistant-ideator-productivity",
@@ -1168,28 +1177,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9273946428b.json"
-    },
-    {
-      "id": "opl_ca3b6e0c146a",
-      "slug": "brainstorming-technically-grounded-product-ideas",
-      "title": "Brainstorming Technically Grounded Product Ideas",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "constraints",
-          "default": null
-        },
-        {
-          "name": "context",
-          "default": null
-        },
-        {
-          "name": "goal",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca3b6e0c146a.json"
     }
   ]
 }

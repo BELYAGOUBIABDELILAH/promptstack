@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 6,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_92865b5ff4be",
+      "slug": "chinese-to-english-translation-assistant",
+      "title": "Chinese to English Translation Assistant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "input",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92865b5ff4be.json"
+    },
     {
       "id": "opl_fd4c648dbe64",
       "slug": "chinese-to-english-translation-proofreading-expert",
@@ -1105,15 +1119,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0badc961ef1.json"
-    },
-    {
-      "id": "opl_f3fd67d692ed",
-      "slug": "competitive-intelligence-analyst",
-      "title": "Competitive Intelligence Analyst",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3fd67d692ed.json"
     }
   ]
 }

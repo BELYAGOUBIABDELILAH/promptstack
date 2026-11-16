@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 20,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_1e606e41b6aa",
+      "slug": "pipedream-automation-helper",
+      "title": "Pipedream Automation Helper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e606e41b6aa.json"
+    },
     {
       "id": "opl_af3506b7174d",
       "slug": "pipeline-failure-and-duration-comparison",
@@ -1351,15 +1360,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_30c986f33736.json"
-    },
-    {
-      "id": "opl_7291e2ffb88a",
-      "slug": "prompt-converter-json-to-markdown",
-      "title": "Prompt Converter - JSON To Markdown",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7291e2ffb88a.json"
     }
   ]
 }

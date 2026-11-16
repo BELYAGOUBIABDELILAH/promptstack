@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T21:20:43.656Z",
+  "last_updated": "2026-11-16T22:20:46.345Z",
   "page": 3,
   "per_page": 100,
-  "total": 2794,
+  "total": 2795,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
@@ -256,6 +256,20 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82fbff0e4688.json"
+    },
+    {
+      "id": "opl_132fee380df3",
+      "slug": "alfakennybody",
+      "title": "alfakennybody",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "oust",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_132fee380df3.json"
     },
     {
       "id": "opl_35ff56d0ed8e",
@@ -1120,15 +1134,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2098b1c53908.json"
-    },
-    {
-      "id": "opl_3b7263586046",
-      "slug": "assistant-ideator-organisation",
-      "title": "Assistant Ideator - Organisation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b7263586046.json"
     }
   ]
 }
