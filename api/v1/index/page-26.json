@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T01:20:42.300Z",
+  "last_updated": "2026-11-16T02:20:42.142Z",
   "page": 26,
   "per_page": 100,
-  "total": 2774,
+  "total": 2775,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_59b121aa2894",
+      "slug": "tech-project-planner",
+      "title": "Tech Project Planner",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59b121aa2894.json"
+    },
     {
       "id": "opl_52be0241d54b",
       "slug": "tech-reviewer",
@@ -1014,15 +1023,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45f7e59d41ba.json"
-    },
-    {
-      "id": "opl_47de518607eb",
-      "slug": "troubleshoot-production-issue",
-      "title": "Troubleshoot Production Issue",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47de518607eb.json"
     }
   ]
 }

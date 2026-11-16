@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**91 prompts in this category**
+**92 prompts in this category**
 
 ## Table of Contents
 
@@ -35,6 +35,7 @@
 - [Freeform Text Converter](freeform-text-converter.md)
 - [Gaslighter](gaslighter.md)
 - [Golden Prompt for Short, Useful Answers](golden-prompt-for-short-useful-answers.md)
+- [Happy new month](happy-new-month.md)
 - [Home Preparedness Expert](home-preparedness-expert.md)
 - [identify the key skills needed for effective project planning and proposal writing](identify-the-key-skills-needed-for-effective-project-plannin.md)
 - [Impact Metrics](impact-metrics.md)

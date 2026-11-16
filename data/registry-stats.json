@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 2774,
-  "canonical_records": 2774,
+  "source_records": 2775,
+  "canonical_records": 2775,
   "quarantined_records": 0,
   "exact_duplicate_groups": 0,
   "duplicates_beyond_canonical": 0,
-  "sources": 378,
+  "sources": 379,
   "categories": {
     "AI & Automation": 129,
     "Business & Career": 63,
@@ -15,7 +15,7 @@
     "Education & Learning": 80,
     "Food & Recipes": 3,
     "Games & Fun": 24,
-    "General": 91,
+    "General": 92,
     "Health & Wellness": 29,
     "Image & Design": 401,
     "Marketing & Social": 210,

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T01:20:42.300Z",
+  "last_updated": "2026-11-16T02:20:42.142Z",
   "page": 13,
   "per_page": 100,
-  "total": 2774,
+  "total": 2775,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
@@ -152,6 +152,15 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0a0e2004b94.json"
+    },
+    {
+      "id": "opl_509b50eac62e",
+      "slug": "happy-new-month",
+      "title": "Happy new month",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_509b50eac62e.json"
     },
     {
       "id": "opl_055dfd05d21d",
@@ -1081,15 +1090,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66c9f79f722d.json"
-    },
-    {
-      "id": "opl_12fa0493ddfe",
-      "slug": "image-analysis-for-personal-style-and-personality-assessment",
-      "title": "Image Analysis for Personal Style and Personality Assessment",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12fa0493ddfe.json"
     }
   ]
 }

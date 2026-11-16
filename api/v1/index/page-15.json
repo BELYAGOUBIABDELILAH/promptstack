@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-16T01:20:42.300Z",
+  "last_updated": "2026-11-16T02:20:42.142Z",
   "page": 15,
   "per_page": 100,
-  "total": 2774,
+  "total": 2775,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_b608d8b784a1",
+      "slug": "iterative-prompt-refinement-loop",
+      "title": "Iterative Prompt Refinement Loop",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "feedback",
+          "default": null
+        },
+        {
+          "name": "iterationCount",
+          "default": null
+        },
+        {
+          "name": "originalPrompt",
+          "default": null
+        },
+        {
+          "name": "useCase",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b608d8b784a1.json"
+    },
     {
       "id": "opl_4a5b0f23a781",
       "slug": "jaded-networking-vetter",
@@ -1035,15 +1061,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7228db6cc447.json"
-    },
-    {
-      "id": "opl_cb640b88b164",
-      "slug": "linux-package-management-guide",
-      "title": "Linux Package Management Guide",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb640b88b164.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T01:20:42.300Z",
+  "last_updated": "2026-11-16T02:20:42.142Z",
   "page": 22,
   "per_page": 100,
-  "total": 2774,
+  "total": 2775,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_93bfdd44430d",
+      "slug": "reflective-companion-not-advice",
+      "title": "Reflective Companion, Not Advice",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93bfdd44430d.json"
+    },
     {
       "id": "opl_c8ae2071e62c",
       "slug": "refute",
@@ -1183,15 +1192,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ceb8a35dabd3.json"
-    },
-    {
-      "id": "opl_a605ee0951cf",
-      "slug": "search-gitlab-documentation",
-      "title": "Search GitLab Documentation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a605ee0951cf.json"
     }
   ]
 }

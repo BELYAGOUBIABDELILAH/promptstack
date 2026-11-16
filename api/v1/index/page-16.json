@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T01:20:42.300Z",
+  "last_updated": "2026-11-16T02:20:42.142Z",
   "page": 16,
   "per_page": 100,
-  "total": 2774,
+  "total": 2775,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_cb640b88b164",
+      "slug": "linux-package-management-guide",
+      "title": "Linux Package Management Guide",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb640b88b164.json"
+    },
     {
       "id": "opl_49f82d318802",
       "slug": "linux-script-developer",
@@ -1129,28 +1138,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dc4b9809f06.json"
-    },
-    {
-      "id": "opl_37c37529be2e",
-      "slug": "medical-consultant",
-      "title": "Medical Consultant",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "age",
-          "default": null
-        },
-        {
-          "name": "medicalHistory",
-          "default": null
-        },
-        {
-          "name": "symptoms",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37c37529be2e.json"
     }
   ]
 }

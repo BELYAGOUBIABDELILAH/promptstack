@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T01:20:42.300Z",
+  "last_updated": "2026-11-16T02:20:42.142Z",
   "page": 14,
   "per_page": 100,
-  "total": 2774,
+  "total": 2775,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_12fa0493ddfe",
+      "slug": "image-analysis-for-personal-style-and-personality-assessment",
+      "title": "Image Analysis for Personal Style and Personality Assessment",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12fa0493ddfe.json"
+    },
     {
       "id": "opl_113fa5c88828",
       "slug": "image-analysis-inventory-assistant",
@@ -1077,32 +1086,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfef08ee30f0.json"
-    },
-    {
-      "id": "opl_b608d8b784a1",
-      "slug": "iterative-prompt-refinement-loop",
-      "title": "Iterative Prompt Refinement Loop",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "feedback",
-          "default": null
-        },
-        {
-          "name": "iterationCount",
-          "default": null
-        },
-        {
-          "name": "originalPrompt",
-          "default": null
-        },
-        {
-          "name": "useCase",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b608d8b784a1.json"
     }
   ]
 }

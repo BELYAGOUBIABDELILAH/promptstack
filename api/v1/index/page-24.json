@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T01:20:42.300Z",
+  "last_updated": "2026-11-16T02:20:42.142Z",
   "page": 24,
   "per_page": 100,
-  "total": 2774,
+  "total": 2775,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_e52051c9ee20",
+      "slug": "social-media-post-creator-for-recruitment",
+      "title": "Social Media Post Creator for Recruitment",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "contactEmail",
+          "default": null
+        },
+        {
+          "name": "location",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e52051c9ee20.json"
+    },
     {
       "id": "opl_04d22b3eb11a",
       "slug": "social-media-strategist",
@@ -1031,15 +1049,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd7ea4ae8431.json"
-    },
-    {
-      "id": "opl_9b1e68ce28c5",
-      "slug": "structured-iterative-reasoning-protocol-sirp",
-      "title": "Structured Iterative Reasoning Protocol (SIRP)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b1e68ce28c5.json"
     }
   ]
 }

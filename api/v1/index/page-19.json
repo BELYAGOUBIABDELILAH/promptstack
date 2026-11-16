@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T01:20:42.300Z",
+  "last_updated": "2026-11-16T02:20:42.142Z",
   "page": 19,
   "per_page": 100,
-  "total": 2774,
+  "total": 2775,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_fe4a0c2002b8",
+      "slug": "orchestrate-multi-agent-workflows",
+      "title": "Orchestrate Multi-Agent Workflows",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fe4a0c2002b8.json"
+    },
     {
       "id": "opl_9756e9ed5b28",
       "slug": "orchestration-agent-powerplatformsupervisor",
@@ -1135,15 +1144,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39f738036191.json"
-    },
-    {
-      "id": "opl_268362f1cf35",
-      "slug": "plan-check-agent",
-      "title": "Plan Check Agent",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_268362f1cf35.json"
     }
   ]
 }
