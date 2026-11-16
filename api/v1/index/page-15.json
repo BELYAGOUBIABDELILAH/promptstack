@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 15,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_3acc0e899684",
+      "slug": "israel-to-row-salary-calculator",
+      "title": "Israel To ROW Salary Calculator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3acc0e899684.json"
+    },
     {
       "id": "opl_c1227e96e594",
       "slug": "israel-travel-advisor",
@@ -1061,15 +1070,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81a836ce8d37.json"
-    },
-    {
-      "id": "opl_a8d6195dfcbf",
-      "slug": "linux-terminal-master",
-      "title": "Linux - Terminal Master",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a8d6195dfcbf.json"
     }
   ]
 }

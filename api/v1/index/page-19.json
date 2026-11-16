@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 19,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_63c52247aaab",
+      "slug": "optimization-auditor-agent-role",
+      "title": "Optimization Auditor Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_63c52247aaab.json"
+    },
     {
       "id": "opl_c9a82582fab6",
       "slug": "optimize-algorithm-performance",
@@ -1122,15 +1131,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af3506b7174d.json"
-    },
-    {
-      "id": "opl_1a5c95f1b230",
-      "slug": "pirate",
-      "title": "Pirate",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a5c95f1b230.json"
     }
   ]
 }

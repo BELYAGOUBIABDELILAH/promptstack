@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 14,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_e1b5fc41705b",
+      "slug": "identify-the-key-skills-needed-for-effective-project-plannin",
+      "title": "identify the key skills needed for effective project planning and proposal writing",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e1b5fc41705b.json"
+    },
     {
       "id": "opl_f070f85e3987",
       "slug": "ielts-preparation-plan-for-stem-students",
@@ -1105,15 +1114,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4650908ddf96.json"
-    },
-    {
-      "id": "opl_3acc0e899684",
-      "slug": "israel-to-row-salary-calculator",
-      "title": "Israel To ROW Salary Calculator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3acc0e899684.json"
     }
   ]
 }

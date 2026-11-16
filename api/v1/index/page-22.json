@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 22,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_82aad9634b1e",
+      "slug": "recommendation-capture-utility",
+      "title": "Recommendation Capture Utility",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82aad9634b1e.json"
+    },
     {
       "id": "opl_54324a05637b",
       "slug": "recruiter",
@@ -1131,72 +1140,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_743c7082ea93.json"
-    },
-    {
-      "id": "opl_b1c0554b4e3d",
-      "slug": "scisim-pro-simulator-for-science-ascii-textual-art-spatial-diagrams-support",
-      "title": "SciSim Pro - Simulator for science (ASCII/Textual Art spatial diagrams support)",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "attribute",
-          "default": null
-        },
-        {
-          "name": "cat",
-          "default": null
-        },
-        {
-          "name": "duration",
-          "default": null
-        },
-        {
-          "name": "entity",
-          "default": null
-        },
-        {
-          "name": "f_1",
-          "default": null
-        },
-        {
-          "name": "f_2",
-          "default": null
-        },
-        {
-          "name": "location",
-          "default": null
-        },
-        {
-          "name": "m_1",
-          "default": null
-        },
-        {
-          "name": "m_2",
-          "default": null
-        },
-        {
-          "name": "parameter",
-          "default": null
-        },
-        {
-          "name": "system_update",
-          "default": null
-        },
-        {
-          "name": "target",
-          "default": null
-        },
-        {
-          "name": "updated_forecast",
-          "default": null
-        },
-        {
-          "name": "updated_model",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1c0554b4e3d.json"
     }
   ]
 }

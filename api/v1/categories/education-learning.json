@@ -1,8 +1,8 @@
 {
   "folder": "education-learning",
   "name": "Education & Learning",
-  "last_updated": "2026-11-16T19:20:46.372Z",
-  "total": 80,
+  "last_updated": "2026-11-16T20:20:46.050Z",
+  "total": 81,
   "prompts": [
     {
       "id": "opl_eed064e780bd",
@@ -525,6 +525,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d09075db4a6e.json"
+    },
+    {
+      "id": "opl_66f9259293d9",
+      "slug": "educative-video",
+      "title": "Educative video",
+      "prompt": "A boy teaching the bangla meaning of manifestations with example nicely in 8s",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_41c264cb1847"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66f9259293d9.json"
     },
     {
       "id": "opl_239f841fbab7",

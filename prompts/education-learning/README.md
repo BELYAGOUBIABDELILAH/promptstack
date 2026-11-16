@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**80 prompts in this category**
+**81 prompts in this category**
 
 ## Table of Contents
 
@@ -31,6 +31,7 @@
 - [DIY Expert](diy-expert.md)
 - [Dummy Tech Project Ideator](dummy-tech-project-ideator.md)
 - [Educational Platform Support Assistant](educational-platform-support-assistant.md)
+- [Educative video](educative-video.md)
 - [English Language Tutor for Turkish Speakers](english-language-tutor-for-turkish-speakers.md)
 - [English Teacher for Translation and Cultural Explanation](english-teacher-for-translation-and-cultural-explanation.md)
 - [exam science study notes](exam-science-study-notes.md)

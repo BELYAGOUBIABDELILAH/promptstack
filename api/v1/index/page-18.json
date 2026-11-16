@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 18,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_b526987361f7",
+      "slug": "n8n-automation-ideator",
+      "title": "N8N Automation Ideator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b526987361f7.json"
+    },
     {
       "id": "opl_715a0835186c",
       "slug": "n8n-script-writer",
@@ -1022,15 +1031,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_983b36f3e292.json"
-    },
-    {
-      "id": "opl_63c52247aaab",
-      "slug": "optimization-auditor-agent-role",
-      "title": "Optimization Auditor Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_63c52247aaab.json"
     }
   ]
 }

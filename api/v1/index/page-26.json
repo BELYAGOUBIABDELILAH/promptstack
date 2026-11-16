@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 26,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_d6745f4c5b69",
+      "slug": "table-with-various-items",
+      "title": "Table with Various Items",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6745f4c5b69.json"
+    },
     {
       "id": "opl_2f96428122b8",
       "slug": "tabs",
@@ -1019,15 +1028,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1853f62840f.json"
-    },
-    {
-      "id": "opl_d31d5c9bfa40",
-      "slug": "top-programming-expert",
-      "title": "Top Programming Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d31d5c9bfa40.json"
     }
   ]
 }

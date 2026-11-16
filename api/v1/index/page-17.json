@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 17,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_3844aedd3deb",
+      "slug": "mcp-resource-locator",
+      "title": "MCP Resource Locator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3844aedd3deb.json"
+    },
     {
       "id": "opl_c9432168d480",
       "slug": "mcp-server-finder",
@@ -1067,15 +1076,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df7129346485.json"
-    },
-    {
-      "id": "opl_b526987361f7",
-      "slug": "n8n-automation-ideator",
-      "title": "N8N Automation Ideator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b526987361f7.json"
     }
   ]
 }

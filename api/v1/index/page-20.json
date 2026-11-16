@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 20,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_1a5c95f1b230",
+      "slug": "pirate",
+      "title": "Pirate",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a5c95f1b230.json"
+    },
     {
       "id": "opl_5bce50473b57",
       "slug": "pitch",
@@ -1351,15 +1360,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d9b707a017d.json"
-    },
-    {
-      "id": "opl_cc022b5e56aa",
-      "slug": "prompt-editor-mimic-structured-output",
-      "title": "Prompt Editor - Mimic Structured Output",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc022b5e56aa.json"
     }
   ]
 }

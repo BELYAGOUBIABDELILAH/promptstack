@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T19:20:46.372Z",
+  "last_updated": "2026-11-16T20:20:46.050Z",
   "page": 13,
   "per_page": 100,
-  "total": 2792,
+  "total": 2793,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_7f78514fc7e6",
+      "slug": "gravity-flux-flappy-engine",
+      "title": "Gravity Flux Flappy Engine",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f78514fc7e6.json"
+    },
     {
       "id": "opl_ded2a9070435",
       "slug": "grid-based-match-3-chain-reaction-logic",
@@ -1044,15 +1053,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3450580dc8e6.json"
-    },
-    {
-      "id": "opl_e1b5fc41705b",
-      "slug": "identify-the-key-skills-needed-for-effective-project-plannin",
-      "title": "identify the key skills needed for effective project planning and proposal writing",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e1b5fc41705b.json"
     }
   ]
 }
