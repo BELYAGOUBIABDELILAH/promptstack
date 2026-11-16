@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T02:20:42.142Z",
+  "last_updated": "2026-11-16T03:20:44.491Z",
   "page": 23,
   "per_page": 100,
-  "total": 2775,
+  "total": 2776,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_ceb8a35dabd3",
+      "slug": "search-for-clients",
+      "title": "search for clients",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [
+        {
+          "name": "posible clients",
+          "default": null
+        },
+        {
+          "name": "role",
+          "default": "sales engineer"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ceb8a35dabd3.json"
+    },
     {
       "id": "opl_a605ee0951cf",
       "slug": "search-gitlab-documentation",
@@ -1191,15 +1209,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68610627af4d.json"
-    },
-    {
-      "id": "opl_6d4fa5ec0233",
-      "slug": "social-media-post-analyzer",
-      "title": "Social Media Post Analyzer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d4fa5ec0233.json"
     }
   ]
 }

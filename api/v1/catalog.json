@@ -12191,6 +12191,15 @@
     "snippet": "Review test coverage and identify the most important gaps: Coverage report: [PASTE COVERAGE REPORT or describe current coverage %] Test files: [PASTE or describe existing tests] P"
   },
   {
+    "id": "opl_97d4a7bbd971",
+    "title": "reviews",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "reviews",
+    "variables": [],
+    "snippet": "Objective: Summarize many reviews 1. **Process available reviews** * Note the number of reviews and remember that value as \"number_reviews\" * Overall rating * Rating"
+  },
+  {
     "id": "opl_3db69b9d2bfb",
     "title": "Root Cause Analysis Agent Role",
     "category": "Coding & Development",

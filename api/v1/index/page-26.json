@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T02:20:42.142Z",
+  "last_updated": "2026-11-16T03:20:44.491Z",
   "page": 26,
   "per_page": 100,
-  "total": 2775,
+  "total": 2776,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_cfe09f0ac2df",
+      "slug": "tech-product-finder",
+      "title": "Tech Product Finder",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfe09f0ac2df.json"
+    },
     {
       "id": "opl_59b121aa2894",
       "slug": "tech-project-planner",
@@ -1014,15 +1023,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2223ec24cea9.json"
-    },
-    {
-      "id": "opl_45f7e59d41ba",
-      "slug": "tropical-elegance-a-serene-afternoon-in-a-sunlit-villa",
-      "title": "Tropical Elegance: A Serene Afternoon in a Sunlit Villa",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45f7e59d41ba.json"
     }
   ]
 }

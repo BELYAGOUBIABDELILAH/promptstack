@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T02:20:42.142Z",
+  "last_updated": "2026-11-16T03:20:44.491Z",
   "page": 22,
   "per_page": 100,
-  "total": 2775,
+  "total": 2776,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
@@ -511,6 +511,15 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19d00293443.json"
+    },
+    {
+      "id": "opl_97d4a7bbd971",
+      "slug": "reviews",
+      "title": "reviews",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97d4a7bbd971.json"
     },
     {
       "id": "opl_872a6625c5f6",
@@ -1174,24 +1183,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fa03c895867.json"
-    },
-    {
-      "id": "opl_ceb8a35dabd3",
-      "slug": "search-for-clients",
-      "title": "search for clients",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [
-        {
-          "name": "posible clients",
-          "default": null
-        },
-        {
-          "name": "role",
-          "default": "sales engineer"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ceb8a35dabd3.json"
     }
   ]
 }

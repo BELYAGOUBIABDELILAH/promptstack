@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T02:20:42.142Z",
+  "last_updated": "2026-11-16T03:20:44.491Z",
   "page": 28,
   "per_page": 100,
-  "total": 2775,
+  "total": 2776,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_9a678834565a",
+      "slug": "vr-horror-death-chatroom-simulator",
+      "title": "VR Horror Death Chatroom Simulator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "environment",
+          "default": "abandoned_mansion"
+        },
+        {
+          "name": "intensity",
+          "default": "medium"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a678834565a.json"
+    },
     {
       "id": "opl_4a239b53c5c0",
       "slug": "vscode-codetour-expert-agent",

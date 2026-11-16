@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T02:20:42.142Z",
+  "last_updated": "2026-11-16T03:20:44.491Z",
   "page": 27,
   "per_page": 100,
-  "total": 2775,
+  "total": 2776,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_45f7e59d41ba",
+      "slug": "tropical-elegance-a-serene-afternoon-in-a-sunlit-villa",
+      "title": "Tropical Elegance: A Serene Afternoon in a Sunlit Villa",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45f7e59d41ba.json"
+    },
     {
       "id": "opl_47de518607eb",
       "slug": "troubleshoot-production-issue",
@@ -1188,24 +1197,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3dfbc550f265.json"
-    },
-    {
-      "id": "opl_9a678834565a",
-      "slug": "vr-horror-death-chatroom-simulator",
-      "title": "VR Horror Death Chatroom Simulator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "environment",
-          "default": "abandoned_mansion"
-        },
-        {
-          "name": "intensity",
-          "default": "medium"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a678834565a.json"
     }
   ]
 }

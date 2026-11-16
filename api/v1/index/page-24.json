@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T02:20:42.142Z",
+  "last_updated": "2026-11-16T03:20:44.491Z",
   "page": 24,
   "per_page": 100,
-  "total": 2775,
+  "total": 2776,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_6d4fa5ec0233",
+      "slug": "social-media-post-analyzer",
+      "title": "Social Media Post Analyzer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d4fa5ec0233.json"
+    },
     {
       "id": "opl_e52051c9ee20",
       "slug": "social-media-post-creator-for-recruitment",
@@ -1040,15 +1049,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_541ea0e691c5.json"
-    },
-    {
-      "id": "opl_cd7ea4ae8431",
-      "slug": "structural-fusion-the-thriller-parable",
-      "title": "Structural Fusion: The Thriller-Parable",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd7ea4ae8431.json"
     }
   ]
 }
