@@ -918,5 +918,15 @@
     "slug": "happy-new-month",
     "folder": "general",
     "path": "prompts/general/happy-new-month.md"
+  },
+  {
+    "act": "E-commerce website",
+    "category": "General",
+    "prompt": "I want to make a e-com website so make a prompt for me.",
+    "source": "shipra.aanamika2710@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "e-commerce-website",
+    "folder": "general",
+    "path": "prompts/general/e-commerce-website.md"
   }
 ]
