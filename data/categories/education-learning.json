@@ -798,5 +798,15 @@
     "slug": "online-gambling-cautionary-short-film",
     "folder": "education-learning",
     "path": "prompts/education-learning/online-gambling-cautionary-short-film.md"
+  },
+  {
+    "act": "Educative video",
+    "category": "Education & Learning",
+    "prompt": "A boy teaching the bangla meaning of manifestations with example nicely in 8s",
+    "source": "sajeb124@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "educative-video",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/educative-video.md"
   }
 ]
