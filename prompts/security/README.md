@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**69 prompts in this category**
+**70 prompts in this category**
 
 ## Table of Contents
 
@@ -20,6 +20,7 @@
 - [Backblaze B2](backblaze-b2.md)
 - [Better Sufix Prompt](better-sufix-prompt.md)
 - [Business Continuity Advisor](business-continuity-advisor.md)
+- [Cinematic Robbery Scene at JPMorgan](cinematic-robbery-scene-at-jpmorgan.md)
 - [Cloud Hosting LLMs](cloud-hosting-llms.md)
 - [Cloudflare Helper](cloudflare-helper.md)
 - [Code Editor - Update API/SDK](code-editor-update-api-sdk.md)

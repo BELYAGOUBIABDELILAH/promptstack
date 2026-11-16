@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 15,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_6cc1bc2f5d33",
+      "slug": "issue-closure-rate-comparison",
+      "title": "Issue Closure Rate Comparison",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6cc1bc2f5d33.json"
+    },
     {
       "id": "opl_af0b104e83d0",
       "slug": "istanbul-travel-journal",
@@ -1061,15 +1070,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c8cdd1b0851.json"
-    },
-    {
-      "id": "opl_84764590feab",
-      "slug": "linux-hardware-finder",
-      "title": "Linux Hardware Finder",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84764590feab.json"
     }
   ]
 }

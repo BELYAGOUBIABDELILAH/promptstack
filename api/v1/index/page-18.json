@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 18,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_fcfe9d0dd9a2",
+      "slug": "name-and-prompt-for-digital-avatar-application",
+      "title": "Name and Prompt for Digital Avatar Application",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcfe9d0dd9a2.json"
+    },
     {
       "id": "opl_92bd40007621",
       "slug": "name-my-bot",
@@ -1035,32 +1044,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47923106c24d.json"
-    },
-    {
-      "id": "opl_402cc5518249",
-      "slug": "optimize-e-commerce-listing-for-high-ctr-with-holiday-design",
-      "title": "Optimize E-commerce Listing for High CTR with Holiday Design",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "metric",
-          "default": "CTR"
-        },
-        {
-          "name": "platform",
-          "default": "e-commerce platform"
-        },
-        {
-          "name": "productType",
-          "default": "white women's medical suit"
-        },
-        {
-          "name": "theme",
-          "default": "New Year"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_402cc5518249.json"
     }
   ]
 }

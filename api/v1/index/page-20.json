@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 20,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_b99337a7ce14",
+      "slug": "pixel-art-prompt-generator",
+      "title": "Pixel Art Prompt Generator",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b99337a7ce14.json"
+    },
     {
       "id": "opl_112beba76314",
       "slug": "pixel-dissolve-minimalist-3d-food-transformation",
@@ -1304,15 +1313,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c2d6807e205.json"
-    },
-    {
-      "id": "opl_1413f1c111bd",
-      "slug": "prompt-enhancer-concise",
-      "title": "Prompt Enhancer (concise)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1413f1c111bd.json"
     }
   ]
 }

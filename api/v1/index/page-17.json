@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 17,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_3fb27e8dd6a3",
+      "slug": "mechanical-part-render-to-technical-drawing-converter",
+      "title": "Mechanical Part Render to Technical Drawing Converter",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fb27e8dd6a3.json"
+    },
     {
       "id": "opl_e7edbcfe6186",
       "slug": "media-interview-prep-bot",
@@ -1067,15 +1076,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e39a8312de47.json"
-    },
-    {
-      "id": "opl_fcfe9d0dd9a2",
-      "slug": "name-and-prompt-for-digital-avatar-application",
-      "title": "Name and Prompt for Digital Avatar Application",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcfe9d0dd9a2.json"
     }
   ]
 }

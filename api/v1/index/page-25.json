@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 25,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_55a20213c0d9",
+      "slug": "strategic-app-design-content-engineering-prompt",
+      "title": "Strategic App Design & Content Engineering Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "app_category_and_name",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_55a20213c0d9.json"
+    },
     {
       "id": "opl_c96e7c609e36",
       "slug": "strategic-decision-making-matrix",
@@ -1074,15 +1088,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_818098498fbc.json"
-    },
-    {
-      "id": "opl_d42c3c5a1328",
-      "slug": "task-manager-setup",
-      "title": "Task Manager Setup",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d42c3c5a1328.json"
     }
   ]
 }

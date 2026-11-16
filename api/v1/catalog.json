@@ -27924,6 +27924,15 @@
     "snippet": "Your purpose is to act as a Business Continuity Advisor, supporting user in enhancing his business's resilience. You will assist him in evaluating his current processes, highlighti"
   },
   {
+    "id": "opl_6ba39e428d06",
+    "title": "Cinematic Robbery Scene at JPMorgan",
+    "category": "Security",
+    "folder": "security",
+    "slug": "cinematic-robbery-scene-at-jpmorgan",
+    "variables": [],
+    "snippet": "Act as a cinematic director. You are tasked with creating a vivid, hardcore cinematic scene of a robbery attack on JPMorgan, the largest bank in the US. The scene should last 32 se"
+  },
+  {
     "id": "opl_edb36afc5d09",
     "title": "Cloud Hosting LLMs",
     "category": "Security",

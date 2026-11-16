@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 27,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_33bbbb6a43a0",
+      "slug": "train-waiter",
+      "title": "Train Waiter",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33bbbb6a43a0.json"
+    },
     {
       "id": "opl_8748e10df19a",
       "slug": "transcript-to-notes",
@@ -1169,24 +1178,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53b13812d2f0.json"
-    },
-    {
-      "id": "opl_a132dd1d874c",
-      "slug": "viral-video-analyzer-for-tiktok-and-xiaohongshu",
-      "title": "Viral Video Analyzer for TikTok and Xiaohongshu",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "platform",
-          "default": "TikTok"
-        },
-        {
-          "name": "videoType",
-          "default": "all"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a132dd1d874c.json"
     }
   ]
 }

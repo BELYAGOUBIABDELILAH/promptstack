@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 23,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_37d5e6ed6550",
+      "slug": "screenshot-to-custom-text-format",
+      "title": "Screenshot To Custom Text Format",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37d5e6ed6550.json"
+    },
     {
       "id": "opl_17126fc9d057",
       "slug": "screenshot-to-json",
@@ -1213,15 +1222,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1aedbf3b63d.json"
-    },
-    {
-      "id": "opl_ebe584f3bc2f",
-      "slug": "snapshot-of-a-turkish-hospital-night-a-dramedy-scene",
-      "title": "Snapshot of a Turkish Hospital Night: A Dramedy Scene",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebe584f3bc2f.json"
     }
   ]
 }

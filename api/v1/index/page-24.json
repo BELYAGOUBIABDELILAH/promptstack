@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 24,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_ebe584f3bc2f",
+      "slug": "snapshot-of-a-turkish-hospital-night-a-dramedy-scene",
+      "title": "Snapshot of a Turkish Hospital Night: A Dramedy Scene",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebe584f3bc2f.json"
+    },
     {
       "id": "opl_9c088db4afa2",
       "slug": "sniper-precision-debugging-skill",
@@ -1000,20 +1009,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7338177aec31.json"
-    },
-    {
-      "id": "opl_55a20213c0d9",
-      "slug": "strategic-app-design-content-engineering-prompt",
-      "title": "Strategic App Design & Content Engineering Prompt",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "app_category_and_name",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_55a20213c0d9.json"
     }
   ]
 }

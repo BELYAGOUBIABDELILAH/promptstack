@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 14,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_5e06eaedaec6",
+      "slug": "illustration-for-teenagers-side-silhouette-of-a-young-person",
+      "title": "illustration for teenagers, side silhouette of a young person. Inside the head a question mark transforming into light t. Deep purple and blue tones, minimalist and , v.",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e06eaedaec6.json"
+    },
     {
       "id": "opl_6fff28d74490",
       "slug": "illustrative-hand-drawn-istanbul-skyline-prompt",
@@ -1068,15 +1077,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9cb3d97b8b0.json"
-    },
-    {
-      "id": "opl_6cc1bc2f5d33",
-      "slug": "issue-closure-rate-comparison",
-      "title": "Issue Closure Rate Comparison",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6cc1bc2f5d33.json"
     }
   ]
 }

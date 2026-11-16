@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 7,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_b60659abbaeb",
+      "slug": "compile-a-curated-compendium-of-niche-adult-relationship-dyn",
+      "title": "Compile a Curated Compendium of Niche Adult Relationship Dynamics",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "topic",
+          "default": "cuckold dynamics"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b60659abbaeb.json"
+    },
     {
       "id": "opl_5e488f8e2f63",
       "slug": "component-documentation",
@@ -1324,15 +1338,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2bff6241834d.json"
-    },
-    {
-      "id": "opl_cd898c70f5cd",
-      "slug": "create-social-media-copy-for-employees",
-      "title": "Create Social Media Copy for Employees",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd898c70f5cd.json"
     }
   ]
 }

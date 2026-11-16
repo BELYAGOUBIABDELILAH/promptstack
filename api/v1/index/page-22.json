@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 22,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_ac02b9507672",
+      "slug": "redesign-front-end-with-codex",
+      "title": "Redesign Front-End with Codex",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "designFramework",
+          "default": "Bootstrap"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac02b9507672.json"
+    },
     {
       "id": "opl_6a0f03b4e114",
       "slug": "reduce-code-complexity",
@@ -1174,15 +1188,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_505a17665fcf.json"
-    },
-    {
-      "id": "opl_37d5e6ed6550",
-      "slug": "screenshot-to-custom-text-format",
-      "title": "Screenshot To Custom Text Format",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37d5e6ed6550.json"
     }
   ]
 }

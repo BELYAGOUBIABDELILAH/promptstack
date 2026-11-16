@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 21,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_1413f1c111bd",
+      "slug": "prompt-enhancer-concise",
+      "title": "Prompt Enhancer (concise)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1413f1c111bd.json"
+    },
     {
       "id": "opl_eb04521cb11e",
       "slug": "prompt-example-adder",
@@ -1006,20 +1015,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_798a3475511d.json"
-    },
-    {
-      "id": "opl_ac02b9507672",
-      "slug": "redesign-front-end-with-codex",
-      "title": "Redesign Front-End with Codex",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "designFramework",
-          "default": "Bootstrap"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac02b9507672.json"
     }
   ]
 }

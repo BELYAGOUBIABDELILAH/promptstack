@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 11,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_e639b39b5a06",
+      "slug": "ethreal-current",
+      "title": "Ethreal Current",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e639b39b5a06.json"
+    },
     {
       "id": "opl_9b774380c244",
       "slug": "etsy-pod-masterclass-from-zero-to-hero",
@@ -1114,15 +1123,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4a94e97b165d.json"
-    },
-    {
-      "id": "opl_6a9f1a4fae18",
-      "slug": "frontend-developer",
-      "title": "Frontend Developer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a9f1a4fae18.json"
     }
   ]
 }

@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-16T13:20:42.557Z",
+  "last_updated": "2026-11-16T14:20:48.827Z",
   "page": 19,
   "per_page": 100,
-  "total": 2786,
+  "total": 2787,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_402cc5518249",
+      "slug": "optimize-e-commerce-listing-for-high-ctr-with-holiday-design",
+      "title": "Optimize E-commerce Listing for High CTR with Holiday Design",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "metric",
+          "default": "CTR"
+        },
+        {
+          "name": "platform",
+          "default": "e-commerce platform"
+        },
+        {
+          "name": "productType",
+          "default": "white women's medical suit"
+        },
+        {
+          "name": "theme",
+          "default": "New Year"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_402cc5518249.json"
+    },
     {
       "id": "opl_3f20b14f742f",
       "slug": "optimize-embedded-system-code",
@@ -1130,15 +1156,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_431731b99080.json"
-    },
-    {
-      "id": "opl_b99337a7ce14",
-      "slug": "pixel-art-prompt-generator",
-      "title": "Pixel Art Prompt Generator",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b99337a7ce14.json"
     }
   ]
 }
