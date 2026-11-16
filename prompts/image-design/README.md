@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**401 prompts in this category**
+**402 prompts in this category**
 
 ## Table of Contents
 
@@ -387,6 +387,7 @@
 - [Through the Glass: One Eye in Focus](through-the-glass-one-eye-in-focus.md)
 - [Tic-Tac-Toe Game](tic-tac-toe-game.md)
 - [Time Layer Photography](time-layer-photography.md)
+- [Tom and Jerry Classic Cartoon Chase](tom-and-jerry-classic-cartoon-chase.md)
 - [Transform Subjects into Adorable Plush Forms](transform-subjects-into-adorable-plush-forms.md)
 - [TTS Script Generator](tts-script-generator.md)
 - [Turkish Cats hanging out nearby of Galata Tower](turkish-cats-hanging-out-nearby-of-galata-tower.md)

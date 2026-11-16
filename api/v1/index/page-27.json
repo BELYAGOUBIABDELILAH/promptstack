@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T08:20:46.905Z",
+  "last_updated": "2026-11-16T09:20:43.625Z",
   "page": 27,
   "per_page": 100,
-  "total": 2781,
+  "total": 2782,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_b5e4be86fffe",
+      "slug": "translate-application-to-another-language",
+      "title": "Translate Application to Another Language",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5e4be86fffe.json"
+    },
     {
       "id": "opl_36e891d57cf5",
       "slug": "translate-document-to-arabic",
@@ -1187,15 +1196,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba985b5bbb94.json"
-    },
-    {
-      "id": "opl_c589d167be7b",
-      "slug": "virtualization-expert",
-      "title": "Virtualization Expert",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c589d167be7b.json"
     }
   ]
 }

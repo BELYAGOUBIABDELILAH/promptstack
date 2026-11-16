@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-16T08:20:46.905Z",
-  "total": 401,
+  "last_updated": "2026-11-16T09:20:43.625Z",
+  "total": 402,
   "prompts": [
     {
       "id": "opl_71932c41e62e",
@@ -6666,6 +6666,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d182c1d2b3c.json"
+    },
+    {
+      "id": "opl_b70160fd5fc4",
+      "slug": "tom-and-jerry-classic-cartoon-chase",
+      "title": "Tom and Jerry Classic Cartoon Chase",
+      "prompt": "Create a 2D classic cartoon style video of Tom the cat and Jerry the mouse in a 4-scene chase through a cozy kitchen. Each scene is 8 seconds long, featuring:\n\n1. Scene 1: Jerry runs with cheese, Tom chases him, slipping on a banana peel.\n2. Scene 2: Jerry hides inside a cupboard, Tom crashes into it.\n3. Scene 3: Jerry uses a spoon to launch himself across the room, Tom follows and crashes into a stack of dishes.\n4. Scene 4: Jerry escapes through a mouse hole, Tom gets stuck.\n\nThe animation style is consistent with 1940s cartoons, featuring fast motion, exaggerated expressions, and bright colors. Ensure smooth animation and a comedic, slapstick vibe throughout.",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_f2b841e85a59"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b70160fd5fc4.json"
     },
     {
       "id": "opl_65d8ac580423",

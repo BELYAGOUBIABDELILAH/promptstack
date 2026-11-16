@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T08:20:46.905Z",
+  "last_updated": "2026-11-16T09:20:43.625Z",
   "page": 26,
   "per_page": 100,
-  "total": 2781,
+  "total": 2782,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
@@ -869,6 +869,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9972b3bc945.json"
     },
     {
+      "id": "opl_b70160fd5fc4",
+      "slug": "tom-and-jerry-classic-cartoon-chase",
+      "title": "Tom and Jerry Classic Cartoon Chase",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b70160fd5fc4.json"
+    },
+    {
       "id": "opl_c1bbef2c8c5e",
       "slug": "tool-evaluator-agent-role",
       "title": "Tool Evaluator Agent Role",
@@ -989,15 +998,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_60d3528019bc.json"
-    },
-    {
-      "id": "opl_b5e4be86fffe",
-      "slug": "translate-application-to-another-language",
-      "title": "Translate Application to Another Language",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5e4be86fffe.json"
     }
   ]
 }
