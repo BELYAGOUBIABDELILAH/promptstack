@@ -1,8 +1,8 @@
 {
   "folder": "research-analysis",
   "name": "Research & Analysis",
-  "last_updated": "2026-11-16T22:20:46.345Z",
-  "total": 31,
+  "last_updated": "2026-11-16T23:20:44.821Z",
+  "total": 32,
   "prompts": [
     {
       "id": "opl_345bb5f7b9a2",
@@ -403,6 +403,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03a5e7825633.json"
+    },
+    {
+      "id": "opl_9b36100c64a5",
+      "slug": "sarcasm",
+      "title": "Sarcasm",
+      "prompt": "I will provide comments. I may offer my own views on those comments. Run your usual analysis of the discussion. Offer 5 seperate possible replies to the intended commenter whose comments I gave you.\nSound sarcastic. Be pithy. Sound unconvinced. Prove me wrong. No swearing. Always make sure the comment is relates to the chat at hand.",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_b2b720381093"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b36100c64a5.json"
     },
     {
       "id": "opl_a49f447c5385",

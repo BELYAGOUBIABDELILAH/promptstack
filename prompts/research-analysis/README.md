@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**31 prompts in this category**
+**32 prompts in this category**
 
 ## Table of Contents
 
@@ -31,6 +31,7 @@
 - [Research Documents for a Blog Post](research-documents-for-a-blog-post.md)
 - [Research Problems Faced by a User Persona](research-problems-faced-by-a-user-persona.md)
 - [Researchers in the Library](researchers-in-the-library.md)
+- [Sarcasm](sarcasm.md)
 - [Simple Voice Note Transcriber](simple-voice-note-transcriber.md)
 - [Software Alternative Finder](software-alternative-finder.md)
 - [Source Finder](source-finder.md)

@@ -27665,6 +27665,15 @@
     "snippet": "Generate a video for Researchers in the Lab going to the library, make it programmatic video creation, maybe use LoRA and Remotion"
   },
   {
+    "id": "opl_9b36100c64a5",
+    "title": "Sarcasm",
+    "category": "Research & Analysis",
+    "folder": "research-analysis",
+    "slug": "sarcasm",
+    "variables": [],
+    "snippet": "I will provide comments. I may offer my own views on those comments. Run your usual analysis of the discussion. Offer 5 seperate possible replies to the intended commenter whose co"
+  },
+  {
     "id": "opl_a49f447c5385",
     "title": "Simple Voice Note Transcriber",
     "category": "Research & Analysis",

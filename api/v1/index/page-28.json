@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T22:20:46.345Z",
+  "last_updated": "2026-11-16T23:20:44.821Z",
   "page": 28,
   "per_page": 100,
-  "total": 2795,
+  "total": 2796,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_0eb330068127",
+      "slug": "vibe-coding-with-modern-designs-and-seo",
+      "title": "Vibe Coding with Modern Designs and SEO",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0eb330068127.json"
+    },
     {
       "id": "opl_b4d4b36d7a95",
       "slug": "vibrant-fauvist-style-sunlit-living-room-illustration",

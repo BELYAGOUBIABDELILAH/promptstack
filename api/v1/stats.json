@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-16T22:20:46.345Z",
-  "total_prompts": 2795,
-  "source_records": 2795,
-  "total_sources": 384,
+  "last_updated": "2026-11-16T23:20:44.821Z",
+  "total_prompts": 2796,
+  "source_records": 2796,
+  "total_sources": 385,
   "total_categories": 19,
   "total_pages": 28,
   "per_page": 100,
@@ -86,7 +86,7 @@
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
-      "prompt_count": 31,
+      "prompt_count": 32,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/research-analysis.json"
     },
     {

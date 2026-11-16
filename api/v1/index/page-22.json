@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T22:20:46.345Z",
+  "last_updated": "2026-11-16T23:20:44.821Z",
   "page": 22,
   "per_page": 100,
-  "total": 2795,
+  "total": 2796,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
@@ -1027,6 +1027,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b3af728d903.json"
     },
     {
+      "id": "opl_9b36100c64a5",
+      "slug": "sarcasm",
+      "title": "Sarcasm",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b36100c64a5.json"
+    },
+    {
       "id": "opl_cb050bceccb9",
       "slug": "sarcastic-ai-personality",
       "title": "Sarcastic AI Personality",
@@ -1097,15 +1106,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b2168b9482e.json"
-    },
-    {
-      "id": "opl_27b3ce1a4ec8",
-      "slug": "scientific-data-visualizer",
-      "title": "Scientific Data Visualizer",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27b3ce1a4ec8.json"
     }
   ]
 }
