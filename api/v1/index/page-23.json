@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 23,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_3370a734943f",
+      "slug": "screenshot-to-markdown-table",
+      "title": "Screenshot To Markdown Table",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3370a734943f.json"
+    },
     {
       "id": "opl_8539746317d4",
       "slug": "screenwriter",
@@ -1213,15 +1222,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02f500654515.json"
-    },
-    {
-      "id": "opl_aab664c3ad43",
-      "slug": "snowy-street-cozy-winter-fit-cinematic",
-      "title": "Snowy Street Cozy (winter fit, cinematic)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aab664c3ad43.json"
     }
   ]
 }

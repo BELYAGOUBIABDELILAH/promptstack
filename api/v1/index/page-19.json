@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 19,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_3f20b14f742f",
+      "slug": "optimize-embedded-system-code",
+      "title": "Optimize Embedded System Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f20b14f742f.json"
+    },
     {
       "id": "opl_f070b2219de4",
       "slug": "optimize-large-data-reading-in-code",
@@ -1130,20 +1139,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b99337a7ce14.json"
-    },
-    {
-      "id": "opl_112beba76314",
-      "slug": "pixel-dissolve-minimalist-3d-food-transformation",
-      "title": "Pixel Dissolve: Minimalist 3D Food Transformation",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "food",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_112beba76314.json"
     }
   ]
 }

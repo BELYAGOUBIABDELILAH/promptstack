@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 18,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_92bd40007621",
+      "slug": "name-my-bot",
+      "title": "Name My Bot",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92bd40007621.json"
+    },
     {
       "id": "opl_a2e3faf6b462",
       "slug": "nano-banana-pro-prompt-generator-instruction-outputs-json-bl",
@@ -1052,15 +1061,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_402cc5518249.json"
-    },
-    {
-      "id": "opl_3f20b14f742f",
-      "slug": "optimize-embedded-system-code",
-      "title": "Optimize Embedded System Code",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f20b14f742f.json"
     }
   ]
 }

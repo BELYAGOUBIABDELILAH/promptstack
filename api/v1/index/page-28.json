@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 28,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_ba985b5bbb94",
+      "slug": "virtual-game-console-simulator",
+      "title": "Virtual Game Console Simulator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "ConsoleModel",
+          "default": null
+        },
+        {
+          "name": "GraphicsQuality",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba985b5bbb94.json"
+    },
     {
       "id": "opl_c589d167be7b",
       "slug": "virtualization-expert",

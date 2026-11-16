@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 20,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_112beba76314",
+      "slug": "pixel-dissolve-minimalist-3d-food-transformation",
+      "title": "Pixel Dissolve: Minimalist 3D Food Transformation",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "food",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_112beba76314.json"
+    },
     {
       "id": "opl_3f233ec2783d",
       "slug": "plagiarism-checker",
@@ -1299,15 +1313,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb04521cb11e.json"
-    },
-    {
-      "id": "opl_97e19e52adb1",
-      "slug": "prompt-for-humanizing-ai-text-english-version",
-      "title": "Prompt for Humanizing AI Text (English Version)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97e19e52adb1.json"
     }
   ]
 }

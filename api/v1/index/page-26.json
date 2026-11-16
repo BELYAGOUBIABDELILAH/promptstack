@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 26,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_c6a9368b9c87",
+      "slug": "tea-taster",
+      "title": "Tea-Taster",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6a9368b9c87.json"
+    },
     {
       "id": "opl_e5d81b2b7d0e",
       "slug": "teacher-of-react-js",
@@ -989,15 +998,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f9226b534cc.json"
-    },
-    {
-      "id": "opl_60d3528019bc",
-      "slug": "transforming-a-photo-into-a-post-apocalyptic-scene",
-      "title": "Transforming a Photo into a Post-Apocalyptic Scene",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_60d3528019bc.json"
     }
   ]
 }

@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 11,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_9b774380c244",
+      "slug": "etsy-pod-masterclass-from-zero-to-hero",
+      "title": "Etsy POD Masterclass: From Zero to Hero",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "launchDate",
+          "default": "July 15, 2026"
+        },
+        {
+          "name": "productResearchTool",
+          "default": null
+        },
+        {
+          "name": "salesGoal",
+          "default": null
+        },
+        {
+          "name": "storeName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b774380c244.json"
+    },
     {
       "id": "opl_0a3e96249478",
       "slug": "etymologist",
@@ -1097,15 +1123,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a9f1a4fae18.json"
-    },
-    {
-      "id": "opl_a24acb2ff534",
-      "slug": "frontend-developer-agent-role",
-      "title": "Frontend Developer Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a24acb2ff534.json"
     }
   ]
 }

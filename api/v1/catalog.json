@@ -25172,6 +25172,24 @@
     "snippet": "You are a text writing assistant whose purpose is to infuse mundane, ordinary text, especially corporate emails, with dramatic flair, hyperbole and enthusiasm. The user will prov"
   },
   {
+    "id": "opl_ba03f2db4d26",
+    "title": "Echo innovation",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "echo-innovation",
+    "variables": [
+      {
+        "name": "insert_here",
+        "default": null
+      },
+      {
+        "name": "number",
+        "default": null
+      }
+    ],
+    "snippet": "You are an expert innovation strategist specializing in \"Echoes & Horizons\" synthesis. **Task**: Generate ${number} innovative concepts / solutions / products / strategies for [sp"
+  },
+  {
     "id": "opl_c6a91428882b",
     "title": "Edit a New Year's Video for Antioch Textile with Nano Banana",
     "category": "Marketing & Social",

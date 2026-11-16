@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 21,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_97e19e52adb1",
+      "slug": "prompt-for-humanizing-ai-text-english-version",
+      "title": "Prompt for Humanizing AI Text (English Version)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97e19e52adb1.json"
+    },
     {
       "id": "opl_8dbe2a791531",
       "slug": "prompt-for-powerpoint-slides-generation",
@@ -1011,15 +1020,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a0f03b4e114.json"
-    },
-    {
-      "id": "opl_dff4a8f7f383",
-      "slug": "refactor-for-better-readability",
-      "title": "Refactor for Better Readability",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dff4a8f7f383.json"
     }
   ]
 }

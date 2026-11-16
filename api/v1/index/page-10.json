@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 10,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
@@ -487,6 +487,24 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ddad2f29fc63.json"
+    },
+    {
+      "id": "opl_ba03f2db4d26",
+      "slug": "echo-innovation",
+      "title": "Echo innovation",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "insert_here",
+          "default": null
+        },
+        {
+          "name": "number",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba03f2db4d26.json"
     },
     {
       "id": "opl_4311cb62a74b",
@@ -1273,32 +1291,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e639b39b5a06.json"
-    },
-    {
-      "id": "opl_9b774380c244",
-      "slug": "etsy-pod-masterclass-from-zero-to-hero",
-      "title": "Etsy POD Masterclass: From Zero to Hero",
-      "category": "Security",
-      "folder": "security",
-      "variables": [
-        {
-          "name": "launchDate",
-          "default": "July 15, 2026"
-        },
-        {
-          "name": "productResearchTool",
-          "default": null
-        },
-        {
-          "name": "salesGoal",
-          "default": null
-        },
-        {
-          "name": "storeName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b774380c244.json"
     }
   ]
 }

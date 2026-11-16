@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 27,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_60d3528019bc",
+      "slug": "transforming-a-photo-into-a-post-apocalyptic-scene",
+      "title": "Transforming a Photo into a Post-Apocalyptic Scene",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_60d3528019bc.json"
+    },
     {
       "id": "opl_b5e4be86fffe",
       "slug": "translate-application-to-another-language",
@@ -1178,24 +1187,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf524f2effa1.json"
-    },
-    {
-      "id": "opl_ba985b5bbb94",
-      "slug": "virtual-game-console-simulator",
-      "title": "Virtual Game Console Simulator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "ConsoleModel",
-          "default": null
-        },
-        {
-          "name": "GraphicsQuality",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba985b5bbb94.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T09:20:43.625Z",
+  "last_updated": "2026-11-16T10:20:41.002Z",
   "page": 14,
   "per_page": 100,
-  "total": 2782,
+  "total": 2783,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_6fff28d74490",
+      "slug": "illustrative-hand-drawn-istanbul-skyline-prompt",
+      "title": "Illustrative Hand-Drawn Istanbul Skyline Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fff28d74490.json"
+    },
     {
       "id": "opl_e87eff2b4b15",
       "slug": "illustrator-style-describer-weavy",
@@ -1068,15 +1077,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6cc1bc2f5d33.json"
-    },
-    {
-      "id": "opl_af0b104e83d0",
-      "slug": "istanbul-travel-journal",
-      "title": "Istanbul Travel Journal",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af0b104e83d0.json"
     }
   ]
 }
