@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T00:20:39.908Z",
+  "last_updated": "2026-11-16T01:20:42.300Z",
   "page": 25,
   "per_page": 100,
-  "total": 2773,
+  "total": 2774,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_77e7ba155c4d",
+      "slug": "structured-job-application-cleanup",
+      "title": "Structured Job Application Cleanup",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77e7ba155c4d.json"
+    },
     {
       "id": "opl_a492e5c9d237",
       "slug": "structured-prompt-editor",
@@ -1027,15 +1036,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59b121aa2894.json"
-    },
-    {
-      "id": "opl_52be0241d54b",
-      "slug": "tech-reviewer",
-      "title": "Tech Reviewer",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52be0241d54b.json"
     }
   ]
 }

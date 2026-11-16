@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T00:20:39.908Z",
+  "last_updated": "2026-11-16T01:20:42.300Z",
   "page": 24,
   "per_page": 100,
-  "total": 2773,
+  "total": 2774,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_04d22b3eb11a",
+      "slug": "social-media-strategist",
+      "title": "Social Media Strategist",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04d22b3eb11a.json"
+    },
     {
       "id": "opl_88573fe776d5",
       "slug": "social-media-swipe-post-content-1",
@@ -1031,15 +1040,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b1e68ce28c5.json"
-    },
-    {
-      "id": "opl_77e7ba155c4d",
-      "slug": "structured-job-application-cleanup",
-      "title": "Structured Job Application Cleanup",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77e7ba155c4d.json"
     }
   ]
 }

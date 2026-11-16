@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T00:20:39.908Z",
+  "last_updated": "2026-11-16T01:20:42.300Z",
   "page": 23,
   "per_page": 100,
-  "total": 2773,
+  "total": 2774,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_761c06cf0c6f",
+      "slug": "seaside-walker",
+      "title": "Seaside walker",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_761c06cf0c6f.json"
+    },
     {
       "id": "opl_0a645564fdb6",
       "slug": "second-opinion",
@@ -1200,15 +1209,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e52051c9ee20.json"
-    },
-    {
-      "id": "opl_04d22b3eb11a",
-      "slug": "social-media-strategist",
-      "title": "Social Media Strategist",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04d22b3eb11a.json"
     }
   ]
 }

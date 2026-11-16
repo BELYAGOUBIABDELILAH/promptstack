@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T00:20:39.908Z",
+  "last_updated": "2026-11-16T01:20:42.300Z",
   "page": 26,
   "per_page": 100,
-  "total": 2773,
+  "total": 2774,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_52be0241d54b",
+      "slug": "tech-reviewer",
+      "title": "Tech Reviewer",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52be0241d54b.json"
+    },
     {
       "id": "opl_c299da4cd577",
       "slug": "tech-stack-optimiser",
@@ -1014,15 +1023,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47de518607eb.json"
-    },
-    {
-      "id": "opl_2ccd1f1bfb75",
-      "slug": "tts-announcement-creator",
-      "title": "TTS Announcement Creator",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ccd1f1bfb75.json"
     }
   ]
 }

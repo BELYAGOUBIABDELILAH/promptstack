@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T00:20:39.908Z",
+  "last_updated": "2026-11-16T01:20:42.300Z",
   "page": 19,
   "per_page": 100,
-  "total": 2773,
+  "total": 2774,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_9756e9ed5b28",
+      "slug": "orchestration-agent-powerplatformsupervisor",
+      "title": "Orchestration Agent (PowerPlatformSupervisor)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9756e9ed5b28.json"
+    },
     {
       "id": "opl_40c0e9f55557",
       "slug": "orchestration-agent-manager",
@@ -1135,15 +1144,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_268362f1cf35.json"
-    },
-    {
-      "id": "opl_e6dff90a630b",
-      "slug": "plan-database-schema-changes",
-      "title": "Plan Database Schema Changes",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6dff90a630b.json"
     }
   ]
 }

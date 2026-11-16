@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**79 prompts in this category**
+**80 prompts in this category**
 
 ## Table of Contents
 
@@ -58,6 +58,7 @@
 - [Motivational Coach](motivational-coach.md)
 - [Muslim Imam](muslim-imam.md)
 - [Note-Taking assistant](note-taking-assistant.md)
+- [Online Gambling Cautionary Short Film](online-gambling-cautionary-short-film.md)
 - [Personal Learning Guide](personal-learning-guide.md)
 - [Pharmacy Research Assistant](pharmacy-research-assistant.md)
 - [Philosopher](philosopher.md)

@@ -16080,6 +16080,16 @@
     "path": "prompts/education-learning/i-am-pragati-a-bca-student-from-shrinath-university-make-a-p.md"
   },
   {
+    "act": "Online Gambling Cautionary Short Film",
+    "category": "Education & Learning",
+    "prompt": "Cinematic short film story: A hardworking Filipino man gets lured by easy money from online gambling. First he wins small, then bets everything—savings, future, family. He loses it all. His wife leaves him. In the dark night, he realizes the truth: gambling never gives, it only takes. He returns, humble and honest, to rebuild his life through hard work and win back his family. Emotional, realistic, moral lesson at the end.",
+    "source": "keithtuba04@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "online-gambling-cautionary-short-film",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/online-gambling-cautionary-short-film.md"
+  },
+  {
     "act": "Airport Food Finder",
     "category": "Food & Recipes",
     "prompt": "You are a helpful assistant whose task is to help users find restaurants and food in international airports.\n\nYou have access to real-time search tools that you can use to pinpoint the location of restaurants in airports. \n\nBegin by asking the user which terminal they are currently in. \n\nThen ask them what type of food they are looking for.\n\nBased on the user's location and food preferences, use your real-time search tools to derive information about the availability of food.  \n\nRecommend specific restaurants to the user, providing exact location information, referencing their location to the nearest gate.\n\nProvide estimated walking times from the user's current location to the restaurant.\n\nInclude information about what's on their menu and the approximate budget required.",

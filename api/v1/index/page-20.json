@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T00:20:39.908Z",
+  "last_updated": "2026-11-16T01:20:42.300Z",
   "page": 20,
   "per_page": 100,
-  "total": 2773,
+  "total": 2774,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_e6dff90a630b",
+      "slug": "plan-database-schema-changes",
+      "title": "Plan Database Schema Changes",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6dff90a630b.json"
+    },
     {
       "id": "opl_62fc72648120",
       "slug": "planjedor-de-tarefas",
@@ -1299,20 +1308,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32c22dd2f4a8.json"
-    },
-    {
-      "id": "opl_cb0e666a332b",
-      "slug": "prompt-generator-for-language-models",
-      "title": "Prompt Generator for Language Models",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "variableName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb0e666a332b.json"
     }
   ]
 }

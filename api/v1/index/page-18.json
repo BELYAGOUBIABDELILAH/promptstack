@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T00:20:39.908Z",
+  "last_updated": "2026-11-16T01:20:42.300Z",
   "page": 18,
   "per_page": 100,
-  "total": 2773,
+  "total": 2774,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
@@ -754,6 +754,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_353976598f29.json"
     },
     {
+      "id": "opl_c1242ef14e21",
+      "slug": "online-gambling-cautionary-short-film",
+      "title": "Online Gambling Cautionary Short Film",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1242ef14e21.json"
+    },
+    {
       "id": "opl_cbac6016162f",
       "slug": "online-job-search-assistant",
       "title": "Online Job Search Assistant",
@@ -1052,15 +1061,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fe4a0c2002b8.json"
-    },
-    {
-      "id": "opl_9756e9ed5b28",
-      "slug": "orchestration-agent-powerplatformsupervisor",
-      "title": "Orchestration Agent (PowerPlatformSupervisor)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9756e9ed5b28.json"
     }
   ]
 }

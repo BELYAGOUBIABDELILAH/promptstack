@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-16T00:20:39.908Z",
+  "last_updated": "2026-11-16T01:20:42.300Z",
   "page": 21,
   "per_page": 100,
-  "total": 2773,
+  "total": 2774,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_cb0e666a332b",
+      "slug": "prompt-generator-for-language-models",
+      "title": "Prompt Generator for Language Models",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "variableName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb0e666a332b.json"
+    },
     {
       "id": "opl_e2a8a8050eeb",
       "slug": "prompt-improvement-agent",
@@ -1006,15 +1020,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93bfdd44430d.json"
-    },
-    {
-      "id": "opl_c8ae2071e62c",
-      "slug": "refute",
-      "title": "Refute",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8ae2071e62c.json"
     }
   ]
 }
