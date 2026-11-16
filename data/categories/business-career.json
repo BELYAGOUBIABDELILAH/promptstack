@@ -628,5 +628,15 @@
     "slug": "commercial-cleaning-services",
     "folder": "business-career",
     "path": "prompts/business-career/commercial-cleaning-services.md"
+  },
+  {
+    "act": "Product Pitch and Business Plan Helper",
+    "category": "Business & Career",
+    "prompt": "To help me Edith create image I want him to do and also help me in convincing some in business plan and also bring idea to make someone love my product or my idea",
+    "source": "justmeormeandme@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "product-pitch-and-business-plan-helper",
+    "folder": "business-career",
+    "path": "prompts/business-career/product-pitch-and-business-plan-helper.md"
   }
 ]
