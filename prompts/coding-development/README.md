@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1109 prompts in this category**
+**1110 prompts in this category**
 
 ## Table of Contents
 
@@ -251,6 +251,7 @@
 - [Comprehensive repository analysis](comprehensive-repository-analysis.md)
 - [Comprehensive Repository Analysis and Bug Fixing Framework](comprehensive-repository-analysis-and-bug-fixing-framework.md)
 - [Comprehensive Repository Audit & Remediation Prompt](comprehensive-repository-audit-remediation-prompt.md)
+- [Comprehensive School Management Platform Development](comprehensive-school-management-platform-development.md)
 - [Comprehensive User Manual Creation for Multiple Modules](comprehensive-user-manual-creation-for-multiple-modules.md)
 - [Comprehensive VC Fundraising Analysis](comprehensive-vc-fundraising-analysis.md)
 - [Comprehensive Web Application Development with Security and Performance Optimization](comprehensive-web-application-development-with-security-and.md)

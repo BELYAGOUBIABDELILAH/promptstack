@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 25,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_152c3bc9dfba",
+      "slug": "step-6-publication",
+      "title": "Step 6: Publication",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_152c3bc9dfba.json"
+    },
     {
       "id": "opl_e8cff0ee7bf1",
       "slug": "sticker",
@@ -1087,15 +1096,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9e0f0890e366.json"
-    },
-    {
-      "id": "opl_fd6b0bb459ff",
-      "slug": "system-prompt-remixer",
-      "title": "System Prompt Remixer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd6b0bb459ff.json"
     }
   ]
 }

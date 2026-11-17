@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 12,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_c820aa4e4c54",
+      "slug": "formal-invitation-generator",
+      "title": "Formal Invitation Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c820aa4e4c54.json"
+    },
     {
       "id": "opl_fd389a01fbee",
       "slug": "formal-writing-generator",
@@ -1001,15 +1010,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa31ae69bb7a.json"
-    },
-    {
-      "id": "opl_137d4a9fda71",
-      "slug": "grafana",
-      "title": "Grafana",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_137d4a9fda71.json"
     }
   ]
 }

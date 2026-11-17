@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 10,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_1e40bff4a95f",
+      "slug": "document-stat-finder",
+      "title": "Document Stat Finder",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e40bff4a95f.json"
+    },
     {
       "id": "opl_d8661ce4a23c",
       "slug": "document-summarizer-for-user",
@@ -1269,28 +1278,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_963b2380779a.json"
-    },
-    {
-      "id": "opl_fb2ac440eff3",
-      "slug": "erp-to-feishu-data-integration-solution",
-      "title": "ERP to Feishu Data Integration Solution",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "batchOperationType",
-          "default": null
-        },
-        {
-          "name": "erpDataStructure",
-          "default": null
-        },
-        {
-          "name": "feishuApiKey",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb2ac440eff3.json"
     }
   ]
 }

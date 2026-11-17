@@ -69584,6 +69584,29 @@ The table must include two columns separated by a tab:
 2. ""Name"" (the full company name as it appears in the image)
 
 Provide only the TSV table code block and a quick alternative copy-paste string of just the comma-separated ticker symbols for quick bulk importing.",kennynah85@gmail.com (prompts.chat),TEXT,watchlist,coding-development,prompts/coding-development/watchlist.md
+Comprehensive School Management Platform Development,Coding & Development,"Act as a software architect tasked with developing a comprehensive school management platform. Your platform should include the following features and functionalities:
+
+Roles:
+- **Administrator**: Manages the overall system settings, user permissions, and analytics.
+- **Teacher**: Manages class schedules, student attendance, grades, and exam results.
+- **Student**: Accesses personal records, schedules, and grades.
+- **Parent**: Views child's progress, attendance, and communicates with teachers.
+
+Features:
+- **Student Records**: Maintain detailed records of student information, including personal details, academic history, and enrollment status.
+- **Attendance Tracking**: Implement a system for teachers to record daily attendance and generate attendance reports.
+- **Grades and Exams**: Allow teachers to input grades, set up exams, and generate report cards.
+- **Class Schedules**: Organize and manage class timetables with ease.
+- **Parent Portal**: Provide a secure platform for parents to view student progress and communicate with the school.
+- **Teacher Management**: Manage teacher profiles, schedules, and performance metrics.
+- **Fee Collection**: Enable online fee payment and track financial records.
+- **Analytics Dashboard**: Offer insights through visual data representation on school performance, attendance trends, and more.
+- **Role-Based Permissions**: Ensure secure access and data protection with role-specific access controls.
+
+Constraints:
+- Ensure the platform is scalable and can handle multiple users simultaneously.
+- Implement data privacy and security measures to protect sensitive information.
+- Design the user interface to be intuitive and user-friendly for all roles.",med31glasgow@gmail.com (prompts.chat),TEXT,comprehensive-school-management-platform-development,coding-development,prompts/coding-development/comprehensive-school-management-platform-development.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",

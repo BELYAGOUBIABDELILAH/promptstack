@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 22,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_4bab5ea1b9bc",
+      "slug": "realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair",
+      "title": "Realistic Selfie of Girl with Transparent Glasses and Pink Hair",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4bab5ea1b9bc.json"
+    },
     {
       "id": "opl_df9f08228b00",
       "slug": "realtime-ai-apps",
@@ -1097,15 +1106,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7bf06b3f487.json"
-    },
-    {
-      "id": "opl_e234d26fa7fe",
-      "slug": "scam-detection-conversation-helper",
-      "title": "Scam Detection Conversation Helper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e234d26fa7fe.json"
     }
   ]
 }

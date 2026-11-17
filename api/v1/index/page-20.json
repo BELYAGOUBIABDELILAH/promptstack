@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 20,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_5286ff866ab7",
+      "slug": "php-microscope-forensic-codebase-autopsy-protocol",
+      "title": "PHP Microscope: Forensic Codebase Autopsy Protocol",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5286ff866ab7.json"
+    },
     {
       "id": "opl_81236d05f87c",
       "slug": "physiology-pratical",
@@ -1265,15 +1274,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9cfd712391d5.json"
-    },
-    {
-      "id": "opl_1086b93126d1",
-      "slug": "project-skill-resource-interviewer",
-      "title": "Project Skill & Resource Interviewer",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1086b93126d1.json"
     }
   ]
 }

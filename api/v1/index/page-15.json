@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 15,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_a5fc6bffd181",
+      "slug": "isometric-voxel-game-scene-of-a-mountain-hot-spring-inn",
+      "title": "Isometric Voxel Game Scene of a Mountain Hot Spring Inn",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5fc6bffd181.json"
+    },
     {
       "id": "opl_ad2013999a04",
       "slug": "israel-news-summary",
@@ -1012,20 +1021,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f42749b57177.json"
-    },
-    {
-      "id": "opl_e3419a4a171f",
-      "slug": "linkedin-post-create-prompt",
-      "title": "Linkedin Post Create Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "project",
-          "default": "Project 1"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3419a4a171f.json"
     }
   ]
 }

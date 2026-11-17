@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 7,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
@@ -393,6 +393,15 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85ebe97e6ea1.json"
+    },
+    {
+      "id": "opl_ff1a710765b9",
+      "slug": "comprehensive-school-management-platform-development",
+      "title": "Comprehensive School Management Platform Development",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff1a710765b9.json"
     },
     {
       "id": "opl_283ffa6fd9f8",
@@ -1329,15 +1338,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9502a4e63af6.json"
-    },
-    {
-      "id": "opl_cb0a4d62e1d2",
-      "slug": "create-project-spotlight",
-      "title": "Create Project Spotlight",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb0a4d62e1d2.json"
     }
   ]
 }

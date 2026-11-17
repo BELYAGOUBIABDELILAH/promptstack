@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 19,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_83f48bc8189d",
+      "slug": "openai-create-plan-skill",
+      "title": "OpenAI Create Plan Skill",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83f48bc8189d.json"
+    },
     {
       "id": "opl_f1bf92d0669c",
       "slug": "openapi-api-finder",
@@ -1122,15 +1131,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bb68c9ef8cc.json"
-    },
-    {
-      "id": "opl_5286ff866ab7",
-      "slug": "php-microscope-forensic-codebase-autopsy-protocol",
-      "title": "PHP Microscope: Forensic Codebase Autopsy Protocol",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5286ff866ab7.json"
     }
   ]
 }

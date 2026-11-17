@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 8,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_cb0a4d62e1d2",
+      "slug": "create-project-spotlight",
+      "title": "Create Project Spotlight",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb0a4d62e1d2.json"
+    },
     {
       "id": "opl_519d60ef02a4",
       "slug": "create-prompt-for-audit-purpose-on-password-configuartion-file-for-linux",
@@ -1235,15 +1244,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1916f1dd4b0.json"
-    },
-    {
-      "id": "opl_6f70dca5d13e",
-      "slug": "debate-coach",
-      "title": "Debate Coach",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6f70dca5d13e.json"
     }
   ]
 }

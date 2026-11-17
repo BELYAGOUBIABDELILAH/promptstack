@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 26,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_fd6b0bb459ff",
+      "slug": "system-prompt-remixer",
+      "title": "System Prompt Remixer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd6b0bb459ff.json"
+    },
     {
       "id": "opl_f509c8f48173",
       "slug": "system-prompt-reviewer",
@@ -1007,32 +1016,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c43da9d3f3e8.json"
-    },
-    {
-      "id": "opl_6d182c1d2b3c",
-      "slug": "time-layer-photography",
-      "title": "Time Layer Photography",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "era1",
-          "default": "1890s sepia Ottoman period"
-        },
-        {
-          "name": "era2",
-          "default": "1960s faded color"
-        },
-        {
-          "name": "era3",
-          "default": "present day digital clarity"
-        },
-        {
-          "name": "location",
-          "default": "Galata Tower, Istanbul"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d182c1d2b3c.json"
     }
   ]
 }

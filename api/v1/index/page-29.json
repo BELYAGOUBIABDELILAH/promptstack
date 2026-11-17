@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 29,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_bbc49b5106c9",
+      "slug": "untitled-bbc49b",
+      "title": "电商选品助手",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbc49b5106c9.json"
+    },
     {
       "id": "opl_ed3955766c66",
       "slug": "untitled-4",

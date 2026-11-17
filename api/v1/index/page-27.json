@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 27,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_6d182c1d2b3c",
+      "slug": "time-layer-photography",
+      "title": "Time Layer Photography",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "era1",
+          "default": "1890s sepia Ottoman period"
+        },
+        {
+          "name": "era2",
+          "default": "1960s faded color"
+        },
+        {
+          "name": "era3",
+          "default": "present day digital clarity"
+        },
+        {
+          "name": "location",
+          "default": "Galata Tower, Istanbul"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d182c1d2b3c.json"
+    },
     {
       "id": "opl_f1e90823beca",
       "slug": "time-travel-guide",
@@ -1126,28 +1152,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3880529ab96.json"
-    },
-    {
-      "id": "opl_10aae149bc50",
-      "slug": "vacuum-arc-modeling-under-transverse-magnetic-fields",
-      "title": "Vacuum Arc Modeling under Transverse Magnetic Fields",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "errorType",
-          "default": null
-        },
-        {
-          "name": "guidanceLevel",
-          "default": "beginner"
-        },
-        {
-          "name": "simulationParameter",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10aae149bc50.json"
     }
   ]
 }

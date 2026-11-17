@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T07:20:46.489Z",
+  "last_updated": "2026-11-17T08:21:18.577Z",
   "page": 14,
   "per_page": 100,
-  "total": 2804,
+  "total": 2805,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_e5e27f96323c",
+      "slug": "idea-notepad",
+      "title": "Idea Notepad",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5e27f96323c.json"
+    },
     {
       "id": "opl_3e1212521fcc",
       "slug": "idea-validation-and-scoring-market-research-prompt",
@@ -1118,15 +1127,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_884c20d40558.json"
-    },
-    {
-      "id": "opl_a5fc6bffd181",
-      "slug": "isometric-voxel-game-scene-of-a-mountain-hot-spring-inn",
-      "title": "Isometric Voxel Game Scene of a Mountain Hot Spring Inn",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5fc6bffd181.json"
     }
   ]
 }
