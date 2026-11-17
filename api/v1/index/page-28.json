@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 28,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_c17e84fa7fca",
+      "slug": "url-title-and-description-analysis-tool-with-lsi-keywords",
+      "title": "URL, Title, and Description Analysis Tool with LSI Keywords",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "region",
+          "default": "Global"
+        },
+        {
+          "name": "url",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c17e84fa7fca.json"
+    },
     {
       "id": "opl_f46e4a091584",
       "slug": "user-acquisition-data-analysis",
@@ -1208,40 +1230,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b65067587389.json"
-    },
-    {
-      "id": "opl_9aee2a423e55",
-      "slug": "untitled-9aee2a",
-      "title": "商业演示设计专家指南",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "coreContent",
-          "default": null
-        },
-        {
-          "name": "existingMaterials",
-          "default": null
-        },
-        {
-          "name": "presentationGoals",
-          "default": null
-        },
-        {
-          "name": "presentationObjective",
-          "default": null
-        },
-        {
-          "name": "targetAudience",
-          "default": null
-        },
-        {
-          "name": "timeLimit",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9aee2a423e55.json"
     }
   ]
 }

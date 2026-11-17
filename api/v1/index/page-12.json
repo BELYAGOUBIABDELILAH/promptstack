@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 12,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
@@ -47,6 +47,15 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_680396c15dea.json"
+    },
+    {
+      "id": "opl_cb4668c0947a",
+      "slug": "formattg",
+      "title": "formattg",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb4668c0947a.json"
     },
     {
       "id": "opl_324df7009f25",
@@ -1001,15 +1010,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_999da4b46de6.json"
-    },
-    {
-      "id": "opl_7b04cf72f048",
-      "slug": "gpu-purchase-advisor",
-      "title": "GPU Purchase Advisor",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7b04cf72f048.json"
     }
   ]
 }

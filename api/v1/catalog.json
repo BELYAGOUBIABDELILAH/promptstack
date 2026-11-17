@@ -7780,6 +7780,15 @@
     "snippet": "Act as an expert technical writer and document formatting specialist. Your task is to format the text provided below into clean, professional rich text that copies and pastes perfe"
   },
   {
+    "id": "opl_cb4668c0947a",
+    "title": "formattg",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "formattg",
+    "variables": [],
+    "snippet": "Act as an expert technical writer and formatting specialist. Your task is to format the text provided below for clean plain-text output that copies and pastes perfectly into Google"
+  },
+  {
     "id": "opl_324df7009f25",
     "title": "Forum Post Drafter",
     "category": "Coding & Development",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 13,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_7b04cf72f048",
+      "slug": "gpu-purchase-advisor",
+      "title": "GPU Purchase Advisor",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7b04cf72f048.json"
+    },
     {
       "id": "opl_96e77a4fd95d",
       "slug": "graduate-information-and-communication-system-design",
@@ -1031,15 +1040,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77163e4456d5.json"
-    },
-    {
-      "id": "opl_014a73ad118b",
-      "slug": "ide-app-finder",
-      "title": "IDE App Finder",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_014a73ad118b.json"
     }
   ]
 }

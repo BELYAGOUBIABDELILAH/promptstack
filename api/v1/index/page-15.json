@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 15,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_a78e2999c257",
+      "slug": "isometric-city-diorama",
+      "title": "Isometric City Diorama",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "City",
+          "default": "San Francisco"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a78e2999c257.json"
+    },
     {
       "id": "opl_9c87a5fbdc00",
       "slug": "isometric-miniature-3d-cartoon-city-scene",
@@ -1017,15 +1031,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd1082f292e9.json"
-    },
-    {
-      "id": "opl_0b6feb539026",
-      "slug": "linkedin-comments",
-      "title": "LinkedIn comments",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b6feb539026.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 16,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_0b6feb539026",
+      "slug": "linkedin-comments",
+      "title": "LinkedIn comments",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b6feb539026.json"
+    },
     {
       "id": "opl_691e7df4fe53",
       "slug": "linkedin-ghostwriter",
@@ -1156,15 +1165,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39843f3e845a.json"
-    },
-    {
-      "id": "opl_a86a9f2e7477",
-      "slug": "master-skills-experience-summary-generator",
-      "title": "Master Skills & Experience Summary Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a86a9f2e7477.json"
     }
   ]
 }

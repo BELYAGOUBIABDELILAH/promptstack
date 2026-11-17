@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 19,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_e469d0d4622f",
+      "slug": "open-source-project-size-comparison",
+      "title": "Open Source Project Size Comparison",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e469d0d4622f.json"
+    },
     {
       "id": "opl_0ed82d7b2172",
       "slug": "open-source-software-finder",
@@ -1122,15 +1131,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a38c2058720.json"
-    },
-    {
-      "id": "opl_ebada9abcb81",
-      "slug": "photorealistic-selfie-portrait-description",
-      "title": "Photorealistic Selfie Portrait Description",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebada9abcb81.json"
     }
   ]
 }

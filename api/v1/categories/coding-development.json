@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-17T20:20:50.702Z",
-  "total": 1111,
+  "last_updated": "2026-11-17T21:20:47.105Z",
+  "total": 1112,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -8476,6 +8476,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_680396c15dea.json"
+    },
+    {
+      "id": "opl_cb4668c0947a",
+      "slug": "formattg",
+      "title": "formattg",
+      "prompt": "Act as an expert technical writer and formatting specialist. Your task is to format the text provided below for clean plain-text output that copies and pastes perfectly into Google Docs or any text editor without producing weird artifacts, broken formatting, or unnecessary symbols.\n\nFollow these strict formatting rules:\n\nNo markdown wrappers – Do not use code blocks, backticks, or any container markers at the beginning or end of your response. Return only the formatted text itself.\n\nNo emojis – Do not use any emojis whatsoever.\n\nNo bold, italics, or underline – Use plain text only. Do not use asterisks, underscores, or any other formatting characters.\n\nNo headings with # symbols – Use plain capitalized section titles on their own lines, followed by a blank line.\n\nLists – Use hyphens (-) for bullet points. Ensure consistent spacing.\n\nLinks – Display URLs as plain text, not hyperlinked.\n\nSpacing – Use one blank line between paragraphs and sections. Do not use extra dividers like dashes or lines.\n\nStructure – Organize content into clear sections with plain text titles (e.g., \"Background\", \"Key Materials\", \"Open Questions\", \"Recommendation\", \"Next Steps\").\n\nNo meta-commentary – Do not include notes, explanations, or anything other than the final formatted text.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_06729541f502"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb4668c0947a.json"
     },
     {
       "id": "opl_324df7009f25",

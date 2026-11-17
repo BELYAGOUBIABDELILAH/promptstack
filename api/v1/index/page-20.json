@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 20,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_ebada9abcb81",
+      "slug": "photorealistic-selfie-portrait-description",
+      "title": "Photorealistic Selfie Portrait Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebada9abcb81.json"
+    },
     {
       "id": "opl_e9195583bbc0",
       "slug": "photovoltaic-and-energy-storage-system-engineer",
@@ -1265,15 +1274,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_89ba0d2aef85.json"
-    },
-    {
-      "id": "opl_4ad9a427ef30",
-      "slug": "project-name-ideator",
-      "title": "Project Name Ideator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ad9a427ef30.json"
     }
   ]
 }

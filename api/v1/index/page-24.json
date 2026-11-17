@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 24,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_69b984fc92b8",
+      "slug": "simple-text-editor",
+      "title": "Simple Text Editor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_69b984fc92b8.json"
+    },
     {
       "id": "opl_a49f447c5385",
       "slug": "simple-voice-note-transcriber",
@@ -1026,15 +1035,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_afab032797e5.json"
-    },
-    {
-      "id": "opl_ac60a86ce75a",
-      "slug": "step-3b-creative-exploration",
-      "title": "Step 3b: Creative Exploration",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac60a86ce75a.json"
     }
   ]
 }

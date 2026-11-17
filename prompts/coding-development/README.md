@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1111 prompts in this category**
+**1112 prompts in this category**
 
 ## Table of Contents
 
@@ -442,6 +442,7 @@
 - [Formal Email Generator](formal-email-generator.md)
 - [Formal Invitation Generator](formal-invitation-generator.md)
 - [formatgdoc](formatgdoc.md)
+- [formattg](formattg.md)
 - [Forum Post Drafter](forum-post-drafter.md)
 - [Framework Upgrade Impact Analysis](framework-upgrade-impact-analysis.md)
 - [Frontend Developer](frontend-developer.md)

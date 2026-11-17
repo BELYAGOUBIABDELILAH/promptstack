@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T20:20:50.702Z",
+  "last_updated": "2026-11-17T21:20:47.105Z",
   "page": 14,
   "per_page": 100,
-  "total": 2808,
+  "total": 2809,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_014a73ad118b",
+      "slug": "ide-app-finder",
+      "title": "IDE App Finder",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_014a73ad118b.json"
+    },
     {
       "id": "opl_e4fd36b83c3e",
       "slug": "idea-clarifier-gpt",
@@ -1113,20 +1122,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4ddf3cb78e4.json"
-    },
-    {
-      "id": "opl_a78e2999c257",
-      "slug": "isometric-city-diorama",
-      "title": "Isometric City Diorama",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "City",
-          "default": "San Francisco"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a78e2999c257.json"
     }
   ]
 }
