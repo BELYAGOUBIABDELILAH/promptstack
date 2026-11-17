@@ -23860,6 +23860,16 @@
     "path": "prompts/marketing-social/gamereview.md"
   },
   {
+    "act": "Vintage copper engraving portrait with glasses in front of yellow circle",
+    "category": "Marketing & Social",
+    "prompt": "A vintage engraved-style portrait illustration using the provided reference image as a strict identity reference.\nPreserve the exact facial features, proportions, bone structure, and overall likeness of the person in the photo without alteration. The subject is shown in a side profile, looking slightly upward to the left with a confident, thoughtful expression. Short hair on top with subtle gray tones, thinner on the sides, and a neatly distributed beard along the jawline. Detailed facial rendering using fine cross-hatching and stippling engraving textures. The subject wears glasses, a light beige blazer with subtle diagonal fabric texture, and a dark navy shirt. Behind the head is a circular flat warm yellow background. High-contrast ink linework using monochrome blue ink tones with soft cream highlights. Vector-like precision combined with hand-drawn engraving texture. Chest-up portrait composition, clean light gray background, 4K\nresolution, editorial illustration style.",
+    "source": "dominic@stefani.email (prompts.chat)",
+    "type": "TEXT",
+    "slug": "vintage-copper-engraving-portrait-with-glasses-in-front-of-y",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/vintage-copper-engraving-portrait-with-glasses-in-front-of-y.md"
+  },
+  {
     "act": "Socratic Method",
     "category": "Philosophy & Humanities",
     "prompt": "I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.\n\nRules:\n- I will make a statement or propose a topic, and you will ask probing questions to test my logic, definitions, and underlying assumptions.\n- Explore concepts such as justice, virtue, ethics, knowledge, and courage.\n- Respond with one thoughtful question at a time.\n- Initial topic: ${topic:justice is necessary in a society}",
