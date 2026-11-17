@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**402 prompts in this category**
+**403 prompts in this category**
 
 ## Table of Contents
 
@@ -333,6 +333,7 @@
 - [Serious Man in Urban Setting](serious-man-in-urban-setting.md)
 - [Shadows of the Blue Note](shadows-of-the-blue-note.md)
 - [Shadows of the Cold War: The 1962 Exchange](shadows-of-the-cold-war-the-1962-exchange.md)
+- [Skill acquisition](skill-acquisition.md)
 - [Slap Game Challenge: Act as the Ultimate Slap Game Master](slap-game-challenge-act-as-the-ultimate-slap-game-master.md)
 - [Smart Home DIY Solutions](smart-home-diy-solutions.md)
 - [Social To Blog Post](social-to-blog-post.md)

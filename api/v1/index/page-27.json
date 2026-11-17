@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T03:20:54.598Z",
+  "last_updated": "2026-11-17T04:20:43.481Z",
   "page": 27,
   "per_page": 100,
-  "total": 2800,
-  "total_pages": 28,
+  "total": 2801,
+  "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_44843dff7ea1",
+      "slug": "tma-help",
+      "title": "TMA help",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_44843dff7ea1.json"
+    },
     {
       "id": "opl_3ae5ca96ef04",
       "slug": "todo-list",
@@ -1126,15 +1135,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ea05c94dc81.json"
-    },
-    {
-      "id": "opl_1079a1c69ed9",
-      "slug": "version-review",
-      "title": "Version Review",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1079a1c69ed9.json"
     }
   ]
 }

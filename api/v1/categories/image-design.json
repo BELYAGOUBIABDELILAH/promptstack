@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-17T03:20:54.598Z",
-  "total": 402,
+  "last_updated": "2026-11-17T04:20:43.481Z",
+  "total": 403,
   "prompts": [
     {
       "id": "opl_71932c41e62e",
@@ -5745,6 +5745,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc07016e9f26.json"
+    },
+    {
+      "id": "opl_367624778b5f",
+      "slug": "skill-acquisition",
+      "title": "Skill acquisition",
+      "prompt": "I want to become an independent girl by making my own money through skill teach like the best mentor ever on earth make me the best on earth tell me the world problem and how I can solve it to make money",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_bfd7b1396796"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_367624778b5f.json"
     },
     {
       "id": "opl_80916cbed723",

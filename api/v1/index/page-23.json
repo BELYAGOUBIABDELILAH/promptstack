@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-17T03:20:54.598Z",
+  "last_updated": "2026-11-17T04:20:43.481Z",
   "page": 23,
   "per_page": 100,
-  "total": 2800,
-  "total_pages": 28,
+  "total": 2801,
+  "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
@@ -1223,6 +1223,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_26b801ea0a3e.json"
     },
     {
+      "id": "opl_367624778b5f",
+      "slug": "skill-acquisition",
+      "title": "Skill acquisition",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_367624778b5f.json"
+    },
+    {
       "id": "opl_f7a0f3aaf5d5",
       "slug": "skill-creator",
       "title": "Skill Creator",
@@ -1248,15 +1257,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ac296003054.json"
-    },
-    {
-      "id": "opl_e221c149ab35",
-      "slug": "skin-care-for-acne-and-freckles",
-      "title": "Skin care for acne and freckles",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e221c149ab35.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T03:20:54.598Z",
+  "last_updated": "2026-11-17T04:20:43.481Z",
   "page": 26,
   "per_page": 100,
-  "total": 2800,
-  "total_pages": 28,
+  "total": 2801,
+  "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_8b2a8586a891",
+      "slug": "system-prompt-to-image",
+      "title": "System Prompt To Image",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8b2a8586a891.json"
+    },
     {
       "id": "opl_28e9ba661f59",
       "slug": "system-prompt-to-user-prompt",
@@ -1037,15 +1046,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83ac4934ea79.json"
-    },
-    {
-      "id": "opl_44843dff7ea1",
-      "slug": "tma-help",
-      "title": "TMA help",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_44843dff7ea1.json"
     }
   ]
 }

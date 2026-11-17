@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T03:20:54.598Z",
+  "last_updated": "2026-11-17T04:20:43.481Z",
   "page": 25,
   "per_page": 100,
-  "total": 2800,
-  "total_pages": 28,
+  "total": 2801,
+  "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_0f4176fff159",
+      "slug": "stock-market-analysis-expert",
+      "title": "Stock Market Analysis Expert",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f4176fff159.json"
+    },
     {
       "id": "opl_7eb857ebb461",
       "slug": "stock-market-analyst-market-move-suggestions",
@@ -1070,15 +1079,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_494a16e3c4c3.json"
-    },
-    {
-      "id": "opl_8b2a8586a891",
-      "slug": "system-prompt-to-image",
-      "title": "System Prompt To Image",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8b2a8586a891.json"
     }
   ]
 }
