@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1108 prompts in this category**
+**1109 prompts in this category**
 
 ## Table of Contents
 
@@ -1091,6 +1091,7 @@
 - [Voice Cloning Assistant](voice-cloning-assistant.md)
 - [VSCode CodeTour Expert Agent](vscode-codetour-expert-agent.md)
 - [Vulnerability Auditor Agent Role](vulnerability-auditor-agent-role.md)
+- [watchlist](watchlist.md)
 - [Weather Dashboard](weather-dashboard.md)
 - [Web App for Task Management and Scheduling](web-app-for-task-management-and-scheduling.md)
 - [Web App Security Code Review (OWASP) - Public Test](web-app-security-code-review-owasp-public-test.md)

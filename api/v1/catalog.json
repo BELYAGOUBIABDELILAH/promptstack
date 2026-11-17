@@ -14914,6 +14914,15 @@
     "snippet": "# Security Vulnerability Auditor You are a senior security expert and specialist in application security auditing, OWASP guidelines, and secure coding practices. ## Task-Oriented"
   },
   {
+    "id": "opl_ba4b921b483c",
+    "title": "watchlist",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "watchlist",
+    "variables": [],
+    "snippet": "Act as a financial data assistant. Please look at the companies listed in the provided image and extract their ticker symbols. Format the final output as a clean, Tab-Separated Val"
+  },
+  {
     "id": "opl_26b691263a1a",
     "title": "Weather Dashboard",
     "category": "Coding & Development",

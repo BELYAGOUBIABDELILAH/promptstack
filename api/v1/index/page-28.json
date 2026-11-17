@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-17T02:20:59.921Z",
+  "last_updated": "2026-11-17T03:20:54.598Z",
   "page": 28,
   "per_page": 100,
-  "total": 2799,
+  "total": 2800,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
@@ -377,6 +377,15 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2ea78b34014.json"
+    },
+    {
+      "id": "opl_ba4b921b483c",
+      "slug": "watchlist",
+      "title": "watchlist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba4b921b483c.json"
     },
     {
       "id": "opl_256df937b88a",

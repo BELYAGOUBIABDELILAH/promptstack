@@ -69280,6 +69280,13 @@ o	IT Business service Analyst
 •	Be realistic and avoid generic ranges
 •	Recognise that my role combines Business Analysis, Technical Support, Cloud, Infrastructure, and Platform Administration
 •	Provide structured output with clear bullet points",yzaheer3@gmail.com (prompts.chat),TEXT,pay-appraisal,coding-development,prompts/coding-development/pay-appraisal.md
+watchlist,Coding & Development,"Act as a financial data assistant. Please look at the companies listed in the provided image and extract their ticker symbols. Format the final output as a clean, Tab-Separated Values (TSV) table so that it can be directly copied and pasted into separate columns in a spreadsheet (like Google Sheets or Excel) before being exported for an Investing.com watchlist.
+
+The table must include two columns separated by a tab:
+1. ""Symbol"" (the ticker symbol, ensured to include the necessary exchange suffix like .KS or .T, and in lowercase if applicable)
+2. ""Name"" (the full company name as it appears in the image)
+
+Provide only the TSV table code block and a quick alternative copy-paste string of just the comma-separated ticker symbols for quick bulk importing.",kennynah85@gmail.com (prompts.chat),TEXT,watchlist,coding-development,prompts/coding-development/watchlist.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",
