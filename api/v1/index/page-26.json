@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 26,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_040ce3112dce",
+      "slug": "system-prompt-n8n-converter",
+      "title": "System Prompt N8N Converter",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_040ce3112dce.json"
+    },
     {
       "id": "opl_f12c40bd0cf1",
       "slug": "system-prompt-network-developer",
@@ -1007,15 +1016,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20882e97c59c.json"
-    },
-    {
-      "id": "opl_90be54191b8d",
-      "slug": "ticket-to-pr",
-      "title": "ticket-to-pr",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90be54191b8d.json"
     }
   ]
 }

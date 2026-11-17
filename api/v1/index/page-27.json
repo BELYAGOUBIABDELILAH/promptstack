@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 27,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_90be54191b8d",
+      "slug": "ticket-to-pr",
+      "title": "ticket-to-pr",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90be54191b8d.json"
+    },
     {
       "id": "opl_172eedc53559",
       "slug": "tiktok-marketing-visual-designer-agent",
@@ -1143,15 +1152,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c17e84fa7fca.json"
-    },
-    {
-      "id": "opl_f46e4a091584",
-      "slug": "user-acquisition-data-analysis",
-      "title": "User Acquisition Data Analysis",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f46e4a091584.json"
     }
   ]
 }

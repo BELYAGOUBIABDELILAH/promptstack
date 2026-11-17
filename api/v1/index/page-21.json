@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 21,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_8255d2fd2f45",
+      "slug": "project-pivot-advisor",
+      "title": "Project Pivot Advisor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8255d2fd2f45.json"
+    },
     {
       "id": "opl_9cfd712391d5",
       "slug": "project-proposal-generator",
@@ -1083,15 +1092,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fa2c4d73547.json"
-    },
-    {
-      "id": "opl_c312e584d851",
-      "slug": "realistic-night-sky-portrait",
-      "title": "Realistic Night Sky Portrait",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c312e584d851.json"
     }
   ]
 }

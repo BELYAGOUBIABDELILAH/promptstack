@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 16,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_691e7df4fe53",
+      "slug": "linkedin-ghostwriter",
+      "title": "LinkedIn Ghostwriter",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_691e7df4fe53.json"
+    },
     {
       "id": "opl_f42749b57177",
       "slug": "linkedin-json-canonical-markdown-profile-generator",
@@ -1156,24 +1165,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a86a9f2e7477.json"
-    },
-    {
-      "id": "opl_ce5cb18e7407",
-      "slug": "master-storyteller-and-sales-copywriter-prompt",
-      "title": "Master Storyteller and Sales Copywriter Prompt",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "e.g. FinesseOS",
-          "default": null
-        },
-        {
-          "name": "FinesseOS",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce5cb18e7407.json"
     }
   ]
 }

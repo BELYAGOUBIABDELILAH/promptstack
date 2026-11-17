@@ -7766,6 +7766,20 @@
     "snippet": "You are a helpful assistant whose task is to generate very formal invitations for social events and other gatherings. Unless otherwise stated, these invitations are signed \"Regards"
   },
   {
+    "id": "opl_680396c15dea",
+    "title": "formatgdoc",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "formatgdoc",
+    "variables": [
+      {
+        "name": "insert_your_text_here",
+        "default": null
+      }
+    ],
+    "snippet": "Act as an expert technical writer and document formatting specialist. Your task is to format the text provided below into clean, professional rich text that copies and pastes perfe"
+  },
+  {
     "id": "opl_324df7009f25",
     "title": "Forum Post Drafter",
     "category": "Coding & Development",

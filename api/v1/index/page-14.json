@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 14,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_e4fd36b83c3e",
+      "slug": "idea-clarifier-gpt",
+      "title": "Idea Clarifier GPT",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4fd36b83c3e.json"
+    },
     {
       "id": "opl_41c128241d81",
       "slug": "idea-generation",
@@ -1118,20 +1127,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a78e2999c257.json"
-    },
-    {
-      "id": "opl_9c87a5fbdc00",
-      "slug": "isometric-miniature-3d-cartoon-city-scene",
-      "title": "Isometric miniature 3D cartoon city scene",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "city_name",
-          "default": "Istanbul"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c87a5fbdc00.json"
     }
   ]
 }

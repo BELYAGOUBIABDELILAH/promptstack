@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 24,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_a49f447c5385",
+      "slug": "simple-voice-note-transcriber",
+      "title": "Simple Voice Note Transcriber",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a49f447c5385.json"
+    },
     {
       "id": "opl_26b801ea0a3e",
       "slug": "sistem-ve-a-g-venli-i-temal-k-sa-film-promptu",
@@ -1026,15 +1035,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac60a86ce75a.json"
-    },
-    {
-      "id": "opl_fb150cc7272c",
-      "slug": "step-4a-implementation-plan",
-      "title": "Step 4a: Implementation Plan",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb150cc7272c.json"
     }
   ]
 }

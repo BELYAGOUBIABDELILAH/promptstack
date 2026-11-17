@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 25,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_fb150cc7272c",
+      "slug": "step-4a-implementation-plan",
+      "title": "Step 4a: Implementation Plan",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb150cc7272c.json"
+    },
     {
       "id": "opl_101a1d26588e",
       "slug": "step-4b-story-development",
@@ -1087,15 +1096,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b41a1133ee0f.json"
-    },
-    {
-      "id": "opl_040ce3112dce",
-      "slug": "system-prompt-n8n-converter",
-      "title": "System Prompt N8N Converter",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_040ce3112dce.json"
     }
   ]
 }

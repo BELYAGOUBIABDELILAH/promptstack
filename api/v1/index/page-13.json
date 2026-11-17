@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 13,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_96e77a4fd95d",
+      "slug": "graduate-information-and-communication-system-design",
+      "title": "Graduate Information and Communication System Design",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "universityName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96e77a4fd95d.json"
+    },
     {
       "id": "opl_fa31ae69bb7a",
       "slug": "graduate-level-review-paper-on-humanoid-robots",
@@ -1026,15 +1040,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_014a73ad118b.json"
-    },
-    {
-      "id": "opl_e4fd36b83c3e",
-      "slug": "idea-clarifier-gpt",
-      "title": "Idea Clarifier GPT",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4fd36b83c3e.json"
     }
   ]
 }

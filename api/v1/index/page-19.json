@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 19,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_0ed82d7b2172",
+      "slug": "open-source-software-finder",
+      "title": "Open Source Software Finder",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ed82d7b2172.json"
+    },
     {
       "id": "opl_61f9bb84d1cb",
       "slug": "openai-assistants",
@@ -1122,15 +1131,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebada9abcb81.json"
-    },
-    {
-      "id": "opl_e9195583bbc0",
-      "slug": "photovoltaic-and-energy-storage-system-engineer",
-      "title": "Photovoltaic and Energy Storage System Engineer",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9195583bbc0.json"
     }
   ]
 }

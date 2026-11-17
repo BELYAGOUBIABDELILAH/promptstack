@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T10:20:47.073Z",
+  "last_updated": "2026-11-17T20:20:50.702Z",
   "page": 22,
   "per_page": 100,
-  "total": 2807,
+  "total": 2808,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_c312e584d851",
+      "slug": "realistic-night-sky-portrait",
+      "title": "Realistic Night Sky Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c312e584d851.json"
+    },
     {
       "id": "opl_5d92abe0df1e",
       "slug": "realistic-photo-of-a-turkish-woman-in-a-street-setting",
@@ -1097,15 +1106,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b36100c64a5.json"
-    },
-    {
-      "id": "opl_cb050bceccb9",
-      "slug": "sarcastic-ai-personality",
-      "title": "Sarcastic AI Personality",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb050bceccb9.json"
     }
   ]
 }
