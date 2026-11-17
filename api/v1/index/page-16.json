@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 16,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_1bb926d85f38",
+      "slug": "linkedin-experience-optimization-prompt",
+      "title": "LinkedIn: Experience optimization prompt",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "industry",
+          "default": null
+        },
+        {
+          "name": "job_title",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1bb926d85f38.json"
+    },
     {
       "id": "opl_4d0a439fcd79",
       "slug": "linkedin-recommendation-request-message-prompt",
@@ -1129,15 +1147,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb788a74e1fc.json"
-    },
-    {
-      "id": "opl_910f3548492d",
-      "slug": "matrix-paradise-seraph",
-      "title": "Matrix Paradise Seraph",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_910f3548492d.json"
     }
   ]
 }

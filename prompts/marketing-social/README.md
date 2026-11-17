@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**213 prompts in this category**
+**214 prompts in this category**
 
 ## Table of Contents
 
@@ -94,6 +94,7 @@
 - [Futuristic Supercar Brand Logo](futuristic-supercar-brand-logo.md)
 - [Game design](game-design.md)
 - [Game Theory for Students: Easy and Engaging Learning](game-theory-for-students-easy-and-engaging-learning.md)
+- [gamereview](gamereview.md)
 - [Generate Academic Taxonomy](generate-academic-taxonomy.md)
 - [Generate literature search report](generate-literature-search-report.md)
 - [Gotify Notification Writer](gotify-notification-writer.md)

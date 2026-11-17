@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 22,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_095582c166c0",
+      "slug": "recipe-finder",
+      "title": "Recipe Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_095582c166c0.json"
+    },
     {
       "id": "opl_1ce643d2c5bc",
       "slug": "recipe-muse",
@@ -1097,15 +1106,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81130f500c63.json"
-    },
-    {
-      "id": "opl_2b2168b9482e",
-      "slug": "scientific-calculator",
-      "title": "Scientific Calculator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b2168b9482e.json"
     }
   ]
 }

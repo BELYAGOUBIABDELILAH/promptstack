@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 21,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_30c986f33736",
+      "slug": "prompt-architect-pro",
+      "title": "Prompt Architect Pro",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_30c986f33736.json"
+    },
     {
       "id": "opl_7291e2ffb88a",
       "slug": "prompt-converter-json-to-markdown",
@@ -997,15 +1006,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8df43b5479b4.json"
-    },
-    {
-      "id": "opl_095582c166c0",
-      "slug": "recipe-finder",
-      "title": "Recipe Finder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_095582c166c0.json"
     }
   ]
 }

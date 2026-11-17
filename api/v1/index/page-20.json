@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 20,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_c55b79b0c92e",
+      "slug": "pilates-studio-soft-daylight-athletic-elegance",
+      "title": "Pilates Studio (soft daylight, athletic elegance)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c55b79b0c92e.json"
+    },
     {
       "id": "opl_1e606e41b6aa",
       "slug": "pipedream-automation-helper",
@@ -1351,15 +1360,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c8c8ead69c4.json"
-    },
-    {
-      "id": "opl_30c986f33736",
-      "slug": "prompt-architect-pro",
-      "title": "Prompt Architect Pro",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_30c986f33736.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 14,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_8f06fe289be8",
+      "slug": "identify-code-duplication-opportunities",
+      "title": "Identify Code Duplication Opportunities",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f06fe289be8.json"
+    },
     {
       "id": "opl_c62aca7e0f83",
       "slug": "identify-high-churn-risk-customers",
@@ -1105,15 +1114,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e109611d94e3.json"
-    },
-    {
-      "id": "opl_5160edd5bcac",
-      "slug": "israel-sitrep-generator",
-      "title": "Israel SITREP Generator",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5160edd5bcac.json"
     }
   ]
 }

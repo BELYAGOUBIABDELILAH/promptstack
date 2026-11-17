@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 26,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_f44b5c9f981d",
+      "slug": "system-prompt-updater",
+      "title": "System Prompt Updater",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f44b5c9f981d.json"
+    },
     {
       "id": "opl_f7b43c3e074f",
       "slug": "system-prompt-writing-guide",
@@ -1037,15 +1046,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ae5ca96ef04.json"
-    },
-    {
-      "id": "opl_d9972b3bc945",
-      "slug": "token-architecture",
-      "title": "Token Architecture",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9972b3bc945.json"
     }
   ]
 }

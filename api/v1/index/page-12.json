@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 12,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
@@ -185,6 +185,15 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9a67537ad07.json"
+    },
+    {
+      "id": "opl_133417c916e3",
+      "slug": "gamereview",
+      "title": "gamereview",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_133417c916e3.json"
     },
     {
       "id": "opl_630e6aa67ea8",
@@ -1001,15 +1010,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d541bb4c150.json"
-    },
-    {
-      "id": "opl_a116338d8d0b",
-      "slug": "graphic-design-apps-finder",
-      "title": "Graphic Design Apps Finder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a116338d8d0b.json"
     }
   ]
 }

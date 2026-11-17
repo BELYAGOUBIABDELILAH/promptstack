@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 13,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_a116338d8d0b",
+      "slug": "graphic-design-apps-finder",
+      "title": "Graphic Design Apps Finder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a116338d8d0b.json"
+    },
     {
       "id": "opl_40236cc4518f",
       "slug": "graphic-design-questions",
@@ -1044,15 +1053,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b68d84928be.json"
-    },
-    {
-      "id": "opl_8f06fe289be8",
-      "slug": "identify-code-duplication-opportunities",
-      "title": "Identify Code Duplication Opportunities",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f06fe289be8.json"
     }
   ]
 }

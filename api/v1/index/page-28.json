@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 28,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_6c3a23ae98bc",
+      "slug": "vibe-coding-with-commands-and-skills",
+      "title": "Vibe Coding with Commands and Skills",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c3a23ae98bc.json"
+    },
     {
       "id": "opl_0eb330068127",
       "slug": "vibe-coding-with-modern-designs-and-seo",

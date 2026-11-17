@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 25,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_19379276ee0c",
+      "slug": "stock-phrase-suggestor",
+      "title": "Stock Phrase Suggestor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19379276ee0c.json"
+    },
     {
       "id": "opl_52a659314c8a",
       "slug": "storage-media-expert",
@@ -1057,15 +1066,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_28e9ba661f59.json"
-    },
-    {
-      "id": "opl_f44b5c9f981d",
-      "slug": "system-prompt-updater",
-      "title": "System Prompt Updater",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f44b5c9f981d.json"
     }
   ]
 }

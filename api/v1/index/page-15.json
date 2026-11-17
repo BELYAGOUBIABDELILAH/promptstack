@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 15,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_5160edd5bcac",
+      "slug": "israel-sitrep-generator",
+      "title": "Israel SITREP Generator",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5160edd5bcac.json"
+    },
     {
       "id": "opl_d3dbb6bbe19f",
       "slug": "israel-tech-shopping-assistant",
@@ -1039,24 +1048,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba4d66da5799.json"
-    },
-    {
-      "id": "opl_1bb926d85f38",
-      "slug": "linkedin-experience-optimization-prompt",
-      "title": "LinkedIn: Experience optimization prompt",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "industry",
-          "default": null
-        },
-        {
-          "name": "job_title",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1bb926d85f38.json"
     }
   ]
 }

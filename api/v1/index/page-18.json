@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-16T23:20:44.821Z",
+  "last_updated": "2026-11-17T00:20:47.098Z",
   "page": 18,
   "per_page": 100,
-  "total": 2796,
+  "total": 2797,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_66c6f1ca12e9",
+      "slug": "my-kalashala",
+      "title": "My Kalashala",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66c6f1ca12e9.json"
+    },
     {
       "id": "opl_f0aba3db64b4",
       "slug": "2026-size-neler-getirecek",
@@ -1047,15 +1056,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc4c200fb1c2.json"
-    },
-    {
-      "id": "opl_7799fdc0a020",
-      "slug": "opnsense-assistant",
-      "title": "OPNSense Assistant",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7799fdc0a020.json"
     }
   ]
 }
