@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 15,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_b7f05e2b60bc",
+      "slug": "isometric-3d-cartoon-scene-with-weather-effects",
+      "title": "Isometric 3D Cartoon Scene with Weather Effects",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7f05e2b60bc.json"
+    },
     {
       "id": "opl_e4ddf3cb78e4",
       "slug": "isometric-3d-weather-cityscapes-pbr-textures",
@@ -1014,28 +1023,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_660fb4cee5f1.json"
-    },
-    {
-      "id": "opl_6e1bef1b1251",
-      "slug": "lifestyle-product-images",
-      "title": "Lifestyle Product Images",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "Audience Demographics",
-          "default": "Software Engineers"
-        },
-        {
-          "name": "Lifestyle Scenario",
-          "default": "Office"
-        },
-        {
-          "name": "Product Name",
-          "default": "MacBook Pro"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6e1bef1b1251.json"
     }
   ]
 }

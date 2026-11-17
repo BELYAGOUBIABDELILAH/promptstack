@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 11,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_030dff54d470",
+      "slug": "environment-configuration-agent-role",
+      "title": "Environment Configuration Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_030dff54d470.json"
+    },
     {
       "id": "opl_963b2380779a",
       "slug": "ergonomics-diagnosis-utility",
@@ -1127,15 +1136,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4e90ceaf2e3.json"
-    },
-    {
-      "id": "opl_91cd0539261d",
-      "slug": "formal-email-generator",
-      "title": "Formal Email Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91cd0539261d.json"
     }
   ]
 }

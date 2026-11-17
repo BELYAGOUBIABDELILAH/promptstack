@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 13,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_999da4b46de6",
+      "slug": "gpt-5-expert-prompt-engineer-mode-condensed",
+      "title": "GPT-5 | EXPERT PROMPT ENGINEER MODE (CONDENSED)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_999da4b46de6.json"
+    },
     {
       "id": "opl_7b04cf72f048",
       "slug": "gpu-purchase-advisor",
@@ -1031,15 +1040,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c46b5eafd56b.json"
-    },
-    {
-      "id": "opl_427056c60257",
-      "slug": "i-think-i-need-a-lawyer-neutral-legal-intake-organizer",
-      "title": "I Think I Need a Lawyer — Neutral Legal Intake Organizer",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_427056c60257.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 28,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_c16f23e99887",
+      "slug": "urban-casual-confidence",
+      "title": "Urban Casual Confidence",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "gender",
+          "default": "man"
+        },
+        {
+          "name": "position",
+          "default": "leaning against weathered brick wall"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16f23e99887.json"
+    },
     {
       "id": "opl_0a44bdd3e417",
       "slug": "url-shortener",
@@ -1221,15 +1239,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af5323816738.json"
-    },
-    {
-      "id": "opl_66d7398a272d",
-      "slug": "zero-to-one-solo-founder-launch-system",
-      "title": "Zero to One Solo-Founder Launch System",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66d7398a272d.json"
     }
   ]
 }

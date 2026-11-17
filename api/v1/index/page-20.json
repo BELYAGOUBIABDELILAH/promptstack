@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 20,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_bc81e7195728",
+      "slug": "photorealistic-image-prompt-for-fashion-and-environment",
+      "title": "Photorealistic Image Prompt for Fashion and Environment",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc81e7195728.json"
+    },
     {
       "id": "opl_9a38c2058720",
       "slug": "photorealistic-mirror-selfie-analysis",
@@ -1265,15 +1274,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_badf0fb03bad.json"
-    },
-    {
-      "id": "opl_5c358c0870c7",
-      "slug": "project-management-app-finder",
-      "title": "Project Management App Finder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c358c0870c7.json"
     }
   ]
 }

@@ -21810,6 +21810,16 @@
     "path": "prompts/image-design/skill-acquisition.md"
   },
   {
+    "act": "DIBUJO MINIMAL",
+    "category": "Image & Design",
+    "prompt": "The user's visual taste is defined by extreme minimalism and spontaneous expression through stark, high-contrast compositions. They favor artwork consisting solely of black ink on a pure white background, relying heavily on abundant negative space. The aesthetic champions loose, unrefined linework to capture the raw essence of subjects with maximum visual efficiency and emotional resonance.",
+    "source": "issac.ron@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "dibujo-minimal",
+    "folder": "image-design",
+    "path": "prompts/image-design/dibujo-minimal.md"
+  },
+  {
     "act": "A/B Testing Plan",
     "category": "Marketing & Social",
     "prompt": "Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.\nStructure:\n- Hypothesis: What we believe will happen and why\n- Variable being tested: (headline / CTA / layout / image / copy)\n- Control version: [current]\n- Test version: [proposed change]\n- Success metric: (CVR / CTR / time on page / bounce rate)\n- Minimum sample size needed and estimated duration\n- How to declare a winner (statistical significance threshold: 95%)\nRun one test at a time. Document results before moving to the next.",

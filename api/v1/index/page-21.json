@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 21,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_5c358c0870c7",
+      "slug": "project-management-app-finder",
+      "title": "Project Management App Finder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c358c0870c7.json"
+    },
     {
       "id": "opl_89ba0d2aef85",
       "slug": "project-manager",
@@ -1083,15 +1092,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21721b391d32.json"
-    },
-    {
-      "id": "opl_6b9bd925efac",
-      "slug": "realistic-i-mage-json-prompt",
-      "title": "Realistic İmage JSON Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b9bd925efac.json"
     }
   ]
 }

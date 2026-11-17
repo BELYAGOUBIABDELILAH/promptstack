@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 17,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_21da996e989c",
+      "slug": "master-podcast-producer-sonic-storyteller",
+      "title": "Master Podcast Producer & Sonic Storyteller",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "Guest_Profile",
+          "default": "None (Solo Episode)"
+        },
+        {
+          "name": "Target_Audience",
+          "default": null
+        },
+        {
+          "name": "Topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21da996e989c.json"
+    },
     {
       "id": "opl_39843f3e845a",
       "slug": "master-prompt-architect-context-engineer",
@@ -1047,15 +1069,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f12ec3bddf75.json"
-    },
-    {
-      "id": "opl_e4bd56ad3db0",
-      "slug": "multiplayer-3d-plane-game",
-      "title": "Multiplayer 3D Plane Game",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4bd56ad3db0.json"
     }
   ]
 }

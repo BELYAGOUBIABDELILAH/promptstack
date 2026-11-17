@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 18,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_e4bd56ad3db0",
+      "slug": "multiplayer-3d-plane-game",
+      "title": "Multiplayer 3D Plane Game",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4bd56ad3db0.json"
+    },
     {
       "id": "opl_a231d06e63ce",
       "slug": "m-nchener-skyline-als-umrissbild-darstellen",
@@ -1069,15 +1078,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fd6d31a1f5e.json"
-    },
-    {
-      "id": "opl_a88473759247",
-      "slug": "open-source-llm-guide",
-      "title": "Open Source LLM Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a88473759247.json"
     }
   ]
 }

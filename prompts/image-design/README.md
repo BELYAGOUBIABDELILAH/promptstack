@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**403 prompts in this category**
+**404 prompts in this category**
 
 ## Table of Contents
 
@@ -128,6 +128,7 @@
 - [Dev Ops Tool Finder](dev-ops-tool-finder.md)
 - [Develop a creative dice generator called “IdeaDice”.](develop-a-creative-dice-generator-called-ideadice.md)
 - [Develop a Media Center Plan for Hajj](develop-a-media-center-plan-for-hajj.md)
+- [DIBUJO MINIMAL](dibujo-minimal.md)
 - [Dictated Text Idea](dictated-text-idea.md)
 - [Dictation Assistant Ideator](dictation-assistant-ideator.md)
 - [Dimensions Estimator](dimensions-estimator.md)

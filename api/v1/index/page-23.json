@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 23,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_ad2cdcfefc62",
+      "slug": "sap-abap-carbon-footprint-module-graduation-project-document",
+      "title": "SAP ABAP Carbon Footprint Module Graduation Project Documentation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "projectTitle",
+          "default": null
+        },
+        {
+          "name": "studentName",
+          "default": null
+        },
+        {
+          "name": "universityName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2cdcfefc62.json"
+    },
     {
       "id": "opl_9b3af728d903",
       "slug": "sapiosessuale",
@@ -1235,15 +1257,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a57acf5c8bce.json"
-    },
-    {
-      "id": "opl_2b311b1343e8",
-      "slug": "simple-data-editor",
-      "title": "Simple Data Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b311b1343e8.json"
     }
   ]
 }

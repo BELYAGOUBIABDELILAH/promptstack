@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 12,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_91cd0539261d",
+      "slug": "formal-email-generator",
+      "title": "Formal Email Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91cd0539261d.json"
+    },
     {
       "id": "opl_cec29dfcc137",
       "slug": "formal-email-response-generator",
@@ -1001,15 +1010,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d551ecac112.json"
-    },
-    {
-      "id": "opl_999da4b46de6",
-      "slug": "gpt-5-expert-prompt-engineer-mode-condensed",
-      "title": "GPT-5 | EXPERT PROMPT ENGINEER MODE (CONDENSED)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_999da4b46de6.json"
     }
   ]
 }

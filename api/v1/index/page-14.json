@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T22:20:56.228Z",
+  "last_updated": "2026-11-17T23:20:51.143Z",
   "page": 14,
   "per_page": 100,
-  "total": 2810,
+  "total": 2811,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_427056c60257",
+      "slug": "i-think-i-need-a-lawyer-neutral-legal-intake-organizer",
+      "title": "I Think I Need a Lawyer — Neutral Legal Intake Organizer",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_427056c60257.json"
+    },
     {
       "id": "opl_77163e4456d5",
       "slug": "i-want-u-think-like-virat-kohli-and-analyze-the-ibps-clerk-exam-in-detail-and-find-out-the-best-possible-way-to-clear-it-with-every-subject-strategy",
@@ -1108,15 +1117,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52f8739281cc.json"
-    },
-    {
-      "id": "opl_b7f05e2b60bc",
-      "slug": "isometric-3d-cartoon-scene-with-weather-effects",
-      "title": "Isometric 3D Cartoon Scene with Weather Effects",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7f05e2b60bc.json"
     }
   ]
 }
