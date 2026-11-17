@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T08:21:18.577Z",
+  "last_updated": "2026-11-17T09:20:55.164Z",
   "page": 26,
   "per_page": 100,
-  "total": 2805,
+  "total": 2806,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_9e0f0890e366",
+      "slug": "system-prompt-parameter-calculator",
+      "title": "System Prompt Parameter Calculator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9e0f0890e366.json"
+    },
     {
       "id": "opl_fd6b0bb459ff",
       "slug": "system-prompt-remixer",
@@ -1007,15 +1016,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_172eedc53559.json"
-    },
-    {
-      "id": "opl_c43da9d3f3e8",
-      "slug": "time-commitment",
-      "title": "Time Commitment",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c43da9d3f3e8.json"
     }
   ]
 }

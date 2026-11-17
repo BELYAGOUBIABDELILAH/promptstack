@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**70 prompts in this category**
+**71 prompts in this category**
 
 ## Table of Contents
 
@@ -68,6 +68,7 @@
 - [Security Analyst for Vulnerability Triage](security-analyst-for-vulnerability-triage.md)
 - [Software Discovery System Prompt Generator](software-discovery-system-prompt-generator.md)
 - [Sports Events Weekly Listings Prompt](sports-events-weekly-listings-prompt.md)
+- [Sprezzatura](sprezzatura.md)
 - [Structured Text Captioning](structured-text-captioning.md)
 - [studying for exam](studying-for-exam.md)
 - [Tech Career Pathfinder](tech-career-pathfinder.md)

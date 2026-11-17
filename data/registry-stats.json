@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 2805,
-  "canonical_records": 2805,
+  "source_records": 2806,
+  "canonical_records": 2806,
   "quarantined_records": 0,
   "exact_duplicate_groups": 0,
   "duplicates_beyond_canonical": 0,
@@ -23,7 +23,7 @@
     "Product & Strategy": 23,
     "Research & Analysis": 32,
     "Sales & Business": 21,
-    "Security": 70,
+    "Security": 71,
     "Travel & Places": 6,
     "Writing & Content": 258
   }
