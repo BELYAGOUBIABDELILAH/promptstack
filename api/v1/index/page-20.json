@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T01:20:42.134Z",
+  "last_updated": "2026-11-17T02:20:59.921Z",
   "page": 20,
   "per_page": 100,
-  "total": 2798,
+  "total": 2799,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_4dce95f33bad",
+      "slug": "pii-filter-list-creator",
+      "title": "PII Filter List Creator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4dce95f33bad.json"
+    },
     {
       "id": "opl_c55b79b0c92e",
       "slug": "pilates-studio-soft-daylight-athletic-elegance",
@@ -1274,92 +1283,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_860b923ba30b.json"
-    },
-    {
-      "id": "opl_7c8c8ead69c4",
-      "slug": "prompt-101-full",
-      "title": "Prompt 101 (full)",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "context",
-          "default": null
-        },
-        {
-          "name": "example",
-          "default": null
-        },
-        {
-          "name": "goal",
-          "default": null
-        },
-        {
-          "name": "guide_document",
-          "default": null
-        },
-        {
-          "name": "history",
-          "default": null
-        },
-        {
-          "name": "response_tag",
-          "default": null
-        },
-        {
-          "name": "role",
-          "default": null
-        },
-        {
-          "name": "sucess_criteria",
-          "default": null
-        },
-        {
-          "name": "task_description_1",
-          "default": null
-        },
-        {
-          "name": "task_description_2",
-          "default": null
-        },
-        {
-          "name": "task_description_3",
-          "default": null
-        },
-        {
-          "name": "task_description_4",
-          "default": null
-        },
-        {
-          "name": "task_description_5",
-          "default": null
-        },
-        {
-          "name": "task_rule_1",
-          "default": null
-        },
-        {
-          "name": "task_rule_2",
-          "default": null
-        },
-        {
-          "name": "task_rule_3",
-          "default": null
-        },
-        {
-          "name": "task_rule_4",
-          "default": null
-        },
-        {
-          "name": "task_rule_5",
-          "default": null
-        },
-        {
-          "name": "tone",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c8c8ead69c4.json"
     }
   ]
 }

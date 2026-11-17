@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T01:20:42.134Z",
+  "last_updated": "2026-11-17T02:20:59.921Z",
   "page": 23,
   "per_page": 100,
-  "total": 2798,
+  "total": 2799,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_81130f500c63",
+      "slug": "school-report-management-system-for-smp-negeri-7-sentani",
+      "title": "School Report Management System for SMP Negeri 7 Sentani",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81130f500c63.json"
+    },
     {
       "id": "opl_2b2168b9482e",
       "slug": "scientific-calculator",
@@ -1248,15 +1257,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e221c149ab35.json"
-    },
-    {
-      "id": "opl_80916cbed723",
-      "slug": "slap-game-challenge-act-as-the-ultimate-slap-game-master",
-      "title": "Slap Game Challenge: Act as the Ultimate Slap Game Master",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80916cbed723.json"
     }
   ]
 }

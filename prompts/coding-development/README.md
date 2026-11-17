@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1107 prompts in this category**
+**1108 prompts in this category**
 
 ## Table of Contents
 
@@ -726,6 +726,7 @@
 - [Paladin Octem Plus (Research Swarm)](paladin-octem-plus-research-swarm.md)
 - [Password Generator](password-generator.md)
 - [Pathology Slide Analysis Assistant](pathology-slide-analysis-assistant.md)
+- [Pay Appraisal](pay-appraisal.md)
 - [Payment gateway page](payment-gateway-page.md)
 - [PDF Shareholder Extractor](pdf-shareholder-extractor.md)
 - [PDF Viewer](pdf-viewer.md)

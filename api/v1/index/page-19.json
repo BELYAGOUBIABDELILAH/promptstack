@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-17T01:20:42.134Z",
+  "last_updated": "2026-11-17T02:20:59.921Z",
   "page": 19,
   "per_page": 100,
-  "total": 2798,
+  "total": 2799,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
@@ -431,6 +431,15 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_35701d941088.json"
+    },
+    {
+      "id": "opl_ce79620c3f8c",
+      "slug": "pay-appraisal",
+      "title": "Pay Appraisal",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce79620c3f8c.json"
     },
     {
       "id": "opl_3b58d17daa62",
@@ -1122,15 +1131,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_426ecda6c933.json"
-    },
-    {
-      "id": "opl_4dce95f33bad",
-      "slug": "pii-filter-list-creator",
-      "title": "PII Filter List Creator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4dce95f33bad.json"
     }
   ]
 }

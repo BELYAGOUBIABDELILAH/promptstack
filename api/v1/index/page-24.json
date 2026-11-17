@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T01:20:42.134Z",
+  "last_updated": "2026-11-17T02:20:59.921Z",
   "page": 24,
   "per_page": 100,
-  "total": 2798,
+  "total": 2799,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_80916cbed723",
+      "slug": "slap-game-challenge-act-as-the-ultimate-slap-game-master",
+      "title": "Slap Game Challenge: Act as the Ultimate Slap Game Master",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80916cbed723.json"
+    },
     {
       "id": "opl_6327a46d86bf",
       "slug": "small-batch-prompt-generator",
@@ -1030,28 +1039,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f4176fff159.json"
-    },
-    {
-      "id": "opl_7eb857ebb461",
-      "slug": "stock-market-analyst-market-move-suggestions",
-      "title": "Stock Market Analyst: Market Move Suggestions",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "investmentGoal",
-          "default": "long-term"
-        },
-        {
-          "name": "marketData",
-          "default": null
-        },
-        {
-          "name": "riskTolerance",
-          "default": "medium"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7eb857ebb461.json"
     }
   ]
 }
