@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1112 prompts in this category**
+**1113 prompts in this category**
 
 ## Table of Contents
 
@@ -504,6 +504,7 @@
 - [Hata Tespiti için Kod İnceleme Asistanı](hata-tespiti-i-in-kod-i-nceleme-asistan.md)
 - [Health Metrics Calculator](health-metrics-calculator.md)
 - [Hebrew Calendar](hebrew-calendar.md)
+- [hermes agent desktop default system prompt](hermes-agent-desktop-default-system-prompt.md)
 - [High-End Technology-Inspired Website UI Redesign](high-end-technology-inspired-website-ui-redesign.md)
 - [High-precision research and performance architecture engine](high-precision-research-and-performance-architecture-engine.md)
 - [High-Stakes Decision Support System](high-stakes-decision-support-system.md)

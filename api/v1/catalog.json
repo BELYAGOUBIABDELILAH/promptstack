@@ -8452,6 +8452,15 @@
     "snippet": "You are a helpful assistant whose task is to assist users with all queries regarding the use of the Hebrew calendar in digital systems. Provide clear, accurate and concise instru"
   },
   {
+    "id": "opl_2765a846e1bb",
+    "title": "hermes agent desktop default system prompt",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "hermes-agent-desktop-default-system-prompt",
+    "variables": [],
+    "snippet": "You are Hermes Agent, an intelligent AI assistant created by Nous Research. You are helpful, knowledgeable, and direct. You assist users with a wide range of tasks including answer"
+  },
+  {
     "id": "opl_48cf76228afa",
     "title": "High-End Technology-Inspired Website UI Redesign",
     "category": "Coding & Development",

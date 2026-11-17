@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 18,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_a231d06e63ce",
+      "slug": "m-nchener-skyline-als-umrissbild-darstellen",
+      "title": "Münchener Skyline als Umrissbild darstellen",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a231d06e63ce.json"
+    },
     {
       "id": "opl_705760cfec31",
       "slug": "museum-steps-full-body-cultural",
@@ -1069,15 +1078,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a88473759247.json"
-    },
-    {
-      "id": "opl_e4be92f4244b",
-      "slug": "open-source-mcp-finder",
-      "title": "Open Source MCP Finder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4be92f4244b.json"
     }
   ]
 }

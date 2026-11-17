@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 23,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_9b3af728d903",
+      "slug": "sapiosessuale",
+      "title": "Sapiosessuale",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b3af728d903.json"
+    },
     {
       "id": "opl_9b36100c64a5",
       "slug": "sarcasm",
@@ -1235,15 +1244,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b311b1343e8.json"
-    },
-    {
-      "id": "opl_728d6cf269a3",
-      "slug": "simple-text-anonymisation",
-      "title": "Simple Text Anonymisation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_728d6cf269a3.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 22,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_0eff21b3c783",
+      "slug": "realistic-mirror-selfie-image-prompt",
+      "title": "Realistic Mirror-Selfie Image Prompt",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0eff21b3c783.json"
+    },
     {
       "id": "opl_6fa2c4d73547",
       "slug": "realistic-mirror-selfie-scene-creation",
@@ -1097,15 +1106,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2cdcfefc62.json"
-    },
-    {
-      "id": "opl_9b3af728d903",
-      "slug": "sapiosessuale",
-      "title": "Sapiosessuale",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b3af728d903.json"
     }
   ]
 }

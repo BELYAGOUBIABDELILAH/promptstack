@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 21,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_89ba0d2aef85",
+      "slug": "project-manager",
+      "title": "Project Manager",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_89ba0d2aef85.json"
+    },
     {
       "id": "opl_4ad9a427ef30",
       "slug": "project-name-ideator",
@@ -1083,15 +1092,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b9bd925efac.json"
-    },
-    {
-      "id": "opl_0eff21b3c783",
-      "slug": "realistic-mirror-selfie-image-prompt",
-      "title": "Realistic Mirror-Selfie Image Prompt",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0eff21b3c783.json"
     }
   ]
 }

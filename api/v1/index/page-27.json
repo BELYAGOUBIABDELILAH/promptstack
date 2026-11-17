@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 27,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_debeaa903eca",
+      "slug": "through-the-glass-one-eye-in-focus",
+      "title": "Through the Glass: One Eye in Focus",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_debeaa903eca.json"
+    },
     {
       "id": "opl_20882e97c59c",
       "slug": "tic-tac-toe-game",
@@ -1130,15 +1139,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16f23e99887.json"
-    },
-    {
-      "id": "opl_0a44bdd3e417",
-      "slug": "url-shortener",
-      "title": "URL Shortener",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a44bdd3e417.json"
     }
   ]
 }

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 15,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_e4ddf3cb78e4",
+      "slug": "isometric-3d-weather-cityscapes-pbr-textures",
+      "title": "Isometric 3D Weather Cityscapes (PBR Textures)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "city_name",
+          "default": "İSTANBUL"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4ddf3cb78e4.json"
+    },
     {
       "id": "opl_a78e2999c257",
       "slug": "isometric-city-diorama",
@@ -1022,15 +1036,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6e1bef1b1251.json"
-    },
-    {
-      "id": "opl_cd1082f292e9",
-      "slug": "lighting-advisor",
-      "title": "Lighting Advisor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd1082f292e9.json"
     }
   ]
 }

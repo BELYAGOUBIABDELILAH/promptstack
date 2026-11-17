@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 16,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_cd1082f292e9",
+      "slug": "lighting-advisor",
+      "title": "Lighting Advisor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd1082f292e9.json"
+    },
     {
       "id": "opl_0b6feb539026",
       "slug": "linkedin-comments",
@@ -1151,20 +1160,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21da996e989c.json"
-    },
-    {
-      "id": "opl_39843f3e845a",
-      "slug": "master-prompt-architect-context-engineer",
-      "title": "Master Prompt Architect & Context Engineer",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "prompt_block",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39843f3e845a.json"
     }
   ]
 }

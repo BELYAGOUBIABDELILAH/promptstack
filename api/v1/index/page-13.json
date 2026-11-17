@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 13,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
@@ -427,6 +427,15 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e7d864fac51.json"
+    },
+    {
+      "id": "opl_2765a846e1bb",
+      "slug": "hermes-agent-desktop-default-system-prompt",
+      "title": "hermes agent desktop default system prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2765a846e1bb.json"
     },
     {
       "id": "opl_624a77d05e97",
@@ -1031,15 +1040,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_427056c60257.json"
-    },
-    {
-      "id": "opl_77163e4456d5",
-      "slug": "i-want-u-think-like-virat-kohli-and-analyze-the-ibps-clerk-exam-in-detail-and-find-out-the-best-possible-way-to-clear-it-with-every-subject-strategy",
-      "title": "I want u think like virat kohli and analyze the ibps clerk exam in detail and find out the best possible way to clear it with every subject strategy",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77163e4456d5.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 29,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_b65067587389",
+      "slug": "untitled-b65067",
+      "title": "Недвижимость",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b65067587389.json"
+    },
     {
       "id": "opl_9aee2a423e55",
       "slug": "untitled-9aee2a",

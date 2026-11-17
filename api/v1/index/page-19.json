@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T21:20:47.105Z",
+  "last_updated": "2026-11-17T22:20:56.228Z",
   "page": 19,
   "per_page": 100,
-  "total": 2809,
+  "total": 2810,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_e4be92f4244b",
+      "slug": "open-source-mcp-finder",
+      "title": "Open Source MCP Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4be92f4244b.json"
+    },
     {
       "id": "opl_e469d0d4622f",
       "slug": "open-source-project-size-comparison",
@@ -1122,15 +1131,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc81e7195728.json"
-    },
-    {
-      "id": "opl_9a38c2058720",
-      "slug": "photorealistic-mirror-selfie-analysis",
-      "title": "Photorealistic Mirror Selfie Analysis",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a38c2058720.json"
     }
   ]
 }
