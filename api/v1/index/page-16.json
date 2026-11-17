@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 16,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_f42749b57177",
+      "slug": "linkedin-json-canonical-markdown-profile-generator",
+      "title": "LinkedIn JSON → Canonical Markdown Profile Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f42749b57177.json"
+    },
     {
       "id": "opl_e3419a4a171f",
       "slug": "linkedin-post-create-prompt",
@@ -1165,15 +1174,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce5cb18e7407.json"
-    },
-    {
-      "id": "opl_b07f7c7e90f4",
-      "slug": "mastering-leadership",
-      "title": "Mastering Leadership:",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b07f7c7e90f4.json"
     }
   ]
 }

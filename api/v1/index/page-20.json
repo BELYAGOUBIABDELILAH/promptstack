@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 20,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_5bb68c9ef8cc",
+      "slug": "php-interpreter",
+      "title": "PHP Interpreter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bb68c9ef8cc.json"
+    },
     {
       "id": "opl_5286ff866ab7",
       "slug": "php-microscope-forensic-codebase-autopsy-protocol",
@@ -1265,15 +1274,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8255d2fd2f45.json"
-    },
-    {
-      "id": "opl_9cfd712391d5",
-      "slug": "project-proposal-generator",
-      "title": "Project Proposal Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9cfd712391d5.json"
     }
   ]
 }

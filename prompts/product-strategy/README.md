@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**23 prompts in this category**
+**24 prompts in this category**
 
 ## Table of Contents
 
@@ -10,6 +10,7 @@
 - [Cable Identifier](cable-identifier.md)
 - [Character Infographic Questionnaire](character-infographic-questionnaire.md)
 - [Chic Minimalist Mirror Selfie](chic-minimalist-mirror-selfie.md)
+- [Elegant Monochrome S-Curve Portrait](elegant-monochrome-s-curve-portrait.md)
 - [Feature Prioritization Framework Builder](feature-prioritization-framework-builder.md)
 - [Google Chrome Support](google-chrome-support.md)
 - [Growth Product Manager](growth-product-manager.md)

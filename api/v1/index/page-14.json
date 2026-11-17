@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 14,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_41c128241d81",
+      "slug": "idea-generation",
+      "title": "Idea Generation",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41c128241d81.json"
+    },
     {
       "id": "opl_e5e27f96323c",
       "slug": "idea-notepad",
@@ -1118,15 +1132,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c87a5fbdc00.json"
-    },
-    {
-      "id": "opl_884c20d40558",
-      "slug": "isometric-miniature-3d-model",
-      "title": "Isometric miniature 3D model",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_884c20d40558.json"
     }
   ]
 }

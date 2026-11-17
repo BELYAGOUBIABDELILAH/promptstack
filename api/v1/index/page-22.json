@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 22,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_5d92abe0df1e",
+      "slug": "realistic-photo-of-a-turkish-woman-in-a-street-setting",
+      "title": "Realistic Photo of a Turkish Woman in a Street Setting",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d92abe0df1e.json"
+    },
     {
       "id": "opl_4bab5ea1b9bc",
       "slug": "realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair",
@@ -1097,15 +1106,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb050bceccb9.json"
-    },
-    {
-      "id": "opl_a7bf06b3f487",
-      "slug": "satya-nadella-pobre",
-      "title": "Satya Nadella pobre",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7bf06b3f487.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 17,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_b07f7c7e90f4",
+      "slug": "mastering-leadership",
+      "title": "Mastering Leadership:",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b07f7c7e90f4.json"
+    },
     {
       "id": "opl_fd0bf288ab77",
       "slug": "mastermind",
@@ -1033,15 +1042,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a10adfac45cc.json"
-    },
-    {
-      "id": "opl_00c5444afc47",
-      "slug": "music-video-designer",
-      "title": "Music Video Designer",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00c5444afc47.json"
     }
   ]
 }

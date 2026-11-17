@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 21,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_9cfd712391d5",
+      "slug": "project-proposal-generator",
+      "title": "Project Proposal Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9cfd712391d5.json"
+    },
     {
       "id": "opl_1086b93126d1",
       "slug": "project-skill-resource-interviewer",
@@ -1083,15 +1092,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c312e584d851.json"
-    },
-    {
-      "id": "opl_5d92abe0df1e",
-      "slug": "realistic-photo-of-a-turkish-woman-in-a-street-setting",
-      "title": "Realistic Photo of a Turkish Woman in a Street Setting",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d92abe0df1e.json"
     }
   ]
 }

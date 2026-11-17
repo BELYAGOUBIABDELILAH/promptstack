@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 28,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_8254c6ba3c0b",
+      "slug": "using-stanfordvl-behavior-1k-for-robotics-and-ai-tasks",
+      "title": "Using StanfordVL/BEHAVIOR-1K for Robotics and AI Tasks",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8254c6ba3c0b.json"
+    },
     {
       "id": "opl_f3880529ab96",
       "slug": "ux-ui-developer",
@@ -1246,15 +1255,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11a3ba7b2871.json"
-    },
-    {
-      "id": "opl_37079d138c08",
-      "slug": "json",
-      "title": "提取查询 json 中的查询条件",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37079d138c08.json"
     }
   ]
 }

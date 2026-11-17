@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 23,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_a7bf06b3f487",
+      "slug": "satya-nadella-pobre",
+      "title": "Satya Nadella pobre",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7bf06b3f487.json"
+    },
     {
       "id": "opl_e234d26fa7fe",
       "slug": "scam-detection-conversation-helper",
@@ -1235,28 +1244,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a49f447c5385.json"
-    },
-    {
-      "id": "opl_26b801ea0a3e",
-      "slug": "sistem-ve-a-g-venli-i-temal-k-sa-film-promptu",
-      "title": "Sistem ve Ağ Güvenliği Temalı Kısa Film Promptu",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "filmStyle",
-          "default": "Cinematic"
-        },
-        {
-          "name": "mainTheme",
-          "default": "System Security"
-        },
-        {
-          "name": "targetAudience",
-          "default": "General Public"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_26b801ea0a3e.json"
     }
   ]
 }

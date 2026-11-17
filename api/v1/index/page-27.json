@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 27,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_172eedc53559",
+      "slug": "tiktok-marketing-visual-designer-agent",
+      "title": "TikTok Marketing Visual Designer Agent",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_172eedc53559.json"
+    },
     {
       "id": "opl_c43da9d3f3e8",
       "slug": "time-commitment",
@@ -1143,15 +1152,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f46e4a091584.json"
-    },
-    {
-      "id": "opl_8254c6ba3c0b",
-      "slug": "using-stanfordvl-behavior-1k-for-robotics-and-ai-tasks",
-      "title": "Using StanfordVL/BEHAVIOR-1K for Robotics and AI Tasks",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8254c6ba3c0b.json"
     }
   ]
 }

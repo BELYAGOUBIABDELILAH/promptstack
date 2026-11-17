@@ -1,8 +1,8 @@
 {
   "folder": "product-strategy",
   "name": "Product & Strategy",
-  "last_updated": "2026-11-17T09:20:55.164Z",
-  "total": 23,
+  "last_updated": "2026-11-17T10:20:47.073Z",
+  "total": 24,
   "prompts": [
     {
       "id": "opl_35a272951cc1",
@@ -67,6 +67,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53939353df6e.json"
+    },
+    {
+      "id": "opl_36b80dc9eba0",
+      "slug": "elegant-monochrome-s-curve-portrait",
+      "title": "Elegant Monochrome S-Curve Portrait",
+      "prompt": "Generates a photorealistic, vertical 3:4 black-and-white portrait of a young woman in an asymmetrical ribbed knit dress. Captured in graceful motion with an S-curve pose, wind-swept hair, and a lowered, introspective gaze. Soft, diffused side lighting creates delicate chiaroscuro against a neutral gray background. Emulates medium-format film with subtle grain and shallow depth of field, preserving exact facial features in sharp 8K iPhone 16 Pro quality.",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_6a1342800c95"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36b80dc9eba0.json"
     },
     {
       "id": "opl_179434afbc24",

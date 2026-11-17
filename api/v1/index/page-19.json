@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 19,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_61f9bb84d1cb",
+      "slug": "openai-assistants",
+      "title": "OpenAI Assistants",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61f9bb84d1cb.json"
+    },
     {
       "id": "opl_83f48bc8189d",
       "slug": "openai-create-plan-skill",
@@ -1122,15 +1131,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9195583bbc0.json"
-    },
-    {
-      "id": "opl_5bb68c9ef8cc",
-      "slug": "php-interpreter",
-      "title": "PHP Interpreter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bb68c9ef8cc.json"
     }
   ]
 }

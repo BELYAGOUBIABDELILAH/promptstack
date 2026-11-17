@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 15,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_884c20d40558",
+      "slug": "isometric-miniature-3d-model",
+      "title": "Isometric miniature 3D model",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_884c20d40558.json"
+    },
     {
       "id": "opl_a5fc6bffd181",
       "slug": "isometric-voxel-game-scene-of-a-mountain-hot-spring-inn",
@@ -1012,15 +1021,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_691e7df4fe53.json"
-    },
-    {
-      "id": "opl_f42749b57177",
-      "slug": "linkedin-json-canonical-markdown-profile-generator",
-      "title": "LinkedIn JSON → Canonical Markdown Profile Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f42749b57177.json"
     }
   ]
 }

@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C805-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C806-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -61,7 +61,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Research & Analysis](prompts/research-analysis) | 32 | Literature review, synthesis, and comparative analysis |
 | [Health & Wellness](prompts/health-wellness) | 29 | Fitness planning, nutrition ideas, and habit tracking |
 | [Games & Fun](prompts/games-fun) | 24 | Interactive games, roleplay, and trivia |
-| [Product & Strategy](prompts/product-strategy) | 23 | Feature specs, roadmaps, and competitive analysis |
+| [Product & Strategy](prompts/product-strategy) | 24 | Feature specs, roadmaps, and competitive analysis |
 | [Sales & Business](prompts/sales-business) | 21 | Outreach emails, pitch decks, and discovery questions |
 | [Travel & Places](prompts/travel-places) | 6 | Itineraries, city guides, and travel planning |
 | [Food & Recipes](prompts/food-recipes) | 3 | Recipe generation, meal ideas, and cooking advice |

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 25,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_101a1d26588e",
+      "slug": "step-4b-story-development",
+      "title": "Step 4b: Story Development",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_101a1d26588e.json"
+    },
     {
       "id": "opl_071247e843fe",
       "slug": "step-5-final-review",
@@ -1087,15 +1096,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_040ce3112dce.json"
-    },
-    {
-      "id": "opl_f12c40bd0cf1",
-      "slug": "system-prompt-network-developer",
-      "title": "System Prompt Network Developer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f12c40bd0cf1.json"
     }
   ]
 }

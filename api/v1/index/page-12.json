@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T09:20:55.164Z",
+  "last_updated": "2026-11-17T10:20:47.073Z",
   "page": 12,
   "per_page": 100,
-  "total": 2806,
+  "total": 2807,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_cec29dfcc137",
+      "slug": "formal-email-response-generator",
+      "title": "Formal Email Response Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cec29dfcc137.json"
+    },
     {
       "id": "opl_c820aa4e4c54",
       "slug": "formal-invitation-generator",
@@ -1001,15 +1010,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96e77a4fd95d.json"
-    },
-    {
-      "id": "opl_fa31ae69bb7a",
-      "slug": "graduate-level-review-paper-on-humanoid-robots",
-      "title": "Graduate-Level Review Paper on Humanoid Robots",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa31ae69bb7a.json"
     }
   ]
 }
