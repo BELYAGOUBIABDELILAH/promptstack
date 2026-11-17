@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T04:20:43.481Z",
+  "last_updated": "2026-11-17T05:20:53.514Z",
   "page": 15,
   "per_page": 100,
-  "total": 2801,
+  "total": 2802,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_e109611d94e3",
+      "slug": "israel-shopping-assistant-2",
+      "title": "Israel Shopping Assistant 2",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e109611d94e3.json"
+    },
     {
       "id": "opl_5160edd5bcac",
       "slug": "israel-sitrep-generator",
@@ -1026,28 +1035,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef7a6282e92f.json"
-    },
-    {
-      "id": "opl_ba4d66da5799",
-      "slug": "linkedin-about-summary-draft-prompt",
-      "title": "LinkedIn: About/Summary draft prompt",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "industry",
-          "default": null
-        },
-        {
-          "name": "job_title",
-          "default": null
-        },
-        {
-          "name": "paste_summary",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba4d66da5799.json"
     }
   ]
 }

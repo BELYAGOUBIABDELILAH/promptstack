@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T04:20:43.481Z",
+  "last_updated": "2026-11-17T05:20:53.514Z",
   "page": 27,
   "per_page": 100,
-  "total": 2801,
+  "total": 2802,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_83ac4934ea79",
+      "slug": "title-generator-for-written-pieces",
+      "title": "Title Generator for written pieces",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83ac4934ea79.json"
+    },
     {
       "id": "opl_44843dff7ea1",
       "slug": "tma-help",
@@ -1126,15 +1135,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6e2c5219e17.json"
-    },
-    {
-      "id": "opl_6ea05c94dc81",
-      "slug": "verbatim-chat-to-organized-notes",
-      "title": "Verbatim Chat to Organized Notes",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ea05c94dc81.json"
     }
   ]
 }

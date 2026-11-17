@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T04:20:43.481Z",
+  "last_updated": "2026-11-17T05:20:53.514Z",
   "page": 18,
   "per_page": 100,
-  "total": 2801,
+  "total": 2802,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_e619183558ec",
+      "slug": "my-ideal-job-documenter",
+      "title": "My Ideal Job Documenter",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e619183558ec.json"
+    },
     {
       "id": "opl_66c6f1ca12e9",
       "slug": "my-kalashala",
@@ -1047,15 +1056,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3db27596d931.json"
-    },
-    {
-      "id": "opl_bc4c200fb1c2",
-      "slug": "operating-systems",
-      "title": "Operating systems",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc4c200fb1c2.json"
     }
   ]
 }

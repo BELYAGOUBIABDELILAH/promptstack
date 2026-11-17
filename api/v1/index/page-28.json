@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T04:20:43.481Z",
+  "last_updated": "2026-11-17T05:20:53.514Z",
   "page": 28,
   "per_page": 100,
-  "total": 2801,
+  "total": 2802,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_6ea05c94dc81",
+      "slug": "verbatim-chat-to-organized-notes",
+      "title": "Verbatim Chat to Organized Notes",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ea05c94dc81.json"
+    },
     {
       "id": "opl_1079a1c69ed9",
       "slug": "version-review",
@@ -1268,20 +1277,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f36eb0db09cc.json"
-    },
-    {
-      "id": "opl_5f45fcccf1e2",
-      "slug": "untitled-6",
-      "title": "论文降重指南",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "input",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f45fcccf1e2.json"
     }
   ]
 }

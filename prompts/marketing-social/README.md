@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**215 prompts in this category**
+**216 prompts in this category**
 
 ## Table of Contents
 
@@ -91,6 +91,7 @@
 - [Finding the company](finding-the-company.md)
 - [flaneur](flaneur.md)
 - [Football Player Introduction Poster Template](football-player-introduction-poster-template.md)
+- [Fox gets trapped while trying to steal chicken](fox-gets-trapped-while-trying-to-steal-chicken.md)
 - [Futuristic Supercar Brand Logo](futuristic-supercar-brand-logo.md)
 - [Game design](game-design.md)
 - [Game Theory for Students: Easy and Engaging Learning](game-theory-for-students-easy-and-engaging-learning.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T04:20:43.481Z",
+  "last_updated": "2026-11-17T05:20:53.514Z",
   "page": 13,
   "per_page": 100,
-  "total": 2801,
+  "total": 2802,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_3d541bb4c150",
+      "slug": "graph-explorer-assistant",
+      "title": "Graph Explorer Assistant",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d541bb4c150.json"
+    },
     {
       "id": "opl_a116338d8d0b",
       "slug": "graphic-design-apps-finder",
@@ -1044,15 +1053,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e1212521fcc.json"
-    },
-    {
-      "id": "opl_4b68d84928be",
-      "slug": "identify-breaking-changes-in-mr",
-      "title": "Identify Breaking Changes in MR",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b68d84928be.json"
     }
   ]
 }

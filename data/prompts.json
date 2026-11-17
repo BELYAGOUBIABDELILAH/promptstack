@@ -23900,6 +23900,16 @@
     "path": "prompts/marketing-social/vintage-copper-engraving-portrait-with-glasses-in-front-of-y.md"
   },
   {
+    "act": "Fox gets trapped while trying to steal chicken",
+    "category": "Marketing & Social",
+    "prompt": "The fox was so clever that he was peeking in front of the house's courtyard while trying to steal a chicken.\nMeanwhile, the wise landlord was able to understand the fox's character.\nThe fox did not understand this.\nWithout realizing it, he jumped to catch the chicken.\nAnd the landlord, wise to his wits, spread a net and caught the fox.\nFinally the fox died.",
+    "source": "mdalimmdalim110@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "fox-gets-trapped-while-trying-to-steal-chicken",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/fox-gets-trapped-while-trying-to-steal-chicken.md"
+  },
+  {
     "act": "Socratic Method",
     "category": "Philosophy & Humanities",
     "prompt": "I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.\n\nRules:\n- I will make a statement or propose a topic, and you will ask probing questions to test my logic, definitions, and underlying assumptions.\n- Explore concepts such as justice, virtue, ethics, knowledge, and courage.\n- Respond with one thoughtful question at a time.\n- Initial topic: ${topic:justice is necessary in a society}",

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-17T04:20:43.481Z",
+  "last_updated": "2026-11-17T05:20:53.514Z",
   "page": 16,
   "per_page": 100,
-  "total": 2801,
+  "total": 2802,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_ba4d66da5799",
+      "slug": "linkedin-about-summary-draft-prompt",
+      "title": "LinkedIn: About/Summary draft prompt",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "industry",
+          "default": null
+        },
+        {
+          "name": "job_title",
+          "default": null
+        },
+        {
+          "name": "paste_summary",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba4d66da5799.json"
+    },
     {
       "id": "opl_1bb926d85f38",
       "slug": "linkedin-experience-optimization-prompt",
@@ -1138,15 +1160,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6250609e87b3.json"
-    },
-    {
-      "id": "opl_bb788a74e1fc",
-      "slug": "mathematician",
-      "title": "Mathematician",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb788a74e1fc.json"
     }
   ]
 }

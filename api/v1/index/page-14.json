@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T04:20:43.481Z",
+  "last_updated": "2026-11-17T05:20:53.514Z",
   "page": 14,
   "per_page": 100,
-  "total": 2801,
+  "total": 2802,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_4b68d84928be",
+      "slug": "identify-breaking-changes-in-mr",
+      "title": "Identify Breaking Changes in MR",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b68d84928be.json"
+    },
     {
       "id": "opl_8f06fe289be8",
       "slug": "identify-code-duplication-opportunities",
@@ -1105,15 +1114,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2013999a04.json"
-    },
-    {
-      "id": "opl_e109611d94e3",
-      "slug": "israel-shopping-assistant-2",
-      "title": "Israel Shopping Assistant 2",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e109611d94e3.json"
     }
   ]
 }

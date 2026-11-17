@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T04:20:43.481Z",
+  "last_updated": "2026-11-17T05:20:53.514Z",
   "page": 25,
   "per_page": 100,
-  "total": 2801,
+  "total": 2802,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_5a6d284ab62c",
+      "slug": "stock-analyser",
+      "title": "Stock Analyser",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5a6d284ab62c.json"
+    },
     {
       "id": "opl_0f4176fff159",
       "slug": "stock-market-analysis-expert",
@@ -1070,15 +1079,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4822efb16b35.json"
-    },
-    {
-      "id": "opl_494a16e3c4c3",
-      "slug": "system-prompt-to-assistant-configuration",
-      "title": "System Prompt To Assistant Configuration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_494a16e3c4c3.json"
     }
   ]
 }
