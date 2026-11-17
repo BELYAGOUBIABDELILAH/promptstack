@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**64 prompts in this category**
+**65 prompts in this category**
 
 ## Table of Contents
 
@@ -42,6 +42,7 @@
 - [Job Hunt Email Finder](job-hunt-email-finder.md)
 - [Job Hunt Summary Crafter](job-hunt-summary-crafter.md)
 - [KRA for Business Dept](kra-for-business-dept.md)
+- [Lakeside Pottery Studio Workbench at Blue Hour (Looking Out to the Water)](lakeside-pottery-studio-workbench-at-blue-hour-looking-out-t.md)
 - [Linkedin profile enhancing](linkedin-profile-enhancing.md)
 - [Local LLM Explainer: Quantization And Variants](local-llm-explainer-quantization-and-variants.md)
 - [Local LLM Hardware Assessor](local-llm-hardware-assessor.md)

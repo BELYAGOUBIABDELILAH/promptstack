@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T06:20:45.221Z",
+  "last_updated": "2026-11-17T07:20:46.489Z",
   "page": 27,
   "per_page": 100,
-  "total": 2803,
+  "total": 2804,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_f1e90823beca",
+      "slug": "time-travel-guide",
+      "title": "Time Travel Guide",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1e90823beca.json"
+    },
     {
       "id": "opl_d739f25311aa",
       "slug": "timeline",
@@ -1139,15 +1148,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10aae149bc50.json"
-    },
-    {
-      "id": "opl_a5903db6e80c",
-      "slug": "valorant-agent-style",
-      "title": "Valorant Agent Style",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5903db6e80c.json"
     }
   ]
 }

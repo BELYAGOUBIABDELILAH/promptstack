@@ -1,8 +1,8 @@
 {
   "folder": "business-career",
   "name": "Business & Career",
-  "last_updated": "2026-11-17T06:20:45.221Z",
-  "total": 64,
+  "last_updated": "2026-11-17T07:20:46.489Z",
+  "total": 65,
   "prompts": [
     {
       "id": "opl_9051647e5ce0",
@@ -636,6 +636,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0d85ed58cb8.json"
+    },
+    {
+      "id": "opl_326149fa0fa2",
+      "slug": "lakeside-pottery-studio-workbench-at-blue-hour-looking-out-t",
+      "title": "Lakeside Pottery Studio Workbench at Blue Hour (Looking Out to the Water)",
+      "prompt": "Interior workbench room of a cedar lakeside pottery studio at blue hour, looking out to the water. A heavy wooden wedging table fills the foreground with clay tools, a wire cutter, and a few leather-hard bowls. Shelves of drying pots line the left wall. Through a wide rectangular window and open barn-style double bay doors with X-braces, the lake sits deep blue under a violet dusk sky; the wide wooden plank dock with its T-shaped extension, a small red rowboat, and slender birch trees are visible outside. Warm task lamp light on the bench contrasts cool blue window light. Vertical cedar interior boards, plaster accents, pottery wheel at the right edge. Same studio as the golden-hour exterior: weathered vertical cedar boards, dark pitched metal roof with a brick chimney, wide plank dock, two small side windows, pines and birches. Photoreal, landscape 16:9. No people, no text.",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_ca7a7fd75e7b"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_326149fa0fa2.json"
     },
     {
       "id": "opl_ac1e6354b03d",

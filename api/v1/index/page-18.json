@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T06:20:45.221Z",
+  "last_updated": "2026-11-17T07:20:46.489Z",
   "page": 18,
   "per_page": 100,
-  "total": 2803,
+  "total": 2804,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_b9b52321f043",
+      "slug": "muslim-imam",
+      "title": "Muslim Imam",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9b52321f043.json"
+    },
     {
       "id": "opl_90a822a1b669",
       "slug": "m-zisyenler-i-in-kariyer-y-netimi-deste-i",
@@ -1060,15 +1069,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83f48bc8189d.json"
-    },
-    {
-      "id": "opl_f1bf92d0669c",
-      "slug": "openapi-api-finder",
-      "title": "OpenAPI API Finder",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1bf92d0669c.json"
     }
   ]
 }

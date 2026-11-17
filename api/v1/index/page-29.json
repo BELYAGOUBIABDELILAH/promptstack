@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-17T06:20:45.221Z",
+  "last_updated": "2026-11-17T07:20:46.489Z",
   "page": 29,
   "per_page": 100,
-  "total": 2803,
+  "total": 2804,
   "total_pages": 29,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_ed3955766c66",
+      "slug": "untitled-4",
+      "title": "网络故障报告撰写",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "networkIssue",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed3955766c66.json"
+    },
     {
       "id": "opl_f36eb0db09cc",
       "slug": "untitled-5",

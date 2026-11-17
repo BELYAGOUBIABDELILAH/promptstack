@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-17T06:20:45.221Z",
-  "total_prompts": 2803,
-  "source_records": 2803,
+  "last_updated": "2026-11-17T07:20:46.489Z",
+  "total_prompts": 2804,
+  "source_records": 2804,
   "total_sources": 388,
   "total_categories": 19,
   "total_pages": 29,
@@ -74,7 +74,7 @@
     {
       "folder": "business-career",
       "name": "Business & Career",
-      "prompt_count": 64,
+      "prompt_count": 65,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/business-career.json"
     },
     {

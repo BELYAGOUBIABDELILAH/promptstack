@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T06:20:45.221Z",
+  "last_updated": "2026-11-17T07:20:46.489Z",
   "page": 17,
   "per_page": 100,
-  "total": 2803,
+  "total": 2804,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_a124ec44021c",
+      "slug": "math-teacher",
+      "title": "Math Teacher",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a124ec44021c.json"
+    },
     {
       "id": "opl_6250609e87b3",
       "slug": "mathematical-history-teacher",
@@ -1042,15 +1051,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d658dae745b0.json"
-    },
-    {
-      "id": "opl_b9b52321f043",
-      "slug": "muslim-imam",
-      "title": "Muslim Imam",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9b52321f043.json"
     }
   ]
 }

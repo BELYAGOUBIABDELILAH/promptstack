@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-17T06:20:45.221Z",
+  "last_updated": "2026-11-17T07:20:46.489Z",
   "page": 15,
   "per_page": 100,
-  "total": 2803,
+  "total": 2804,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
@@ -591,6 +591,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aff5e396fb2d.json"
     },
     {
+      "id": "opl_326149fa0fa2",
+      "slug": "lakeside-pottery-studio-workbench-at-blue-hour-looking-out-t",
+      "title": "Lakeside Pottery Studio Workbench at Blue Hour (Looking Out to the Water)",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_326149fa0fa2.json"
+    },
+    {
       "id": "opl_0e1c3c2c0c9a",
       "slug": "landing-page-copy-architect-conversion-framework-prompt",
       "title": "Landing Page Copy Architect – Conversion Framework Prompt",
@@ -1017,24 +1026,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3419a4a171f.json"
-    },
-    {
-      "id": "opl_ac1e6354b03d",
-      "slug": "linkedin-profile-enhancing",
-      "title": "Linkedin profile enhancing",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "industry",
-          "default": "data engineering"
-        },
-        {
-          "name": "job_title",
-          "default": "data engineer"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac1e6354b03d.json"
     }
   ]
 }

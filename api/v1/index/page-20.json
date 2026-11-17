@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T06:20:45.221Z",
+  "last_updated": "2026-11-17T07:20:46.489Z",
   "page": 20,
   "per_page": 100,
-  "total": 2803,
+  "total": 2804,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_81236d05f87c",
+      "slug": "physiology-pratical",
+      "title": "Physiology pratical",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81236d05f87c.json"
+    },
     {
       "id": "opl_94b55e88f223",
       "slug": "picture",
@@ -1265,24 +1274,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1086b93126d1.json"
-    },
-    {
-      "id": "opl_ad78875c0012",
-      "slug": "project-system-and-art-style-consistency-instructions",
-      "title": "Project System and Art Style Consistency Instructions",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "artStyle",
-          "default": null
-        },
-        {
-          "name": "projectPath",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad78875c0012.json"
     }
   ]
 }

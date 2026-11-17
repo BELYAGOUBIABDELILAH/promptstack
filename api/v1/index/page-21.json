@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-17T06:20:45.221Z",
+  "last_updated": "2026-11-17T07:20:46.489Z",
   "page": 21,
   "per_page": 100,
-  "total": 2803,
+  "total": 2804,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_ad78875c0012",
+      "slug": "project-system-and-art-style-consistency-instructions",
+      "title": "Project System and Art Style Consistency Instructions",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "artStyle",
+          "default": null
+        },
+        {
+          "name": "projectPath",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad78875c0012.json"
+    },
     {
       "id": "opl_a97bd1e5bf9d",
       "slug": "prometheus-query-genie",
@@ -1074,15 +1092,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4bab5ea1b9bc.json"
-    },
-    {
-      "id": "opl_df9f08228b00",
-      "slug": "realtime-ai-apps",
-      "title": "Realtime AI Apps",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df9f08228b00.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-17T06:20:45.221Z",
+  "last_updated": "2026-11-17T07:20:46.489Z",
   "page": 16,
   "per_page": 100,
-  "total": 2803,
+  "total": 2804,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_ac1e6354b03d",
+      "slug": "linkedin-profile-enhancing",
+      "title": "Linkedin profile enhancing",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "industry",
+          "default": "data engineering"
+        },
+        {
+          "name": "job_title",
+          "default": "data engineer"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac1e6354b03d.json"
+    },
     {
       "id": "opl_ef7a6282e92f",
       "slug": "linkedin-summary-crafting-prompt",
@@ -1151,15 +1169,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd0bf288ab77.json"
-    },
-    {
-      "id": "opl_a124ec44021c",
-      "slug": "math-teacher",
-      "title": "Math Teacher",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a124ec44021c.json"
     }
   ]
 }
