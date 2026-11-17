@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 14,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_3e1212521fcc",
+      "slug": "idea-validation-and-scoring-market-research-prompt",
+      "title": "Idea Validation and Scoring Market Research Prompt",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "idea",
+          "default": null
+        },
+        {
+          "name": "industry",
+          "default": null
+        },
+        {
+          "name": "region",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e1212521fcc.json"
+    },
     {
       "id": "opl_4b68d84928be",
       "slug": "identify-breaking-changes-in-mr",
@@ -1105,15 +1127,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5fc6bffd181.json"
-    },
-    {
-      "id": "opl_ad2013999a04",
-      "slug": "israel-news-summary",
-      "title": "Israel News Summary",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2013999a04.json"
     }
   ]
 }

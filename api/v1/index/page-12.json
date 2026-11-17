@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 12,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_fd389a01fbee",
+      "slug": "formal-writing-generator",
+      "title": "Formal Writing Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd389a01fbee.json"
+    },
     {
       "id": "opl_324df7009f25",
       "slug": "forum-post-drafter",
@@ -1001,15 +1010,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_137d4a9fda71.json"
-    },
-    {
-      "id": "opl_dfd7f5cad021",
-      "slug": "grant-finder",
-      "title": "Grant Finder",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfd7f5cad021.json"
     }
   ]
 }

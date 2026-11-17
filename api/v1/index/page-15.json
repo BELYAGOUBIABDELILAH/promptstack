@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 15,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_ad2013999a04",
+      "slug": "israel-news-summary",
+      "title": "Israel News Summary",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2013999a04.json"
+    },
     {
       "id": "opl_e109611d94e3",
       "slug": "israel-shopping-assistant-2",
@@ -1026,15 +1035,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac1e6354b03d.json"
-    },
-    {
-      "id": "opl_ef7a6282e92f",
-      "slug": "linkedin-summary-crafting-prompt",
-      "title": "LinkedIn Summary Crafting Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef7a6282e92f.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 7,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_e0badc961ef1",
+      "slug": "comparison-of-social-groups",
+      "title": "comparison of social groups",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "group_a",
+          "default": null
+        },
+        {
+          "name": "group_b",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0badc961ef1.json"
+    },
     {
       "id": "opl_f3fd67d692ed",
       "slug": "competitive-intelligence-analyst",
@@ -1320,15 +1338,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb0a4d62e1d2.json"
-    },
-    {
-      "id": "opl_519d60ef02a4",
-      "slug": "create-prompt-for-audit-purpose-on-password-configuartion-file-for-linux",
-      "title": "create prompt for audit purpose on password configuartion file for linux",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_519d60ef02a4.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 1,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prev": null,
@@ -208,6 +208,15 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a444053e18ce.json"
+    },
+    {
+      "id": "opl_a0ea04a6dfe4",
+      "slug": "safekids-video-analyzer",
+      "title": "🤖 SafeKids Video Analyzer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0ea04a6dfe4.json"
     },
     {
       "id": "opl_75367788da77",
@@ -1275,32 +1284,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b18a0eb16cc.json"
-    },
-    {
-      "id": "opl_574d8f4132c0",
-      "slug": "act-as-a-health-recovery-and-weight-loss-specialist",
-      "title": "Act as a Health Recovery and Weight Loss Specialist",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [
-        {
-          "name": "currentHealthStatus",
-          "default": null
-        },
-        {
-          "name": "dietaryPreferences",
-          "default": null
-        },
-        {
-          "name": "fitnessLevel",
-          "default": null
-        },
-        {
-          "name": "healthGoals",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_574d8f4132c0.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 23,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_d4334c8e07e4",
+      "slug": "scaryface",
+      "title": "scaryface",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d4334c8e07e4.json"
+    },
     {
       "id": "opl_e0c11649bc92",
       "slug": "school-life-mentor",
@@ -1248,15 +1257,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f7a0f3aaf5d5.json"
-    },
-    {
-      "id": "opl_324eb65b184f",
-      "slug": "skill-master",
-      "title": "skill-master",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_324eb65b184f.json"
     }
   ]
 }

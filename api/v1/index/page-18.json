@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 18,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_90a822a1b669",
+      "slug": "m-zisyenler-i-in-kariyer-y-netimi-deste-i",
+      "title": "Müzisyenler için Kariyer Yönetimi Desteği",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "experienceLevel",
+          "default": "Beginner"
+        },
+        {
+          "name": "language",
+          "default": "Turkish"
+        },
+        {
+          "name": "musicStyle",
+          "default": "Indie"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90a822a1b669.json"
+    },
     {
       "id": "opl_e619183558ec",
       "slug": "my-ideal-job-documenter",
@@ -1047,15 +1069,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1bf92d0669c.json"
-    },
-    {
-      "id": "opl_3db27596d931",
-      "slug": "operating-system-exam-preparation",
-      "title": "operating system exam preparation",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3db27596d931.json"
     }
   ]
 }

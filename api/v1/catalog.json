@@ -1,5 +1,14 @@
 [
   {
+    "id": "opl_a0ea04a6dfe4",
+    "title": "🤖 SafeKids Video Analyzer",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "safekids-video-analyzer",
+    "variables": [],
+    "snippet": "Objective Analyze the YouTube video URL, transcript, or summary provided by the user and determine whether the content is appropriate for children. Produce a factual, structured,"
+  },
+  {
     "id": "opl_75367788da77",
     "title": "🧠 FORMAL VERIFICATION MODE",
     "category": "AI & Automation",

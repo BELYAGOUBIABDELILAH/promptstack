@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 6,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_032ffe51f26b",
+      "slug": "chinese-hookah-training-program",
+      "title": "Chinese Hookah Training Program",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "duration",
+          "default": "3 months"
+        },
+        {
+          "name": "focus",
+          "default": null
+        },
+        {
+          "name": "level",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_032ffe51f26b.json"
+    },
     {
       "id": "opl_92865b5ff4be",
       "slug": "chinese-to-english-translation-assistant",
@@ -1101,24 +1123,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1678d0127a6.json"
-    },
-    {
-      "id": "opl_e0badc961ef1",
-      "slug": "comparison-of-social-groups",
-      "title": "comparison of social groups",
-      "category": "General",
-      "folder": "general",
-      "variables": [
-        {
-          "name": "group_a",
-          "default": null
-        },
-        {
-          "name": "group_b",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0badc961ef1.json"
     }
   ]
 }

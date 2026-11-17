@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 5,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_e9273946428b",
+      "slug": "brainstorming-session-summariser",
+      "title": "Brainstorming Session Summariser",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9273946428b.json"
+    },
     {
       "id": "opl_ca3b6e0c146a",
       "slug": "brainstorming-technically-grounded-product-ideas",
@@ -1083,28 +1092,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4cc70559616.json"
-    },
-    {
-      "id": "opl_032ffe51f26b",
-      "slug": "chinese-hookah-training-program",
-      "title": "Chinese Hookah Training Program",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "duration",
-          "default": "3 months"
-        },
-        {
-          "name": "focus",
-          "default": null
-        },
-        {
-          "name": "level",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_032ffe51f26b.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 10,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_d8661ce4a23c",
+      "slug": "document-summarizer-for-user",
+      "title": "Document Summarizer (For User)",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d8661ce4a23c.json"
+    },
     {
       "id": "opl_5080e937b389",
       "slug": "document-table-finder",
@@ -1282,15 +1291,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb2ac440eff3.json"
-    },
-    {
-      "id": "opl_1fe965830390",
-      "slug": "error-handler-agent-role",
-      "title": "Error Handler Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1fe965830390.json"
     }
   ]
 }

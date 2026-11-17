@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 21,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_a97bd1e5bf9d",
+      "slug": "prometheus-query-genie",
+      "title": "Prometheus Query Genie",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a97bd1e5bf9d.json"
+    },
     {
       "id": "opl_860b923ba30b",
       "slug": "prompt-output-reformatter",
@@ -1074,15 +1083,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df9f08228b00.json"
-    },
-    {
-      "id": "opl_7ce4390d0961",
-      "slug": "rebuttal",
-      "title": "rebuttal",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ce4390d0961.json"
     }
   ]
 }

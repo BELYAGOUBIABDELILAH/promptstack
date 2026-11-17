@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 26,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_4822efb16b35",
+      "slug": "system-prompt-text-to-structured",
+      "title": "System Prompt Text To Structured",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4822efb16b35.json"
+    },
     {
       "id": "opl_494a16e3c4c3",
       "slug": "system-prompt-to-assistant-configuration",
@@ -1024,28 +1033,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1e90823beca.json"
-    },
-    {
-      "id": "opl_d739f25311aa",
-      "slug": "timeline",
-      "title": "timeline",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "any_dates_marked_uncertain",
-          "default": null
-        },
-        {
-          "name": "any_events_where_sequence_is_unclear",
-          "default": null
-        },
-        {
-          "name": "event_description",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d739f25311aa.json"
     }
   ]
 }

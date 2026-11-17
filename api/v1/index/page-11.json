@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 11,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_1fe965830390",
+      "slug": "error-handler-agent-role",
+      "title": "Error Handler Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1fe965830390.json"
+    },
     {
       "id": "opl_10b81a16f4af",
       "slug": "esp32-ui-library-development",
@@ -1114,15 +1123,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c820aa4e4c54.json"
-    },
-    {
-      "id": "opl_fd389a01fbee",
-      "slug": "formal-writing-generator",
-      "title": "Formal Writing Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd389a01fbee.json"
     }
   ]
 }

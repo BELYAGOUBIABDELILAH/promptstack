@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 24,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_324eb65b184f",
+      "slug": "skill-master",
+      "title": "skill-master",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_324eb65b184f.json"
+    },
     {
       "id": "opl_1ac296003054",
       "slug": "skills-list-generator",
@@ -1013,32 +1022,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8cff0ee7bf1.json"
-    },
-    {
-      "id": "opl_fb8d3cb9d2e6",
-      "slug": "sticker-image-generator",
-      "title": "Sticker Image Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "colorPalette",
-          "default": "vibrant"
-        },
-        {
-          "name": "details",
-          "default": null
-        },
-        {
-          "name": "icon",
-          "default": "smiley_face"
-        },
-        {
-          "name": "text",
-          "default": "Hello World"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb8d3cb9d2e6.json"
     }
   ]
 }

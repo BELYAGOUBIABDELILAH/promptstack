@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 8,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_519d60ef02a4",
+      "slug": "create-prompt-for-audit-purpose-on-password-configuartion-file-for-linux",
+      "title": "create prompt for audit purpose on password configuartion file for linux",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_519d60ef02a4.json"
+    },
     {
       "id": "opl_824a96a33e6f",
       "slug": "create-python-dev-container",
@@ -1235,15 +1244,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6f70dca5d13e.json"
-    },
-    {
-      "id": "opl_e53dea9c3961",
-      "slug": "debater",
-      "title": "Debater",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e53dea9c3961.json"
     }
   ]
 }

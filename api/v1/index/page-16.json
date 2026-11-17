@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 16,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_ef7a6282e92f",
+      "slug": "linkedin-summary-crafting-prompt",
+      "title": "LinkedIn Summary Crafting Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef7a6282e92f.json"
+    },
     {
       "id": "opl_ba4d66da5799",
       "slug": "linkedin-about-summary-draft-prompt",
@@ -1151,15 +1160,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a124ec44021c.json"
-    },
-    {
-      "id": "opl_6250609e87b3",
-      "slug": "mathematical-history-teacher",
-      "title": "Mathematical History Teacher",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6250609e87b3.json"
     }
   ]
 }

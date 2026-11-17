@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 9,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_e53dea9c3961",
+      "slug": "debater",
+      "title": "Debater",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e53dea9c3961.json"
+    },
     {
       "id": "opl_fbe3e7b7d341",
       "slug": "debug-failing-pipeline",
@@ -1174,15 +1183,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e40bff4a95f.json"
-    },
-    {
-      "id": "opl_d8661ce4a23c",
-      "slug": "document-summarizer-for-user",
-      "title": "Document Summarizer (For User)",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d8661ce4a23c.json"
     }
   ]
 }

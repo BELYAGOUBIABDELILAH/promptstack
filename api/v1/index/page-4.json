@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 4,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prompts": [
+    {
+      "id": "opl_2098b1c53908",
+      "slug": "assistant-ideator-notes-docs",
+      "title": "Assistant Ideator - Notes & Docs",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2098b1c53908.json"
+    },
     {
       "id": "opl_3b7263586046",
       "slug": "assistant-ideator-organisation",
@@ -1168,15 +1177,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_474506df3b3d.json"
-    },
-    {
-      "id": "opl_e9273946428b",
-      "slug": "brainstorming-session-summariser",
-      "title": "Brainstorming Session Summariser",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9273946428b.json"
     }
   ]
 }

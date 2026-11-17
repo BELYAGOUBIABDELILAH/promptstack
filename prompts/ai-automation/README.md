@@ -2,10 +2,11 @@
 
 [← Back to main index](../../README.md)
 
-**130 prompts in this category**
+**131 prompts in this category**
 
 ## Table of Contents
 
+- [🤖 SafeKids Video Analyzer](safekids-video-analyzer.md)
 - [🧠 FORMAL VERIFICATION MODE](formal-verification-mode.md)
 - [3D Cartoon Animation: Baby Bunny Adventure](3d-cartoon-animation-baby-bunny-adventure.md)
 - [Act as an FTTH Telecommunications Expert](act-as-an-ftth-telecommunications-expert.md)

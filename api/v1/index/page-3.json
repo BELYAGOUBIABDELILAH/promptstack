@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 3,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_42cb2b4ac9c7",
+      "slug": "ai-tour-guide-business-plan-for-foreign-tourists-in-china",
+      "title": "AI Tour Guide Business Plan for Foreign Tourists in China",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "budget",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42cb2b4ac9c7.json"
+    },
     {
       "id": "opl_ea9bc2ec4484",
       "slug": "ai-travel-agent-interview-driven-planner",
@@ -1125,15 +1143,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_002c5c62e9cf.json"
-    },
-    {
-      "id": "opl_2098b1c53908",
-      "slug": "assistant-ideator-notes-docs",
-      "title": "Assistant Ideator - Notes & Docs",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2098b1c53908.json"
     }
   ]
 }

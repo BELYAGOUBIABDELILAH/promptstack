@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 27,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_d739f25311aa",
+      "slug": "timeline",
+      "title": "timeline",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "any_dates_marked_uncertain",
+          "default": null
+        },
+        {
+          "name": "any_events_where_sequence_is_unclear",
+          "default": null
+        },
+        {
+          "name": "event_description",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d739f25311aa.json"
+    },
     {
       "id": "opl_83ac4934ea79",
       "slug": "title-generator-for-written-pieces",
@@ -1126,15 +1148,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5903db6e80c.json"
-    },
-    {
-      "id": "opl_d6e2c5219e17",
-      "slug": "vector-based-space-combat-system",
-      "title": "Vector-Based Space Combat System",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6e2c5219e17.json"
     }
   ]
 }

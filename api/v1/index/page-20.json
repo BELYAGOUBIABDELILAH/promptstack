@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T05:20:53.514Z",
+  "last_updated": "2026-11-17T06:20:45.221Z",
   "page": 20,
   "per_page": 100,
-  "total": 2802,
+  "total": 2803,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_94b55e88f223",
+      "slug": "picture",
+      "title": "Picture",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94b55e88f223.json"
+    },
     {
       "id": "opl_426ecda6c933",
       "slug": "picture-design",
@@ -1274,15 +1283,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad78875c0012.json"
-    },
-    {
-      "id": "opl_a97bd1e5bf9d",
-      "slug": "prometheus-query-genie",
-      "title": "Prometheus Query Genie",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a97bd1e5bf9d.json"
     }
   ]
 }
