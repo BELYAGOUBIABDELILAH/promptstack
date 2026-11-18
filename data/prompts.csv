@@ -69841,6 +69841,18 @@ TASK STEPS FOR EACH INPUT
 
 MY INPUT:
 {Paste your URL/URI or text or file/image here}",omidzamani2@gmail.com (prompts.chat),TEXT,unified-research-and-source-analysis-prompt,coding-development,prompts/coding-development/unified-research-and-source-analysis-prompt.md
+Omniroute bulk input key converter (cf),Coding & Development,"Ask me for input data in next chat message.
+I want you to format lines in this pattern
+
+* derekstates70 ''1111111'' key ''2222222''
+* jennyho666 ''3333333'' key ''4444444''
+
+into this format
+
+derekstates70|1111111|2222222
+jennyho666|3333333|4444444
+
+output the result in a code box",sxlderek@gmail.com (prompts.chat),TEXT,omniroute-bulk-input-key-converter-cf,coding-development,prompts/coding-development/omniroute-bulk-input-key-converter-cf.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",

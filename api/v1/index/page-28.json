@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T06:20:48.598Z",
+  "last_updated": "2026-11-18T07:20:54.989Z",
   "page": 28,
   "per_page": 100,
-  "total": 2818,
+  "total": 2819,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_6a6f6794942e",
+      "slug": "universal-job-fit-evaluation-prompt",
+      "title": "Universal Job Fit Evaluation Prompt",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a6f6794942e.json"
+    },
     {
       "id": "opl_64545dfe6e54",
       "slug": "universal-lead-candidate-outreach-generator-hr-sales",
@@ -1296,15 +1305,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfb8b9f04e6a.json"
-    },
-    {
-      "id": "opl_bf45e3b25b5b",
-      "slug": "yes-or-no-answer",
-      "title": "Yes or No answer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf45e3b25b5b.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T06:20:48.598Z",
+  "last_updated": "2026-11-18T07:20:54.989Z",
   "page": 23,
   "per_page": 100,
-  "total": 2818,
+  "total": 2819,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_e6d11b3d0a18",
+      "slug": "sabarudin-system-executive-architecture",
+      "title": "Sabarudin System - Executive Architecture",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6d11b3d0a18.json"
+    },
     {
       "id": "opl_22953585b577",
       "slug": "sacrifice-in-obedience",
@@ -1244,15 +1253,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d21d5a7442cd.json"
-    },
-    {
-      "id": "opl_cd0486ec5d66",
-      "slug": "shopping-list-generator-non-food",
-      "title": "Shopping List Generator (Non-Food)",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd0486ec5d66.json"
     }
   ]
 }

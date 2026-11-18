@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T06:20:48.598Z",
+  "last_updated": "2026-11-18T07:20:54.989Z",
   "page": 24,
   "per_page": 100,
-  "total": 2818,
+  "total": 2819,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_cd0486ec5d66",
+      "slug": "shopping-list-generator-non-food",
+      "title": "Shopping List Generator (Non-Food)",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd0486ec5d66.json"
+    },
     {
       "id": "opl_fb37fb995c83",
       "slug": "shortcut-key-creation-assistant",
@@ -1035,15 +1044,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42690b79af64.json"
-    },
-    {
-      "id": "opl_fa2c614aa356",
-      "slug": "statement-of-purpose",
-      "title": "Statement of Purpose",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa2c614aa356.json"
     }
   ]
 }

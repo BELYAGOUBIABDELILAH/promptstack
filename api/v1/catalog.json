@@ -10657,6 +10657,15 @@
     "snippet": "Analyze all files in the folder named '${main_folder}` located at `${path_to_folder}`/ and perform the following tasks: ## Task 1: Extract Sensitive Data Review every file thoroug"
   },
   {
+    "id": "opl_6ae260dd8932",
+    "title": "Omniroute bulk input key converter (cf)",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "omniroute-bulk-input-key-converter-cf",
+    "variables": [],
+    "snippet": "Ask me for input data in next chat message. I want you to format lines in this pattern * derekstates70 ''1111111'' key ''2222222'' * jennyho666 ''3333333'' key ''4444444'' into t"
+  },
+  {
     "id": "opl_fa2fc0723ba8",
     "title": "One-Click Design Mockup Creator",
     "category": "Coding & Development",

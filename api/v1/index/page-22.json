@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T06:20:48.598Z",
+  "last_updated": "2026-11-18T07:20:54.989Z",
   "page": 22,
   "per_page": 100,
-  "total": 2818,
+  "total": 2819,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_e0a7da6bc9ef",
+      "slug": "real-time-and-news-data",
+      "title": "Real time and news data",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0a7da6bc9ef.json"
+    },
     {
       "id": "opl_f9ba627ff8ed",
       "slug": "real-time-geological-disaster-information-query",
@@ -1119,15 +1128,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b6c277fc074.json"
-    },
-    {
-      "id": "opl_e6d11b3d0a18",
-      "slug": "sabarudin-system-executive-architecture",
-      "title": "Sabarudin System - Executive Architecture",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6d11b3d0a18.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T06:20:48.598Z",
+  "last_updated": "2026-11-18T07:20:54.989Z",
   "page": 18,
   "per_page": 100,
-  "total": 2818,
+  "total": 2819,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
@@ -1039,6 +1039,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db9bf3d67a63.json"
     },
     {
+      "id": "opl_6ae260dd8932",
+      "slug": "omniroute-bulk-input-key-converter-cf",
+      "title": "Omniroute bulk input key converter (cf)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae260dd8932.json"
+    },
+    {
       "id": "opl_fa2fc0723ba8",
       "slug": "one-click-design-mockup-creator",
       "title": "One-Click Design Mockup Creator",
@@ -1078,15 +1087,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cbac6016162f.json"
-    },
-    {
-      "id": "opl_7c7cedce8a67",
-      "slug": "online-review-text-generator",
-      "title": "Online Review Text Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c7cedce8a67.json"
     }
   ]
 }

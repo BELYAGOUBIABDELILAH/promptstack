@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1115 prompts in this category**
+**1116 prompts in this category**
 
 ## Table of Contents
 
@@ -707,6 +707,7 @@
 - [Node.js Automation Script Developer](node-js-automation-script-developer.md)
 - [Non-Medical Expense Calculator for Hospital Bills](non-medical-expense-calculator-for-hospital-bills.md)
 - [Note Guru](note-guru.md)
+- [Omniroute bulk input key converter (cf)](omniroute-bulk-input-key-converter-cf.md)
 - [One-Click Design Mockup Creator](one-click-design-mockup-creator.md)
 - [One-Shot Copy-Paste Version with Proper Formatting](one-shot-copy-paste-version-with-proper-formatting.md)
 - [Open Access Data Finder](open-access-data-finder.md)

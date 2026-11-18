@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T06:20:48.598Z",
+  "last_updated": "2026-11-18T07:20:54.989Z",
   "page": 21,
   "per_page": 100,
-  "total": 2818,
+  "total": 2819,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_b368ec29e71c",
+      "slug": "professional-website-design-consultant",
+      "title": "Professional Website Design Consultant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b368ec29e71c.json"
+    },
     {
       "id": "opl_8e41a8f821bc",
       "slug": "profile-application-performance",
@@ -1061,15 +1070,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0177dc22c47d.json"
-    },
-    {
-      "id": "opl_e0a7da6bc9ef",
-      "slug": "real-time-and-news-data",
-      "title": "Real time and news data",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0a7da6bc9ef.json"
     }
   ]
 }

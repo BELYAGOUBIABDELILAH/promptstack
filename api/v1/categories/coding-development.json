@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-18T06:20:48.598Z",
-  "total": 1115,
+  "last_updated": "2026-11-18T07:20:54.989Z",
+  "total": 1116,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -13173,6 +13173,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbfe5a9befed.json"
+    },
+    {
+      "id": "opl_6ae260dd8932",
+      "slug": "omniroute-bulk-input-key-converter-cf",
+      "title": "Omniroute bulk input key converter (cf)",
+      "prompt": "Ask me for input data in next chat message.\nI want you to format lines in this pattern\n\n* derekstates70 ''1111111'' key ''2222222''\n* jennyho666 ''3333333'' key ''4444444''\n\ninto this format\n\nderekstates70|1111111|2222222\njennyho666|3333333|4444444\n\noutput the result in a code box",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_615e092264fb"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae260dd8932.json"
     },
     {
       "id": "opl_fa2fc0723ba8",

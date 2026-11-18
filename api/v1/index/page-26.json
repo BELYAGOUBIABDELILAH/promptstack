@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T06:20:48.598Z",
+  "last_updated": "2026-11-18T07:20:54.989Z",
   "page": 26,
   "per_page": 100,
-  "total": 2818,
+  "total": 2819,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_15b6edda3c3b",
+      "slug": "system-prompt-editor-add-rag",
+      "title": "System Prompt Editor - Add RAG",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_15b6edda3c3b.json"
+    },
     {
       "id": "opl_e37da1dd32ea",
       "slug": "system-prompt-editor-output-format-instructions",
@@ -989,15 +998,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76dd8eff0795.json"
-    },
-    {
-      "id": "opl_c30d347133ee",
-      "slug": "the-silent-standoff",
-      "title": "The Silent Standoff",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c30d347133ee.json"
     }
   ]
 }
