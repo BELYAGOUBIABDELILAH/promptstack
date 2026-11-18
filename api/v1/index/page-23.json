@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T15:20:51.661Z",
+  "last_updated": "2026-11-18T16:20:52.857Z",
   "page": 23,
   "per_page": 100,
-  "total": 2827,
+  "total": 2828,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_9fb5ad97d986",
+      "slug": "rpa-guide",
+      "title": "RPA Guide",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9fb5ad97d986.json"
+    },
     {
       "id": "opl_4e4ce94e18c2",
       "slug": "rpa-agentic-ai-process-developer-portfolio-design-for-claude",
@@ -1248,15 +1257,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a429eb23eef0.json"
-    },
-    {
-      "id": "opl_5504ce787665",
-      "slug": "shakespearean-text-converter",
-      "title": "Shakespearean Text Converter",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5504ce787665.json"
     }
   ]
 }

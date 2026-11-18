@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T15:20:51.661Z",
+  "last_updated": "2026-11-18T16:20:52.857Z",
   "page": 15,
   "per_page": 100,
-  "total": 2827,
+  "total": 2828,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
@@ -710,6 +710,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0249f3dd7a45.json"
     },
     {
+      "id": "opl_e35add2d1cc8",
+      "slug": "kp-prompting",
+      "title": "KP Prompting",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e35add2d1cc8.json"
+    },
+    {
       "id": "opl_f0d85ed58cb8",
       "slug": "kra-for-business-dept",
       "title": "KRA for Business Dept",
@@ -1005,15 +1014,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e9774bc7b37.json"
-    },
-    {
-      "id": "opl_12aeeaf0ede4",
-      "slug": "legal-advisor",
-      "title": "Legal Advisor",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12aeeaf0ede4.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T15:20:51.661Z",
+  "last_updated": "2026-11-18T16:20:52.857Z",
   "page": 20,
   "per_page": 100,
-  "total": 2827,
+  "total": 2828,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_f62c8a4452df",
+      "slug": "pest-control-on-call",
+      "title": "Pest Control On Call",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f62c8a4452df.json"
+    },
     {
       "id": "opl_32f3147d1ce3",
       "slug": "pet-behaviorist",
@@ -1227,15 +1236,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c680691d0bfc.json"
-    },
-    {
-      "id": "opl_157ae6a3efd2",
-      "slug": "professional-image-enhancement-for-clarity-and-quality",
-      "title": "Professional Image Enhancement for Clarity and Quality",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_157ae6a3efd2.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T15:20:51.661Z",
+  "last_updated": "2026-11-18T16:20:52.857Z",
   "page": 26,
   "per_page": 100,
-  "total": 2827,
+  "total": 2828,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_2aace31f0fee",
+      "slug": "sys-admin-support-general",
+      "title": "Sys Admin Support (General)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2aace31f0fee.json"
+    },
     {
       "id": "opl_f13b41d091b5",
       "slug": "system-architect-agent-role",
@@ -989,15 +998,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ac4ecf03761.json"
-    },
-    {
-      "id": "opl_85b155f35397",
-      "slug": "the-lovelyline",
-      "title": "The Lovelyline",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85b155f35397.json"
     }
   ]
 }

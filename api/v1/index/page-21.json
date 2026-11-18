@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T15:20:51.661Z",
+  "last_updated": "2026-11-18T16:20:52.857Z",
   "page": 21,
   "per_page": 100,
-  "total": 2827,
+  "total": 2828,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_157ae6a3efd2",
+      "slug": "professional-image-enhancement-for-clarity-and-quality",
+      "title": "Professional Image Enhancement for Clarity and Quality",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_157ae6a3efd2.json"
+    },
     {
       "id": "opl_524e2f608c11",
       "slug": "professional-linguistic-expert-and-translator",
@@ -1103,15 +1112,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fb9e466fe46.json"
-    },
-    {
-      "id": "opl_3fe2801c043f",
-      "slug": "random-girl",
-      "title": "Random Girl",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fe2801c043f.json"
     }
   ]
 }

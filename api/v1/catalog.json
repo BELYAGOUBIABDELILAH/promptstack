@@ -9341,6 +9341,15 @@
     "snippet": "I want you to act as a knowledgeable software development mentor, specifically teaching a junior developer. Explain complex coding concepts in a simple and clear way, breaking thin"
   },
   {
+    "id": "opl_e35add2d1cc8",
+    "title": "KP Prompting",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "kp-prompting",
+    "variables": [],
+    "snippet": "--- name: kp-prompting description: Build advanced prompts, task specs, verification criteria, and Claude Code setup using Andrej Karpathy's spec / verifier / environment method. U"
+  },
+  {
     "id": "opl_3a2d68122fec",
     "title": "Kubernetes & Docker RPG Learning Engine",
     "category": "Coding & Development",

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1120 prompts in this category**
+**1121 prompts in this category**
 
 ## Table of Contents
 
@@ -588,6 +588,7 @@
 - [Kickstart Prompt for Web UX & UI Design](kickstart-prompt-for-web-ux-ui-design.md)
 - [Kitchen Morning Window Light (candid, cozy)](kitchen-morning-window-light-candid-cozy.md)
 - [Knowledgeable Software Development Mentor](knowledgeable-software-development-mentor.md)
+- [KP Prompting](kp-prompting.md)
 - [Kubernetes & Docker RPG Learning Engine](kubernetes-docker-rpg-learning-engine.md)
 - [Lagrange Lens: Blue Wolf](lagrange-lens-blue-wolf.md)
 - [Landing Page Copy Architect – Conversion Framework Prompt](landing-page-copy-architect-conversion-framework-prompt.md)

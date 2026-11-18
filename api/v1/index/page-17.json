@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T15:20:51.661Z",
+  "last_updated": "2026-11-18T16:20:52.857Z",
   "page": 17,
   "per_page": 100,
-  "total": 2827,
+  "total": 2828,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_557ed60d93dd",
+      "slug": "manimal",
+      "title": "Manimal",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_557ed60d93dd.json"
+    },
     {
       "id": "opl_e0de152b71fd",
       "slug": "manufacturing-workflow-optimization-with-or-tools",
@@ -1120,15 +1129,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_890c7e002f8d.json"
-    },
-    {
-      "id": "opl_4b017088438d",
-      "slug": "moral-dilemma-choices",
-      "title": "Moral Dilemma Choices",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b017088438d.json"
     }
   ]
 }
