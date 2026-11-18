@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 24,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_d21d5a7442cd",
+      "slug": "shop",
+      "title": "shop",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "ideal_buyer",
+          "default": null
+        },
+        {
+          "name": "what_reviewers_complain_about",
+          "default": null
+        },
+        {
+          "name": "what_reviewers_love",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d21d5a7442cd.json"
+    },
     {
       "id": "opl_cd0486ec5d66",
       "slug": "shopping-list-generator-non-food",
@@ -1035,15 +1057,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bf9c71268a1.json"
-    },
-    {
-      "id": "opl_42690b79af64",
-      "slug": "startup-tech-lawyer",
-      "title": "Startup Tech Lawyer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42690b79af64.json"
     }
   ]
 }

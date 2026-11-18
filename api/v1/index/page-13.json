@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 13,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_d43a0b02c858",
+      "slug": "got-title",
+      "title": "GOT Title",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d43a0b02c858.json"
+    },
     {
       "id": "opl_a4262cf15bc6",
       "slug": "gotify-notification-writer",
@@ -1031,15 +1040,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4868396a5b62.json"
-    },
-    {
-      "id": "opl_42576a9d858c",
-      "slug": "hypnotherapist-guidance-for-stress-management",
-      "title": "Hypnotherapist Guidance for Stress Management",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42576a9d858c.json"
     }
   ]
 }

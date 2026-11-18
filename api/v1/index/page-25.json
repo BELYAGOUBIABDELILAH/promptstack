@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 25,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_42690b79af64",
+      "slug": "startup-tech-lawyer",
+      "title": "Startup Tech Lawyer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42690b79af64.json"
+    },
     {
       "id": "opl_fa2c614aa356",
       "slug": "statement-of-purpose",
@@ -1087,15 +1096,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_772ab46d36a6.json"
-    },
-    {
-      "id": "opl_82ce913e9a7c",
-      "slug": "system-prompt-doctor",
-      "title": "System Prompt Doctor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82ce913e9a7c.json"
     }
   ]
 }

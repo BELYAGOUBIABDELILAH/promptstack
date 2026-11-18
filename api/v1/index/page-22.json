@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 22,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_0177dc22c47d",
+      "slug": "real-estate-agent",
+      "title": "Real Estate Agent",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0177dc22c47d.json"
+    },
     {
       "id": "opl_e0a7da6bc9ef",
       "slug": "real-time-and-news-data",
@@ -1119,15 +1128,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_400bb13cbf42.json"
-    },
-    {
-      "id": "opl_0b6c277fc074",
-      "slug": "sabarudin-instructions-framework",
-      "title": "SABARUDIN INSTRUCTIONS FRAMEWORK",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b6c277fc074.json"
     }
   ]
 }

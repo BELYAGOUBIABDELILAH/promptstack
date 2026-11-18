@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 17,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_f1699dff291f",
+      "slug": "markdown-task-implementer",
+      "title": "Markdown Task Implementer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1699dff291f.json"
+    },
     {
       "id": "opl_27d3ef781679",
       "slug": "marketing-mastermind-for-product-promotion",
@@ -1107,15 +1116,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd3ee155f757.json"
-    },
-    {
-      "id": "opl_0ad8b058ebc4",
-      "slug": "movie-critic",
-      "title": "Movie Critic",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad8b058ebc4.json"
     }
   ]
 }

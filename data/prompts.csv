@@ -69853,6 +69853,14 @@ derekstates70|1111111|2222222
 jennyho666|3333333|4444444
 
 output the result in a code box",sxlderek@gmail.com (prompts.chat),TEXT,omniroute-bulk-input-key-converter-cf,coding-development,prompts/coding-development/omniroute-bulk-input-key-converter-cf.md
+ai model card,Coding & Development,"Ask me for AI model name(s) in next message
+* You are an AI model research expert. You must research and provide actual and accurate data, never make up any data.
+* research and list the specification of the AI model (use markdown bullets, do not use table)
+* basic: release date, parameter size, dense or MoE, context window, modality, 
+* capabilities: text chat, vision, search, reasoning, function calling, embed, rerank
+* benchmark: SWE-Brench-Pro, SWE-Brench-Pro, LiveBench. for each benchmark list 2 other models ranked close to it. 
+* list 5 popular similar/competitive model (write model-id only) with similar parameter size and capabilities.
+* list the source where you got your source data from.",sxlderek@gmail.com (prompts.chat),TEXT,ai-model-card,coding-development,prompts/coding-development/ai-model-card.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",

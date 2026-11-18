@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 29,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_dfb8b9f04e6a",
+      "slug": "yapper-twitter-strategist-2026",
+      "title": "Yapper Twitter Strategist 2026",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "project_data",
+          "default": null
+        },
+        {
+          "name": "website_link",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfb8b9f04e6a.json"
+    },
     {
       "id": "opl_bf45e3b25b5b",
       "slug": "yes-or-no-answer",

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 2,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
@@ -1054,6 +1054,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df8c89958835.json"
     },
     {
+      "id": "opl_47593dd96961",
+      "slug": "ai-model-card",
+      "title": "ai model card",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47593dd96961.json"
+    },
+    {
       "id": "opl_8ea4a7f118c0",
       "slug": "ai-new",
       "title": "Ai new",
@@ -1209,15 +1218,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e289f3359f80.json"
-    },
-    {
-      "id": "opl_3a849cab4c57",
-      "slug": "ai-tool-finder",
-      "title": "AI Tool Finder",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3a849cab4c57.json"
     }
   ]
 }

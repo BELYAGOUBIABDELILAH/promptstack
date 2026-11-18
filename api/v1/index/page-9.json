@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 9,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_232cc7e663fb",
+      "slug": "dd",
+      "title": "DD",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_232cc7e663fb.json"
+    },
     {
       "id": "opl_b5d42656fb6e",
       "slug": "dead-code-surgeon-phased-codebase-audit-cleanup-roadmap",
@@ -1174,15 +1183,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_211131b096e2.json"
-    },
-    {
-      "id": "opl_173b2ec7590f",
-      "slug": "document-anonymisation-assistant",
-      "title": "Document Anonymisation Assistant",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_173b2ec7590f.json"
     }
   ]
 }

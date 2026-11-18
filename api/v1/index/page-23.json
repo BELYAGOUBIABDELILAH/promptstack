@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 23,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_0b6c277fc074",
+      "slug": "sabarudin-instructions-framework",
+      "title": "SABARUDIN INSTRUCTIONS FRAMEWORK",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b6c277fc074.json"
+    },
     {
       "id": "opl_e6d11b3d0a18",
       "slug": "sabarudin-system-executive-architecture",
@@ -1231,28 +1240,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd88a6720bd1.json"
-    },
-    {
-      "id": "opl_d21d5a7442cd",
-      "slug": "shop",
-      "title": "shop",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "ideal_buyer",
-          "default": null
-        },
-        {
-          "name": "what_reviewers_complain_about",
-          "default": null
-        },
-        {
-          "name": "what_reviewers_love",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d21d5a7442cd.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 28,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_c8b5d4709d75",
+      "slug": "universal-context-document-ucd-generator",
+      "title": "Universal Context Document (UCD) Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8b5d4709d75.json"
+    },
     {
       "id": "opl_6a6f6794942e",
       "slug": "universal-job-fit-evaluation-prompt",
@@ -1287,24 +1296,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f9e2f36a3c9.json"
-    },
-    {
-      "id": "opl_dfb8b9f04e6a",
-      "slug": "yapper-twitter-strategist-2026",
-      "title": "Yapper Twitter Strategist 2026",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "project_data",
-          "default": null
-        },
-        {
-          "name": "website_link",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfb8b9f04e6a.json"
     }
   ]
 }

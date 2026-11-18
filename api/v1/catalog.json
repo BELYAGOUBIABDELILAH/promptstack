@@ -3196,6 +3196,15 @@
     "snippet": "# AI KICKSTART PROMPT (V1.7.1) # Author: Scott Malin, CISSP # Goal: One prompt to turn any novice into a productive AI user. ======================================================"
   },
   {
+    "id": "opl_47593dd96961",
+    "title": "ai model card",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "ai-model-card",
+    "variables": [],
+    "snippet": "Ask me for AI model name(s) in next message * You are an AI model research expert. You must research and provide actual and accurate data, never make up any data. * research and li"
+  },
+  {
     "id": "opl_6cdf52e98f41",
     "title": "AI Pairing Partner for Exploring Approaches",
     "category": "Coding & Development",

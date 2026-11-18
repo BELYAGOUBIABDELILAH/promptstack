@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 14,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_42576a9d858c",
+      "slug": "hypnotherapist-guidance-for-stress-management",
+      "title": "Hypnotherapist Guidance for Stress Management",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42576a9d858c.json"
+    },
     {
       "id": "opl_a05239e8aacb",
       "slug": "hypothesis-tester",
@@ -1108,15 +1117,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a52a11b93568.json"
-    },
-    {
-      "id": "opl_58a5ad5f0346",
-      "slug": "is-there-a-tech-for-that",
-      "title": "Is There A Tech For That?",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58a5ad5f0346.json"
     }
   ]
 }

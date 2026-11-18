@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 5,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_88100e468725",
+      "slug": "brainstorm-seo-keywords",
+      "title": "Brainstorm SEO Keywords",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88100e468725.json"
+    },
     {
       "id": "opl_474506df3b3d",
       "slug": "brainstorming-assistant",
@@ -1070,15 +1079,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa933cb6ca52.json"
-    },
-    {
-      "id": "opl_84732564e35c",
-      "slug": "chimera-ai-powered-prompt-optimization-system",
-      "title": "Chimera AI-Powered Prompt Optimization System",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84732564e35c.json"
     }
   ]
 }

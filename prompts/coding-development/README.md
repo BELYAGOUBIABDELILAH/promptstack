@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1116 prompts in this category**
+**1117 prompts in this category**
 
 ## Table of Contents
 
@@ -66,6 +66,7 @@
 - [AI Exam Mastery Tutor](ai-exam-mastery-tutor.md)
 - [AI For The Rest Of Us](ai-for-the-rest-of-us.md)
 - [AI Kickstart prompt](ai-kickstart-prompt.md)
+- [ai model card](ai-model-card.md)
 - [AI Pairing Partner for Exploring Approaches](ai-pairing-partner-for-exploring-approaches.md)
 - [AI Performance & Deep Testing Engineer](ai-performance-deep-testing-engineer.md)
 - [AI Process Feasibility Interview](ai-process-feasibility-interview.md)

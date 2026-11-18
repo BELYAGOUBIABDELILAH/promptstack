@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T07:20:54.989Z",
+  "last_updated": "2026-11-18T08:20:46.321Z",
   "page": 15,
   "per_page": 100,
-  "total": 2819,
+  "total": 2820,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_58a5ad5f0346",
+      "slug": "is-there-a-tech-for-that",
+      "title": "Is There A Tech For That?",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58a5ad5f0346.json"
+    },
     {
       "id": "opl_47edd8705298",
       "slug": "is-this-a-sales-pitch",
@@ -1014,15 +1023,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5434cfb89cd1.json"
-    },
-    {
-      "id": "opl_af17ad31ce69",
-      "slug": "lego-movie-style-prompt",
-      "title": "Lego Movie Style Prompt",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af17ad31ce69.json"
     }
   ]
 }
