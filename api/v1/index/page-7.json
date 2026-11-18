@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 7,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_d6f162fcacc9",
+      "slug": "company-culture-decoder",
+      "title": "Company Culture Decoder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6f162fcacc9.json"
+    },
     {
       "id": "opl_07faf9e9fe7d",
       "slug": "company-introduction",
@@ -1333,15 +1342,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6f7aea501545.json"
-    },
-    {
-      "id": "opl_1f90fb4790dd",
-      "slug": "create-issue-from-support-ticket",
-      "title": "Create Issue from Support Ticket",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1f90fb4790dd.json"
     }
   ]
 }

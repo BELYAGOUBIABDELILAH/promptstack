@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 8,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_1f90fb4790dd",
+      "slug": "create-issue-from-support-ticket",
+      "title": "Create Issue from Support Ticket",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1f90fb4790dd.json"
+    },
     {
       "id": "opl_71436b993bd3",
       "slug": "create-marketing-videos-for-magnifiscentss",
@@ -1244,15 +1253,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca3aa22b1d96.json"
-    },
-    {
-      "id": "opl_ad817ec4593d",
-      "slug": "day-plan-generator-from-tasks",
-      "title": "Day Plan Generator (From Tasks)",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad817ec4593d.json"
     }
   ]
 }

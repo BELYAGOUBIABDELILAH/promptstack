@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 12,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_fb6d490bb511",
+      "slug": "football",
+      "title": "Football",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb6d490bb511.json"
+    },
     {
       "id": "opl_2179dc32c901",
       "slug": "football-commentator",
@@ -1015,15 +1024,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d6ad39e2ba3.json"
-    },
-    {
-      "id": "opl_ba22669b005e",
-      "slug": "gopro-action",
-      "title": "GoPro Action",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba22669b005e.json"
     }
   ]
 }

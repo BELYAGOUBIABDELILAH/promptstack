@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 23,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_58f8ea307169",
+      "slug": "saas-landing-page-builder",
+      "title": "SaaS Landing Page Builder",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "targetAudience",
+          "default": "business professionals"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58f8ea307169.json"
+    },
     {
       "id": "opl_54ef6a6a84bf",
       "slug": "saas-payment-plan-options",
@@ -1222,24 +1236,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_992db106490f.json"
-    },
-    {
-      "id": "opl_02acb4c606cb",
-      "slug": "shell-script-agent-role",
-      "title": "Shell Script Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "var",
-          "default": null
-        },
-        {
-          "name": "var//pattern/replacement",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02acb4c606cb.json"
     }
   ]
 }

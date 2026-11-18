@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 24,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_02acb4c606cb",
+      "slug": "shell-script-agent-role",
+      "title": "Shell Script Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "var",
+          "default": null
+        },
+        {
+          "name": "var//pattern/replacement",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02acb4c606cb.json"
+    },
     {
       "id": "opl_84dcfb2ca90f",
       "slug": "shields-io-badge-generator",
@@ -1048,15 +1066,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e332f5ca27db.json"
-    },
-    {
-      "id": "opl_83e0670869b5",
-      "slug": "start-page-guru",
-      "title": "Start Page Guru",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83e0670869b5.json"
     }
   ]
 }

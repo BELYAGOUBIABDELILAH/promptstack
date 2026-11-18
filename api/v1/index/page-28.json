@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 28,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_6b6489ad07dd",
+      "slug": "unified-research-and-source-analysis-prompt",
+      "title": "Unified Research and Source Analysis Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b6489ad07dd.json"
+    },
     {
       "id": "opl_1e6d6d6a9784",
       "slug": "unit-tester-assistant",
@@ -1265,28 +1274,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5590be0c530d.json"
-    },
-    {
-      "id": "opl_8b281dd5fa0d",
-      "slug": "xiaomi-company-self-service-management-system-frontend-devel",
-      "title": "Xiaomi Company Self-Service Management System Frontend Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "apiEndpoint",
-          "default": null
-        },
-        {
-          "name": "designFramework",
-          "default": "Bootstrap"
-        },
-        {
-          "name": "themeColor",
-          "default": "#FF6700"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8b281dd5fa0d.json"
     }
   ]
 }

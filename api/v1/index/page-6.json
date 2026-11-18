@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 6,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -1074,6 +1074,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_22acce163ab0.json"
     },
     {
+      "id": "opl_0dfae5fd75c3",
+      "slug": "commercial-kitchen-pre-fabrication",
+      "title": "Commercial Kitchen Pre Fabrication",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0dfae5fd75c3.json"
+    },
+    {
       "id": "opl_c028a72bc0e1",
       "slug": "commit-message-generator",
       "title": "Commit Message Generator",
@@ -1135,15 +1144,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68f100d207e3.json"
-    },
-    {
-      "id": "opl_d6f162fcacc9",
-      "slug": "company-culture-decoder",
-      "title": "Company Culture Decoder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6f162fcacc9.json"
     }
   ]
 }

@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C821-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C822-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -53,7 +53,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Marketing & Social](prompts/marketing-social) | 218 | Campaign copy, social posts, and audience research |
 | [Data & Analytics](prompts/data-analytics) | 180 | Data extraction, SQL queries, and metrics evaluation |
 | [AI & Automation](prompts/ai-automation) | 132 | Agent prompts, workflow scripts, and system setup |
-| [General](prompts/general) | 93 | Everyday productivity, brainstorming, and utilities |
+| [General](prompts/general) | 94 | Everyday productivity, brainstorming, and utilities |
 | [Education & Learning](prompts/education-learning) | 81 | Explanations, study guides, and concept breakdowns |
 | [Security](prompts/security) | 72 | Code auditing, threat modeling, and security policy |
 | [Business & Career](prompts/business-career) | 66 | Resumes, cover letters, and workplace communication |

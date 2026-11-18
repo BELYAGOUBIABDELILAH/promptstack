@@ -1,8 +1,8 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-18T10:20:48.657Z",
-  "total": 93,
+  "last_updated": "2026-11-18T11:20:43.746Z",
+  "total": 94,
   "prompts": [
     {
       "id": "opl_b382de4bccd8",
@@ -227,6 +227,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34b81e7e14fb.json"
+    },
+    {
+      "id": "opl_0dfae5fd75c3",
+      "slug": "commercial-kitchen-pre-fabrication",
+      "title": "Commercial Kitchen Pre Fabrication",
+      "prompt": "create a pre-fab kitchen model along with the complete equipments related to bbq setup within the dimension 10'x15'",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_78eac58159ba"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0dfae5fd75c3.json"
     },
     {
       "id": "opl_e0badc961ef1",

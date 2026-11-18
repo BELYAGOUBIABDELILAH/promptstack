@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**93 prompts in this category**
+**94 prompts in this category**
 
 ## Table of Contents
 
@@ -20,6 +20,7 @@
 - [Classical Music Composer](classical-music-composer.md)
 - [Comment Text Isolator](comment-text-isolator.md)
 - [Comments Summariser](comments-summariser.md)
+- [Commercial Kitchen Pre Fabrication](commercial-kitchen-pre-fabrication.md)
 - [comparison of social groups](comparison-of-social-groups.md)
 - [Composer](composer.md)
 - [Context Window Diagnostic Utility](context-window-diagnostic-utility.md)

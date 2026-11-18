@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 20,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_fb4ef32d106f",
+      "slug": "pharmacy-research-assistant",
+      "title": "Pharmacy Research Assistant",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "outputFormat",
+          "default": "report"
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb4ef32d106f.json"
+    },
     {
       "id": "opl_bd1b64e2c759",
       "slug": "philosopher",
@@ -1218,15 +1236,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9f7e773cea8.json"
-    },
-    {
-      "id": "opl_65b4aea74312",
-      "slug": "professional-photo-restoration-expert",
-      "title": "Professional photo restoration expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65b4aea74312.json"
     }
   ]
 }

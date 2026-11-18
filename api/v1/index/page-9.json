@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 9,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_ad817ec4593d",
+      "slug": "day-plan-generator-from-tasks",
+      "title": "Day Plan Generator (From Tasks)",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad817ec4593d.json"
+    },
     {
       "id": "opl_232cc7e663fb",
       "slug": "dd",
@@ -1174,15 +1183,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0eb572bd599b.json"
-    },
-    {
-      "id": "opl_211131b096e2",
-      "slug": "doctor",
-      "title": "Doctor",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_211131b096e2.json"
     }
   ]
 }

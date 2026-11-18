@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 13,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_ba22669b005e",
+      "slug": "gopro-action",
+      "title": "GoPro Action",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba22669b005e.json"
+    },
     {
       "id": "opl_475ff12b0806",
       "slug": "g-rsel",
@@ -1022,24 +1031,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ced657aa3d51.json"
-    },
-    {
-      "id": "opl_9be9fff297fd",
-      "slug": "hyperrealistic-food-video-creator",
-      "title": "Hyperrealistic Food Video Creator",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "platform",
-          "default": "menus"
-        },
-        {
-          "name": "usage",
-          "default": "advertisements"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9be9fff297fd.json"
     }
   ]
 }

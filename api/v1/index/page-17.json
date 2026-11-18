@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 17,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_eea7e06f46c7",
+      "slug": "marcos-shortcuts",
+      "title": "Marcos & Shortcuts",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eea7e06f46c7.json"
+    },
     {
       "id": "opl_d92fdd4b2261",
       "slug": "markdown-notes",
@@ -1107,15 +1116,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_78499a4e433a.json"
-    },
-    {
-      "id": "opl_5aebd22dee7e",
-      "slug": "motivational-coach",
-      "title": "Motivational Coach",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5aebd22dee7e.json"
     }
   ]
 }

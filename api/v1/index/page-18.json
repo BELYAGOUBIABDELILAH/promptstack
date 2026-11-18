@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 18,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_5aebd22dee7e",
+      "slug": "motivational-coach",
+      "title": "Motivational Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5aebd22dee7e.json"
+    },
     {
       "id": "opl_3c34aeca983a",
       "slug": "motivational-speaker",
@@ -1073,20 +1082,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae260dd8932.json"
-    },
-    {
-      "id": "opl_fa2fc0723ba8",
-      "slug": "one-click-design-mockup-creator",
-      "title": "One-Click Design Mockup Creator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "category",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa2fc0723ba8.json"
     }
   ]
 }

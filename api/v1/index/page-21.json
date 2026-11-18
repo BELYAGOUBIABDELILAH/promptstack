@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T10:20:48.657Z",
+  "last_updated": "2026-11-18T11:20:43.746Z",
   "page": 21,
   "per_page": 100,
-  "total": 2822,
+  "total": 2823,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_65b4aea74312",
+      "slug": "professional-photo-restoration-expert",
+      "title": "Professional photo restoration expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65b4aea74312.json"
+    },
     {
       "id": "opl_439b3cbb4ff7",
       "slug": "professional-rates-researcher",
@@ -1090,15 +1099,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1fbed991d2fd.json"
-    },
-    {
-      "id": "opl_af885a5aa281",
-      "slug": "rate-this-toilet",
-      "title": "Rate This Toilet",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af885a5aa281.json"
     }
   ]
 }
