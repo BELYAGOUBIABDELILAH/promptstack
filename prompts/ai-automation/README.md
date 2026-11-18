@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**132 prompts in this category**
+**133 prompts in this category**
 
 ## Table of Contents
 
@@ -77,6 +77,7 @@
 - [Idea Validation and Scoring Market Research Prompt](idea-validation-and-scoring-market-research-prompt.md)
 - [Information Gathering Prompt](information-gathering-prompt.md)
 - [Japan](japan.md)
+- [jessica](jessica.md)
 - [Job Hunt Tooling Assistant](job-hunt-tooling-assistant.md)
 - [Job search agent](job-search-agent.md)
 - [KJV Harmony Companion](kjv-harmony-companion.md)

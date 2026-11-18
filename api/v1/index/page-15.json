@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T19:20:46.257Z",
+  "last_updated": "2026-11-18T20:20:47.101Z",
   "page": 15,
   "per_page": 100,
-  "total": 2831,
+  "total": 2832,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
@@ -389,6 +389,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2f2d0b6d422.json"
+    },
+    {
+      "id": "opl_5d2bb2206f38",
+      "slug": "jessica",
+      "title": "jessica",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d2bb2206f38.json"
     },
     {
       "id": "opl_ca07130344a7",
@@ -1150,15 +1159,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebe06e5f4728.json"
-    },
-    {
-      "id": "opl_d645484c1f81",
-      "slug": "learning-style-guide",
-      "title": "Learning Style Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d645484c1f81.json"
     }
   ]
 }

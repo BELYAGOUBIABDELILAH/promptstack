@@ -1320,6 +1320,16 @@
     "path": "prompts/ai-automation/b2b-market-research.md"
   },
   {
+    "act": "jessica",
+    "category": "AI & Automation",
+    "prompt": "Full-body shot of a muscular, athletic man with intricate, detailed tattoo sleeves covering both arms, wearing a black backward baseball cap and crisp white boxer briefs. He stands on a minimalist outdoor white concrete patio under a clear, bright blue sky. Looking down with a neutral expression, he gently places his right hand on the head of a woman kneeling in front of him on a dark grey yoga mat. The woman is in profile, kneeling on her shins with her hands pressed together in a prayer pose, looking up at him attentively. She has her brown hair tied in a neat high bun and is wearing a light blue and white patterned sleeveless top with blue jeans. Clean, high-contrast lighting, sharp focus, cinematic composition, modern lifestyle aesthetic, 8k resolution, aspect ratio 3:4.",
+    "source": "ryjobyn@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "jessica",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/jessica.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",

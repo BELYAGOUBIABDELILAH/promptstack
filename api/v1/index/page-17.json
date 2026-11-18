@@ -1,12 +1,58 @@
 {
-  "last_updated": "2026-11-18T19:20:46.257Z",
+  "last_updated": "2026-11-18T20:20:47.101Z",
   "page": 17,
   "per_page": 100,
-  "total": 2831,
+  "total": 2832,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_91b2a4195058",
+      "slug": "man-in-a-city",
+      "title": "Man in a City",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "activity",
+          "default": "walking"
+        },
+        {
+          "name": "attire",
+          "default": "casual"
+        },
+        {
+          "name": "city",
+          "default": "Istanbul"
+        },
+        {
+          "name": "location",
+          "default": "Galata Tower"
+        },
+        {
+          "name": "location2",
+          "default": "Blue Mosque"
+        },
+        {
+          "name": "location3",
+          "default": "Bosphorus"
+        },
+        {
+          "name": "timeOfDay",
+          "default": "sunrise"
+        },
+        {
+          "name": "timeOfDay2",
+          "default": "noon"
+        },
+        {
+          "name": "timeOfDay3",
+          "default": "sunset"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91b2a4195058.json"
+    },
     {
       "id": "opl_eeb5364a6a12",
       "slug": "manhattan-mirage",
@@ -1120,15 +1166,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4655c950679e.json"
-    },
-    {
-      "id": "opl_f650a97fcba5",
-      "slug": "monotonous-newsletter-maker",
-      "title": "Monotonous Newsletter Maker",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f650a97fcba5.json"
     }
   ]
 }

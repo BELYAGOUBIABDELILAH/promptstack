@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T19:20:46.257Z",
+  "last_updated": "2026-11-18T20:20:47.101Z",
   "page": 27,
   "per_page": 100,
-  "total": 2831,
+  "total": 2832,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_68fe08e3cb9d",
+      "slug": "the-glass-doppelg-nger",
+      "title": "The Glass Doppelgänger",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68fe08e3cb9d.json"
+    },
     {
       "id": "opl_bde3892eb67d",
       "slug": "the-gravedigger-s-vigil",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e5b9d98091.json"
-    },
-    {
-      "id": "opl_c81741911356",
-      "slug": "understand-async-operations-and-concurrency",
-      "title": "Understand Async Operations and Concurrency",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c81741911356.json"
     }
   ]
 }

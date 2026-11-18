@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T19:20:46.257Z",
+  "last_updated": "2026-11-18T20:20:47.101Z",
   "page": 18,
   "per_page": 100,
-  "total": 2831,
+  "total": 2832,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_f650a97fcba5",
+      "slug": "monotonous-newsletter-maker",
+      "title": "Monotonous Newsletter Maker",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f650a97fcba5.json"
+    },
     {
       "id": "opl_554b82a69074",
       "slug": "monthly-updates",
@@ -1073,15 +1082,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c54153e4699.json"
-    },
-    {
-      "id": "opl_a03d001fd94c",
-      "slug": "objection-handling",
-      "title": "Objection Handling",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a03d001fd94c.json"
     }
   ]
 }

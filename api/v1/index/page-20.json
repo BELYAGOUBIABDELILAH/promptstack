@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-18T19:20:46.257Z",
+  "last_updated": "2026-11-18T20:20:47.101Z",
   "page": 20,
   "per_page": 100,
-  "total": 2831,
+  "total": 2832,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_2681ce74b87d",
+      "slug": "personalized-skin-whitening-plan",
+      "title": "Personalized Skin Whitening Plan",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [
+        {
+          "name": "concerns",
+          "default": null
+        },
+        {
+          "name": "productPreference",
+          "default": "None"
+        },
+        {
+          "name": "skinType",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2681ce74b87d.json"
+    },
     {
       "id": "opl_ec7b895ad10a",
       "slug": "personalized-technical-intelligence-briefing-for-edge-ai-in",
@@ -1279,28 +1301,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e9dcbbaf183.json"
-    },
-    {
-      "id": "opl_ccf3be71d6f7",
-      "slug": "professional-github-dashboard-for-portfolio-enhancement",
-      "title": "Professional GitHub Dashboard for Portfolio Enhancement",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "githubUsername",
-          "default": null
-        },
-        {
-          "name": "technology",
-          "default": "React"
-        },
-        {
-          "name": "theme",
-          "default": "light"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ccf3be71d6f7.json"
     }
   ]
 }

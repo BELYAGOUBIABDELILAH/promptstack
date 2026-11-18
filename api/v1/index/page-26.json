@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T19:20:46.257Z",
+  "last_updated": "2026-11-18T20:20:47.101Z",
   "page": 26,
   "per_page": 100,
-  "total": 2831,
+  "total": 2832,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_b1912b040020",
+      "slug": "synonym-finder",
+      "title": "Synonym Finder",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1912b040020.json"
+    },
     {
       "id": "opl_3f82dc3f18e6",
       "slug": "synthesis-architect-pro",
@@ -989,15 +998,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_203bba3cd7af.json"
-    },
-    {
-      "id": "opl_68fe08e3cb9d",
-      "slug": "the-glass-doppelg-nger",
-      "title": "The Glass Doppelgänger",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68fe08e3cb9d.json"
     }
   ]
 }

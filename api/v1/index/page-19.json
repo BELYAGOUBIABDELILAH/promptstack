@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T19:20:46.257Z",
+  "last_updated": "2026-11-18T20:20:47.101Z",
   "page": 19,
   "per_page": 100,
-  "total": 2831,
+  "total": 2832,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_a03d001fd94c",
+      "slug": "objection-handling",
+      "title": "Objection Handling",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a03d001fd94c.json"
+    },
     {
       "id": "opl_29247cf1949f",
       "slug": "ocean-s-eleven-movie-poster-illustration",
@@ -1018,28 +1027,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0157fe07616d.json"
-    },
-    {
-      "id": "opl_2681ce74b87d",
-      "slug": "personalized-skin-whitening-plan",
-      "title": "Personalized Skin Whitening Plan",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [
-        {
-          "name": "concerns",
-          "default": null
-        },
-        {
-          "name": "productPreference",
-          "default": "None"
-        },
-        {
-          "name": "skinType",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2681ce74b87d.json"
     }
   ]
 }

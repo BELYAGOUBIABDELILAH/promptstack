@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T19:20:46.257Z",
+  "last_updated": "2026-11-18T20:20:47.101Z",
   "page": 28,
   "per_page": 100,
-  "total": 2831,
+  "total": 2832,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_c81741911356",
+      "slug": "understand-async-operations-and-concurrency",
+      "title": "Understand Async Operations and Concurrency",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c81741911356.json"
+    },
     {
       "id": "opl_29b2f21e5018",
       "slug": "understand-class-hierarchy-and-inheritance",
@@ -1221,20 +1230,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef9360abf756.json"
-    },
-    {
-      "id": "opl_72c6c65d1367",
-      "slug": "world-of-darkness-b-w-style",
-      "title": "World of Darkness B&W style",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "subject",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_72c6c65d1367.json"
     }
   ]
 }
