@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T12:20:47.702Z",
+  "last_updated": "2026-11-18T13:20:43.445Z",
   "page": 11,
   "per_page": 100,
-  "total": 2824,
+  "total": 2825,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_7e242ed296c6",
+      "slug": "ensure-compliance-requirements",
+      "title": "Ensure Compliance Requirements",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e242ed296c6.json"
+    },
     {
       "id": "opl_26cdb79c5e30",
       "slug": "enterprise-microservices-architecture-design",
@@ -1135,15 +1144,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfb264f13b73.json"
-    },
-    {
-      "id": "opl_57c6848a686e",
-      "slug": "food-scout",
-      "title": "Food Scout",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57c6848a686e.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T12:20:47.702Z",
+  "last_updated": "2026-11-18T13:20:43.445Z",
   "page": 26,
   "per_page": 100,
-  "total": 2824,
+  "total": 2825,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_9577f7bc7046",
+      "slug": "system-prompt-auto-calibrater",
+      "title": "System Prompt Auto-Calibrater",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9577f7bc7046.json"
+    },
     {
       "id": "opl_1c5d259e88b9",
       "slug": "system-prompt-auto-enhancer",
@@ -989,15 +998,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6275fc2ba77c.json"
-    },
-    {
-      "id": "opl_7ecf558fa4b7",
-      "slug": "the-missing-woman",
-      "title": "The Missing Woman",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ecf558fa4b7.json"
     }
   ]
 }

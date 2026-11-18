@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T12:20:47.702Z",
+  "last_updated": "2026-11-18T13:20:43.445Z",
   "page": 28,
   "per_page": 100,
-  "total": 2824,
+  "total": 2825,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_4f76626e440e",
+      "slug": "understanding-and-utilizing-llms",
+      "title": "Understanding and Utilizing LLMs",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "task",
+          "default": "content creation"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f76626e440e.json"
+    },
     {
       "id": "opl_1a1e5a26206d",
       "slug": "underwater-veo-3-video",
@@ -1256,15 +1274,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64f849870cad.json"
-    },
-    {
-      "id": "opl_ca8389ae5f4f",
-      "slug": "writing-style-replication",
-      "title": "Writing Style Replication",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca8389ae5f4f.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T12:20:47.702Z",
+  "last_updated": "2026-11-18T13:20:43.445Z",
   "page": 16,
   "per_page": 100,
-  "total": 2824,
+  "total": 2825,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_7be5d32a5457",
+      "slug": "legal-to-plain-english",
+      "title": "Legal To Plain English",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7be5d32a5457.json"
+    },
     {
       "id": "opl_17f50738b28f",
       "slug": "legebdary-exploded-view-prompt-for-nanobanana",
@@ -1116,15 +1125,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90bf160fbec3.json"
-    },
-    {
-      "id": "opl_ede33433eeff",
-      "slug": "map-component-dependencies",
-      "title": "Map Component Dependencies",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ede33433eeff.json"
     }
   ]
 }

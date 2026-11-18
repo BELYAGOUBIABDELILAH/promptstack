@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C823-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C824-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -58,7 +58,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Security](prompts/security) | 72 | Code auditing, threat modeling, and security policy |
 | [Business & Career](prompts/business-career) | 66 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 60 | Technical specs, README files, and API docs |
-| [Research & Analysis](prompts/research-analysis) | 32 | Literature review, synthesis, and comparative analysis |
+| [Research & Analysis](prompts/research-analysis) | 33 | Literature review, synthesis, and comparative analysis |
 | [Health & Wellness](prompts/health-wellness) | 29 | Fitness planning, nutrition ideas, and habit tracking |
 | [Product & Strategy](prompts/product-strategy) | 25 | Feature specs, roadmaps, and competitive analysis |
 | [Games & Fun](prompts/games-fun) | 24 | Interactive games, roleplay, and trivia |

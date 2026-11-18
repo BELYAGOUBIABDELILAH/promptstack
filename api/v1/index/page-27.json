@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T12:20:47.702Z",
+  "last_updated": "2026-11-18T13:20:43.445Z",
   "page": 27,
   "per_page": 100,
-  "total": 2824,
+  "total": 2825,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_7ecf558fa4b7",
+      "slug": "the-missing-woman",
+      "title": "The Missing Woman",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ecf558fa4b7.json"
+    },
     {
       "id": "opl_bb45908fd6ee",
       "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
@@ -1043,24 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8769d160ffc0.json"
-    },
-    {
-      "id": "opl_4f76626e440e",
-      "slug": "understanding-and-utilizing-llms",
-      "title": "Understanding and Utilizing LLMs",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "task",
-          "default": "content creation"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f76626e440e.json"
     }
   ]
 }

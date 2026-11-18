@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T12:20:47.702Z",
+  "last_updated": "2026-11-18T13:20:43.445Z",
   "page": 10,
   "per_page": 100,
-  "total": 2824,
+  "total": 2825,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
@@ -15,6 +15,15 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_211131b096e2.json"
+    },
+    {
+      "id": "opl_ed049124a00e",
+      "slug": "doctor-guiding-students-up-a-staircase-of-books-to-success",
+      "title": "Doctor Guiding Students Up a Staircase of Books to Success",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed049124a00e.json"
     },
     {
       "id": "opl_173b2ec7590f",
@@ -1247,15 +1256,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_71d712f81784.json"
-    },
-    {
-      "id": "opl_7e242ed296c6",
-      "slug": "ensure-compliance-requirements",
-      "title": "Ensure Compliance Requirements",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e242ed296c6.json"
     }
   ]
 }

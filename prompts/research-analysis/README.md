@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**32 prompts in this category**
+**33 prompts in this category**
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@
 - [Airtable Assistant](airtable-assistant.md)
 - [Competitive Intelligence Analyst](competitive-intelligence-analyst.md)
 - [Customer Feedback Analysis](customer-feedback-analysis.md)
+- [Doctor Guiding Students Up a Staircase of Books to Success](doctor-guiding-students-up-a-staircase-of-books-to-success.md)
 - [Does It Exist?](does-it-exist.md)
 - [Expert Discrete Mathematics Exam Answering](expert-discrete-mathematics-exam-answering.md)
 - [Hiring Manager Interview Prep](hiring-manager-interview-prep.md)

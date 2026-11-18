@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T12:20:47.702Z",
+  "last_updated": "2026-11-18T13:20:43.445Z",
   "page": 19,
   "per_page": 100,
-  "total": 2824,
+  "total": 2825,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_6ae260dd8932",
+      "slug": "omniroute-bulk-input-key-converter-cf",
+      "title": "Omniroute bulk input key converter (cf)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae260dd8932.json"
+    },
     {
       "id": "opl_fa2fc0723ba8",
       "slug": "one-click-design-mockup-creator",
@@ -1118,15 +1127,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bd392616da4.json"
-    },
-    {
-      "id": "opl_1a7ced0fad63",
-      "slug": "phantom-strike",
-      "title": "Phantom Strike",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a7ced0fad63.json"
     }
   ]
 }

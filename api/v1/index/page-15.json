@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T12:20:47.702Z",
+  "last_updated": "2026-11-18T13:20:43.445Z",
   "page": 15,
   "per_page": 100,
-  "total": 2824,
+  "total": 2825,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_d6e351a105f5",
+      "slug": "is-there-a-better-way",
+      "title": "Is There A Better Way?",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6e351a105f5.json"
+    },
     {
       "id": "opl_c359b31250c9",
       "slug": "is-there-a-better-way-tech",
@@ -1014,15 +1023,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1f0daa192ea3.json"
-    },
-    {
-      "id": "opl_7be5d32a5457",
-      "slug": "legal-to-plain-english",
-      "title": "Legal To Plain English",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7be5d32a5457.json"
     }
   ]
 }
