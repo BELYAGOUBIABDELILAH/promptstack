@@ -11148,5 +11148,15 @@
     "slug": "unified-research-and-source-analysis-prompt",
     "folder": "coding-development",
     "path": "prompts/coding-development/unified-research-and-source-analysis-prompt.md"
+  },
+  {
+    "act": "Omniroute bulk input key converter (cf)",
+    "category": "Coding & Development",
+    "prompt": "Ask me for input data in next chat message.\nI want you to format lines in this pattern\n\n* derekstates70 ''1111111'' key ''2222222''\n* jennyho666 ''3333333'' key ''4444444''\n\ninto this format\n\nderekstates70|1111111|2222222\njennyho666|3333333|4444444\n\noutput the result in a code box",
+    "source": "sxlderek@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "omniroute-bulk-input-key-converter-cf",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/omniroute-bulk-input-key-converter-cf.md"
   }
 ]
