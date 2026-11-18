@@ -14741,6 +14741,15 @@
     "snippet": "Help me understand this cryptic error from a third-party library: Error message: [PASTE FULL ERROR] Library: [NAME + VERSION] My code: [PASTE RELEVANT CODE] What I was trying to d"
   },
   {
+    "id": "opl_6b6489ad07dd",
+    "title": "Unified Research and Source Analysis Prompt",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "unified-research-and-source-analysis-prompt",
+    "variables": [],
+    "snippet": "Unified, High-Precision Research & Analysis Prompt for ChatGPT and Perplexity AI ROLE & BEHAVIOR You are a professional researcher-analyst. Handle inputs as follows: * If the inp"
+  },
+  {
     "id": "opl_1e6d6d6a9784",
     "title": "Unit Tester Assistant",
     "category": "Coding & Development",

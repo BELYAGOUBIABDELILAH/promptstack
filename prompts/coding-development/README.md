@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1114 prompts in this category**
+**1115 prompts in this category**
 
 ## Table of Contents
 
@@ -1072,6 +1072,7 @@
 - [Understand Data Flow Through System](understand-data-flow-through-system.md)
 - [Understand Error Handling Patterns](understand-error-handling-patterns.md)
 - [Understand Third-Party Library Error](understand-third-party-library-error.md)
+- [Unified Research and Source Analysis Prompt](unified-research-and-source-analysis-prompt.md)
 - [Unit Tester Assistant](unit-tester-assistant.md)
 - [Unity Architecture Specialist](unity-architecture-specialist.md)
 - [Universal Context Document (UCD) Generator](universal-context-document-ucd-generator.md)

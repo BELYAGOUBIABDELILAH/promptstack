@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T05:20:46.547Z",
+  "last_updated": "2026-11-18T06:20:48.598Z",
   "page": 29,
   "per_page": 100,
-  "total": 2817,
+  "total": 2818,
   "total_pages": 29,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_929cc45a0122",
+      "slug": "yks-ydt-vocabulary-acquisition-guide",
+      "title": "YKS-YDT Vocabulary Acquisition Guide",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_929cc45a0122.json"
+    },
     {
       "id": "opl_0ad60a317a07",
       "slug": "yogi",
