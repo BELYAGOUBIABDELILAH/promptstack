@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-18T09:20:53.626Z",
-  "total_prompts": 2821,
-  "source_records": 2821,
-  "total_sources": 394,
+  "last_updated": "2026-11-18T10:20:48.657Z",
+  "total_prompts": 2822,
+  "source_records": 2822,
+  "total_sources": 395,
   "total_categories": 19,
   "total_pages": 29,
   "per_page": 100,
@@ -38,7 +38,7 @@
     {
       "folder": "marketing-social",
       "name": "Marketing & Social",
-      "prompt_count": 217,
+      "prompt_count": 218,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/marketing-social.json"
     },
     {

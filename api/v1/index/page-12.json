@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 12,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_2179dc32c901",
+      "slug": "football-commentator",
+      "title": "Football Commentator",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2179dc32c901.json"
+    },
     {
       "id": "opl_c9cf417f799a",
       "slug": "football-player-introduction-poster-template",
@@ -1015,15 +1024,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba22669b005e.json"
-    },
-    {
-      "id": "opl_475ff12b0806",
-      "slug": "g-rsel",
-      "title": "görsel",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_475ff12b0806.json"
     }
   ]
 }

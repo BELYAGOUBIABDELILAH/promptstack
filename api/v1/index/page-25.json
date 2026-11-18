@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 25,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_70716cf98ba2",
+      "slug": "starting-a-flutter-project",
+      "title": "Starting a Flutter Project",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "ide",
+          "default": "Android Studio"
+        },
+        {
+          "name": "operatingSystem",
+          "default": "Windows"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_70716cf98ba2.json"
+    },
     {
       "id": "opl_5bf9c71268a1",
       "slug": "startup-idea-generator",
@@ -1087,15 +1105,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5fb1f78f9f47.json"
-    },
-    {
-      "id": "opl_5b60ad5a52a1",
-      "slug": "system-prompt-creator-q-a-workflow",
-      "title": "System Prompt Creator - Q&A Workflow",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5b60ad5a52a1.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 16,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_5434cfb89cd1",
+      "slug": "lego-minifigure-character-transformation",
+      "title": "LEGO Minifigure Character Transformation",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5434cfb89cd1.json"
+    },
     {
       "id": "opl_af17ad31ce69",
       "slug": "lego-movie-style-prompt",
@@ -1116,15 +1125,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eea7e06f46c7.json"
-    },
-    {
-      "id": "opl_d92fdd4b2261",
-      "slug": "markdown-notes",
-      "title": "Markdown Notes",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d92fdd4b2261.json"
     }
   ]
 }

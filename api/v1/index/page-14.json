@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 14,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_4868396a5b62",
+      "slug": "hypnotherapist",
+      "title": "Hypnotherapist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4868396a5b62.json"
+    },
     {
       "id": "opl_42576a9d858c",
       "slug": "hypnotherapist-guidance-for-stress-management",
@@ -1108,15 +1117,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c359b31250c9.json"
-    },
-    {
-      "id": "opl_a52a11b93568",
-      "slug": "is-there-a-self-hosted-x",
-      "title": "Is There A Self Hosted X?",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a52a11b93568.json"
     }
   ]
 }

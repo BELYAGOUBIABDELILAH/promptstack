@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 18,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_3c34aeca983a",
+      "slug": "motivational-speaker",
+      "title": "Motivational Speaker",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c34aeca983a.json"
+    },
     {
       "id": "opl_dd3ee155f757",
       "slug": "movie-binge-strategist-on-call",
@@ -1078,15 +1087,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa2fc0723ba8.json"
-    },
-    {
-      "id": "opl_353976598f29",
-      "slug": "one-shot-copy-paste-version-with-proper-formatting",
-      "title": "One-Shot Copy-Paste Version with Proper Formatting",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_353976598f29.json"
     }
   ]
 }

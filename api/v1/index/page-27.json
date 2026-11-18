@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 27,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_909fcf10072a",
+      "slug": "the-pragmatic-architect-mastering-tech-with-humor-and-precis",
+      "title": "The Pragmatic Architect: Mastering Tech with Humor and Precision",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_909fcf10072a.json"
+    },
     {
       "id": "opl_890be12694b3",
       "slug": "the-prd-mastermind",
@@ -1052,15 +1061,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b6489ad07dd.json"
-    },
-    {
-      "id": "opl_1e6d6d6a9784",
-      "slug": "unit-tester-assistant",
-      "title": "Unit Tester Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6d6d6a9784.json"
     }
   ]
 }

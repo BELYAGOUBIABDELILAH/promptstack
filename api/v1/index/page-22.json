@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 22,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_d26c5dc0fb8d",
+      "slug": "readability-logic-simulator",
+      "title": "Readability Logic Simulator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d26c5dc0fb8d.json"
+    },
     {
       "id": "opl_e75aed4db22e",
       "slug": "readme-page-generator",
@@ -1110,24 +1119,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58f8ea307169.json"
-    },
-    {
-      "id": "opl_54ef6a6a84bf",
-      "slug": "saas-payment-plan-options",
-      "title": "SaaS Payment Plan Options",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "centerCard",
-          "default": null
-        },
-        {
-          "name": "selectedCardColor",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54ef6a6a84bf.json"
     }
   ]
 }

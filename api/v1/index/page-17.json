@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 17,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_d92fdd4b2261",
+      "slug": "markdown-notes",
+      "title": "Markdown Notes",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d92fdd4b2261.json"
+    },
     {
       "id": "opl_d116fc39f02b",
       "slug": "markdown-table-generator",
@@ -1107,15 +1116,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5aebd22dee7e.json"
-    },
-    {
-      "id": "opl_3c34aeca983a",
-      "slug": "motivational-speaker",
-      "title": "Motivational Speaker",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c34aeca983a.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T09:20:53.626Z",
+  "last_updated": "2026-11-18T10:20:48.657Z",
   "page": 19,
   "per_page": 100,
-  "total": 2821,
+  "total": 2822,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_353976598f29",
+      "slug": "one-shot-copy-paste-version-with-proper-formatting",
+      "title": "One-Shot Copy-Paste Version with Proper Formatting",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_353976598f29.json"
+    },
     {
       "id": "opl_c1242ef14e21",
       "slug": "online-gambling-cautionary-short-film",
@@ -1122,15 +1131,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb4ef32d106f.json"
-    },
-    {
-      "id": "opl_bd1b64e2c759",
-      "slug": "philosopher",
-      "title": "Philosopher",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd1b64e2c759.json"
     }
   ]
 }

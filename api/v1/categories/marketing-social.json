@@ -1,8 +1,8 @@
 {
   "folder": "marketing-social",
   "name": "Marketing & Social",
-  "last_updated": "2026-11-18T09:20:53.626Z",
-  "total": 217,
+  "last_updated": "2026-11-18T10:20:48.657Z",
+  "total": 218,
   "prompts": [
     {
       "id": "opl_40dd44cf090d",
@@ -1619,6 +1619,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3578cfe15db.json"
+    },
+    {
+      "id": "opl_9bf1d8d0ff95",
+      "slug": "explain-a-concept-via-allegorical-story",
+      "title": "explain a Concept via Allegorical Story",
+      "prompt": "I want to understand [topic you want to understand].\nPlease explain it using an allegorical story—that is, present the concept indirectly through a narrative rather than explaining it outright.\nThe story should fully embody the concept, but never explicitly mention the concept by name.\nIdeally, the reader should only begin to realize what the concept is near the end of the story.\nAfter the allegory, include a brief explanation that:\nClearly states the name of the concept.\nExplains how the key elements of the story correspond to the concept.I want to understand [a certain concept].\nPlease explain it using an allegorical story—that is, present the concept indirectly through a narrative rather than explaining it outright.\nThe story should fully embody the concept, but never explicitly mention the concept by name.\nIdeally, the reader should only begin to realize what the concept is near the end of the story.\nAfter the allegory, include a brief explanation that:\n* Clearly states the name of the concept.\n* Explains how the key elements of the story correspond to the concept.",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_ee95815c5b3c"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9bf1d8d0ff95.json"
     },
     {
       "id": "opl_1d22ee34d79f",

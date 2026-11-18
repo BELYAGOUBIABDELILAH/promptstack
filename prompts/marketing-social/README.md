@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**217 prompts in this category**
+**218 prompts in this category**
 
 ## Table of Contents
 
@@ -86,6 +86,7 @@
 - [English Grammar and Style Corrector](english-grammar-and-style-corrector.md)
 - [Enterprise Sponsorship](enterprise-sponsorship.md)
 - [Exclusive Warm Weather Getaway](exclusive-warm-weather-getaway.md)
+- [explain a Concept via Allegorical Story](explain-a-concept-via-allegorical-story.md)
 - [Extract a Writing Outline from Scientific Content](extract-a-writing-outline-from-scientific-content.md)
 - [Feature coding template](feature-coding-template.md)
 - [Finding the company](finding-the-company.md)
