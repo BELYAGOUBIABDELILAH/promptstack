@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 24,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_a57acf5c8bce",
+      "slug": "similar-software-finder",
+      "title": "Similar Software Finder",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a57acf5c8bce.json"
+    },
     {
       "id": "opl_2b311b1343e8",
       "slug": "simple-data-editor",
@@ -1026,15 +1035,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1877c03e08f.json"
-    },
-    {
-      "id": "opl_128b692b759b",
-      "slug": "status-update-email-drafter",
-      "title": "Status Update Email Drafter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_128b692b759b.json"
     }
   ]
 }

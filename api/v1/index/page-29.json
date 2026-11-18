@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 29,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_af5323816738",
+      "slug": "yt-video-geopolitic-analysis",
+      "title": "YT video  geopolitic analysis",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af5323816738.json"
+    },
     {
       "id": "opl_66d7398a272d",
       "slug": "zero-to-one-solo-founder-launch-system",

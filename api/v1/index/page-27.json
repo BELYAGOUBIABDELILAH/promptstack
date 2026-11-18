@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 27,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_eb7c70456c9d",
+      "slug": "the-witcher-double-exposure-effect",
+      "title": "The Witcher - Double Exposure Effect",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb7c70456c9d.json"
+    },
     {
       "id": "opl_34ccaf201035",
       "slug": "theme-based-art-style-fusion-meta-prompt",
@@ -1109,32 +1118,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40841affb943.json"
-    },
-    {
-      "id": "opl_511c40c3aae2",
-      "slug": "update-sync-prompt",
-      "title": "Update/Sync Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "date",
-          "default": null
-        },
-        {
-          "name": "paste_or_reference_file",
-          "default": null
-        },
-        {
-          "name": "section_name",
-          "default": null
-        },
-        {
-          "name": "upload_files_or_provide_path",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_511c40c3aae2.json"
     }
   ]
 }

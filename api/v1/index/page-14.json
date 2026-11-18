@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 14,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
@@ -132,6 +132,15 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e1b5fc41705b.json"
+    },
+    {
+      "id": "opl_0f6f09184dbf",
+      "slug": "identity-locked-image-transformation-prompt",
+      "title": "Identity-Locked Image Transformation Prompt",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f6f09184dbf.json"
     },
     {
       "id": "opl_f070f85e3987",
@@ -1108,15 +1117,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd48dbd70442.json"
-    },
-    {
-      "id": "opl_52f8739281cc",
-      "slug": "iso-standard-finder",
-      "title": "ISO Standard Finder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52f8739281cc.json"
     }
   ]
 }

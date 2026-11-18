@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 16,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_660fb4cee5f1",
+      "slug": "lifelike-face-mask",
+      "title": "Lifelike Face Mask",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_660fb4cee5f1.json"
+    },
     {
       "id": "opl_6e1bef1b1251",
       "slug": "lifestyle-product-images",
@@ -1138,28 +1147,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6db64574ad34.json"
-    },
-    {
-      "id": "opl_93f7d1dac9e1",
-      "slug": "master-pitch-deck-creation",
-      "title": "Master Pitch Deck Creation",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "businessName",
-          "default": null
-        },
-        {
-          "name": "industry",
-          "default": null
-        },
-        {
-          "name": "targetAudience",
-          "default": "Investors"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93f7d1dac9e1.json"
     }
   ]
 }

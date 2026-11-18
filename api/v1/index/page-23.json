@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 23,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_d0fe31b8ce3b",
+      "slug": "salesperson",
+      "title": "Salesperson",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0fe31b8ce3b.json"
+    },
     {
       "id": "opl_ad2cdcfefc62",
       "slug": "sap-abap-carbon-footprint-module-graduation-project-document",
@@ -1248,15 +1257,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea0f65343305.json"
-    },
-    {
-      "id": "opl_a57acf5c8bce",
-      "slug": "similar-software-finder",
-      "title": "Similar Software Finder",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a57acf5c8bce.json"
     }
   ]
 }

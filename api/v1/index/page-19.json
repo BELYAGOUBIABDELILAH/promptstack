@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 19,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_6fd6d31a1f5e",
+      "slug": "open-source-contributor-guidelines",
+      "title": "Open Source Contributor Guidelines",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fd6d31a1f5e.json"
+    },
     {
       "id": "opl_a88473759247",
       "slug": "open-source-llm-guide",
@@ -1122,15 +1131,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f986350c4ad0.json"
-    },
-    {
-      "id": "opl_e5372802c8e2",
-      "slug": "photorealistic-cozy-home-scene-with-natural-lighting",
-      "title": "Photorealistic Cozy Home Scene with Natural Lighting",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5372802c8e2.json"
     }
   ]
 }

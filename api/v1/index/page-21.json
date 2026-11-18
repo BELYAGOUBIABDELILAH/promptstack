@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 21,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_badf0fb03bad",
+      "slug": "project-evaluation-for-production-decision",
+      "title": "Project Evaluation for Production Decision",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "evaluationDate",
+          "default": null
+        },
+        {
+          "name": "projectName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_badf0fb03bad.json"
+    },
     {
       "id": "opl_5c358c0870c7",
       "slug": "project-management-app-finder",
@@ -1078,20 +1096,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0afedbbc65b1.json"
-    },
-    {
-      "id": "opl_21721b391d32",
-      "slug": "realistic-food-image-generator",
-      "title": "Realistic Food Image Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "FOOD_NAME",
-          "default": "Fried chicken tenders with french fries"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21721b391d32.json"
     }
   ]
 }

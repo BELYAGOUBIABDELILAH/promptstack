@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**216 prompts in this category**
+**217 prompts in this category**
 
 ## Table of Contents
 
@@ -109,6 +109,7 @@
 - [High Conversion Cold Email](high-conversion-cold-email.md)
 - [Hyperrealistic Food Photo Creator](hyperrealistic-food-photo-creator.md)
 - [Hyperrealistic Food Video Creator](hyperrealistic-food-video-creator.md)
+- [Identity-Locked Image Transformation Prompt](identity-locked-image-transformation-prompt.md)
 - [IELTS preparation plan for STEM students](ielts-preparation-plan-for-stem-students.md)
 - [Illustrator Style Describer Weavy](illustrator-style-describer-weavy.md)
 - [Image Analysis for Personal Style and Personality Assessment](image-analysis-for-personal-style-and-personality-assessment.md)

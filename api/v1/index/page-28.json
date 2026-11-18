@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 28,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_511c40c3aae2",
+      "slug": "update-sync-prompt",
+      "title": "Update/Sync Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "date",
+          "default": null
+        },
+        {
+          "name": "paste_or_reference_file",
+          "default": null
+        },
+        {
+          "name": "section_name",
+          "default": null
+        },
+        {
+          "name": "upload_files_or_provide_path",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_511c40c3aae2.json"
+    },
     {
       "id": "opl_c16f23e99887",
       "slug": "urban-casual-confidence",
@@ -1230,15 +1256,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee5513ef67a2.json"
-    },
-    {
-      "id": "opl_af5323816738",
-      "slug": "yt-video-geopolitic-analysis",
-      "title": "YT video  geopolitic analysis",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af5323816738.json"
     }
   ]
 }

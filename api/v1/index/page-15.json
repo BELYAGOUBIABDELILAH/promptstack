@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-17T23:20:51.143Z",
+  "last_updated": "2026-11-18T00:20:50.977Z",
   "page": 15,
   "per_page": 100,
-  "total": 2811,
+  "total": 2812,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_52f8739281cc",
+      "slug": "iso-standard-finder",
+      "title": "ISO Standard Finder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52f8739281cc.json"
+    },
     {
       "id": "opl_b7f05e2b60bc",
       "slug": "isometric-3d-cartoon-scene-with-weather-effects",
@@ -1014,15 +1023,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8dbee8d7030a.json"
-    },
-    {
-      "id": "opl_660fb4cee5f1",
-      "slug": "lifelike-face-mask",
-      "title": "Lifelike Face Mask",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_660fb4cee5f1.json"
     }
   ]
 }
