@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 27,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_6275fc2ba77c",
+      "slug": "the-midnight-melody-mystery",
+      "title": "The Midnight Melody Mystery",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6275fc2ba77c.json"
+    },
     {
       "id": "opl_7ecf558fa4b7",
       "slug": "the-missing-woman",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbbf6ce6fde3.json"
-    },
-    {
-      "id": "opl_8769d160ffc0",
-      "slug": "understand-third-party-library-error",
-      "title": "Understand Third-Party Library Error",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8769d160ffc0.json"
     }
   ]
 }

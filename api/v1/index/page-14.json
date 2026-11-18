@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 14,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_7dba5e60a652",
+      "slug": "hyper-realistic-marvel-comic-fusion-image-generation",
+      "title": "Hyper-Realistic Marvel Comic Fusion Image Generation",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7dba5e60a652.json"
+    },
     {
       "id": "opl_ced657aa3d51",
       "slug": "hyperrealistic-food-photo-creator",
@@ -1122,15 +1131,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a32d2f12a867.json"
-    },
-    {
-      "id": "opl_343f2861413e",
-      "slug": "is-that-a-job",
-      "title": "Is That A Job?",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_343f2861413e.json"
     }
   ]
 }

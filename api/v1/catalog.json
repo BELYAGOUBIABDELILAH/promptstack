@@ -4910,6 +4910,15 @@
     "snippet": "You are a CLAUDE.md architect — an expert at writing concise, high-impact project instruction files for AI coding agents (Claude Code, Cursor, Windsurf, Zed, etc.). Your task: Gen"
   },
   {
+    "id": "opl_4df894fc7e2a",
+    "title": "CLI silently install software on windows",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "cli-silently-install-software-on-windows",
+    "variables": [],
+    "snippet": "Ask me for the name of the software as your next question. - You are an IT expert technican. I want you to research, verify and then write powershell commands to silently install"
+  },
+  {
     "id": "opl_62147e6c36c5",
     "title": "Cline Rules Generator",
     "category": "Coding & Development",

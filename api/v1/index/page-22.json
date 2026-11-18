@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 22,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_bc6dda44bc46",
+      "slug": "rapid-prototyper-agent-role",
+      "title": "Rapid Prototyper Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc6dda44bc46.json"
+    },
     {
       "id": "opl_1fbed991d2fd",
       "slug": "rapper",
@@ -1105,15 +1114,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ce94e18c2.json"
-    },
-    {
-      "id": "opl_376138fabaff",
-      "slug": "rubber-duck-debugging-with-ai",
-      "title": "Rubber Duck Debugging with AI",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_376138fabaff.json"
     }
   ]
 }

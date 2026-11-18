@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1118 prompts in this category**
+**1119 prompts in this category**
 
 ## Table of Contents
 
@@ -212,6 +212,7 @@
 - [claude-md-master](claude-md-master.md)
 - [CLAUDE.md Assembly](claude-md-assembly.md)
 - [CLAUDE.md Generator for AI Coding Agents](claude-md-generator-for-ai-coding-agents.md)
+- [CLI silently install software on windows](cli-silently-install-software-on-windows.md)
 - [Cline Rules Generator](cline-rules-generator.md)
 - [Coauthored Doc Generator](coauthored-doc-generator.md)
 - [Code Editor (General)](code-editor-general.md)

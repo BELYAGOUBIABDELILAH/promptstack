@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 16,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_1f0daa192ea3",
+      "slug": "legal-risk-minimization-tool-for-freelancers",
+      "title": "Legal Risk Minimization Tool for Freelancers",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1f0daa192ea3.json"
+    },
     {
       "id": "opl_7be5d32a5457",
       "slug": "legal-to-plain-english",
@@ -1116,15 +1125,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0de152b71fd.json"
-    },
-    {
-      "id": "opl_90bf160fbec3",
-      "slug": "map",
-      "title": "MAP",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90bf160fbec3.json"
     }
   ]
 }

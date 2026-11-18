@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 18,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_63811265f6d3",
+      "slug": "morning-email-and-calendar-summary",
+      "title": "Morning Email And Calendar Summary",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_63811265f6d3.json"
+    },
     {
       "id": "opl_78499a4e433a",
       "slug": "mothers-day",
@@ -1073,15 +1082,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e1e21556637.json"
-    },
-    {
-      "id": "opl_db9bf3d67a63",
-      "slug": "olympic-games-events-weekly-listings-prompt",
-      "title": "Olympic Games Events Weekly Listings Prompt",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db9bf3d67a63.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 23,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_376138fabaff",
+      "slug": "rubber-duck-debugging-with-ai",
+      "title": "Rubber Duck Debugging with AI",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_376138fabaff.json"
+    },
     {
       "id": "opl_14a4f01069f7",
       "slug": "rugged-product-locator",
@@ -1227,15 +1236,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34285800c9d5.json"
-    },
-    {
-      "id": "opl_700ba0bab2ac",
-      "slug": "shakespearean-text-generator-full",
-      "title": "Shakespearean Text Generator (Full)",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_700ba0bab2ac.json"
     }
   ]
 }

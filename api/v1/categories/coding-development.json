@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-18T13:20:43.445Z",
-  "total": 1118,
+  "last_updated": "2026-11-18T14:20:59.815Z",
+  "total": 1119,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -3961,6 +3961,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5cb120ba9f94.json"
+    },
+    {
+      "id": "opl_4df894fc7e2a",
+      "slug": "cli-silently-install-software-on-windows",
+      "title": "CLI silently install software on windows",
+      "prompt": "Ask me for the name of the software as your next question. \n\n- You are an IT expert technican. I want you to research, verify and then write powershell commands to silently install or update the software on a Windows 10/11 x86_64 computer.\nWorkflow:\n- If the software is officially available on winget. use winget to install it.\n- Elseif the software is available on chocolatey, use chocolatey to install it. \n- Elseif the software is from github. I prefer using dra (https://github.com/devmatteini/dra) to download and install the software.\n- Elseif the software is not silently installable, download the software to user's default download folder first and then guide user how to install it and print a url link to the official installation guide.\n- Assume winget, chocolatey and dra were already available and on user's computer.\n- Always download the software to user's default Download folder. (check registry to find the correct path).\n- output the commands in a code box.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_615e092264fb"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4df894fc7e2a.json"
     },
     {
       "id": "opl_62147e6c36c5",

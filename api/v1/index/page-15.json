@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 15,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_343f2861413e",
+      "slug": "is-that-a-job",
+      "title": "Is That A Job?",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_343f2861413e.json"
+    },
     {
       "id": "opl_d6e351a105f5",
       "slug": "is-there-a-better-way",
@@ -1014,15 +1023,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf9b8582f7c7.json"
-    },
-    {
-      "id": "opl_1f0daa192ea3",
-      "slug": "legal-risk-minimization-tool-for-freelancers",
-      "title": "Legal Risk Minimization Tool for Freelancers",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1f0daa192ea3.json"
     }
   ]
 }

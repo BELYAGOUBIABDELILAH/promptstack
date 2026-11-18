@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 11,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_71d712f81784",
+      "slug": "enhancing-efficiency-with-codex-using-sub-agents",
+      "title": "Enhancing Efficiency with Codex Using Sub-Agents",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_71d712f81784.json"
+    },
     {
       "id": "opl_7e242ed296c6",
       "slug": "ensure-compliance-requirements",
@@ -1135,15 +1144,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16662138fbb.json"
-    },
-    {
-      "id": "opl_cfb264f13b73",
-      "slug": "food-critic",
-      "title": "Food Critic",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfb264f13b73.json"
     }
   ]
 }

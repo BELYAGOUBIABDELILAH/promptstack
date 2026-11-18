@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 17,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_90bf160fbec3",
+      "slug": "map",
+      "title": "MAP",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90bf160fbec3.json"
+    },
     {
       "id": "opl_ede33433eeff",
       "slug": "map-component-dependencies",
@@ -1107,15 +1116,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77e5377569c7.json"
-    },
-    {
-      "id": "opl_63811265f6d3",
-      "slug": "morning-email-and-calendar-summary",
-      "title": "Morning Email And Calendar Summary",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_63811265f6d3.json"
     }
   ]
 }

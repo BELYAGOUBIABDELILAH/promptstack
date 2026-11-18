@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 7,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_68f100d207e3",
+      "slug": "company-approach-strategist",
+      "title": "Company Approach Strategist",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68f100d207e3.json"
+    },
     {
       "id": "opl_d6f162fcacc9",
       "slug": "company-culture-decoder",
@@ -1333,15 +1342,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e01410ce677.json"
-    },
-    {
-      "id": "opl_6f7aea501545",
-      "slug": "create-integration-test-scenarios",
-      "title": "Create Integration Test Scenarios",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6f7aea501545.json"
     }
   ]
 }

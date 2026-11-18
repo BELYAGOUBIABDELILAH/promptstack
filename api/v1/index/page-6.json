@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 6,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -562,6 +562,15 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2bb091777029.json"
+    },
+    {
+      "id": "opl_4df894fc7e2a",
+      "slug": "cli-silently-install-software-on-windows",
+      "title": "CLI silently install software on windows",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4df894fc7e2a.json"
     },
     {
       "id": "opl_62147e6c36c5",
@@ -1135,15 +1144,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d6947eeec90.json"
-    },
-    {
-      "id": "opl_68f100d207e3",
-      "slug": "company-approach-strategist",
-      "title": "Company Approach Strategist",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68f100d207e3.json"
     }
   ]
 }

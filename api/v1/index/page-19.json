@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 19,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_db9bf3d67a63",
+      "slug": "olympic-games-events-weekly-listings-prompt",
+      "title": "Olympic Games Events Weekly Listings Prompt",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db9bf3d67a63.json"
+    },
     {
       "id": "opl_6ae260dd8932",
       "slug": "omniroute-bulk-input-key-converter-cf",
@@ -1105,28 +1114,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32f3147d1ce3.json"
-    },
-    {
-      "id": "opl_7bd392616da4",
-      "slug": "pet-store-advertising-campaign-strategy",
-      "title": "Pet Store Advertising Campaign Strategy",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "campaignMessage",
-          "default": null
-        },
-        {
-          "name": "mediaChannels",
-          "default": null
-        },
-        {
-          "name": "targetAudience",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bd392616da4.json"
     }
   ]
 }

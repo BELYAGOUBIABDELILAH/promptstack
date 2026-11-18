@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-18T13:20:43.445Z",
+  "last_updated": "2026-11-18T14:20:59.815Z",
   "page": 20,
   "per_page": 100,
-  "total": 2825,
+  "total": 2826,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_7bd392616da4",
+      "slug": "pet-store-advertising-campaign-strategy",
+      "title": "Pet Store Advertising Campaign Strategy",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "campaignMessage",
+          "default": null
+        },
+        {
+          "name": "mediaChannels",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bd392616da4.json"
+    },
     {
       "id": "opl_1a7ced0fad63",
       "slug": "phantom-strike",
@@ -1214,28 +1236,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_524e2f608c11.json"
-    },
-    {
-      "id": "opl_f956cf28b407",
-      "slug": "professional-networking-language-for-career-fairs",
-      "title": "Professional Networking Language for Career Fairs",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "industry",
-          "default": null
-        },
-        {
-          "name": "questions",
-          "default": null
-        },
-        {
-          "name": "skills",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f956cf28b407.json"
     }
   ]
 }
