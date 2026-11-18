@@ -318,5 +318,15 @@
     "slug": "sarcasm",
     "folder": "research-analysis",
     "path": "prompts/research-analysis/sarcasm.md"
+  },
+  {
+    "act": "Doctor Guiding Students Up a Staircase of Books to Success",
+    "category": "Research & Analysis",
+    "prompt": "Create a program for a doctor who paves the way for university students through scientific books in the form of thresholds one by one to illuminate the path to success for them .. In the other, the word success appears to fascinate the world",
+    "source": "mzbodi128@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "doctor-guiding-students-up-a-staircase-of-books-to-success",
+    "folder": "research-analysis",
+    "path": "prompts/research-analysis/doctor-guiding-students-up-a-staircase-of-books-to-success.md"
   }
 ]
