@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T11:20:43.746Z",
+  "last_updated": "2026-11-18T12:20:47.702Z",
   "page": 27,
   "per_page": 100,
-  "total": 2823,
+  "total": 2824,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_bb45908fd6ee",
+      "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
+      "title": "The Mystery of Easter Island | Who Built the Giant Moai Statues? In the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb45908fd6ee.json"
+    },
     {
       "id": "opl_ec998a24493b",
       "slug": "the-paradoxical-soundscape-ancient-acoustic-mysteries-video-exploration",
@@ -1052,15 +1061,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f76626e440e.json"
-    },
-    {
-      "id": "opl_1a1e5a26206d",
-      "slug": "underwater-veo-3-video",
-      "title": "Underwater Veo 3 video",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a1e5a26206d.json"
     }
   ]
 }

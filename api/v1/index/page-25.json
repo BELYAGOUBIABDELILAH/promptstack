@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T11:20:43.746Z",
+  "last_updated": "2026-11-18T12:20:47.702Z",
   "page": 25,
   "per_page": 100,
-  "total": 2823,
+  "total": 2824,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_e332f5ca27db",
+      "slug": "star-marshal-raycast-tactical-shooter",
+      "title": "Star-Marshal: Raycast Tactical Shooter",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e332f5ca27db.json"
+    },
     {
       "id": "opl_83e0670869b5",
       "slug": "start-page-guru",
@@ -1096,15 +1105,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9577f7bc7046.json"
-    },
-    {
-      "id": "opl_1c5d259e88b9",
-      "slug": "system-prompt-auto-enhancer",
-      "title": "System Prompt Auto-Enhancer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c5d259e88b9.json"
     }
   ]
 }

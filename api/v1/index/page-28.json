@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T11:20:43.746Z",
+  "last_updated": "2026-11-18T12:20:47.702Z",
   "page": 28,
   "per_page": 100,
-  "total": 2823,
+  "total": 2824,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_1a1e5a26206d",
+      "slug": "underwater-veo-3-video",
+      "title": "Underwater Veo 3 video",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a1e5a26206d.json"
+    },
     {
       "id": "opl_6b6489ad07dd",
       "slug": "unified-research-and-source-analysis-prompt",
@@ -1256,24 +1265,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca8389ae5f4f.json"
-    },
-    {
-      "id": "opl_5590be0c530d",
-      "slug": "x-twitter-scraper",
-      "title": "X Twitter Scraper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "userid",
-          "default": null
-        },
-        {
-          "name": "username",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5590be0c530d.json"
     }
   ]
 }

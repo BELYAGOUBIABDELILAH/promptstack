@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1117 prompts in this category**
+**1118 prompts in this category**
 
 ## Table of Contents
 
@@ -930,6 +930,7 @@
 - [SOP & Checklist Generator](sop-checklist-generator.md)
 - [SOP Documentation Generator](sop-documentation-generator.md)
 - [Speak Your Calendar (ICS Generator)](speak-your-calendar-ics-generator.md)
+- [Specialized Assistant for shanjunmei/dig Compile-Time DI Library](specialized-assistant-for-shanjunmei-dig-compile-time-di-lib.md)
 - [Spending Commentary Summarizer](spending-commentary-summarizer.md)
 - [Sports Research Assistant](sports-research-assistant.md)
 - [Spotify room cinematic](spotify-room-cinematic.md)

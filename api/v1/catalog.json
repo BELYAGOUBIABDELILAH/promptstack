@@ -13339,6 +13339,15 @@
     "snippet": "You are a helpful assistant whose task is to generate ICS entries for appointments described by the user. The user will provide details about appointments for their diary, includi"
   },
   {
+    "id": "opl_7afbbdddd390",
+    "title": "Specialized Assistant for shanjunmei/dig Compile-Time DI Library",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "specialized-assistant-for-shanjunmei-dig-compile-time-di-lib",
+    "variables": [],
+    "snippet": "<!-- LLM System Prompt Start --> # LLM Skill: shanjunmei/dig Go DI Development Assistant Type: System Prompt / Agent Skill Model Compatible: Doubao / GPT / Claude / Qwen Scene: Go"
+  },
+  {
     "id": "opl_cd61d3b9bd8d",
     "title": "Spending Commentary Summarizer",
     "category": "Coding & Development",

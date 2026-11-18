@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T11:20:43.746Z",
+  "last_updated": "2026-11-18T12:20:47.702Z",
   "page": 24,
   "per_page": 100,
-  "total": 2823,
+  "total": 2824,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
@@ -785,6 +785,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c23fc8b3e8af.json"
     },
     {
+      "id": "opl_7afbbdddd390",
+      "slug": "specialized-assistant-for-shanjunmei-dig-compile-time-di-lib",
+      "title": "Specialized Assistant for shanjunmei/dig Compile-Time DI Library",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7afbbdddd390.json"
+    },
+    {
       "id": "opl_a1c4846da097",
       "slug": "speech-to-text-stt-expert",
       "title": "Speech To Text (STT) Expert",
@@ -1057,15 +1066,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6da9845e1803.json"
-    },
-    {
-      "id": "opl_e332f5ca27db",
-      "slug": "star-marshal-raycast-tactical-shooter",
-      "title": "Star-Marshal: Raycast Tactical Shooter",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e332f5ca27db.json"
     }
   ]
 }
