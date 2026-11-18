@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 8,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_9502a4e63af6",
+      "slug": "create-organizational-charts-and-workflows-for-university-de",
+      "title": "Create Organizational Charts and Workflows for University Departments",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "departmentName",
+          "default": null
+        },
+        {
+          "name": "regulations",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9502a4e63af6.json"
+    },
     {
       "id": "opl_cb0a4d62e1d2",
       "slug": "create-project-spotlight",
@@ -1235,15 +1253,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5d42656fb6e.json"
-    },
-    {
-      "id": "opl_c1916f1dd4b0",
-      "slug": "dear-sugar-candid-advice-on-love-and-life",
-      "title": "Dear Sugar: Candid Advice on Love and Life",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1916f1dd4b0.json"
     }
   ]
 }

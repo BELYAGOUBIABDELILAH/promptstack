@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 4,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
@@ -496,6 +496,32 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5830e807700.json"
+    },
+    {
+      "id": "opl_e2b02bef4f20",
+      "slug": "b2b-market-research",
+      "title": "B2B Market Research",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "company",
+          "default": null
+        },
+        {
+          "name": "insert_company_name",
+          "default": null
+        },
+        {
+          "name": "insert_company_website",
+          "default": null
+        },
+        {
+          "name": "research_purpose",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e2b02bef4f20.json"
     },
     {
       "id": "opl_f517c817c0ec",
@@ -1168,15 +1194,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88100e468725.json"
-    },
-    {
-      "id": "opl_474506df3b3d",
-      "slug": "brainstorming-assistant",
-      "title": "Brainstorming Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_474506df3b3d.json"
     }
   ]
 }

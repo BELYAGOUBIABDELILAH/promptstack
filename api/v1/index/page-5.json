@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 5,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_474506df3b3d",
+      "slug": "brainstorming-assistant",
+      "title": "Brainstorming Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_474506df3b3d.json"
+    },
     {
       "id": "opl_e9273946428b",
       "slug": "brainstorming-session-summariser",
@@ -1070,28 +1079,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84732564e35c.json"
-    },
-    {
-      "id": "opl_c4cc70559616",
-      "slug": "china-business-law-assistant",
-      "title": "China Business Law Assistant",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "businessType",
-          "default": null
-        },
-        {
-          "name": "legalIssue",
-          "default": null
-        },
-        {
-          "name": "region",
-          "default": "China"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4cc70559616.json"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 6,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_c4cc70559616",
+      "slug": "china-business-law-assistant",
+      "title": "China Business Law Assistant",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "businessType",
+          "default": null
+        },
+        {
+          "name": "legalIssue",
+          "default": null
+        },
+        {
+          "name": "region",
+          "default": "China"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4cc70559616.json"
+    },
     {
       "id": "opl_032ffe51f26b",
       "slug": "chinese-hookah-training-program",
@@ -1101,28 +1123,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af2d1d87051e.json"
-    },
-    {
-      "id": "opl_b1678d0127a6",
-      "slug": "compare-top-virtualization-solutions",
-      "title": "Compare Top Virtualization Solutions",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "focusArea",
-          "default": "features"
-        },
-        {
-          "name": "solution1",
-          "default": null
-        },
-        {
-          "name": "solution2",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1678d0127a6.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 13,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_6d551ecac112",
+      "slug": "gpt-conversation-output",
+      "title": "GPT_conversation_output",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d551ecac112.json"
+    },
     {
       "id": "opl_999da4b46de6",
       "slug": "gpt-5-expert-prompt-engineer-mode-condensed",
@@ -1031,15 +1040,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a05239e8aacb.json"
-    },
-    {
-      "id": "opl_c46b5eafd56b",
-      "slug": "i-am-pragati-a-bca-student-from-shrinath-university-make-a-p",
-      "title": "I am pragati a bca student from shrinath university make a portfolio website video creation for me",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c46b5eafd56b.json"
     }
   ]
 }

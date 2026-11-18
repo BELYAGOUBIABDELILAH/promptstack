@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 11,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_99765af80c7f",
+      "slug": "enthusiastic-text",
+      "title": "Enthusiastic Text",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_99765af80c7f.json"
+    },
     {
       "id": "opl_030dff54d470",
       "slug": "environment-configuration-agent-role",
@@ -1122,20 +1131,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e54857c54624.json"
-    },
-    {
-      "id": "opl_c4e90ceaf2e3",
-      "slug": "for-rally",
-      "title": "for Rally",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "paste_mission_details_here",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4e90ceaf2e3.json"
     }
   ]
 }

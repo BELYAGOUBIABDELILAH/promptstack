@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 14,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_c46b5eafd56b",
+      "slug": "i-am-pragati-a-bca-student-from-shrinath-university-make-a-p",
+      "title": "I am pragati a bca student from shrinath university make a portfolio website video creation for me",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c46b5eafd56b.json"
+    },
     {
       "id": "opl_427056c60257",
       "slug": "i-think-i-need-a-lawyer-neutral-legal-intake-organizer",
@@ -1108,15 +1117,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eedcdd35cdba.json"
-    },
-    {
-      "id": "opl_bd48dbd70442",
-      "slug": "iso-4217-lookup-world-currencies",
-      "title": "ISO 4217 Lookup (World Currencies)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd48dbd70442.json"
     }
   ]
 }

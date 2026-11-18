@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 19,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_525a1c05822a",
+      "slug": "open-source-free-license-selection-assistant",
+      "title": "Open Source / Free License Selection Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_525a1c05822a.json"
+    },
     {
       "id": "opl_6fd6d31a1f5e",
       "slug": "open-source-contributor-guidelines",
@@ -1122,15 +1131,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecd1d0992253.json"
-    },
-    {
-      "id": "opl_f986350c4ad0",
-      "slug": "photorealistic-4k-reference-image-enhancement",
-      "title": "Photorealistic 4K Reference Image Enhancement",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f986350c4ad0.json"
     }
   ]
 }

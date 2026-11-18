@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 12,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_c4e90ceaf2e3",
+      "slug": "for-rally",
+      "title": "for Rally",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "paste_mission_details_here",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4e90ceaf2e3.json"
+    },
     {
       "id": "opl_91cd0539261d",
       "slug": "formal-email-generator",
@@ -1001,15 +1015,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a4262cf15bc6.json"
-    },
-    {
-      "id": "opl_6d551ecac112",
-      "slug": "gpt-conversation-output",
-      "title": "GPT_conversation_output",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d551ecac112.json"
     }
   ]
 }

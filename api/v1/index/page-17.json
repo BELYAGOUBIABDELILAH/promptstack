@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 17,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_6db64574ad34",
+      "slug": "master-chinese-web-novel-author",
+      "title": "Master Chinese Web Novel Author",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "genre",
+          "default": "Fantasy"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6db64574ad34.json"
+    },
     {
       "id": "opl_93f7d1dac9e1",
       "slug": "master-pitch-deck-creation",
@@ -1073,15 +1087,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47e73b1d5e18.json"
-    },
-    {
-      "id": "opl_91b538e4c251",
-      "slug": "multilingual-writing-improvement-assistant",
-      "title": "Multilingual Writing Improvement Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91b538e4c251.json"
     }
   ]
 }

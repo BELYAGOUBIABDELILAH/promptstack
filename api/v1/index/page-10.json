@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 10,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_5afaa2b1dcbc",
+      "slug": "document-my-stack",
+      "title": "Document My Stack",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5afaa2b1dcbc.json"
+    },
     {
       "id": "opl_19b69576bced",
       "slug": "document-my-writing-style",
@@ -1269,15 +1278,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d3a53dc65d8.json"
-    },
-    {
-      "id": "opl_99765af80c7f",
-      "slug": "enthusiastic-text",
-      "title": "Enthusiastic Text",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_99765af80c7f.json"
     }
   ]
 }

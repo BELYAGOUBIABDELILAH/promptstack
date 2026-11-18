@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 22,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_0afedbbc65b1",
+      "slug": "realistic-amateur-vibe-candid-photography-prompt",
+      "title": "Realistic Amateur Vibe Candid Photography Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0afedbbc65b1.json"
+    },
     {
       "id": "opl_21721b391d32",
       "slug": "realistic-food-image-generator",
@@ -1084,20 +1093,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aabc0e544811.json"
-    },
-    {
-      "id": "opl_d709b3eb615d",
-      "slug": "sales-funnel-builder-from-url",
-      "title": "Sales Funnel Builder from URL",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "url",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d709b3eb615d.json"
     }
   ]
 }

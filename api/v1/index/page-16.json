@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 16,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_8dbee8d7030a",
+      "slug": "life-coach",
+      "title": "Life Coach",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8dbee8d7030a.json"
+    },
     {
       "id": "opl_660fb4cee5f1",
       "slug": "lifelike-face-mask",
@@ -1133,20 +1142,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0088ca5b92cf.json"
-    },
-    {
-      "id": "opl_6db64574ad34",
-      "slug": "master-chinese-web-novel-author",
-      "title": "Master Chinese Web Novel Author",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "genre",
-          "default": "Fantasy"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6db64574ad34.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 18,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_91b538e4c251",
+      "slug": "multilingual-writing-improvement-assistant",
+      "title": "Multilingual Writing Improvement Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91b538e4c251.json"
+    },
     {
       "id": "opl_f12ec3bddf75",
       "slug": "multimodal-ai-questions",
@@ -1069,15 +1078,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9281b0895bf3.json"
-    },
-    {
-      "id": "opl_525a1c05822a",
-      "slug": "open-source-free-license-selection-assistant",
-      "title": "Open Source / Free License Selection Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_525a1c05822a.json"
     }
   ]
 }

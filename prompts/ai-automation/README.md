@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**131 prompts in this category**
+**132 prompts in this category**
 
 ## Table of Contents
 
@@ -26,6 +26,7 @@
 - [Atari](atari.md)
 - [Automate Repetitive Development Tasks](automate-repetitive-development-tasks.md)
 - [Autoresponse Spoofer](autoresponse-spoofer.md)
+- [B2B Market Research](b2b-market-research.md)
 - [Bank Transaction Analysis](bank-transaction-analysis.md)
 - [Big 4 style report for retail traders - Enter the name and ticker of a U.S. publicly traded company.](big-4-style-report-for-retail-traders-enter-the-name-and-ticker-of-a-u-s-publicly-traded-company.md)
 - [bizcase](bizcase.md)

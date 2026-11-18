@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 25,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_f1877c03e08f",
+      "slug": "statistics-guru-on-call",
+      "title": "Statistics Guru On Call",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1877c03e08f.json"
+    },
     {
       "id": "opl_128b692b759b",
       "slug": "status-update-email-drafter",
@@ -1087,15 +1096,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a6fc23d0100.json"
-    },
-    {
-      "id": "opl_cbb8790fafd9",
-      "slug": "system-prompt-few-shot-learning-editor",
-      "title": "System Prompt Few Shot Learning Editor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cbb8790fafd9.json"
     }
   ]
 }

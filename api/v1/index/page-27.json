@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T00:20:50.977Z",
+  "last_updated": "2026-11-18T01:20:42.017Z",
   "page": 27,
   "per_page": 100,
-  "total": 2812,
+  "total": 2813,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_06fd8e8af52b",
+      "slug": "the-ultimate-typescript-code-review",
+      "title": "The Ultimate TypeScript Code Review",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06fd8e8af52b.json"
+    },
     {
       "id": "opl_eb7c70456c9d",
       "slug": "the-witcher-double-exposure-effect",
@@ -1109,15 +1118,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3abd0c0b27f.json"
-    },
-    {
-      "id": "opl_40841affb943",
-      "slug": "update-documentation-after-code-changes",
-      "title": "Update Documentation After Code Changes",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40841affb943.json"
     }
   ]
 }
