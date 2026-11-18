@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-18T17:21:00.610Z",
-  "total": 404,
+  "last_updated": "2026-11-18T18:20:49.301Z",
+  "total": 405,
   "prompts": [
     {
       "id": "opl_71932c41e62e",
@@ -6244,6 +6244,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_affc9ec672ff.json"
+    },
+    {
+      "id": "opl_7ed28427c87d",
+      "slug": "surreal-portrait",
+      "title": "Surreal Portrait — دو دلم",
+      "prompt": "Surreal dreamlike portrait of an Iranian woman, face split by two different light sources (cold blue / warm amber), floating dust particles. Her brows work in opposite directions — one raised, one lowered — eyes not aligned in focus, embodying pure indecision. Below the image, a sketchy hand-inked box with wobbly handwritten text: \"دو دلم\".",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_7f8c85240f71"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ed28427c87d.json"
     },
     {
       "id": "opl_d7526f4d1134",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T17:21:00.610Z",
+  "last_updated": "2026-11-18T18:20:49.301Z",
   "page": 27,
   "per_page": 100,
-  "total": 2829,
+  "total": 2830,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_e2e109e100db",
+      "slug": "the-greedy-cat",
+      "title": "The greedy Cat",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e2e109e100db.json"
+    },
     {
       "id": "opl_2ac4ecf03761",
       "slug": "the-last-adagio",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29b2f21e5018.json"
-    },
-    {
-      "id": "opl_14027f148a0f",
-      "slug": "understand-code-before-making-changes",
-      "title": "Understand Code Before Making Changes",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14027f148a0f.json"
     }
   ]
 }
