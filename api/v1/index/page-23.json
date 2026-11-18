@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T08:20:46.321Z",
+  "last_updated": "2026-11-18T09:20:53.626Z",
   "page": 23,
   "per_page": 100,
-  "total": 2820,
+  "total": 2821,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_400bb13cbf42",
+      "slug": "saas-pricing-strategist",
+      "title": "SaaS Pricing Strategist",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_400bb13cbf42.json"
+    },
     {
       "id": "opl_0b6c277fc074",
       "slug": "sabarudin-instructions-framework",
@@ -1222,24 +1231,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84dcfb2ca90f.json"
-    },
-    {
-      "id": "opl_cd88a6720bd1",
-      "slug": "shift-tracking-telegram-mini-app",
-      "title": "Shift Tracking Telegram Mini App",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "employeeRole",
-          "default": null
-        },
-        {
-          "name": "shiftDate",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd88a6720bd1.json"
     }
   ]
 }

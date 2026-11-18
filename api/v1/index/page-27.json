@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T08:20:46.321Z",
+  "last_updated": "2026-11-18T09:20:53.626Z",
   "page": 27,
   "per_page": 100,
-  "total": 2820,
+  "total": 2821,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_890be12694b3",
+      "slug": "the-prd-mastermind",
+      "title": "The PRD Mastermind",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_890be12694b3.json"
+    },
     {
       "id": "opl_76dd8eff0795",
       "slug": "the-quant-edge-engine",
@@ -1052,15 +1061,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6d6d6a9784.json"
-    },
-    {
-      "id": "opl_3f755250c62c",
-      "slug": "unity-architecture-specialist",
-      "title": "Unity Architecture Specialist",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f755250c62c.json"
     }
   ]
 }

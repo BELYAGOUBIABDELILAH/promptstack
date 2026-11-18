@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T08:20:46.321Z",
+  "last_updated": "2026-11-18T09:20:53.626Z",
   "page": 24,
   "per_page": 100,
-  "total": 2820,
+  "total": 2821,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_cd88a6720bd1",
+      "slug": "shift-tracking-telegram-mini-app",
+      "title": "Shift Tracking Telegram Mini App",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "employeeRole",
+          "default": null
+        },
+        {
+          "name": "shiftDate",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd88a6720bd1.json"
+    },
     {
       "id": "opl_d21d5a7442cd",
       "slug": "shop",
@@ -1048,15 +1066,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_70716cf98ba2.json"
-    },
-    {
-      "id": "opl_5bf9c71268a1",
-      "slug": "startup-idea-generator",
-      "title": "Startup Idea Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bf9c71268a1.json"
     }
   ]
 }

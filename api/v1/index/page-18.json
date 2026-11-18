@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T08:20:46.321Z",
+  "last_updated": "2026-11-18T09:20:53.626Z",
   "page": 18,
   "per_page": 100,
-  "total": 2820,
+  "total": 2821,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_dd3ee155f757",
+      "slug": "movie-binge-strategist-on-call",
+      "title": "Movie Binge Strategist On Call",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd3ee155f757.json"
+    },
     {
       "id": "opl_0ad8b058ebc4",
       "slug": "movie-critic",
@@ -1078,15 +1087,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_353976598f29.json"
-    },
-    {
-      "id": "opl_c1242ef14e21",
-      "slug": "online-gambling-cautionary-short-film",
-      "title": "Online Gambling Cautionary Short Film",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1242ef14e21.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T08:20:46.321Z",
+  "last_updated": "2026-11-18T09:20:53.626Z",
   "page": 16,
   "per_page": 100,
-  "total": 2820,
+  "total": 2821,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
@@ -91,6 +91,36 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd1082f292e9.json"
+    },
+    {
+      "id": "opl_aeae99af61c8",
+      "slug": "linkedin-about-section-writer-3-professional-styles",
+      "title": "LinkedIn \"About\" Section Writer — 3 Professional Styles",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "achievements",
+          "default": "Metrics, projects, or things you are proud of"
+        },
+        {
+          "name": "experience",
+          "default": "Years of experience and key focus areas"
+        },
+        {
+          "name": "goal",
+          "default": "e.g., attract international recruiters, find remote work"
+        },
+        {
+          "name": "role",
+          "default": "Your current job title"
+        },
+        {
+          "name": "skills",
+          "default": "Languages, tools, frameworks"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aeae99af61c8.json"
     },
     {
       "id": "opl_0b6feb539026",
@@ -1095,15 +1125,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d92fdd4b2261.json"
-    },
-    {
-      "id": "opl_d116fc39f02b",
-      "slug": "markdown-table-generator",
-      "title": "Markdown Table Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d116fc39f02b.json"
     }
   ]
 }

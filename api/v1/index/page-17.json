@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T08:20:46.321Z",
+  "last_updated": "2026-11-18T09:20:53.626Z",
   "page": 17,
   "per_page": 100,
-  "total": 2820,
+  "total": 2821,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_d116fc39f02b",
+      "slug": "markdown-table-generator",
+      "title": "Markdown Table Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d116fc39f02b.json"
+    },
     {
       "id": "opl_f1699dff291f",
       "slug": "markdown-task-implementer",
@@ -1107,15 +1116,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c34aeca983a.json"
-    },
-    {
-      "id": "opl_dd3ee155f757",
-      "slug": "movie-binge-strategist-on-call",
-      "title": "Movie Binge Strategist On Call",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd3ee155f757.json"
     }
   ]
 }

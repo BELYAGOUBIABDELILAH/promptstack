@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T08:20:46.321Z",
+  "last_updated": "2026-11-18T09:20:53.626Z",
   "page": 20,
   "per_page": 100,
-  "total": 2820,
+  "total": 2821,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_fd42dc46dc9a",
+      "slug": "philosophy-teacher",
+      "title": "Philosophy Teacher",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd42dc46dc9a.json"
+    },
     {
       "id": "opl_7560136c647d",
       "slug": "photo-emhanced",
@@ -1218,44 +1227,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_439b3cbb4ff7.json"
-    },
-    {
-      "id": "opl_6ef6d74f75e7",
-      "slug": "professional-real-estate-appointment-setter",
-      "title": "Professional Real Estate Appointment Setter",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "communicationMethod",
-          "default": "email"
-        },
-        {
-          "name": "contactList",
-          "default": null
-        },
-        {
-          "name": "name",
-          "default": null
-        },
-        {
-          "name": "time",
-          "default": null
-        },
-        {
-          "name": "tone",
-          "default": "professional"
-        },
-        {
-          "name": "your_name",
-          "default": null
-        },
-        {
-          "name": "your_phone_number",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ef6d74f75e7.json"
     }
   ]
 }

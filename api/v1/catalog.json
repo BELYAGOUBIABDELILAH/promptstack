@@ -16403,6 +16403,36 @@
     "snippet": "{ \"TASK\": \"Reimagine as a scene from The LEGO Movie.\", \"VISUAL_ID\": \"Macro photography of plastic bricks. Stop-motion feel.\", \"CHARACTERS\": \"Lego Minifigures. C-shaped hands,"
   },
   {
+    "id": "opl_aeae99af61c8",
+    "title": "LinkedIn \"About\" Section Writer — 3 Professional Styles",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "linkedin-about-section-writer-3-professional-styles",
+    "variables": [
+      {
+        "name": "achievements",
+        "default": "Metrics, projects, or things you are proud of"
+      },
+      {
+        "name": "experience",
+        "default": "Years of experience and key focus areas"
+      },
+      {
+        "name": "goal",
+        "default": "e.g., attract international recruiters, find remote work"
+      },
+      {
+        "name": "role",
+        "default": "Your current job title"
+      },
+      {
+        "name": "skills",
+        "default": "Languages, tools, frameworks"
+      }
+    ],
+    "snippet": "ROLE You are an expert tech recruiter and professional copywriter specializing in LinkedIn branding. TASK Write 3 options for my LinkedIn \"About\" (Summary) section based on my bac"
+  },
+  {
     "id": "opl_fdf298cf25c7",
     "title": "Literature Reading Assistant",
     "category": "Data & Analytics",

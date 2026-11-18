@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**179 prompts in this category**
+**180 prompts in this category**
 
 ## Table of Contents
 
@@ -107,6 +107,7 @@
 - [JSON Schema To Markdown Table](json-schema-to-markdown-table.md)
 - [LEGO Minifigure Character Transformation](lego-minifigure-character-transformation.md)
 - [Lego Movie Style Prompt](lego-movie-style-prompt.md)
+- [LinkedIn "About" Section Writer — 3 Professional Styles](linkedin-about-section-writer-3-professional-styles.md)
 - [Literature Reading Assistant](literature-reading-assistant.md)
 - [Live Stock market analysis](live-stock-market-analysis.md)
 - [LLM Approach Guide](llm-approach-guide.md)
