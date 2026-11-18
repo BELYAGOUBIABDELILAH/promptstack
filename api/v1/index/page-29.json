@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T03:20:49.203Z",
+  "last_updated": "2026-11-18T04:20:48.907Z",
   "page": 29,
   "per_page": 100,
-  "total": 2815,
+  "total": 2816,
   "total_pages": 29,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_8ac7ec2469b3",
+      "slug": "young-saudi-doctor-in-a-professional-setting",
+      "title": "Young Saudi Doctor in a Professional Setting",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ac7ec2469b3.json"
+    },
     {
       "id": "opl_3e230e2e86a5",
       "slug": "young-woman-with-mixed-ethnicity-features",

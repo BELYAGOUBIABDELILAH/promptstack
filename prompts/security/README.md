@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**71 prompts in this category**
+**72 prompts in this category**
 
 ## Table of Contents
 
@@ -49,6 +49,7 @@
 - [Github Markdown Validator](github-markdown-validator.md)
 - [Home Networking Advice](home-networking-advice.md)
 - [IDE App Finder](ide-app-finder.md)
+- [Integrated AI System with Shadow, Deepseek, and Claude Models](integrated-ai-system-with-shadow-deepseek-and-claude-models.md)
 - [Internal Linking SEO Assistant](internal-linking-seo-assistant.md)
 - [Israel News Summary](israel-news-summary.md)
 - [Israel SITREP Generator](israel-sitrep-generator.md)

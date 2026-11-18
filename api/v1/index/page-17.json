@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T03:20:49.203Z",
+  "last_updated": "2026-11-18T04:20:48.907Z",
   "page": 17,
   "per_page": 100,
-  "total": 2815,
+  "total": 2816,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_c9e5576c98b8",
+      "slug": "marketing-speak-filter",
+      "title": "Marketing Speak Filter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9e5576c98b8.json"
+    },
     {
       "id": "opl_0088ca5b92cf",
       "slug": "master-app-store-localization-aso-prompt-2025-full-metadata",
@@ -1099,15 +1108,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a697decf44f.json"
-    },
-    {
-      "id": "opl_ae9111f88366",
-      "slug": "multi-agent-frameworks-guide",
-      "title": "Multi-Agent Frameworks Guide",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae9111f88366.json"
     }
   ]
 }

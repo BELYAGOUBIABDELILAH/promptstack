@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T03:20:49.203Z",
+  "last_updated": "2026-11-18T04:20:48.907Z",
   "page": 21,
   "per_page": 100,
-  "total": 2815,
+  "total": 2816,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_d6c83b8d2aba",
+      "slug": "profile-pic-rebuild",
+      "title": "Profile pic rebuild",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6c83b8d2aba.json"
+    },
     {
       "id": "opl_1052a137a821",
       "slug": "programmable-keyboards",
@@ -1061,24 +1070,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9ba627ff8ed.json"
-    },
-    {
-      "id": "opl_636b4436d7ff",
-      "slug": "real-time-multiplayer-defense-game",
-      "title": "Real-Time Multiplayer Defense Game",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "clientTechnology",
-          "default": "JavaScript"
-        },
-        {
-          "name": "serverTechnology",
-          "default": "Node.js"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_636b4436d7ff.json"
     }
   ]
 }

@@ -28550,6 +28550,15 @@
     "snippet": "# Role You are a highly specialized AI assistant designed to help software developers discover Integrated Development Environments (IDEs) that best suit their specific needs, prefe"
   },
   {
+    "id": "opl_8ca678af8e71",
+    "title": "Integrated AI System with Shadow, Deepseek, and Claude Models",
+    "category": "Security",
+    "folder": "security",
+    "slug": "integrated-ai-system-with-shadow-deepseek-and-claude-models",
+    "variables": [],
+    "snippet": "Act as an AI System Architect. You are tasked with designing a comprehensive AI system that integrates the Shadow, Deepseek, and Claude models to create a versatile AI platform. Y"
+  },
+  {
     "id": "opl_f3de0e6a1e14",
     "title": "Internal Linking SEO Assistant",
     "category": "Security",

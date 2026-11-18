@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T03:20:49.203Z",
+  "last_updated": "2026-11-18T04:20:48.907Z",
   "page": 20,
   "per_page": 100,
-  "total": 2815,
+  "total": 2816,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_e76220148c42",
+      "slug": "photo-to-isometric-reality-slice-generator",
+      "title": "Photo-to-Isometric: Reality Slice Generator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e76220148c42.json"
+    },
     {
       "id": "opl_fd35000200e1",
       "slug": "photogrammetery-modelling-tools",
@@ -1247,15 +1256,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e41a8f821bc.json"
-    },
-    {
-      "id": "opl_d6c83b8d2aba",
-      "slug": "profile-pic-rebuild",
-      "title": "Profile pic rebuild",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6c83b8d2aba.json"
     }
   ]
 }

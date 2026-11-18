@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T03:20:49.203Z",
+  "last_updated": "2026-11-18T04:20:48.907Z",
   "page": 15,
   "per_page": 100,
-  "total": 2815,
+  "total": 2816,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_9975718f0c6f",
+      "slug": "isc-class-12th-exam-paper-analyzer-and-evaluator",
+      "title": "ISC Class 12th Exam Paper Analyzer and evaluator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9975718f0c6f.json"
+    },
     {
       "id": "opl_eedcdd35cdba",
       "slug": "iso-3166-lookup-country-codes",
@@ -1014,15 +1023,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ba610fc5a.json"
-    },
-    {
-      "id": "opl_e5383ededbef",
-      "slug": "libreoffice-calc",
-      "title": "LibreOffice Calc",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5383ededbef.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T03:20:49.203Z",
+  "last_updated": "2026-11-18T04:20:48.907Z",
   "page": 26,
   "per_page": 100,
-  "total": 2815,
+  "total": 2816,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_27eda67c6b0c",
+      "slug": "system-prompt-editor-general",
+      "title": "System Prompt Editor (General)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27eda67c6b0c.json"
+    },
     {
       "id": "opl_d7526f4d1134",
       "slug": "system-prompt-enhancement-ideator",
@@ -989,15 +998,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3270af8d7e3.json"
-    },
-    {
-      "id": "opl_562dd2a9ff54",
-      "slug": "the-technical-co-founder-building-real-products-together",
-      "title": "The Technical Co-Founder: Building Real Products Together",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_562dd2a9ff54.json"
     }
   ]
 }

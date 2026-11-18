@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T03:20:49.203Z",
+  "last_updated": "2026-11-18T04:20:48.907Z",
   "page": 18,
   "per_page": 100,
-  "total": 2815,
+  "total": 2816,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_ae9111f88366",
+      "slug": "multi-agent-frameworks-guide",
+      "title": "Multi-Agent Frameworks Guide",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae9111f88366.json"
+    },
     {
       "id": "opl_14679da4e2e3",
       "slug": "multi-audience-application-discovery-documentation-prompt",
@@ -1069,15 +1078,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75bda0f0f057.json"
-    },
-    {
-      "id": "opl_2e3c768c710b",
-      "slug": "only-obscure-product-recs",
-      "title": "Only Obscure Product Recs",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e3c768c710b.json"
     }
   ]
 }

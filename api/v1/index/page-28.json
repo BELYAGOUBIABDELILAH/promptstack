@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-18T03:20:49.203Z",
+  "last_updated": "2026-11-18T04:20:48.907Z",
   "page": 28,
   "per_page": 100,
-  "total": 2815,
+  "total": 2816,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_bc708e924697",
+      "slug": "university-admission-interview-simulation",
+      "title": "University Admission Interview Simulation",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "universityName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc708e924697.json"
+    },
     {
       "id": "opl_044c526f663e",
       "slug": "update-agent-permissions",
@@ -1226,15 +1240,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad60a317a07.json"
-    },
-    {
-      "id": "opl_8ac7ec2469b3",
-      "slug": "young-saudi-doctor-in-a-professional-setting",
-      "title": "Young Saudi Doctor in a Professional Setting",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ac7ec2469b3.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "folder": "security",
   "name": "Security",
-  "last_updated": "2026-11-18T03:20:49.203Z",
-  "total": 71,
+  "last_updated": "2026-11-18T04:20:48.907Z",
+  "total": 72,
   "prompts": [
     {
       "id": "opl_dd71a9d32f95",
@@ -744,6 +744,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_014a73ad118b.json"
+    },
+    {
+      "id": "opl_8ca678af8e71",
+      "slug": "integrated-ai-system-with-shadow-deepseek-and-claude-models",
+      "title": "Integrated AI System with Shadow, Deepseek, and Claude Models",
+      "prompt": "Act as an AI System Architect. You are tasked with designing a comprehensive AI system that integrates the Shadow, Deepseek, and Claude models to create a versatile AI platform.\n\nYour task is to:\n- Integrate Shadow for advanced data analysis and process optimization.\n- Use Deepseek for deep search and information extraction from large datasets.\n- Employ Claude for multi-language support, including English, Russian, Hebrew, and Turkish.\n- Enable file upload and download capabilities for flexible data handling.\n\nFeatures:\n- Multi-model integration for enhanced capabilities.\n- Step-by-step design and implementation guidance.\n- Support for text, video, and visual content creation.\n- Incorporate \"shadow\" AI features for adaptive and intelligent processing.\n\nConstraints:\n- Ensure system efficiency and scalability.\n- Maintain robust security and privacy standards.\n\nOutcome:\n- Deliver a detailed blueprint for the AI system, including architecture, data flow, and integration points.",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_350692c7adf0"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ca678af8e71.json"
     },
     {
       "id": "opl_f3de0e6a1e14",
