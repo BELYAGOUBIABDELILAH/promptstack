@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 23,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_4e4ce94e18c2",
+      "slug": "rpa-agentic-ai-process-developer-portfolio-design-for-claude",
+      "title": "RPA/Agentic AI Process Developer Portfolio Design for Claude",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "domain",
+          "default": null
+        },
+        {
+          "name": "name",
+          "default": null
+        },
+        {
+          "name": "primaryColor",
+          "default": null
+        },
+        {
+          "name": "secondaryColor",
+          "default": null
+        },
+        {
+          "name": "style",
+          "default": "modern"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ce94e18c2.json"
+    },
     {
       "id": "opl_376138fabaff",
       "slug": "rubber-duck-debugging-with-ai",
@@ -1227,15 +1257,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5504ce787665.json"
-    },
-    {
-      "id": "opl_34285800c9d5",
-      "slug": "shakespearean-text-generator",
-      "title": "Shakespearean Text Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34285800c9d5.json"
     }
   ]
 }

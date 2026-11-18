@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 21,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_524e2f608c11",
+      "slug": "professional-linguistic-expert-and-translator",
+      "title": "professional linguistic expert and translator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_524e2f608c11.json"
+    },
     {
       "id": "opl_f956cf28b407",
       "slug": "professional-networking-language-for-career-fairs",
@@ -1103,15 +1112,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fe2801c043f.json"
-    },
-    {
-      "id": "opl_719afe1d6748",
-      "slug": "rapid-prototyper",
-      "title": "Rapid Prototyper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_719afe1d6748.json"
     }
   ]
 }

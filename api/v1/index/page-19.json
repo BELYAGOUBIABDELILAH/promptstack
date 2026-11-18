@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 19,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_0e1e21556637",
+      "slug": "old-english-email-drafter",
+      "title": "Old English Email Drafter",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e1e21556637.json"
+    },
     {
       "id": "opl_db9bf3d67a63",
       "slug": "olympic-games-events-weekly-listings-prompt",
@@ -1105,15 +1114,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f62c8a4452df.json"
-    },
-    {
-      "id": "opl_32f3147d1ce3",
-      "slug": "pet-behaviorist",
-      "title": "Pet Behaviorist",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32f3147d1ce3.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 27,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_1aee54f7cb21",
+      "slug": "the-midnight-informant",
+      "title": "The Midnight Informant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1aee54f7cb21.json"
+    },
     {
       "id": "opl_6275fc2ba77c",
       "slug": "the-midnight-melody-mystery",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20c1f02c7466.json"
-    },
-    {
-      "id": "opl_fbbf6ce6fde3",
-      "slug": "understand-error-handling-patterns",
-      "title": "Understand Error Handling Patterns",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbbf6ce6fde3.json"
     }
   ]
 }

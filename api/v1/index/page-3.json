@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 3,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_e289f3359f80",
+      "slug": "ai-themed-design-image-creation",
+      "title": "AI Themed Design Image Creation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e289f3359f80.json"
+    },
     {
       "id": "opl_3a849cab4c57",
       "slug": "ai-tool-finder",
@@ -1134,15 +1143,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ffa4ad5fe4df.json"
-    },
-    {
-      "id": "opl_b7abbca83b6b",
-      "slug": "assistant-ideator-geopol",
-      "title": "Assistant Ideator - Geopol",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7abbca83b6b.json"
     }
   ]
 }

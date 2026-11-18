@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 6,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_aa933cb6ca52",
+      "slug": "asistente-de-recetas-de-cocina-chilena",
+      "title": "Chilean Cuisine Recipe Assistant",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa933cb6ca52.json"
+    },
     {
       "id": "opl_84732564e35c",
       "slug": "chimera-ai-powered-prompt-optimization-system",
@@ -1135,15 +1144,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_854734d7130d.json"
-    },
-    {
-      "id": "opl_4d6947eeec90",
-      "slug": "communications-tools-finder",
-      "title": "Communications Tools-Finder",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d6947eeec90.json"
     }
   ]
 }

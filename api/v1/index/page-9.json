@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 9,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_75b5d57e13c6",
+      "slug": "dating-profile-optimization-suite",
+      "title": "Dating Profile Optimization Suite",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75b5d57e13c6.json"
+    },
     {
       "id": "opl_ca3aa22b1d96",
       "slug": "dax-terminal",
@@ -1174,15 +1183,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_942650657c03.json"
-    },
-    {
-      "id": "opl_5e91cea9eb9d",
-      "slug": "docs-extraction-utility",
-      "title": "Docs Extraction Utility",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e91cea9eb9d.json"
     }
   ]
 }

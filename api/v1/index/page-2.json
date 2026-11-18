@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 2,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
@@ -1126,6 +1126,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f76bf33f0e2.json"
     },
     {
+      "id": "opl_416f42221906",
+      "slug": "ai-provider-research-expert",
+      "title": "AI Provider Research Expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_416f42221906.json"
+    },
+    {
       "id": "opl_627b8ffb35ed",
       "slug": "ai-q-a-doc-formatter",
       "title": "AI Q&A Doc Formatter",
@@ -1209,15 +1218,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c0388dd8423.json"
-    },
-    {
-      "id": "opl_e289f3359f80",
-      "slug": "ai-themed-design-image-creation",
-      "title": "AI Themed Design Image Creation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e289f3359f80.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1119 prompts in this category**
+**1120 prompts in this category**
 
 ## Table of Contents
 
@@ -71,6 +71,7 @@
 - [AI Performance & Deep Testing Engineer](ai-performance-deep-testing-engineer.md)
 - [AI Process Feasibility Interview](ai-process-feasibility-interview.md)
 - [AI Productivity Artifact Generator](ai-productivity-artifact-generator.md)
+- [AI Provider Research Expert](ai-provider-research-expert.md)
 - [AI Questions](ai-questions.md)
 - [AI Search Mastery Bootcamp](ai-search-mastery-bootcamp.md)
 - [AI Themed Design Image Creation](ai-themed-design-image-creation.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 22,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_719afe1d6748",
+      "slug": "rapid-prototyper",
+      "title": "Rapid Prototyper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_719afe1d6748.json"
+    },
     {
       "id": "opl_bc6dda44bc46",
       "slug": "rapid-prototyper-agent-role",
@@ -1084,36 +1093,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9fb5ad97d986.json"
-    },
-    {
-      "id": "opl_4e4ce94e18c2",
-      "slug": "rpa-agentic-ai-process-developer-portfolio-design-for-claude",
-      "title": "RPA/Agentic AI Process Developer Portfolio Design for Claude",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "domain",
-          "default": null
-        },
-        {
-          "name": "name",
-          "default": null
-        },
-        {
-          "name": "primaryColor",
-          "default": null
-        },
-        {
-          "name": "secondaryColor",
-          "default": null
-        },
-        {
-          "name": "style",
-          "default": "modern"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ce94e18c2.json"
     }
   ]
 }

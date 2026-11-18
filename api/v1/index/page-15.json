@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 15,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_a32d2f12a867",
+      "slug": "is-it-any-good",
+      "title": "Is It Any Good?",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a32d2f12a867.json"
+    },
     {
       "id": "opl_343f2861413e",
       "slug": "is-that-a-job",
@@ -1005,24 +1014,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12aeeaf0ede4.json"
-    },
-    {
-      "id": "opl_bf9b8582f7c7",
-      "slug": "legal-ai-amplifier",
-      "title": "Legal AI Amplifier",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "context",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": "English"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf9b8582f7c7.json"
     }
   ]
 }

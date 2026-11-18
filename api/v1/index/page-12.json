@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 12,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_c16662138fbb",
+      "slug": "fonts-and-accessibility",
+      "title": "Fonts And Accessibility",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16662138fbb.json"
+    },
     {
       "id": "opl_cfb264f13b73",
       "slug": "food-critic",
@@ -1015,15 +1024,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a606e0987d70.json"
-    },
-    {
-      "id": "opl_8348db2e1808",
-      "slug": "google-cloud-platform",
-      "title": "Google Cloud Platform",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8348db2e1808.json"
     }
   ]
 }

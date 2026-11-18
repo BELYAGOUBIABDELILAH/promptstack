@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-18T14:20:59.815Z",
+  "last_updated": "2026-11-18T15:20:51.661Z",
   "page": 11,
   "per_page": 100,
-  "total": 2826,
+  "total": 2827,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_59c2d3cdacd3",
+      "slug": "enhance-and-beautify-your-photo",
+      "title": "Enhance and Beautify Your Photo",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "style",
+          "default": "Natural"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59c2d3cdacd3.json"
+    },
     {
       "id": "opl_71d712f81784",
       "slug": "enhancing-efficiency-with-codex-using-sub-agents",
@@ -1135,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_608f5fc145d4.json"
-    },
-    {
-      "id": "opl_c16662138fbb",
-      "slug": "fonts-and-accessibility",
-      "title": "Fonts And Accessibility",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16662138fbb.json"
     }
   ]
 }
