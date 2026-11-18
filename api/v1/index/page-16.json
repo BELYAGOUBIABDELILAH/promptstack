@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T01:20:42.017Z",
+  "last_updated": "2026-11-18T02:20:49.219Z",
   "page": 16,
   "per_page": 100,
-  "total": 2813,
+  "total": 2814,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_1a33506dd541",
+      "slug": "license-selection-assistant-from-intellectual-property-exper",
+      "title": "License Selection Assistant from Intellectual Property expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a33506dd541.json"
+    },
     {
       "id": "opl_8dbee8d7030a",
       "slug": "life-coach",
@@ -1112,36 +1121,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9e5576c98b8.json"
-    },
-    {
-      "id": "opl_0088ca5b92cf",
-      "slug": "master-app-store-localization-aso-prompt-2025-full-metadata",
-      "title": "Master App Store Localization & ASO Prompt (2025) – Full Metadata Generator",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "app_keywords",
-          "default": null
-        },
-        {
-          "name": "app_name",
-          "default": null
-        },
-        {
-          "name": "competitor_apps",
-          "default": null
-        },
-        {
-          "name": "describe_your_app",
-          "default": null
-        },
-        {
-          "name": "target_audience",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0088ca5b92cf.json"
     }
   ]
 }

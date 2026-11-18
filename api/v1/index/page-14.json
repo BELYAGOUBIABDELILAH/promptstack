@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T01:20:42.017Z",
+  "last_updated": "2026-11-18T02:20:49.219Z",
   "page": 14,
   "per_page": 100,
-  "total": 2813,
+  "total": 2814,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
@@ -1038,6 +1038,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68de381b1454.json"
     },
     {
+      "id": "opl_c71c1ce69510",
+      "slug": "ipo-analysis",
+      "title": "IPO analysis",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c71c1ce69510.json"
+    },
+    {
       "id": "opl_a32d2f12a867",
       "slug": "is-it-any-good",
       "title": "Is It Any Good?",
@@ -1108,15 +1117,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9975718f0c6f.json"
-    },
-    {
-      "id": "opl_eedcdd35cdba",
-      "slug": "iso-3166-lookup-country-codes",
-      "title": "ISO 3166 Lookup (Country Codes)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eedcdd35cdba.json"
     }
   ]
 }

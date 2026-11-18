@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-18T01:20:42.017Z",
+  "last_updated": "2026-11-18T02:20:49.219Z",
   "page": 22,
   "per_page": 100,
-  "total": 2813,
+  "total": 2814,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_b28fc8423e4d",
+      "slug": "realistic-amateur-phone-photo-with-whatsapp-chat",
+      "title": "Realistic Amateur Phone Photo with WhatsApp Chat",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "language_name",
+          "default": "Turkish"
+        },
+        {
+          "name": "receiver_name",
+          "default": null
+        },
+        {
+          "name": "talk_style",
+          "default": null
+        },
+        {
+          "name": "talk_subject",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28fc8423e4d.json"
+    },
     {
       "id": "opl_0afedbbc65b1",
       "slug": "realistic-amateur-vibe-candid-photography-prompt",
@@ -1084,15 +1110,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c9a2504cbd9.json"
-    },
-    {
-      "id": "opl_aabc0e544811",
-      "slug": "sales-enablement-writer",
-      "title": "Sales Enablement Writer",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aabc0e544811.json"
     }
   ]
 }

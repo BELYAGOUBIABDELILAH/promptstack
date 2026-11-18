@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T01:20:42.017Z",
+  "last_updated": "2026-11-18T02:20:49.219Z",
   "page": 25,
   "per_page": 100,
-  "total": 2813,
+  "total": 2814,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_4b393f96b46c",
+      "slug": "statistics-checker",
+      "title": "Statistics Checker",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b393f96b46c.json"
+    },
     {
       "id": "opl_f1877c03e08f",
       "slug": "statistics-guru-on-call",
@@ -1087,15 +1096,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d7526f4d1134.json"
-    },
-    {
-      "id": "opl_9a6fc23d0100",
-      "slug": "system-prompt-feature-editor",
-      "title": "System Prompt Feature Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a6fc23d0100.json"
     }
   ]
 }

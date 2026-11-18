@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**65 prompts in this category**
+**66 prompts in this category**
 
 ## Table of Contents
 
@@ -38,6 +38,7 @@
 - [Implement Data Retention Policies](implement-data-retention-policies.md)
 - [Implement Role-Based Access Control](implement-role-based-access-control.md)
 - [Integrate with Enterprise SSO](integrate-with-enterprise-sso.md)
+- [IPO analysis](ipo-analysis.md)
 - [Is That A Job?](is-that-a-job.md)
 - [Job Hunt Email Finder](job-hunt-email-finder.md)
 - [Job Hunt Summary Crafter](job-hunt-summary-crafter.md)

@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-18T01:20:42.017Z",
+  "last_updated": "2026-11-18T02:20:49.219Z",
   "page": 17,
   "per_page": 100,
-  "total": 2813,
+  "total": 2814,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_0088ca5b92cf",
+      "slug": "master-app-store-localization-aso-prompt-2025-full-metadata",
+      "title": "Master App Store Localization & ASO Prompt (2025) – Full Metadata Generator",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "app_keywords",
+          "default": null
+        },
+        {
+          "name": "app_name",
+          "default": null
+        },
+        {
+          "name": "competitor_apps",
+          "default": null
+        },
+        {
+          "name": "describe_your_app",
+          "default": null
+        },
+        {
+          "name": "target_audience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0088ca5b92cf.json"
+    },
     {
       "id": "opl_6db64574ad34",
       "slug": "master-chinese-web-novel-author",
@@ -1078,15 +1108,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14679da4e2e3.json"
-    },
-    {
-      "id": "opl_47e73b1d5e18",
-      "slug": "multi-tenant-data-isolation",
-      "title": "Multi-Tenant Data Isolation",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47e73b1d5e18.json"
     }
   ]
 }

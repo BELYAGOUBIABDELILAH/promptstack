@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T01:20:42.017Z",
+  "last_updated": "2026-11-18T02:20:49.219Z",
   "page": 19,
   "per_page": 100,
-  "total": 2813,
+  "total": 2814,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_9281b0895bf3",
+      "slug": "open-issues-by-priority-and-health-status",
+      "title": "Open Issues by Priority and Health Status",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9281b0895bf3.json"
+    },
     {
       "id": "opl_525a1c05822a",
       "slug": "open-source-free-license-selection-assistant",
@@ -1122,15 +1131,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd35000200e1.json"
-    },
-    {
-      "id": "opl_ecd1d0992253",
-      "slug": "photography-trip-planning-research-backed-itinerary-builder",
-      "title": "Photography Trip Planning — Research-Backed Itinerary Builder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecd1d0992253.json"
     }
   ]
 }

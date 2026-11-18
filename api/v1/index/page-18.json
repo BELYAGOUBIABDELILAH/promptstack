@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T01:20:42.017Z",
+  "last_updated": "2026-11-18T02:20:49.219Z",
   "page": 18,
   "per_page": 100,
-  "total": 2813,
+  "total": 2814,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_47e73b1d5e18",
+      "slug": "multi-tenant-data-isolation",
+      "title": "Multi-Tenant Data Isolation",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47e73b1d5e18.json"
+    },
     {
       "id": "opl_91b538e4c251",
       "slug": "multilingual-writing-improvement-assistant",
@@ -1069,15 +1078,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_99e27c2dfd68.json"
-    },
-    {
-      "id": "opl_9281b0895bf3",
-      "slug": "open-issues-by-priority-and-health-status",
-      "title": "Open Issues by Priority and Health Status",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9281b0895bf3.json"
     }
   ]
 }

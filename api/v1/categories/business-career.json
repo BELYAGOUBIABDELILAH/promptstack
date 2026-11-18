@@ -1,8 +1,8 @@
 {
   "folder": "business-career",
   "name": "Business & Career",
-  "last_updated": "2026-11-18T01:20:42.017Z",
-  "total": 65,
+  "last_updated": "2026-11-18T02:20:49.219Z",
+  "total": 66,
   "prompts": [
     {
       "id": "opl_9051647e5ce0",
@@ -572,6 +572,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd9b6ea823c4.json"
+    },
+    {
+      "id": "opl_c71c1ce69510",
+      "slug": "ipo-analysis",
+      "title": "IPO analysis",
+      "prompt": "Act as an investment analyst who have years of experience in valuing stocks. Who considers all the risks and assess the upside and future opportunities. Now prepare your listing day strategy for Jio platform if you have say 600 shares.\nUse all the information available on internet but don't form conclusion on the basis of that only. Apply your intelligence as well as drhp info",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_0d0b4b267d3a"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c71c1ce69510.json"
     },
     {
       "id": "opl_343f2861413e",

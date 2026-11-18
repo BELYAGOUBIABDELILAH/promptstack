@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T01:20:42.017Z",
+  "last_updated": "2026-11-18T02:20:49.219Z",
   "page": 15,
   "per_page": 100,
-  "total": 2813,
+  "total": 2814,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_eedcdd35cdba",
+      "slug": "iso-3166-lookup-country-codes",
+      "title": "ISO 3166 Lookup (Country Codes)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eedcdd35cdba.json"
+    },
     {
       "id": "opl_bd48dbd70442",
       "slug": "iso-4217-lookup-world-currencies",
@@ -1014,15 +1023,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5383ededbef.json"
-    },
-    {
-      "id": "opl_1a33506dd541",
-      "slug": "license-selection-assistant-from-intellectual-property-exper",
-      "title": "License Selection Assistant from Intellectual Property expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a33506dd541.json"
     }
   ]
 }
