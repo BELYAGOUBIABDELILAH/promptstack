@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 24,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_49fa2c413bd1",
+      "slug": "shakespearean-document-generator",
+      "title": "Shakespearean Document Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49fa2c413bd1.json"
+    },
     {
       "id": "opl_a429eb23eef0",
       "slug": "shakespearean-email-writer",
@@ -1057,15 +1066,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dc4d0ecb6b68.json"
-    },
-    {
-      "id": "opl_dbb206a39070",
-      "slug": "stack-option-ideator",
-      "title": "Stack Option Ideator",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbb206a39070.json"
     }
   ]
 }

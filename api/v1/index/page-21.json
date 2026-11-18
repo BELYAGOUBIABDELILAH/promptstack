@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 21,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_d8e252e10251",
+      "slug": "professional-identity-identifier",
+      "title": "Professional identity identifier",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d8e252e10251.json"
+    },
     {
       "id": "opl_c680691d0bfc",
       "slug": "professional-image-creation-for-printable-sales-materials",
@@ -1112,15 +1121,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a83a08bdedea.json"
-    },
-    {
-      "id": "opl_091376dcdead",
-      "slug": "random-ai-assistant-ideator",
-      "title": "Random AI Assistant Ideator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_091376dcdead.json"
     }
   ]
 }

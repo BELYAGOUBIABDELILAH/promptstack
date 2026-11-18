@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 28,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_29b2f21e5018",
+      "slug": "understand-class-hierarchy-and-inheritance",
+      "title": "Understand Class Hierarchy and Inheritance",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29b2f21e5018.json"
+    },
     {
       "id": "opl_14027f148a0f",
       "slug": "understand-code-before-making-changes",
@@ -1226,20 +1235,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_72c6c65d1367.json"
-    },
-    {
-      "id": "opl_3890b19a2c8b",
-      "slug": "world-of-darkness-colored-comic-style",
-      "title": "World of Darkness Colored Comic style",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "subject",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3890b19a2c8b.json"
     }
   ]
 }

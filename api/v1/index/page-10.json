@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 10,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_942650657c03",
+      "slug": "docker-compose-debugger",
+      "title": "Docker Compose Debugger",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_942650657c03.json"
+    },
     {
       "id": "opl_5e91cea9eb9d",
       "slug": "docs-extraction-utility",
@@ -1242,15 +1251,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_746e630b2ec4.json"
-    },
-    {
-      "id": "opl_949798469fd8",
-      "slug": "english-translator-and-improver",
-      "title": "English Translator and Improver",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_949798469fd8.json"
     }
   ]
 }

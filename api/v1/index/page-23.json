@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 23,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_6bd81e8355b3",
+      "slug": "root-cause-architect-5-whys-technique",
+      "title": "Root Cause Architect (5 Whys Technique)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6bd81e8355b3.json"
+    },
     {
       "id": "opl_6d889206e6d3",
       "slug": "roster",
@@ -1248,15 +1257,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc07016e9f26.json"
-    },
-    {
-      "id": "opl_49fa2c413bd1",
-      "slug": "shakespearean-document-generator",
-      "title": "Shakespearean Document Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49fa2c413bd1.json"
     }
   ]
 }

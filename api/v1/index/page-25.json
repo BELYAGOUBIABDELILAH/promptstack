@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 25,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_dbb206a39070",
+      "slug": "stack-option-ideator",
+      "title": "Stack Option Ideator",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbb206a39070.json"
+    },
     {
       "id": "opl_31460b67ba03",
       "slug": "stack-research-prompt-optimiser",
@@ -1096,15 +1105,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1912b040020.json"
-    },
-    {
-      "id": "opl_3f82dc3f18e6",
-      "slug": "synthesis-architect-pro",
-      "title": "Synthesis Architect Pro",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f82dc3f18e6.json"
     }
   ]
 }

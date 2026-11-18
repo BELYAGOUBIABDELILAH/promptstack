@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 11,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_949798469fd8",
+      "slug": "english-translator-and-improver",
+      "title": "English Translator and Improver",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_949798469fd8.json"
+    },
     {
       "id": "opl_59c2d3cdacd3",
       "slug": "enhance-and-beautify-your-photo",
@@ -1140,15 +1149,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27393adb150a.json"
-    },
-    {
-      "id": "opl_608f5fc145d4",
-      "slug": "florist",
-      "title": "Florist",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_608f5fc145d4.json"
     }
   ]
 }

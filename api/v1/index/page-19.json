@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 19,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_29247cf1949f",
+      "slug": "ocean-s-eleven-movie-poster-illustration",
+      "title": "Ocean’s Eleven Movie Poster Illustration",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29247cf1949f.json"
+    },
     {
       "id": "opl_442409fe7cbf",
       "slug": "odalisque",
@@ -1031,76 +1040,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2681ce74b87d.json"
-    },
-    {
-      "id": "opl_ec7b895ad10a",
-      "slug": "personalized-technical-intelligence-briefing-for-edge-ai-in",
-      "title": "Personalized Technical Intelligence Briefing for Edge AI in Defense",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "actionableInsight1",
-          "default": null
-        },
-        {
-          "name": "actionableInsight2",
-          "default": null
-        },
-        {
-          "name": "bibleVerse",
-          "default": null
-        },
-        {
-          "name": "breakthrough1",
-          "default": null
-        },
-        {
-          "name": "breakthrough2",
-          "default": null
-        },
-        {
-          "name": "headline1",
-          "default": null
-        },
-        {
-          "name": "headline2",
-          "default": null
-        },
-        {
-          "name": "implementationDetails1",
-          "default": null
-        },
-        {
-          "name": "implementationDetails2",
-          "default": null
-        },
-        {
-          "name": "relevanceScore1",
-          "default": null
-        },
-        {
-          "name": "relevanceScore2",
-          "default": null
-        },
-        {
-          "name": "sourceLink1",
-          "default": null
-        },
-        {
-          "name": "sourceLink2",
-          "default": null
-        },
-        {
-          "name": "technicalSummary1",
-          "default": null
-        },
-        {
-          "name": "technicalSummary2",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec7b895ad10a.json"
     }
   ]
 }

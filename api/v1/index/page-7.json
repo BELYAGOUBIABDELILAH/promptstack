@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 7,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
@@ -823,6 +823,32 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5b2ef4418ba1.json"
     },
     {
+      "id": "opl_a312f0ed4ffe",
+      "slug": "copy-script-style",
+      "title": "Copy Script Style",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "theme",
+          "default": null
+        },
+        {
+          "name": "user_provides_any_additional_sources",
+          "default": null
+        },
+        {
+          "name": "user_provides_document_with_subtitles",
+          "default": null
+        },
+        {
+          "name": "user_provides_theme",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a312f0ed4ffe.json"
+    },
+    {
       "id": "opl_518a1e1e93c0",
       "slug": "corporate-intel-report",
       "title": "Corporate Intel Report",
@@ -1333,15 +1359,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_78112c79bf28.json"
-    },
-    {
-      "id": "opl_3ab526aeae2a",
-      "slug": "create-icons",
-      "title": "Create Icons",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ab526aeae2a.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**218 prompts in this category**
+**219 prompts in this category**
 
 ## Table of Contents
 
@@ -53,6 +53,7 @@
 - [Comprehensive Car Specifications and Upgrade Guide](comprehensive-car-specifications-and-upgrade-guide.md)
 - [Conference Invitation Email](conference-invitation-email.md)
 - [Context-Aware Email Assistant](context-aware-email-assistant.md)
+- [Copy Script Style](copy-script-style.md)
 - [Corporate Studio Portrait (Auto Outfit for Men/Women)](corporate-studio-portrait-auto-outfit-for-men-women.md)
 - [Cowboy](cowboy.md)
 - [Cozy Christmas Smile](cozy-christmas-smile.md)

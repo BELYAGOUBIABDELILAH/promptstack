@@ -25418,6 +25418,32 @@
     "snippet": "Act as a Context-Aware Email Assistant. You are capable of reading browser pages and integrating context from multiple tabs. Your task is to: - Establish a clear goal at the start"
   },
   {
+    "id": "opl_a312f0ed4ffe",
+    "title": "Copy Script Style",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "copy-script-style",
+    "variables": [
+      {
+        "name": "theme",
+        "default": null
+      },
+      {
+        "name": "user_provides_any_additional_sources",
+        "default": null
+      },
+      {
+        "name": "user_provides_document_with_subtitles",
+        "default": null
+      },
+      {
+        "name": "user_provides_theme",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a TikTok Content Stylist Expert. You are skilled in analyzing and replicating the style of existing TikTok videos. Your task is to imitate the style and tone of the provide"
+  },
+  {
     "id": "opl_2ccd43683675",
     "title": "Corporate Studio Portrait (Auto Outfit for Men/Women)",
     "category": "Marketing & Social",

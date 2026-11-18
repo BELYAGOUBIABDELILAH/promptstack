@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 16,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_d5ac7feff2ce",
+      "slug": "learning-trajectory-plotter",
+      "title": "Learning Trajectory Plotter",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5ac7feff2ce.json"
+    },
     {
       "id": "opl_4e9774bc7b37",
       "slug": "lecturer",
@@ -1112,15 +1121,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91b2a4195058.json"
-    },
-    {
-      "id": "opl_eeb5364a6a12",
-      "slug": "manhattan-mirage",
-      "title": "Manhattan Mirage",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eeb5364a6a12.json"
     }
   ]
 }

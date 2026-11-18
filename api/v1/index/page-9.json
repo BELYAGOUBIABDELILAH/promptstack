@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T18:20:49.301Z",
+  "last_updated": "2026-11-18T19:20:46.257Z",
   "page": 9,
   "per_page": 100,
-  "total": 2830,
+  "total": 2831,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_9104bd4ecc46",
+      "slug": "database-matchmaker",
+      "title": "Database Matchmaker",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9104bd4ecc46.json"
+    },
     {
       "id": "opl_75b5d57e13c6",
       "slug": "dating-profile-optimization-suite",
@@ -1174,15 +1183,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c2cea354555.json"
-    },
-    {
-      "id": "opl_942650657c03",
-      "slug": "docker-compose-debugger",
-      "title": "Docker Compose Debugger",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_942650657c03.json"
     }
   ]
 }
