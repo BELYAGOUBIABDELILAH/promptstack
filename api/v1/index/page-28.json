@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T16:20:52.857Z",
+  "last_updated": "2026-11-18T17:21:00.610Z",
   "page": 28,
   "per_page": 100,
-  "total": 2828,
+  "total": 2829,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_143870cdafab",
+      "slug": "understand-configuration-and-environment-setup",
+      "title": "Understand Configuration and Environment Setup",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_143870cdafab.json"
+    },
     {
       "id": "opl_20c1f02c7466",
       "slug": "understand-data-flow-through-system",
@@ -1252,15 +1261,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c41c18c9eddf.json"
-    },
-    {
-      "id": "opl_9299dc67f4d0",
-      "slug": "write-tier-descriptions",
-      "title": "Write Tier Descriptions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9299dc67f4d0.json"
     }
   ]
 }

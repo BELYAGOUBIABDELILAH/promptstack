@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T16:20:52.857Z",
+  "last_updated": "2026-11-18T17:21:00.610Z",
   "page": 15,
   "per_page": 100,
-  "total": 2828,
+  "total": 2829,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
@@ -989,6 +989,160 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e7cd7dd1735.json"
     },
     {
+      "id": "opl_ebe06e5f4728",
+      "slug": "learning-from-zero",
+      "title": "learning from zero",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "application_scenarios",
+          "default": null
+        },
+        {
+          "name": "available_time",
+          "default": null
+        },
+        {
+          "name": "blog_drafts",
+          "default": null
+        },
+        {
+          "name": "completed_modules",
+          "default": null
+        },
+        {
+          "name": "completed_practice",
+          "default": null
+        },
+        {
+          "name": "core_learning_purpose",
+          "default": null
+        },
+        {
+          "name": "current_level",
+          "default": null
+        },
+        {
+          "name": "current_module",
+          "default": null
+        },
+        {
+          "name": "current_stage",
+          "default": null
+        },
+        {
+          "name": "excluded_topics",
+          "default": null
+        },
+        {
+          "name": "existing_experience",
+          "default": null
+        },
+        {
+          "name": "final_goal",
+          "default": null
+        },
+        {
+          "name": "formal_learning_definition",
+          "default": null
+        },
+        {
+          "name": "learning_preferences",
+          "default": null
+        },
+        {
+          "name": "learning_progress_record",
+          "default": null
+        },
+        {
+          "name": "learning_topic",
+          "default": null
+        },
+        {
+          "name": "main_resource",
+          "default": null
+        },
+        {
+          "name": "mastered_knowledge",
+          "default": null
+        },
+        {
+          "name": "missing_prerequisites",
+          "default": null
+        },
+        {
+          "name": "module_teaching_structure",
+          "default": null
+        },
+        {
+          "name": "my_learning_profile",
+          "default": null
+        },
+        {
+          "name": "next_task",
+          "default": null
+        },
+        {
+          "name": "note_title",
+          "default": null
+        },
+        {
+          "name": "notion_notes",
+          "default": null
+        },
+        {
+          "name": "open_questions",
+          "default": null
+        },
+        {
+          "name": "other_requirements",
+          "default": null
+        },
+        {
+          "name": "practice_resources",
+          "default": null
+        },
+        {
+          "name": "reference_resources",
+          "default": null
+        },
+        {
+          "name": "required_topics",
+          "default": null
+        },
+        {
+          "name": "resources_and_external_materials",
+          "default": null
+        },
+        {
+          "name": "response_rules",
+          "default": null
+        },
+        {
+          "name": "supplementary_resources",
+          "default": null
+        },
+        {
+          "name": "target_blog_audience",
+          "default": null
+        },
+        {
+          "name": "target_depth",
+          "default": null
+        },
+        {
+          "name": "weak_areas",
+          "default": null
+        },
+        {
+          "name": "your_main_responsibilities",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebe06e5f4728.json"
+    },
+    {
       "id": "opl_d645484c1f81",
       "slug": "learning-style-guide",
       "title": "Learning Style Guide",
@@ -1005,15 +1159,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5ac7feff2ce.json"
-    },
-    {
-      "id": "opl_4e9774bc7b37",
-      "slug": "lecturer",
-      "title": "Lecturer",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e9774bc7b37.json"
     }
   ]
 }

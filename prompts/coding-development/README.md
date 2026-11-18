@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1121 prompts in this category**
+**1122 prompts in this category**
 
 ## Table of Contents
 
@@ -602,6 +602,7 @@
 - [Learn Any Technical/Coding Topic](learn-any-technical-coding-topic.md)
 - [Learn quiz session](learn-quiz-session.md)
 - [Learn Rust Programming](learn-rust-programming.md)
+- [learning from zero](learning-from-zero.md)
 - [Legal Risk Minimization Tool for Freelancers](legal-risk-minimization-tool-for-freelancers.md)
 - [LibreOffice Calc](libreoffice-calc.md)
 - [License Selection Assistant from Intellectual Property expert](license-selection-assistant-from-intellectual-property-exper.md)

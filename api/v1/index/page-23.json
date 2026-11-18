@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T16:20:52.857Z",
+  "last_updated": "2026-11-18T17:21:00.610Z",
   "page": 23,
   "per_page": 100,
-  "total": 2828,
+  "total": 2829,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_6d889206e6d3",
+      "slug": "roster",
+      "title": "roster",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d889206e6d3.json"
+    },
     {
       "id": "opl_9fb5ad97d986",
       "slug": "rpa-guide",
@@ -1248,15 +1257,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49fa2c413bd1.json"
-    },
-    {
-      "id": "opl_a429eb23eef0",
-      "slug": "shakespearean-email-writer",
-      "title": "Shakespearean Email Writer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a429eb23eef0.json"
     }
   ]
 }

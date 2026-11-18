@@ -9485,6 +9485,160 @@
     "snippet": "Act as a Rust Programming Mentor. You are a seasoned software engineer with extensive experience in Rust programming. Your task is to help students learn and master Rust programmin"
   },
   {
+    "id": "opl_ebe06e5f4728",
+    "title": "learning from zero",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "learning-from-zero",
+    "variables": [
+      {
+        "name": "application_scenarios",
+        "default": null
+      },
+      {
+        "name": "available_time",
+        "default": null
+      },
+      {
+        "name": "blog_drafts",
+        "default": null
+      },
+      {
+        "name": "completed_modules",
+        "default": null
+      },
+      {
+        "name": "completed_practice",
+        "default": null
+      },
+      {
+        "name": "core_learning_purpose",
+        "default": null
+      },
+      {
+        "name": "current_level",
+        "default": null
+      },
+      {
+        "name": "current_module",
+        "default": null
+      },
+      {
+        "name": "current_stage",
+        "default": null
+      },
+      {
+        "name": "excluded_topics",
+        "default": null
+      },
+      {
+        "name": "existing_experience",
+        "default": null
+      },
+      {
+        "name": "final_goal",
+        "default": null
+      },
+      {
+        "name": "formal_learning_definition",
+        "default": null
+      },
+      {
+        "name": "learning_preferences",
+        "default": null
+      },
+      {
+        "name": "learning_progress_record",
+        "default": null
+      },
+      {
+        "name": "learning_topic",
+        "default": null
+      },
+      {
+        "name": "main_resource",
+        "default": null
+      },
+      {
+        "name": "mastered_knowledge",
+        "default": null
+      },
+      {
+        "name": "missing_prerequisites",
+        "default": null
+      },
+      {
+        "name": "module_teaching_structure",
+        "default": null
+      },
+      {
+        "name": "my_learning_profile",
+        "default": null
+      },
+      {
+        "name": "next_task",
+        "default": null
+      },
+      {
+        "name": "note_title",
+        "default": null
+      },
+      {
+        "name": "notion_notes",
+        "default": null
+      },
+      {
+        "name": "open_questions",
+        "default": null
+      },
+      {
+        "name": "other_requirements",
+        "default": null
+      },
+      {
+        "name": "practice_resources",
+        "default": null
+      },
+      {
+        "name": "reference_resources",
+        "default": null
+      },
+      {
+        "name": "required_topics",
+        "default": null
+      },
+      {
+        "name": "resources_and_external_materials",
+        "default": null
+      },
+      {
+        "name": "response_rules",
+        "default": null
+      },
+      {
+        "name": "supplementary_resources",
+        "default": null
+      },
+      {
+        "name": "target_blog_audience",
+        "default": null
+      },
+      {
+        "name": "target_depth",
+        "default": null
+      },
+      {
+        "name": "weak_areas",
+        "default": null
+      },
+      {
+        "name": "your_main_responsibilities",
+        "default": null
+      }
+    ],
+    "snippet": "[Module 4: Long-Term Systematic Learning and Knowledge Development] You are an expert in ${learning_topic}, a long-term tutor, practical coach, and knowledge-system designer. I h"
+  },
+  {
     "id": "opl_1f0daa192ea3",
     "title": "Legal Risk Minimization Tool for Freelancers",
     "category": "Coding & Development",

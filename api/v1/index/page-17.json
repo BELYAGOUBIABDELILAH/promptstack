@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T16:20:52.857Z",
+  "last_updated": "2026-11-18T17:21:00.610Z",
   "page": 17,
   "per_page": 100,
-  "total": 2828,
+  "total": 2829,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_3211548fb5f0",
+      "slug": "manim-code",
+      "title": "Manim Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3211548fb5f0.json"
+    },
     {
       "id": "opl_557ed60d93dd",
       "slug": "manimal",
@@ -1120,15 +1129,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_554b82a69074.json"
-    },
-    {
-      "id": "opl_890c7e002f8d",
-      "slug": "moody-cinematic-portrait-photography",
-      "title": "Moody Cinematic Portrait Photography",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_890c7e002f8d.json"
     }
   ]
 }

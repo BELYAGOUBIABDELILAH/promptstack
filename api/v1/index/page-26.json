@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T16:20:52.857Z",
+  "last_updated": "2026-11-18T17:21:00.610Z",
   "page": 26,
   "per_page": 100,
-  "total": 2828,
+  "total": 2829,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_7bbb0ae748cd",
+      "slug": "synthetic-pii-data-generation",
+      "title": "Synthetic PII Data Generation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bbb0ae748cd.json"
+    },
     {
       "id": "opl_2aace31f0fee",
       "slug": "sys-admin-support-general",
@@ -989,15 +998,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e2e109e100db.json"
-    },
-    {
-      "id": "opl_2ac4ecf03761",
-      "slug": "the-last-adagio",
-      "title": "The Last Adagio",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ac4ecf03761.json"
     }
   ]
 }

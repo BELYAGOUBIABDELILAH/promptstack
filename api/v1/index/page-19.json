@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T16:20:52.857Z",
+  "last_updated": "2026-11-18T17:21:00.610Z",
   "page": 19,
   "per_page": 100,
-  "total": 2828,
+  "total": 2829,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_442409fe7cbf",
+      "slug": "odalisque",
+      "title": "Odalisque",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_442409fe7cbf.json"
+    },
     {
       "id": "opl_c11432251de8",
       "slug": "off-the-beaten-path",
@@ -1092,28 +1101,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec7b895ad10a.json"
-    },
-    {
-      "id": "opl_0642e543aec5",
-      "slug": "persuasive-article-or-proposal-writing-guide",
-      "title": "Persuasive Article or Proposal Writing Guide",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "context",
-          "default": null
-        },
-        {
-          "name": "number",
-          "default": null
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0642e543aec5.json"
     }
   ]
 }

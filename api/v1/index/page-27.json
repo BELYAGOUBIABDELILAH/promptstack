@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T16:20:52.857Z",
+  "last_updated": "2026-11-18T17:21:00.610Z",
   "page": 27,
   "per_page": 100,
-  "total": 2828,
+  "total": 2829,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_2ac4ecf03761",
+      "slug": "the-last-adagio",
+      "title": "The Last Adagio",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ac4ecf03761.json"
+    },
     {
       "id": "opl_85b155f35397",
       "slug": "the-lovelyline",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14027f148a0f.json"
-    },
-    {
-      "id": "opl_143870cdafab",
-      "slug": "understand-configuration-and-environment-setup",
-      "title": "Understand Configuration and Environment Setup",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_143870cdafab.json"
     }
   ]
 }

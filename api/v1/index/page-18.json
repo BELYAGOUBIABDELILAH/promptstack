@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T16:20:52.857Z",
+  "last_updated": "2026-11-18T17:21:00.610Z",
   "page": 18,
   "per_page": 100,
-  "total": 2828,
+  "total": 2829,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_890c7e002f8d",
+      "slug": "moody-cinematic-portrait-photography",
+      "title": "Moody Cinematic Portrait Photography",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_890c7e002f8d.json"
+    },
     {
       "id": "opl_4b017088438d",
       "slug": "moral-dilemma-choices",
@@ -1073,15 +1082,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29247cf1949f.json"
-    },
-    {
-      "id": "opl_442409fe7cbf",
-      "slug": "odalisque",
-      "title": "Odalisque",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_442409fe7cbf.json"
     }
   ]
 }
