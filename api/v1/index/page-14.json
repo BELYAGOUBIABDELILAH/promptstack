@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 14,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_a05239e8aacb",
+      "slug": "hypothesis-tester",
+      "title": "Hypothesis Tester",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a05239e8aacb.json"
+    },
     {
       "id": "opl_c46b5eafd56b",
       "slug": "i-am-pragati-a-bca-student-from-shrinath-university-make-a-p",
@@ -1108,15 +1117,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58a5ad5f0346.json"
-    },
-    {
-      "id": "opl_47edd8705298",
-      "slug": "is-this-a-sales-pitch",
-      "title": "Is This A Sales Pitch?",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47edd8705298.json"
     }
   ]
 }

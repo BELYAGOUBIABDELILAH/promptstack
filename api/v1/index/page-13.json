@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 13,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_a4262cf15bc6",
+      "slug": "gotify-notification-writer",
+      "title": "Gotify Notification Writer",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a4262cf15bc6.json"
+    },
     {
       "id": "opl_6d551ecac112",
       "slug": "gpt-conversation-output",
@@ -1031,15 +1040,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42576a9d858c.json"
-    },
-    {
-      "id": "opl_a05239e8aacb",
-      "slug": "hypothesis-tester",
-      "title": "Hypothesis Tester",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a05239e8aacb.json"
     }
   ]
 }

@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 17,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_27d3ef781679",
+      "slug": "marketing-mastermind-for-product-promotion",
+      "title": "Marketing Mastermind for Product Promotion",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "budget",
+          "default": null
+        },
+        {
+          "name": "marketValue",
+          "default": null
+        },
+        {
+          "name": "productPrice",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27d3ef781679.json"
+    },
     {
       "id": "opl_c9e5576c98b8",
       "slug": "marketing-speak-filter",
@@ -1090,24 +1116,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad8b058ebc4.json"
-    },
-    {
-      "id": "opl_1a697decf44f",
-      "slug": "mppt-simulation",
-      "title": "MPPT Simulation仿真代码",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "algorithm",
-          "default": "Incremental Conductance"
-        },
-        {
-          "name": "software",
-          "default": "MATLAB"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a697decf44f.json"
     }
   ]
 }

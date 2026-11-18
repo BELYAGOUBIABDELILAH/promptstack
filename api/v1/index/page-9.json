@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 9,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_b5d42656fb6e",
+      "slug": "dead-code-surgeon-phased-codebase-audit-cleanup-roadmap",
+      "title": "Dead Code Surgeon - Phased Codebase Audit & Cleanup Roadmap",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5d42656fb6e.json"
+    },
     {
       "id": "opl_c1916f1dd4b0",
       "slug": "dear-sugar-candid-advice-on-love-and-life",
@@ -1174,15 +1183,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_173b2ec7590f.json"
-    },
-    {
-      "id": "opl_994a7be4b483",
-      "slug": "document-my-belief",
-      "title": "Document My Belief",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_994a7be4b483.json"
     }
   ]
 }

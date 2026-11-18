@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 22,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_f9ba627ff8ed",
+      "slug": "real-time-geological-disaster-information-query",
+      "title": "Real-Time Geological Disaster Information Query",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9ba627ff8ed.json"
+    },
     {
       "id": "opl_636b4436d7ff",
       "slug": "real-time-multiplayer-defense-game",
@@ -1119,15 +1128,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6d11b3d0a18.json"
-    },
-    {
-      "id": "opl_22953585b577",
-      "slug": "sacrifice-in-obedience",
-      "title": "Sacrifice in obedience",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_22953585b577.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 16,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_4e4ba610fc5a",
+      "slug": "letter-from-lisa-a-heartfelt-plea-to-her-father",
+      "title": "Letter from Lisa: A Heartfelt Plea to Her Father",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ba610fc5a.json"
+    },
     {
       "id": "opl_e5383ededbef",
       "slug": "libreoffice-calc",
@@ -1095,32 +1104,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1699dff291f.json"
-    },
-    {
-      "id": "opl_27d3ef781679",
-      "slug": "marketing-mastermind-for-product-promotion",
-      "title": "Marketing Mastermind for Product Promotion",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "budget",
-          "default": null
-        },
-        {
-          "name": "marketValue",
-          "default": null
-        },
-        {
-          "name": "productPrice",
-          "default": null
-        },
-        {
-          "name": "targetAudience",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27d3ef781679.json"
     }
   ]
 }

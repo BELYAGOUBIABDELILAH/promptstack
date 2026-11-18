@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 18,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_1a697decf44f",
+      "slug": "mppt-simulation",
+      "title": "MPPT Simulation仿真代码",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "algorithm",
+          "default": "Incremental Conductance"
+        },
+        {
+          "name": "software",
+          "default": "MATLAB"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a697decf44f.json"
+    },
     {
       "id": "opl_ae9111f88366",
       "slug": "multi-agent-frameworks-guide",
@@ -1069,15 +1087,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c7cedce8a67.json"
-    },
-    {
-      "id": "opl_75bda0f0f057",
-      "slug": "only-bad-movie-recs",
-      "title": "Only Bad Movie Recs",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75bda0f0f057.json"
     }
   ]
 }

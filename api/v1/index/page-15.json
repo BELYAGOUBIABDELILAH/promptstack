@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 15,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_47edd8705298",
+      "slug": "is-this-a-sales-pitch",
+      "title": "Is This A Sales Pitch?",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47edd8705298.json"
+    },
     {
       "id": "opl_9975718f0c6f",
       "slug": "isc-class-12th-exam-paper-analyzer-and-evaluator",
@@ -1014,15 +1023,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af17ad31ce69.json"
-    },
-    {
-      "id": "opl_4e4ba610fc5a",
-      "slug": "letter-from-lisa-a-heartfelt-plea-to-her-father",
-      "title": "Letter from Lisa: A Heartfelt Plea to Her Father",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ba610fc5a.json"
     }
   ]
 }

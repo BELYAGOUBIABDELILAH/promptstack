@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "total_categories": 19,
   "categories": [
     {
@@ -81,16 +81,16 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/health-wellness.json"
     },
     {
+      "folder": "product-strategy",
+      "name": "Product & Strategy",
+      "prompt_count": 25,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/product-strategy.json"
+    },
+    {
       "folder": "games-fun",
       "name": "Games & Fun",
       "prompt_count": 24,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/games-fun.json"
-    },
-    {
-      "folder": "product-strategy",
-      "name": "Product & Strategy",
-      "prompt_count": 24,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/product-strategy.json"
     },
     {
       "folder": "sales-business",

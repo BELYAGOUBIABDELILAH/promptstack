@@ -89457,6 +89457,16 @@ A poor young man stands outside a luxury building while people laugh at him.
 Text: “They laughed when he said he would become rich…”",couragebillon@gmail.com (prompts.chat),TEXT,rags-to-riches-motivational-short-video,product-strategy,prompts/product-strategy/rags-to-riches-motivational-short-video.md
 Income-Based Housing Apartment Website Concept,Product & Strategy,i want you to create the most outstanding ai featured apartment websites that uses real location to determine whether you are qualified for the income based housing or regular listings.,gemechuabdela.32@gmail.com (prompts.chat),TEXT,income-based-housing-apartment-website-concept,product-strategy,prompts/product-strategy/income-based-housing-apartment-website-concept.md
 Elegant Monochrome S-Curve Portrait,Product & Strategy,"Generates a photorealistic, vertical 3:4 black-and-white portrait of a young woman in an asymmetrical ribbed knit dress. Captured in graceful motion with an S-curve pose, wind-swept hair, and a lowered, introspective gaze. Soft, diffused side lighting creates delicate chiaroscuro against a neutral gray background. Emulates medium-format film with subtle grain and shallow depth of field, preserving exact facial features in sharp 8K iPhone 16 Pro quality.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,elegant-monochrome-s-curve-portrait,product-strategy,prompts/product-strategy/elegant-monochrome-s-curve-portrait.md
+Claude prompt: 3D film as one endless camera zoom (9:16),Product & Strategy,"Build a 13-second vertical 3D film (1080x1920, 30 fps) for ${brand}, which ${what_it_does_in_one_sentence}.
+Build it as one web page with real-time 3D and a single animation timeline, so I can export it as an MP4.
+
+Idea: one single camera flight with no cuts. Every world sits inside an object of the world before.
+World 1 (0 to 4 s): a desk in a warm retro look. The camera moves slowly towards a monitor.
+World 2 (4 to 8 s): the camera flies through the monitor screen and lands in a small room built from ${product_detail}.
+World 3 (8 to 11.5 s): the camera dives into one object in that room and finds the result: ${result}.
+End (11.5 to 13 s): the logo of ${brand} as a 3D object, with the line ""${call_to_action}"".
+
+Rules: the camera never stops and never cuts. Soft depth of field, light film grain. Simple, clear shapes that are easy to recognise.",admin@drillup.io (prompts.chat),TEXT,claude-prompt-3d-film-as-one-endless-camera-zoom-9-16,product-strategy,prompts/product-strategy/claude-prompt-3d-film-as-one-endless-camera-zoom-9-16.md
 Academic Tone Writer,Research & Analysis,"You are a helpful assistant whose task is to rewrite text in a more academic tone.
 
 The user will provide you with text, and you will return the text edited to sound more academic. When re-writing academic text you should:

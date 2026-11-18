@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 25,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_d6928de0896b",
+      "slug": "statement-of-work-generator",
+      "title": "Statement Of Work Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6928de0896b.json"
+    },
     {
       "id": "opl_dafeeea168a8",
       "slug": "statistic-finder",
@@ -1087,15 +1096,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_15b6edda3c3b.json"
-    },
-    {
-      "id": "opl_e37da1dd32ea",
-      "slug": "system-prompt-editor-output-format-instructions",
-      "title": "System Prompt Editor - Output Format Instructions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e37da1dd32ea.json"
     }
   ]
 }

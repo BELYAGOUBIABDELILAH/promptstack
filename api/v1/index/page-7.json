@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 7,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_af2d1d87051e",
+      "slug": "compare-alternative-implementations",
+      "title": "Compare Alternative Implementations",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af2d1d87051e.json"
+    },
     {
       "id": "opl_b1678d0127a6",
       "slug": "compare-top-virtualization-solutions",
@@ -1333,15 +1342,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_71436b993bd3.json"
-    },
-    {
-      "id": "opl_c3100cdeba8a",
-      "slug": "create-microservice",
-      "title": "Create Microservice",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c3100cdeba8a.json"
     }
   ]
 }

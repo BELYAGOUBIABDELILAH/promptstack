@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 11,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_3d3a53dc65d8",
+      "slug": "enterprise-talent-development-management-system-design",
+      "title": "Enterprise Talent Development Management System Design",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "employeeName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d3a53dc65d8.json"
+    },
     {
       "id": "opl_99765af80c7f",
       "slug": "enthusiastic-text",
@@ -1122,15 +1136,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9cf417f799a.json"
-    },
-    {
-      "id": "opl_e54857c54624",
-      "slug": "for-and-against-debate-mapper",
-      "title": "For and Against - Debate Mapper",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e54857c54624.json"
     }
   ]
 }

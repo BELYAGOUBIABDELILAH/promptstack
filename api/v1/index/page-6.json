@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T04:20:48.907Z",
+  "last_updated": "2026-11-18T05:20:46.547Z",
   "page": 6,
   "per_page": 100,
-  "total": 2816,
+  "total": 2817,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -460,6 +460,36 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e758f2de8be6.json"
+    },
+    {
+      "id": "opl_e5d3e07b4f05",
+      "slug": "claude-prompt-3d-film-as-one-endless-camera-zoom-9-16",
+      "title": "Claude prompt: 3D film as one endless camera zoom (9:16)",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [
+        {
+          "name": "brand",
+          "default": null
+        },
+        {
+          "name": "call_to_action",
+          "default": null
+        },
+        {
+          "name": "product_detail",
+          "default": null
+        },
+        {
+          "name": "result",
+          "default": null
+        },
+        {
+          "name": "what_it_does_in_one_sentence",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5d3e07b4f05.json"
     },
     {
       "id": "opl_d99fa4b40892",
@@ -1114,15 +1144,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07faf9e9fe7d.json"
-    },
-    {
-      "id": "opl_af2d1d87051e",
-      "slug": "compare-alternative-implementations",
-      "title": "Compare Alternative Implementations",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af2d1d87051e.json"
     }
   ]
 }
