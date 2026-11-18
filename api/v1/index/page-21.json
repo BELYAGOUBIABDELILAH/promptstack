@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T02:20:49.219Z",
+  "last_updated": "2026-11-18T03:20:49.203Z",
   "page": 21,
   "per_page": 100,
-  "total": 2814,
+  "total": 2815,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_1052a137a821",
+      "slug": "programmable-keyboards",
+      "title": "Programmable Keyboards",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1052a137a821.json"
+    },
     {
       "id": "opl_7397334d1d01",
       "slug": "project-breakdown",
@@ -1070,24 +1079,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_636b4436d7ff.json"
-    },
-    {
-      "id": "opl_e52e720c5580",
-      "slug": "real-time-screen-translation-assistant",
-      "title": "Real-Time Screen Translation Assistant",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "sourceLanguage",
-          "default": "English"
-        },
-        {
-          "name": "targetLanguage",
-          "default": "Spanish"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e52e720c5580.json"
     }
   ]
 }

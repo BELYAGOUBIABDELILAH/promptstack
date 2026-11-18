@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1113 prompts in this category**
+**1114 prompts in this category**
 
 ## Table of Contents
 
@@ -644,6 +644,7 @@
 - [Meeting Agenda Generator](meeting-agenda-generator.md)
 - [Meeting Room Booking Web App Development](meeting-room-booking-web-app-development.md)
 - [Meeting Summary and Action Plan Generator](meeting-summary-and-action-plan-generator.md)
+- [memories.md Usage Instructions (System Prompt)](memories-md-usage-instructions-system-prompt.md)
 - [Memory Card Game](memory-card-game.md)
 - [Mermaid Diagram Creator & Editor](mermaid-diagram-creator-editor.md)
 - [Messy Desk Study Moment - University Student](messy-desk-study-moment-university-student.md)

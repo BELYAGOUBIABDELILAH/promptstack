@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T02:20:49.219Z",
+  "last_updated": "2026-11-18T03:20:49.203Z",
   "page": 23,
   "per_page": 100,
-  "total": 2814,
+  "total": 2815,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_6c9a2504cbd9",
+      "slug": "sales",
+      "title": "Sales",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c9a2504cbd9.json"
+    },
     {
       "id": "opl_aabc0e544811",
       "slug": "sales-enablement-writer",
@@ -1244,15 +1253,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e7755133515.json"
-    },
-    {
-      "id": "opl_9df02b723891",
-      "slug": "showcase-top-repositories",
-      "title": "Showcase Top Repositories",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9df02b723891.json"
     }
   ]
 }

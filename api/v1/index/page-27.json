@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T02:20:49.219Z",
+  "last_updated": "2026-11-18T03:20:49.203Z",
   "page": 27,
   "per_page": 100,
-  "total": 2814,
+  "total": 2815,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_65c5bb7d8a36",
+      "slug": "the-tyrant-king",
+      "title": "The tyrant King",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65c5bb7d8a36.json"
+    },
     {
       "id": "opl_fafeb3aea5b0",
       "slug": "the-ultimate-podcast-format-audio-branding-architect",
@@ -1122,15 +1131,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc708e924697.json"
-    },
-    {
-      "id": "opl_044c526f663e",
-      "slug": "update-agent-permissions",
-      "title": "Update Agent Permissions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_044c526f663e.json"
     }
   ]
 }

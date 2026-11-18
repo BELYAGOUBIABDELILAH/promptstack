@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T02:20:49.219Z",
+  "last_updated": "2026-11-18T03:20:49.203Z",
   "page": 17,
   "per_page": 100,
-  "total": 2814,
+  "total": 2815,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
@@ -471,6 +471,15 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_826757f6509d.json"
+    },
+    {
+      "id": "opl_b4a87bba67cc",
+      "slug": "memories-md-usage-instructions-system-prompt",
+      "title": "memories.md Usage Instructions (System Prompt)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4a87bba67cc.json"
     },
     {
       "id": "opl_6fa7a312abf5",
@@ -1099,15 +1108,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae9111f88366.json"
-    },
-    {
-      "id": "opl_14679da4e2e3",
-      "slug": "multi-audience-application-discovery-documentation-prompt",
-      "title": "Multi-Audience Application Discovery & Documentation Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14679da4e2e3.json"
     }
   ]
 }

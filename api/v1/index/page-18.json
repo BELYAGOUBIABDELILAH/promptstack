@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T02:20:49.219Z",
+  "last_updated": "2026-11-18T03:20:49.203Z",
   "page": 18,
   "per_page": 100,
-  "total": 2814,
+  "total": 2815,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_14679da4e2e3",
+      "slug": "multi-audience-application-discovery-documentation-prompt",
+      "title": "Multi-Audience Application Discovery & Documentation Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14679da4e2e3.json"
+    },
     {
       "id": "opl_47e73b1d5e18",
       "slug": "multi-tenant-data-isolation",
@@ -1069,15 +1078,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e3c768c710b.json"
-    },
-    {
-      "id": "opl_99e27c2dfd68",
-      "slug": "open-access-data-finder",
-      "title": "Open Access Data Finder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_99e27c2dfd68.json"
     }
   ]
 }

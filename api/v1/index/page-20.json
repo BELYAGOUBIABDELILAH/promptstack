@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T02:20:49.219Z",
+  "last_updated": "2026-11-18T03:20:49.203Z",
   "page": 20,
   "per_page": 100,
-  "total": 2814,
+  "total": 2815,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_fd35000200e1",
+      "slug": "photogrammetery-modelling-tools",
+      "title": "Photogrammetery & Modelling Tools",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd35000200e1.json"
+    },
     {
       "id": "opl_ecd1d0992253",
       "slug": "photography-trip-planning-research-backed-itinerary-builder",
@@ -1247,15 +1256,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6c83b8d2aba.json"
-    },
-    {
-      "id": "opl_1052a137a821",
-      "slug": "programmable-keyboards",
-      "title": "Programmable Keyboards",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1052a137a821.json"
     }
   ]
 }

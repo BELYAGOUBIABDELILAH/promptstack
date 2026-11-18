@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T02:20:49.219Z",
+  "last_updated": "2026-11-18T03:20:49.203Z",
   "page": 26,
   "per_page": 100,
-  "total": 2814,
+  "total": 2815,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_d7526f4d1134",
+      "slug": "system-prompt-enhancement-ideator",
+      "title": "System Prompt Enhancement Ideator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d7526f4d1134.json"
+    },
     {
       "id": "opl_9a6fc23d0100",
       "slug": "system-prompt-feature-editor",
@@ -989,15 +998,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_562dd2a9ff54.json"
-    },
-    {
-      "id": "opl_65c5bb7d8a36",
-      "slug": "the-tyrant-king",
-      "title": "The tyrant King",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65c5bb7d8a36.json"
     }
   ]
 }

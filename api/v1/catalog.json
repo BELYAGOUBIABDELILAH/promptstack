@@ -9938,6 +9938,15 @@
     "snippet": "Summarize the meeting transcript by performing the following tasks: - **State the Meeting Objective**: Begin with a brief paragraph (2-3 sentences) explaining the overall objectiv"
   },
   {
+    "id": "opl_b4a87bba67cc",
+    "title": "memories.md Usage Instructions (System Prompt)",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "memories-md-usage-instructions-system-prompt",
+    "variables": [],
+    "snippet": "In this project/session, a file called `memories.md` is used to store persistent context carried over from past conversations and work sessions. Follow these rules: ### 1. At the"
+  },
+  {
     "id": "opl_6fa7a312abf5",
     "title": "Memory Card Game",
     "category": "Coding & Development",
