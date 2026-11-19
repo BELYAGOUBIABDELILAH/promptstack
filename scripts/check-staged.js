@@ -37,7 +37,7 @@ const PROHIBITED = [
   // Backup bundles, archives, temporary
   /^archive\//,
   /\.bundle$/,
-  /plan\.md$/,
+  /^plan\.md$/,
   /privacy\.md$/,
   /^Axiom\//,
 
