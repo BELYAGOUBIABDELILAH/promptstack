@@ -1,0 +1,16 @@
+{
+  "id": "opl_f0f442e4864e",
+  "slug": "claude-web-page-redesign-planning-prompt",
+  "title": "Claude Web Page Redesign Planning Prompt",
+  "prompt": "Plan a redesign for this web page before making any edits.\n\nGoal:\nImprove visual hierarchy, clarity, trust, and conversion\nwhile keeping the current tech stack.\n\nYour process:\n1. Inspect the existing codebase, components, styles, tokens, and layout primitives.\n2. Identify UX/UI issues in the current implementation.\n3. Ask clarifying questions if brand/style/conversion intent is unclear.\n4. Produce a design-first implementation plan in markdown.\n\nInclude:\n- Current-state audit\n- Main usability and visual design issues\n- Proposed information architecture\n- Section-by-section page plan\n- Component inventory\n- Reuse vs extend vs create decisions\n- Design token changes needed\n- Responsive behavior notes\n- Accessibility considerations\n- Step-by-step implementation order\n- Risks and open questions\n\nConstraints:\n- Reuse existing components where possible\n- Keep design system consistency\n- Do not implement yet",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0f442e4864e.json"
+}

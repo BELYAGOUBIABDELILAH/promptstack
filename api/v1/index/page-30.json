@@ -1,0 +1,1107 @@
+{
+  "last_updated": "2026-11-19T16:17:28.363Z",
+  "page": 30,
+  "per_page": 100,
+  "total": 3830,
+  "total_pages": 39,
+  "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-31.json",
+  "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
+  "prompts": [
+    {
+      "id": "opl_500caa0be9cf",
+      "slug": "recreate-the-style-of-uploaded-videos-and-images",
+      "title": "Recreate the Style of Uploaded Videos and Images",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_500caa0be9cf.json"
+    },
+    {
+      "id": "opl_54324a05637b",
+      "slug": "recruiter",
+      "title": "Recruiter",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54324a05637b.json"
+    },
+    {
+      "id": "opl_cb3fc3814e90",
+      "slug": "recruiter-for-hiring-sales-professionals-with-databricks-experience",
+      "title": "Recruiter for Hiring Sales Professionals with Databricks Experience",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb3fc3814e90.json"
+    },
+    {
+      "id": "opl_3b92d416d0b9",
+      "slug": "recursive-niche-deconstruction-for-market-research",
+      "title": "Recursive Niche Deconstruction for Market Research",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "industry",
+          "default": null
+        },
+        {
+          "name": "region",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b92d416d0b9.json"
+    },
+    {
+      "id": "opl_9416fda0fbaf",
+      "slug": "red-alpine-cable-car-above-a-snowy-valley-at-winter-sunrise",
+      "title": "Red Alpine Cable Car Above a Snowy Valley at Winter Sunrise",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9416fda0fbaf.json"
+    },
+    {
+      "id": "opl_f7002b55eef0",
+      "slug": "red-alpine-cable-car-at-winter-sunrise-image-to-video-animation",
+      "title": "Red Alpine Cable Car at Winter Sunrise (Image-to-Video Animation)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "duration",
+          "default": "6"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f7002b55eef0.json"
+    },
+    {
+      "id": "opl_85222672e1aa",
+      "slug": "red-canoe-at-a-wooden-dock-on-a-misty-alpine-lake-at-autumn-sunrise",
+      "title": "Red Canoe at a Wooden Dock on a Misty Alpine Lake at Autumn Sunrise",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85222672e1aa.json"
+    },
+    {
+      "id": "opl_a8abe10febce",
+      "slug": "red-covered-bridge-in-autumn-mist-image-to-video-animation",
+      "title": "Red Covered Bridge in Autumn Mist (Image-to-Video Animation)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "duration",
+          "default": "6"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a8abe10febce.json"
+    },
+    {
+      "id": "opl_72930541139c",
+      "slug": "red-covered-bridge-over-a-misty-river-in-peak-autumn-foliage",
+      "title": "Red Covered Bridge Over a Misty River in Peak Autumn Foliage",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_72930541139c.json"
+    },
+    {
+      "id": "opl_798a3475511d",
+      "slug": "red-dead-redemption-2-double-exposure-effect",
+      "title": "Red Dead Redemption 2 - Double Exposure Effect",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_798a3475511d.json"
+    },
+    {
+      "id": "opl_7232cd5c5857",
+      "slug": "red-dior-puffy-jacket-fashion-night-out-winner",
+      "title": "Red Dior Puffy Jacket Fashion Night Out Winner",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7232cd5c5857.json"
+    },
+    {
+      "id": "opl_ac02b9507672",
+      "slug": "redesign-front-end-with-codex",
+      "title": "Redesign Front-End with Codex",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "designFramework",
+          "default": "Bootstrap"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac02b9507672.json"
+    },
+    {
+      "id": "opl_b0f030be89ac",
+      "slug": "redis-caching-taste",
+      "title": "Redis Caching taste",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b0f030be89ac.json"
+    },
+    {
+      "id": "opl_6a0f03b4e114",
+      "slug": "reduce-code-complexity",
+      "title": "Reduce Code Complexity",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a0f03b4e114.json"
+    },
+    {
+      "id": "opl_dff4a8f7f383",
+      "slug": "refactor-for-better-readability",
+      "title": "Refactor for Better Readability",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dff4a8f7f383.json"
+    },
+    {
+      "id": "opl_28d4400baaf6",
+      "slug": "refactoring-expert-agent-role",
+      "title": "Refactoring Expert Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_28d4400baaf6.json"
+    },
+    {
+      "id": "opl_7ac38b718a59",
+      "slug": "refine-your-resume-for-professionalism-and-ats-compatibility",
+      "title": "Refine Your Resume for Professionalism and ATS Compatibility",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ac38b718a59.json"
+    },
+    {
+      "id": "opl_11275fa63160",
+      "slug": "reflected-self-portrait-in-an-urban-convex-traffic-mirror",
+      "title": "Reflected Self-Portrait in an Urban Convex Traffic Mirror",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11275fa63160.json"
+    },
+    {
+      "id": "opl_93bfdd44430d",
+      "slug": "reflective-companion-not-advice",
+      "title": "Reflective Companion, Not Advice",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93bfdd44430d.json"
+    },
+    {
+      "id": "opl_c8ae2071e62c",
+      "slug": "refute",
+      "title": "Refute",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8ae2071e62c.json"
+    },
+    {
+      "id": "opl_b547b5c3fe3e",
+      "slug": "regex-generator",
+      "title": "RegEx Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "pattern",
+          "default": "email"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b547b5c3fe3e.json"
+    },
+    {
+      "id": "opl_c0d2963efc37",
+      "slug": "regulatory-landscape-scanner",
+      "title": "Regulatory Landscape Scanner",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "describe_your_project",
+          "default": null
+        },
+        {
+          "name": "list_states_where_project_operates",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0d2963efc37.json"
+    },
+    {
+      "id": "opl_b5cf11502bec",
+      "slug": "reimagined-logo-for-google",
+      "title": "Reimagined Logo for Google",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5cf11502bec.json"
+    },
+    {
+      "id": "opl_c2193c8839d3",
+      "slug": "relationship-coach",
+      "title": "Relationship Coach",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c2193c8839d3.json"
+    },
+    {
+      "id": "opl_7ad20a4e65e1",
+      "slug": "relationship-summariser",
+      "title": "Relationship Summariser",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ad20a4e65e1.json"
+    },
+    {
+      "id": "opl_de1d33a21800",
+      "slug": "remote-worker-fitness-trainer",
+      "title": "Remote Worker Fitness Trainer",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de1d33a21800.json"
+    },
+    {
+      "id": "opl_1b35dc65296b",
+      "slug": "remotion",
+      "title": "Remotion",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1b35dc65296b.json"
+    },
+    {
+      "id": "opl_2cf7651e47d9",
+      "slug": "remove-current-vnet",
+      "title": "remove current vnet",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cf7651e47d9.json"
+    },
+    {
+      "id": "opl_4b4ad848e15c",
+      "slug": "remove-dead-code",
+      "title": "Remove Dead Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b4ad848e15c.json"
+    },
+    {
+      "id": "opl_84c0e4105ea5",
+      "slug": "removing-visual-noise-in-the-neural-network-s-response",
+      "title": "Removing visual noise in the neural network's response",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84c0e4105ea5.json"
+    },
+    {
+      "id": "opl_bcc2951c7d8b",
+      "slug": "rephraser-with-obfuscation",
+      "title": "Rephraser with Obfuscation",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bcc2951c7d8b.json"
+    },
+    {
+      "id": "opl_45fa4c2575d5",
+      "slug": "reply-focused-cold-email-builder",
+      "title": "Reply-Focused Cold Email Builder",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "business_problem",
+          "default": null
+        },
+        {
+          "name": "credibility_signal",
+          "default": null
+        },
+        {
+          "name": "desired_action",
+          "default": null
+        },
+        {
+          "name": "email_body",
+          "default": null
+        },
+        {
+          "name": "offer",
+          "default": null
+        },
+        {
+          "name": "recipient_role",
+          "default": null
+        },
+        {
+          "name": "subject_line",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45fa4c2575d5.json"
+    },
+    {
+      "id": "opl_a6963011296d",
+      "slug": "repo-to-blog-post",
+      "title": "Repo To Blog Post",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6963011296d.json"
+    },
+    {
+      "id": "opl_330524c0b8d5",
+      "slug": "repository-indexer-agent-role",
+      "title": "Repository Indexer Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_330524c0b8d5.json"
+    },
+    {
+      "id": "opl_abfb2556af82",
+      "slug": "repository-workflow-editor-agent-role",
+      "title": "Repository Workflow Editor Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_abfb2556af82.json"
+    },
+    {
+      "id": "opl_cb86b92a11d1",
+      "slug": "requirement-analysis-and-planning-agent",
+      "title": "requirement-analysis-and-planning-agent",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb86b92a11d1.json"
+    },
+    {
+      "id": "opl_fbd9141852b7",
+      "slug": "research-analyst",
+      "title": "Research Analyst",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbd9141852b7.json"
+    },
+    {
+      "id": "opl_d541ad3979bd",
+      "slug": "research-and-learn-to-become-top-in-your-field-of-knowledge",
+      "title": "research and learn to become top in your field of knowledge",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "focusArea",
+          "default": null
+        },
+        {
+          "name": "resourceLink",
+          "default": null
+        },
+        {
+          "name": "sub_topic",
+          "default": null
+        },
+        {
+          "name": "title",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d541ad3979bd.json"
+    },
+    {
+      "id": "opl_6a6d5b1ad354",
+      "slug": "research-and-presentation-on-energy-forms",
+      "title": "Research and Presentation on Energy Forms",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "energyForm",
+          "default": null
+        },
+        {
+          "name": "presentationLength",
+          "default": "10"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a6d5b1ad354.json"
+    },
+    {
+      "id": "opl_05f75d1f377a",
+      "slug": "research-connections",
+      "title": "Research connections",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05f75d1f377a.json"
+    },
+    {
+      "id": "opl_5c92d7367097",
+      "slug": "research-documents-for-a-blog-post",
+      "title": "Research Documents for a Blog Post",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c92d7367097.json"
+    },
+    {
+      "id": "opl_46bf64197f1e",
+      "slug": "research-gap-finder",
+      "title": "Research Gap Finder",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_46bf64197f1e.json"
+    },
+    {
+      "id": "opl_3fedab5ae78d",
+      "slug": "research-methodology-design-for-health-literacy-and-medication-adherence-in-aotearoa-new-zealand",
+      "title": "Research Methodology Design for Health Literacy and Medication Adherence in Aotearoa New Zealand",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fedab5ae78d.json"
+    },
+    {
+      "id": "opl_4574a14644bc",
+      "slug": "research-nri-nro-account-services-in-india",
+      "title": "Research NRI/NRO Account Services in India",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4574a14644bc.json"
+    },
+    {
+      "id": "opl_aad3ab13f409",
+      "slug": "research-paper-feature-diagram",
+      "title": "Research Paper Feature Diagram",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aad3ab13f409.json"
+    },
+    {
+      "id": "opl_43d2da139680",
+      "slug": "research-problems-faced-by-a-user-persona",
+      "title": "Research Problems Faced by a User Persona",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_43d2da139680.json"
+    },
+    {
+      "id": "opl_95f4122ade39",
+      "slug": "research-project-analysis-and-ipd-feasibility-recommendation",
+      "title": "Research Project Analysis and IPD Feasibility Recommendations",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "industryTrends",
+          "default": null
+        },
+        {
+          "name": "projectDetails",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95f4122ade39.json"
+    },
+    {
+      "id": "opl_42f583c31ae2",
+      "slug": "research-prompt-mistral",
+      "title": "Research Prompt (Mistral)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "official_eu_enlargement_page",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42f583c31ae2.json"
+    },
+    {
+      "id": "opl_0a0ca2ea2687",
+      "slug": "research-topics",
+      "title": "Research topics",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a0ca2ea2687.json"
+    },
+    {
+      "id": "opl_707f0d086bf8",
+      "slug": "research-weapon",
+      "title": "Research Weapon",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_707f0d086bf8.json"
+    },
+    {
+      "id": "opl_03a5e7825633",
+      "slug": "researchers-in-the-library",
+      "title": "Researchers in the Library",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03a5e7825633.json"
+    },
+    {
+      "id": "opl_821723c99689",
+      "slug": "restaurant-candle-close-up-intimate-not-explicit",
+      "title": "Restaurant Candle Close-up (intimate, not explicit)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_821723c99689.json"
+    },
+    {
+      "id": "opl_5f6e8d7fe359",
+      "slug": "restaurant-owner",
+      "title": "Restaurant Owner",
+      "category": "Food & Recipes",
+      "folder": "food-recipes",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f6e8d7fe359.json"
+    },
+    {
+      "id": "opl_06b325103a62",
+      "slug": "result",
+      "title": "Result",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b325103a62.json"
+    },
+    {
+      "id": "opl_317ba9304618",
+      "slug": "resume-customization-prompt-strategic-integrity",
+      "title": "Resume Customization Prompt – STRATEGIC INTEGRITY",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_317ba9304618.json"
+    },
+    {
+      "id": "opl_124311e8ad3f",
+      "slug": "resume-quality-reviewer-green-flag-edition",
+      "title": "Resume Quality Reviewer – Green Flag Edition",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_124311e8ad3f.json"
+    },
+    {
+      "id": "opl_0d6191af39e2",
+      "slug": "resume-tailoring",
+      "title": "Resume tailoring",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "insert_job_title",
+          "default": null
+        },
+        {
+          "name": "paste_jd",
+          "default": null
+        },
+        {
+          "name": "paste_resume",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d6191af39e2.json"
+    },
+    {
+      "id": "opl_c2b5a043fdb3",
+      "slug": "resume-to-json",
+      "title": "Resume To JSON",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c2b5a043fdb3.json"
+    },
+    {
+      "id": "opl_49cab5b725b0",
+      "slug": "resume-to-side-hustle",
+      "title": "Resume To Side Hustle",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49cab5b725b0.json"
+    },
+    {
+      "id": "opl_8a870cede543",
+      "slug": "retro-teal-food-truck-at-a-riverside-night-market-rear-right-view",
+      "title": "Retro Teal Food Truck at a Riverside Night Market (Rear Right View)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8a870cede543.json"
+    },
+    {
+      "id": "opl_67a863e395a4",
+      "slug": "retro-teal-food-truck-concept-in-a-sunny-city-plaza-lunchtime-view",
+      "title": "Retro Teal Food Truck Concept in a Sunny City Plaza (Lunchtime View)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67a863e395a4.json"
+    },
+    {
+      "id": "opl_502746dcff31",
+      "slug": "retro-futuristic-1970s-sci-fi",
+      "title": "Retro-futuristic 1970s sci-fi",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_502746dcff31.json"
+    },
+    {
+      "id": "opl_2ce7ba2fed27",
+      "slug": "revenue-model-unit-economics-analyzer",
+      "title": "Revenue Model & Unit Economics Analyzer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce7ba2fed27.json"
+    },
+    {
+      "id": "opl_e8902f5dc707",
+      "slug": "revenue-performance-report",
+      "title": "Revenue Performance Report",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8902f5dc707.json"
+    },
+    {
+      "id": "opl_0daaa42b7ceb",
+      "slug": "reverse-brief",
+      "title": "Reverse Brief",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "document",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0daaa42b7ceb.json"
+    },
+    {
+      "id": "opl_661380492bdf",
+      "slug": "reverse-pitch-writer",
+      "title": "Reverse Pitch Writer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_661380492bdf.json"
+    },
+    {
+      "id": "opl_aca0c7cd6961",
+      "slug": "reverse-prompt",
+      "title": "Reverse Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aca0c7cd6961.json"
+    },
+    {
+      "id": "opl_6d5866c408c5",
+      "slug": "reverse-prompt-engineer",
+      "title": "Reverse Prompt Engineer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d5866c408c5.json"
+    },
+    {
+      "id": "opl_6a0facb3ed90",
+      "slug": "reverse-engineering-vox-s-hybrid-video-strategy",
+      "title": "Reverse-Engineering Vox's Hybrid Video Strategy",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a0facb3ed90.json"
+    },
+    {
+      "id": "opl_703c56cfc374",
+      "slug": "review-code-for-security-issues",
+      "title": "Review Code for Security Issues",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_703c56cfc374.json"
+    },
+    {
+      "id": "opl_2e67f7ba441f",
+      "slug": "review-mr-for-logical-errors",
+      "title": "Review MR for Logical Errors",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e67f7ba441f.json"
+    },
+    {
+      "id": "opl_236a63502e08",
+      "slug": "review-test-coverage-gaps",
+      "title": "Review Test Coverage Gaps",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_236a63502e08.json"
+    },
+    {
+      "id": "opl_b19d00293443",
+      "slug": "review-the-social-media-content",
+      "title": "Review the social media content",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19d00293443.json"
+    },
+    {
+      "id": "opl_fc15aa6ab3ff",
+      "slug": "reviewgod",
+      "title": "reviewgod",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc15aa6ab3ff.json"
+    },
+    {
+      "id": "opl_97d4a7bbd971",
+      "slug": "reviews",
+      "title": "reviews",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97d4a7bbd971.json"
+    },
+    {
+      "id": "opl_93001ec1be7d",
+      "slug": "revise-a-research-proposal-based-on-supervisor-feedback",
+      "title": "Revise a Research Proposal Based on Supervisor Feedback",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93001ec1be7d.json"
+    },
+    {
+      "id": "opl_872a6625c5f6",
+      "slug": "rewrite-in-third-person",
+      "title": "Rewrite In Third Person",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_872a6625c5f6.json"
+    },
+    {
+      "id": "opl_92eb899c7b8d",
+      "slug": "rfq",
+      "title": "RFQ",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92eb899c7b8d.json"
+    },
+    {
+      "id": "opl_f9726b9a2f65",
+      "slug": "rick-and-morty",
+      "title": "Rick And Morty",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9726b9a2f65.json"
+    },
+    {
+      "id": "opl_94e1b305e346",
+      "slug": "ridiculous-conspiracy-theory",
+      "title": "Ridiculous Conspiracy Theory",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94e1b305e346.json"
+    },
+    {
+      "id": "opl_f6145e29ee64",
+      "slug": "rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine",
+      "title": "RIP McKinsey: Here are 10 prompts to replace expensive business consultants",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "company",
+          "default": null
+        },
+        {
+          "name": "describe_funnel",
+          "default": null
+        },
+        {
+          "name": "describe_operations",
+          "default": null
+        },
+        {
+          "name": "insert_data",
+          "default": null
+        },
+        {
+          "name": "insert_primary_goal",
+          "default": null
+        },
+        {
+          "name": "product",
+          "default": null
+        },
+        {
+          "name": "target_market",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f6145e29ee64.json"
+    },
+    {
+      "id": "opl_31dd1cda63c5",
+      "slug": "risk-ready-disaster-scenario-prepper",
+      "title": "Risk Ready - Disaster Scenario Prepper",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31dd1cda63c5.json"
+    },
+    {
+      "id": "opl_91d4e257084e",
+      "slug": "risograph-print-of-a-crowded-night-train-carriage",
+      "title": "Risograph Print of a Crowded Night Train Carriage",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91d4e257084e.json"
+    },
+    {
+      "id": "opl_a97f453858a5",
+      "slug": "risograph-print-of-hot-air-balloons-over-cappadocia-s-fairy-chimneys-at-sunrise",
+      "title": "Risograph Print of Hot Air Balloons over Cappadocia's Fairy Chimneys at Sunrise",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a97f453858a5.json"
+    },
+    {
+      "id": "opl_bd11f8259270",
+      "slug": "riverside-boardwalk-and-restaurants-view",
+      "title": "Riverside Boardwalk and Restaurants View",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd11f8259270.json"
+    },
+    {
+      "id": "opl_ecf0fabf5012",
+      "slug": "rna-seq-analysis-and-differential-gene-expression",
+      "title": "RNA-Seq Analysis and Differential Gene Expression",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "dataQuality",
+          "default": "high"
+        },
+        {
+          "name": "normalizationMethod",
+          "default": "DESeq2"
+        },
+        {
+          "name": "visualizationTools",
+          "default": "heatmap"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecf0fabf5012.json"
+    },
+    {
+      "id": "opl_139641091f16",
+      "slug": "rock-chic-nightlife-patio-portrait",
+      "title": "Rock-Chic Nightlife Patio Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_139641091f16.json"
+    },
+    {
+      "id": "opl_b9a7f7afdb3c",
+      "slug": "rocket-launcher",
+      "title": "Rocket launcher",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9a7f7afdb3c.json"
+    },
+    {
+      "id": "opl_7b4f47a576bb",
+      "slug": "role-ai-image-prompt-engineering-specialist",
+      "title": "Role: AI Image Prompt Engineering Specialist",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7b4f47a576bb.json"
+    },
+    {
+      "id": "opl_c530c81b217e",
+      "slug": "romantic-evening-cafe-portrait",
+      "title": "Romantic Evening Café Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c530c81b217e.json"
+    },
+    {
+      "id": "opl_db038361a788",
+      "slug": "romantic-rainy-scene-video",
+      "title": "Romantic Rainy Scene Video",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db038361a788.json"
+    },
+    {
+      "id": "opl_16eb96229699",
+      "slug": "ronaldo-hanger",
+      "title": "Ronaldo hanger",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_16eb96229699.json"
+    },
+    {
+      "id": "opl_04ab3bc83fc4",
+      "slug": "rooftop-sunset-lookback-half-body",
+      "title": "Rooftop Sunset Lookback (half-body)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04ab3bc83fc4.json"
+    },
+    {
+      "id": "opl_7e4f9d9509f6",
+      "slug": "room-makeover-concept-brief-builder",
+      "title": "Room Makeover Concept Brief Builder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "mid-range, mostly new furniture, no structural work"
+        },
+        {
+          "name": "keep",
+          "default": "the small wood-burning stove and the wide-plank floor"
+        },
+        {
+          "name": "room",
+          "default": "small living room in a timber cabin, about 3.5 x 4.5 meters, vaulted ceiling, one large window facing a pine forest"
+        },
+        {
+          "name": "second_view",
+          "default": "the reverse angle at dusk, looking from the window back toward the entry door, with the stove lit"
+        },
+        {
+          "name": "style",
+          "default": "warm Nordic cabin, calm and natural, a few bold earthy accents"
+        },
+        {
+          "name": "use",
+          "default": "a couple who read, work on a laptop now and then, and host two friends for board games"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e4f9d9509f6.json"
+    },
+    {
+      "id": "opl_a3dcc5427846",
+      "slug": "room-paint-quantity-estimator",
+      "title": "Room Paint Quantity Estimator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3dcc5427846.json"
+    },
+    {
+      "id": "opl_3db69b9d2bfb",
+      "slug": "root-cause-analysis-agent-role",
+      "title": "Root Cause Analysis Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3db69b9d2bfb.json"
+    },
+    {
+      "id": "opl_6bd81e8355b3",
+      "slug": "root-cause-architect-5-whys-technique",
+      "title": "Root Cause Architect (5 Whys Technique)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6bd81e8355b3.json"
+    },
+    {
+      "id": "opl_6d889206e6d3",
+      "slug": "roster",
+      "title": "roster",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d889206e6d3.json"
+    },
+    {
+      "id": "opl_f41ae2e85f9a",
+      "slug": "rough-anime-crayon-doodle-turn-any-character-into-a-scribbly-japanese-style-sketch",
+      "title": "Rough Anime Crayon Doodle: Turn Any Character into a Scribbly Japanese-Style Sketch",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f41ae2e85f9a.json"
+    },
+    {
+      "id": "opl_9fb5ad97d986",
+      "slug": "rpa-guide",
+      "title": "RPA Guide",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9fb5ad97d986.json"
+    }
+  ]
+}

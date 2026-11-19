@@ -1,0 +1,21 @@
+{
+  "id": "opl_401f683dcda0",
+  "slug": "paper-craft-lighthouse-storm-animation",
+  "title": "Paper-Craft Lighthouse Storm Animation",
+  "prompt": "Animate the paper-craft lighthouse diorama from the input image into a short cinematic loop. Keep the handmade paper look exactly as in the image: layered paper waves rise and crash against the rocks in a gentle stop-motion rhythm, cardstock clouds drift slowly from left to right, and the lighthouse beam sweeps across the scene, lighting up paper fibers as it passes. Add tiny paper rain flecks falling diagonally. Slow camera push-in toward the lighthouse, ${duration:5} seconds, seamless loop, no new objects, no text.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "duration",
+      "default": "5"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_401f683dcda0.json"
+}

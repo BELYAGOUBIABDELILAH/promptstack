@@ -1,0 +1,16 @@
+{
+  "id": "opl_483182b74fdf",
+  "slug": "spotify-vibe",
+  "title": "Spotify Vibe",
+  "prompt": "---\nname: spotify-vibe\ndescription: For Spotify Vibe \n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...\n\u001fFILE:README.md gf\u001e\n\n\u001fFILE:README.md golden brown background\u001e",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_483182b74fdf.json"
+}

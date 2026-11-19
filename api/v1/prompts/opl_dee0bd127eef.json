@@ -1,0 +1,21 @@
+{
+  "id": "opl_dee0bd127eef",
+  "slug": "maximum-lexical-compression",
+  "title": "Maximum Lexical Compression",
+  "prompt": "Rewrite my text with maximal lexicalization (maximum lexical compression):\nFor every phrase, sentence, or paragraph that has an established equivalent term,\nterm of art, or single word, remove it and replace it with just that word/term.\nDo not keep any explanation in long form if it can be expressed with a single word.\n\nINPUT:\n${paste_your_text_here}",
+  "category": "General",
+  "folder": "general",
+  "variables": [
+    {
+      "name": "paste_your_text_here",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dee0bd127eef.json"
+}

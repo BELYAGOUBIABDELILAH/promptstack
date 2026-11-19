@@ -1,0 +1,16 @@
+{
+  "id": "opl_b8c29bfd3a72",
+  "slug": "analyze-code-scanning-security-issues-and-dependency-updates-if-vulnerable",
+  "title": "Analyze code scanning security issues and dependency updates if vulnerable",
+  "prompt": "this is for repo\nAnalyze code scanning security issues and dependency updates if vulnerable\nAnalyze GHAS alerts across repositories\n\nIdentify dependency vs base image root causes\n\nDetect repeated vulnerability patterns\n\nPrioritize remediation based on severity and exposure",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b8c29bfd3a72.json"
+}

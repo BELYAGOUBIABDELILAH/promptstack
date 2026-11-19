@@ -1,0 +1,16 @@
+{
+  "id": "opl_51c204187c55",
+  "slug": "web-app-ui",
+  "title": "WEB APP UI",
+  "prompt": "# Taste\n- Package manager is npm (not pnpm or yarn). Confidence: 0.95\n- Use Next.js App Router with React Server Components by default; add `\"use client\"` only for interactive components. Confidence: 0.95",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_51c204187c55.json"
+}

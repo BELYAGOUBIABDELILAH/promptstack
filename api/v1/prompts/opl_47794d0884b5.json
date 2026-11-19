@@ -1,0 +1,37 @@
+{
+  "id": "opl_47794d0884b5",
+  "slug": "claude-prompt-11-second-premium-product-film-for-an-ai-tool-16-9",
+  "title": "Claude prompt: 11-second premium product film for an AI tool (16:9)",
+  "prompt": "Build an 11-second motion design product film in 16:9 (1920x1080, 30 fps) for my AI tool ${name}, which ${what_it_does}.\nBuild it as one HTML page with one animation timeline, so I can export it as an MP4.\n\nLook: soft grey-green background, cream paper sheets, a dark green app panel, and gold as the only signal colour, used like a highlighter pen.\n\nText builds word by word: \"${problem}\" / \"${name} [does step 1], [step 2], and [step 3].\" / \"${claim}.\"\nScene 1: a stack of paper sheets with the problem line on top.\nScene 2: one line on a sheet gets marked in gold and lifts off as a strip.\nScene 3: one camera move to the app panel. The strip lands there as a card.\nScene 4: the card opens and shows the better version: ${result}.\nScene 5: a gold marker stroke draws the logo. Name and claim appear.\n\nRules: one object carries the story from start to end. Only one camera travel. Every move is eased.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "claim",
+      "default": null
+    },
+    {
+      "name": "name",
+      "default": null
+    },
+    {
+      "name": "problem",
+      "default": null
+    },
+    {
+      "name": "result",
+      "default": null
+    },
+    {
+      "name": "what_it_does",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47794d0884b5.json"
+}

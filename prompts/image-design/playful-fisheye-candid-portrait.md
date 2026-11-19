@@ -1,0 +1,15 @@
+# Playful Fisheye Candid Portrait
+
+**Category:** Image & Design  
+**Source:** prompts.chat
+
+## Prompt
+
+> GPT Image 2.5 on ChatGPT
+> 
+> Prompt: 
+> 
+> Create a realistic fisheye photo of the woman in my uploaded selfie, preserving her exact facial features. She sits on a doorstep in front of weathered green wooden doors, wearing a beige trench coat, ivory turtleneck, and light blue jeans. A curious tabby-and-white cat fills the right foreground with an oversized nose and expressive eyes. Soft daylight, natural textures, playful candid mood, ultra-realistic photography, landscape 16:9, no text.
+
+---
+[← Back to Image & Design](README.md) · [Main index](../../README.md)

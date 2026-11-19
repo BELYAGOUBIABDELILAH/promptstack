@@ -1,0 +1,16 @@
+{
+  "id": "opl_09d3834d18b3",
+  "slug": "willsmart-english-language-center",
+  "title": "WillSmart English language Center",
+  "prompt": "Act as an expert web developer & copywriter. Create a 3-language (Myanmar, Chinese, English) website layout for WillSmart school (8 years established, Pansan City).\n​Note: English & Myanmar languages only. Target: Age 3+.\n​Programs & Fees:\n​Day Class: 600Y / 800Y (with Lunch)\n​Evening Class: 400Y\n​Weekend (Sat-Sun): 400Y\n​Fairy (Transport): 200Y/month\n​Design & Contact: Add a sleek dark-themed WeChat QR code section (clean dark background, no messy borders) for parent contact.\n​Generate Hero, About, Programs, Testimonials, Contact in Myanmar, Chinese, English.\"*",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_09d3834d18b3.json"
+}

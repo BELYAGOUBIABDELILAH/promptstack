@@ -1,0 +1,16 @@
+{
+  "id": "opl_57896d0b587a",
+  "slug": "data-analysis-dashboard",
+  "title": "Data Analysis Dashboard",
+  "prompt": "Create for me an ultra-realistic dashboard titled \"ANALYSIS OF BRD SESSIONS/DOCUMENT DELIVERY AUG - OCT\"\n\nLet it show, in graphs, histograms, and pie charts, all the documents I have worked on so far concerning BRDs and documents under growth stack",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57896d0b587a.json"
+}

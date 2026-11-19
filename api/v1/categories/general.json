@@ -1,9 +1,41 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-18T20:20:47.101Z",
-  "total": 94,
+  "last_updated": "2026-11-19T16:17:28.363Z",
+  "total": 162,
   "prompts": [
+    {
+      "id": "opl_7d540931a76a",
+      "slug": "egg-adani-tea-order-772609034",
+      "title": "- Egg - Adani Tea Order: 772609034",
+      "prompt": "Create a 50-second delicious food commercial video, vertical 9:16 for TikTok, cinematic, realistic, warm bright light.\n\nScene 1 (0-8 sec): Wide shot of a cozy Yemeni sandwich shop in Al Mahwit, wooden table, steam, welcoming atmosphere.\nScene 2 (8-18 sec): Close-up of a hot crispy potato sandwich, golden toasted bread, crispy fried potato slices, melted cheese dripping, steam rising, cheese stretching, appetizing.\nScene 3 (18-28 sec): Close-up of a hot egg sandwich, fresh scrambled eggs, Yemeni spices, golden bread, steam rising, mouth-watering.\nScene 4 (28-38 sec): Close-up of a small glass of hot Yemeni Adani tea with steam, next to a bowl of boiled potatoes, cozy warm background.\nScene 5 (38-50 sec): Final shot, both sandwiches and tea together on wooden table, steam, slow zoom out, golden light.\n\nText on screen at the end, big gold letters:\nAL-RAIMI FOR SANDWICHES\nPotato - Egg - Adani Tea\nAl Mahwit - Sanaa Street\nOrder: 772609034\n\nStyle: Professional restaurant advertisement, high quality, mouth-watering, no voice, only visuals, because voiceover will be added later.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7d540931a76a.json"
+    },
+    {
+      "id": "opl_365592972409",
+      "slug": "1980s-vs-modern-cafe-split-screen-video-scene",
+      "title": "1980s vs Modern Café Split-Screen Video Scene",
+      "prompt": "A cinematic, high-quality video scene in a split-screen or retro-modern café setting. On one side, a stylish man from the 1980s wearing a vintage wide-lapel blazer, thick glasses, and sporting a classic 80s hairstyle, holding a cassette tape. On the other side, a woman from the 2000s wearing low-rise jeans, a cropped top, and modern highlights, holding an early 2000s slider mobile phone. They are engaged in a lively, animated, and intriguing conversation, smiling, gesturing, and talking to each other across time. Warm cinematic lighting, authentic retro color grading, film grain, highly detailed, 4k resolution, smooth motion.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_365592972409.json"
+    },
     {
       "id": "opl_b382de4bccd8",
       "slug": "action-video",
@@ -37,6 +69,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c27899d73df5.json"
     },
     {
+      "id": "opl_77f2436df053",
+      "slug": "ai-generated-promo-video",
+      "title": "AI-Generated Promo Video",
+      "prompt": "Create a 10-second ultra-cinematic promotional video for the launch of the \"Media Presence Excellence Camp\".\n\nThe video opens with a black background and dramatic lighting. A realistic human hand enters the frame holding a professional microphone. Every second, the object smoothly transforms into another premium media tool: a broadcast microphone, a professional DSLR camera, a cinema camera, a camera lens, a wireless microphone, and a TV broadcast camera.\n\nUse seamless morph transitions, dynamic close-up shots, slow-motion details, and cinematic lighting. Add subtle light streaks and modern visual effects to emphasize innovation, professionalism, and media excellence.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77f2436df053.json"
+    },
+    {
       "id": "opl_54f277886cd1",
       "slug": "amd-gpu-advisor-linux",
       "title": "AMD GPU Advisor (Linux)",
@@ -53,6 +101,38 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54f277886cd1.json"
     },
     {
+      "id": "opl_3ae81cae04e8",
+      "slug": "anime-comic-cartoon-character-skill-template",
+      "title": "Anime Comic Cartoon Character Skill Template",
+      "prompt": "---\nname: anime-comic-cartoon-character-skill-template\ndescription: Anime comic cartoon\n---\n\n# Personnage comic\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...\n\u001fFILE:README.md\u001e",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ae81cae04e8.json"
+    },
+    {
+      "id": "opl_825f8433d67a",
+      "slug": "answer-buyer-objections-honestly",
+      "title": "Answer Buyer Objections Honestly",
+      "prompt": "List the 8 most likely reasons [audience] would hesitate to buy [offer], such as price, time, trust or \"will this work for me?\" For each, write an honest FAQ answer in 2 to 3 sentences using facts from my brief. Where you do not have enough information to answer, tell me what I need to add.\n\nFollow-up: Turn the top 3 objections into short social posts.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_825f8433d67a.json"
+    },
+    {
       "id": "opl_c58d804cf886",
       "slug": "api-cost-calculator",
       "title": "API cost calculator",
@@ -67,6 +147,107 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c58d804cf886.json"
+    },
+    {
+      "id": "opl_244621b9b60f",
+      "slug": "attract-deer-with-jangling-sounds",
+      "title": "Attract Deer with Jangling Sounds",
+      "prompt": "Act as a Wildlife Enthusiast. You have expertise in attracting deer using sound techniques. Your task is to provide a guide on using jangling sounds to attract deer.\n\nYou will:\n- Explain the types of sounds effective for attracting deer\n- Describe the best times and locations to use these sounds\n- Include safety tips for observing deer without causing distress\n\nRules:\n- Ensure the methods are ethical and non-invasive\n- Provide tips for both beginners and experienced enthusiasts",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_244621b9b60f.json"
+    },
+    {
+      "id": "opl_014c18f244c7",
+      "slug": "automatic-job-apply",
+      "title": "automatic job apply",
+      "prompt": "Read the email from my gmail account which gets regular email from linkedIn for job recommendations. read the email, if it is for any suitable job match, apply for it, you may need to write or update the CV a little bit and the cover letter, email draft etc.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_014c18f244c7.json"
+    },
+    {
+      "id": "opl_c61a66d228d1",
+      "slug": "azulejo-blue-and-white-tile-mural-of-a-sardine-fishing-boat-at-dawn",
+      "title": "Azulejo Blue-and-White Tile Mural of a Sardine Fishing Boat at Dawn",
+      "prompt": "Hand-painted azulejo tile mural in traditional blue and white: a small wooden sardine fishing boat with a tall prow and a coiled net rows out of a harbor at dawn, two fishermen at the oars, seagulls overhead, whitewashed houses with tiled roofs and a church tower on the hill behind, and gentle rolling waves in the foreground. Painted in cobalt blue glaze on a white tin-glazed ceramic ground, composed across a visible grid of square tiles with thin grout lines, slight glaze pooling, tiny crazing cracks, hand-brushed line work and soft wash shading, framed by an ornate blue baroque scroll border with acanthus leaves. Glossy ceramic sheen with a soft reflected highlight, viewed straight on in even daylight as a wall mural, landscape 4:3. No text, no lettering, no signature, no modern objects.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c61a66d228d1.json"
+    },
+    {
+      "id": "opl_0173ef0e834e",
+      "slug": "based-on-everything-you-know-about-me-roast-and-don-t-hold-back-say-it-in-portuguese-slang-just-like-this-but-add-way-mo",
+      "title": "Based on everything you know about me, roast and don't hold back. Say it in Portuguese slang Just like this, but add way more português swear words",
+      "prompt": "Based on everything you know about me, roast and don't hold back. Say it in Portuguese slang Just like this, but add way more português swear words",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0173ef0e834e.json"
+    },
+    {
+      "id": "opl_190f5ef01e3e",
+      "slug": "basl-k",
+      "title": "Başlık",
+      "prompt": "ti ve kahiredeki otel kaldı aşkım benim aşkım benim haklısın ama bu paylaş Facebook Tweet ve fotoğrafları${aşkım}",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "aşkım",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_190f5ef01e3e.json"
+    },
+    {
+      "id": "opl_a1195d3658d5",
+      "slug": "batik-textile-pattern-of-twin-peacocks-and-lotus-ponds",
+      "title": "Batik Textile Pattern of Twin Peacocks and Lotus Ponds",
+      "prompt": "Twin peacocks facing each other beside lotus ponds, rendered as a traditional Indonesian batik textile pattern in indigo and cream. The peacocks fill the center with mirrored S-curved necks, fan tails filled with dotted isen motifs, and small floral medallions along the wings. Around them, oval lotus ponds hold blooming lotus flowers, pads, and tiny fish drawn as repeating geometric fills. A classic batik border frames the cloth: interlocking kawung and ceplok shapes with fine crackle lines from wax-resist dyeing. Palette limited to deep indigo blue, soft cream ground, and a few pale grey-blue washes. Hand-drawn irregularity in the lines, visible wax crackle texture, cloth weave grain, flat ornamental layout suitable for fabric. No people, no modern objects, no text, no signature.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1195d3658d5.json"
     },
     {
       "id": "opl_5411a6961934",
@@ -117,6 +298,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_62402a62cd81.json"
     },
     {
+      "id": "opl_de1856b52045",
+      "slug": "blank-agent-skill-template",
+      "title": "Blank Agent Skill Template",
+      "prompt": "---\nname: my-skill-name\ndescription: A clear description of what this skill does and when to use it\n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de1856b52045.json"
+    },
+    {
       "id": "opl_b95275537831",
       "slug": "break-down-costs",
       "title": "Break Down Costs",
@@ -165,6 +362,38 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b03dd0da6e83.json"
     },
     {
+      "id": "opl_6e6596903cc0",
+      "slug": "chase-a-late-payment-3-reminders-friendly-to-final",
+      "title": "Chase a Late Payment: 3 Reminders, Friendly to Final",
+      "prompt": "Write 3 payment reminders for invoice [number] for $[amount], due on [date]: a friendly reminder (3 days late), a firm reminder (10 days late) and a final notice (21 days late) that mentions [late fee or next step, only if real]. Professional and respectful. Include where to pay: [payment link].\n\nFollow-up: Write a short phone call script for the final-notice stage.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6e6596903cc0.json"
+    },
+    {
+      "id": "opl_e4e2379dfedf",
+      "slug": "chatgpt-pro-style-high-quality-response-simulator",
+      "title": "ChatGPT Pro Style High-Quality Response Simulator",
+      "prompt": "Use the ChatGPT Pro plan for more precise and high-quality answers. I want responses identical to those from the paid Pro version\"",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4e2379dfedf.json"
+    },
+    {
       "id": "opl_4c2899ebbcd3",
       "slug": "chemical-reactor",
       "title": "Chemical Reactor",
@@ -181,6 +410,54 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c2899ebbcd3.json"
     },
     {
+      "id": "opl_3af8da8dce97",
+      "slug": "chicks-hatch",
+      "title": "chicks hatch",
+      "prompt": "Extreme close-up of a cracking chicken egg on straw, hyper-detailed shell texture. Newly hatched featherless chick, wet and wrinkled pink skin. 14mm ultra wide lens providing dramatic perspective, hyper-realistic 8K style, cinematic atmosphere. --ar 9:16.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3af8da8dce97.json"
+    },
+    {
+      "id": "opl_4ebd3776c91b",
+      "slug": "chinese-ink-wash-painting-of-misty-karst-peaks-and-an-empty-sampan",
+      "title": "Chinese Ink Wash Painting of Misty Karst Peaks and an Empty Sampan",
+      "prompt": "Misty limestone karst peaks rising above a calm river with a single empty wooden sampan moored among reeds, painted as a traditional Chinese ink wash landscape on rice paper. Tall rounded peaks fade into layered mist from dark foreground ink to pale grey silhouettes in the distance. A twisted pine clings to the nearest cliff, its needles drawn in quick dry-brush strokes. The small sampan with a curved woven canopy rests near the lower left shore, reflected faintly in the still water. Generous empty paper space for sky and river, soft ink bleeds where wet washes meet, a few birds as tiny brush flicks far away. Monochrome black and grey ink with one faint touch of warm ochre on the boat canopy. Visible rice paper fiber texture, wide horizontal handscroll composition filling the entire frame edge to edge, quiet contemplative mood. No people, no text, no calligraphy, no seals, no signature.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ebd3776c91b.json"
+    },
+    {
+      "id": "opl_c9dbc87a0e6a",
+      "slug": "cinematic-bank-heist-scene",
+      "title": "Cinematic Bank Heist Scene",
+      "prompt": "Act as a cinematic director. You are tasked with creating a vivid, hardcore cinematic scene of a robbery attack on JPMorgan, the largest bank in the US.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9dbc87a0e6a.json"
+    },
+    {
       "id": "opl_76443448274d",
       "slug": "classical-music-composer",
       "title": "Classical Music Composer",
@@ -195,6 +472,54 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76443448274d.json"
+    },
+    {
+      "id": "opl_f7eed17cd4a2",
+      "slug": "clone",
+      "title": "Clone",
+      "prompt": "Clone the LaunchMe notch A–Z with pixel-accurate visuals and behavior. First enumerate and map all `rea` and `hopper` MCP tools, then fully reverse-engineer the original: geometry, UI, states, interactions, animations, settings, appearance, and edge cases. Measure everything; never guess. Create SPEC.md with evidence before coding. Wait for my approval, then implement. Finally perform source-vs-clone visual/behavioral diffing, fix every mismatch, run all tests, and report any blockers.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f7eed17cd4a2.json"
+    },
+    {
+      "id": "opl_ef92023dc062",
+      "slug": "cocktail-videos",
+      "title": "Cocktail videos",
+      "prompt": "Cinematic close-up of a mysterious bartender pouring a glowing green liquid into a glass, heavy smoke rising, dark cocktail bar background, 4k, hyper-realistic, slow motion.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef92023dc062.json"
+    },
+    {
+      "id": "opl_0d379aec3b08",
+      "slug": "cold-drink-can-html5-animation-website",
+      "title": "Cold Drink Can HTML5 Animation Website",
+      "prompt": "Make me a professional html5 website of cold drink can animation, which roams to different and different positions when we scroll and then add text of a website named coca cola",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d379aec3b08.json"
     },
     {
       "id": "opl_186bea499d29",
@@ -318,6 +643,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7d7d69696f07.json"
     },
     {
+      "id": "opl_dbeb4ae05471",
+      "slug": "cozy-bedroom-asmr-cinematic-video-scene",
+      "title": "Cozy Bedroom ASMR Cinematic Video Scene",
+      "prompt": "Subject: Cozy bedroom ASMR, Motion: Slow, gentle hand movements tracing textures, turning book pages, caressing soft fabric, Optics: 50mm lens, shallow depth of field, soft focus, Motion: 5 cm/s camera drift, Lighting: Warm, soft ambient light, 2700K, Style: Cinematic, serene, peaceful, Audio: Gentle whispers, soft tactile sounds, subtle rain ambiance, Continuity: 8s clip, 4K resolution, 60fps, 16:9 aspect ratio",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbeb4ae05471.json"
+    },
+    {
       "id": "opl_50e07f5bed4c",
       "slug": "create-a-drag-and-drop-experience-using-uniapp",
       "title": "create a drag-and-drop experience using UniApp",
@@ -364,6 +705,86 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8caba0b3d5e9.json"
+    },
+    {
+      "id": "opl_fb16d898ab18",
+      "slug": "cunninglinguist",
+      "title": "cunninglinguist",
+      "prompt": "- Alliteration  \n- Antithesis  \n- Hyperbole  \n- Paradox  \n- Personification  \n- Rhetorical Questions  \n- Synaesthesia  \n- Hyperbaton  \n- Anadiplosis  \n- Diacope  \n- Epistrophe  \n- Tricolon  \n- Epizeuxis  \n- Syllepsis  \n- Isocolon  \n- Enallage  \n- Chiasmus  \n- Catachresis  \n- Litotes  \n- Metonymy  \n- Synecdoche  \n- Epanalepsis  \n- Aposiopesis  \n- Prolepsis  \n- Congeries  \n- Bdelygmia  \n- Adynaton  \n- Anaphora  \n- Assonance  \n- Blazon  \n- Hendiadys  \n- Hypotaxis  \n- Parataxis  \n- Merism  \n- Periodic Sentences  \n- Pleonasm  \n- Polyptoton  \n- Scēsis Onomaton  \n- Transferred Epithets  \n- Zeugma[1][4][6][8]",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb16d898ab18.json"
+    },
+    {
+      "id": "opl_d12f2e1a39c4",
+      "slug": "cute-elephant-in-a-sunny-jungle-3d-cartoon-animation",
+      "title": "Cute Elephant in a Sunny Jungle, 3D Cartoon Animation",
+      "prompt": "A cute big gray elephant with huge ears and a small trunk standing happily in a beautiful green jungle, colorful trees and flowers, warm sunlight, friendly expression, 3D cartoon animation style, Pixar-like quality, cinematic lighting, vibrant colors, detailed, 16:9",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d12f2e1a39c4.json"
+    },
+    {
+      "id": "opl_5f0d80717948",
+      "slug": "cute-mouse-and-cat-village-house-3d-cartoon-scene",
+      "title": "Cute Mouse and Cat Village House 3D Cartoon Scene",
+      "prompt": "A beautiful small village house, cute little grey mouse Montu with big ears and pink nose standing outside, orange and white cat Sheru with green eyes nearby, green garden, sunny day, colorful flowers, 3D cartoon animation style, cinematic lighting, high detail, 16:9.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f0d80717948.json"
+    },
+    {
+      "id": "opl_511db47be1dc",
+      "slug": "cv-build",
+      "title": "CV build",
+      "prompt": "create a version of cv by referencing existing cv and align with the jd to produce best case cv so that it gets selected",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_511db47be1dc.json"
+    },
+    {
+      "id": "opl_b72ebf39859d",
+      "slug": "dark-corridor-of-glowing-doors-video",
+      "title": "Dark Corridor of Glowing Doors Video",
+      "prompt": "I want to create a video where I am standing in a dark corridor lined with doors. I stand there knocking on the door directly in front of me; yet, every time I knock, a different door opens, radiating light that draws my gaze. I remain standing before that same original door, knocking again, only for another door to open, shining with an intense glow. Some of these doors reveal breathtaking natural landscapes, yet the door I am actually knocking on remains firmly shut, leaving me to sink to the ground in despair.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b72ebf39859d.json"
     },
     {
       "id": "opl_611f50d15b8c",
@@ -446,6 +867,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af1877570a88.json"
     },
     {
+      "id": "opl_f98913ff749e",
+      "slug": "dutch-golden-age-breakfast-still-life-with-oysters-and-a-peeled-lemon",
+      "title": "Dutch Golden Age Breakfast Still Life with Oysters and a Peeled Lemon",
+      "prompt": "A Dutch Golden Age breakfast still life oil painting in the manner of the 1630s Haarlem masters, showing a quiet laid table against a deep brown-black background. A rumpled dark green velvet cloth covers the table. On the left, three opened oysters glisten on a round pewter plate. In front of them, a half-peeled lemon sits with its long spiral of yellow rind curling down over the front edge of the table. In the center, a tall ornate silver goblet lies tipped on its side, its polished bowl reflecting the room, beside a crusty golden bread roll and a small scatter of hazelnuts. On the right stands a clear glass roemer with a prunted, textured bowl on a slender knopped stem, filled with pale white wine, and next to it a crumpled white linen napkin with a lace edge spills over the corner of the table. Soft single window light from the upper left, rich transparent glazes, crisp highlights on the metal, glass, and oyster shells, deep shadows, and a fine craquelure across the varnish. Museum quality, calm and contemplative mood, wide landscape 16:9. No text, no signature, no people.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f98913ff749e.json"
+    },
+    {
       "id": "opl_985620aa7610",
       "slug": "e-commerce-website",
       "title": "E-commerce website",
@@ -460,6 +897,54 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_985620aa7610.json"
+    },
+    {
+      "id": "opl_aaa0b6aac45d",
+      "slug": "earn-extra-income-with-a-spare-home-pc",
+      "title": "Earn Extra Income With a Spare Home PC",
+      "prompt": "I Have intel 7 pc with 32 gb ram and  1TB HDD at home. How i can i use this for earn additional income.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aaa0b6aac45d.json"
+    },
+    {
+      "id": "opl_5a3c0eedf611",
+      "slug": "encaustic-hot-wax-painting-of-a-poppy-field-under-a-summer-storm-sky",
+      "title": "Encaustic Hot Wax Painting of a Poppy Field Under a Summer Storm Sky",
+      "prompt": "An encaustic hot wax painting of a wild red poppy field under a dark summer storm sky, landscape 4:3. Built up in many translucent layers of pigmented beeswax fused with heat on a wooden panel: in the foreground, dozens of scarlet poppies with black centers and thin bending green stems sway through tall golden grasses and a few blue cornflowers; in the middle ground the field rolls over a gentle hill toward a lone farmhouse with a red roof and a single tall cypress tree; above, heavy slate-blue and violet storm clouds gather, with one bright break of warm yellow light falling across the field. Encaustic technique details: glossy, semi-translucent wax with visible depth between layers, soft melted edges where colors flow into each other, scraped and incised lines in the grasses, small drips and raised textured ridges of wax, a buffed satin sheen with soft reflections, and a slightly uneven hand-made surface where the wooden panel edge shows at the borders. Rich, saturated colors: scarlet, ochre, sage green, slate blue, violet, warm cream. Viewed straight on as a flat artwork in soft even daylight. No text, no signature, no frame, no people.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5a3c0eedf611.json"
+    },
+    {
+      "id": "opl_e37a8c945471",
+      "slug": "fashion-showcase",
+      "title": "Fashion Showcase",
+      "prompt": "---\nname: fashion-showcase\ndescription: create humanize movement for fashion outfit showcase\n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e37a8c945471.json"
     },
     {
       "id": "opl_6bc4b1462e89",
@@ -494,6 +979,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_630e6aa67ea8.json"
     },
     {
+      "id": "opl_556b445b472c",
+      "slug": "glass-greenhouse-library-overlooking-alpine-fog",
+      "title": "Glass Greenhouse Library Overlooking Alpine Fog",
+      "prompt": "A vast Victorian glass greenhouse perched on a cliff above alpine fog, interior filled with floor-to-ceiling wooden bookshelves and hanging plants, soft morning light refracting through condensation on the panes, a reading chair and telescope by the window, mossy stone floor, cinematic wide shot, ultra-detailed, volumetric light, peaceful atmosphere",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_556b445b472c.json"
+    },
+    {
       "id": "opl_aa6917e30f7b",
       "slug": "golden-prompt-for-short-useful-answers",
       "title": "Golden Prompt for Short, Useful Answers",
@@ -508,6 +1009,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa6917e30f7b.json"
+    },
+    {
+      "id": "opl_993b02e9c67d",
+      "slug": "grok-customize",
+      "title": "Grok customize",
+      "prompt": "grok customization to get natural response without repetitive English, without sounding robotic, making every response concise and humanize",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_993b02e9c67d.json"
     },
     {
       "id": "opl_509b50eac62e",
@@ -526,6 +1043,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_509b50eac62e.json"
     },
     {
+      "id": "opl_74fd9c1da0ac",
+      "slug": "hide-and-seek",
+      "title": "Hide and seek",
+      "prompt": "Hide and seek function platform tools for Android pipeline who are you; where you come from",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_74fd9c1da0ac.json"
+    },
+    {
       "id": "opl_ce6cf56a1c75",
       "slug": "home-preparedness-expert",
       "title": "Home Preparedness Expert",
@@ -540,6 +1073,38 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce6cf56a1c75.json"
+    },
+    {
+      "id": "opl_6d8e75e9aad8",
+      "slug": "how-coda-evaluates-dental-schools-and-clinics",
+      "title": "How CODA Evaluates Dental Schools and Clinics",
+      "prompt": "How CODA  EVALUATe OTHER DENTAL MEDICINE clinics and SCHOOLS inside universities in the united states",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d8e75e9aad8.json"
+    },
+    {
+      "id": "opl_9a2d8d59b7d0",
+      "slug": "how-to-make-a-memdeklaro-self-declaration-of-identity",
+      "title": "How to make a Memdeklaro self-declaration of identity?",
+      "prompt": "How to make a Memdeklaro self-declaration of identity?\n\n1. Visit the Memdeklaro website at https://memdeklaro.org\n2. Fill out the self declaration form and click Generate\n3. Download the self declaration as a PDF or JPEG file",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a2d8d59b7d0.json"
     },
     {
       "id": "opl_e1b5fc41705b",
@@ -638,6 +1203,70 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_331f0194b93a.json"
     },
     {
+      "id": "opl_e24f6534cab4",
+      "slug": "la-llorona-intro-scene",
+      "title": "La Llorona Intro Scene",
+      "prompt": "Créame esta escena. Escena 1.1: ⁠A dark, lonely rural dirt road at night, flanked by twisted, gnarled trees and a murky river under a pale moon. Dense fog floating close to the ground, cinematic lighting, spooky atmosphere, dark horror movie style, highly detailed, 8k --ar",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e24f6534cab4.json"
+    },
+    {
+      "id": "opl_59a6f3d4b3bc",
+      "slug": "lecturer-59a6f3",
+      "title": "Lecturer",
+      "prompt": "I want you to teach like an expert(uniosun lecturer)each pdf and picture I will be sending to you and make it easy to understand and assimilate use memonic where necessary",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59a6f3d4b3bc.json"
+    },
+    {
+      "id": "opl_33ee21cc797d",
+      "slug": "life-coach-33ee21",
+      "title": "Life coach",
+      "prompt": "Create a daily and weekly routine that consists of gym and work and self reflection",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33ee21cc797d.json"
+    },
+    {
+      "id": "opl_ef150c986f03",
+      "slug": "life-solution",
+      "title": "Life solution",
+      "prompt": "I want you to act the the best brave thinker in the world while looking for solution to each world current problem on earth.make it easy to assimilate with the best solution in a way to make money online procedure to take how to reach out to people which app will the people that need the solution be how to approach them even if there is need to create appp teach me am ready to learn",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef150c986f03.json"
+    },
+    {
       "id": "opl_34f777f2997b",
       "slug": "linux-log-analyst",
       "title": "Linux Log Analyst",
@@ -686,6 +1315,38 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcf97333b23c.json"
     },
     {
+      "id": "opl_55a914a91c27",
+      "slug": "loose-watercolor-painting-of-a-kingfisher-diving-into-a-forest-stream",
+      "title": "Loose Watercolor Painting of a Kingfisher Diving into a Forest Stream",
+      "prompt": "A loose, expressive watercolor painting of a common kingfisher diving headfirst into a calm forest stream, in a wide landscape 16:9 composition on textured white watercolor paper. The bird is in the center of the frame, plunging almost vertically downward with its wings folded tight along its body: a brilliant cobalt and turquoise blue back and wings speckled with lighter blue, a rich rust-orange chest and belly, a small white patch at the neck, and a long dark dagger-like beak whose tip is just touching the water. Where the beak meets the surface, a burst of white splash and flying droplets rises, surrounded by concentric blue-grey ripples spreading across the water. In the upper left, a mossy olive-green branch reaches into the frame from the edge, with long slender drooping willow leaves hanging down the left side toward the water, the branch the bird has just left. On the right, a soft, blurry riverbank of green, teal, and yellow-green foliage washes is mirrored faintly in the stream. Wet-on-wet blooms, granulating pigment, loose drips and splatters, crisp details only on the bird and the splash, and the white of the paper left unpainted for highlights and as a soft vignette around the edges. Fresh, lively, natural mood. No text, no signature, no frame.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_55a914a91c27.json"
+    },
+    {
+      "id": "opl_219ad046961b",
+      "slug": "magical-halloween-neighborhood-street-at-dusk-cinematic-video",
+      "title": "Magical Halloween Neighborhood Street at Dusk (Cinematic Video)",
+      "prompt": "A cinematic, magical Halloween neighborhood street decorated for a festive autumn celebration. Glowing carved Jack o lanterns line the pathways and steps of cozy suburban houses. Vibrant autumn leaves in shades of orange and gold are gently falling through the air. Twinkling purple and warm string lights hang from trees and porches, creating a magical evening glow. Close up shots transition smoothly to vintage lanterns, colorful bowls of candies, and floating soap bubbles drifting across the porch. Ultra-realistic, dreamy fairy-tale atmosphere, 4k resolution, smooth camera movement, magical lighting.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_219ad046961b.json"
+    },
+    {
       "id": "opl_90bf160fbec3",
       "slug": "map",
       "title": "MAP",
@@ -716,6 +1377,27 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_910f3548492d.json"
+    },
+    {
+      "id": "opl_dee0bd127eef",
+      "slug": "maximum-lexical-compression",
+      "title": "Maximum Lexical Compression",
+      "prompt": "Rewrite my text with maximal lexicalization (maximum lexical compression):\nFor every phrase, sentence, or paragraph that has an established equivalent term,\nterm of art, or single word, remove it and replace it with just that word/term.\nDo not keep any explanation in long form if it can be expressed with a single word.\n\nINPUT:\n${paste_your_text_here}",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "paste_your_text_here",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dee0bd127eef.json"
     },
     {
       "id": "opl_92d905a331d9",
@@ -750,6 +1432,55 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9cc1d2db9d6e.json"
     },
     {
+      "id": "opl_c7770d612826",
+      "slug": "miniature-artist",
+      "title": "Miniature Artist",
+      "prompt": "[00:00 - 00:02]\n[Extreme close-up] of Komar's face, an 18-year-old Indonesian teenage boy, short hair, wearing black-framed glasses with minus lenses reflecting the light of a desk lamp. A very meticulous and focused expression. Warm lighting from a desk lamp, ${cinematic_bokeh}, ${volumetric_lighting}, [8k resolution], [ultra-realistic skin texture].\n\n[00:02 - 00:04] \n${macro_shot} of the hands of Komar, an 18-year-old Indonesian teenage boy, wearing a dark blue short-sleeved t-shirt, assembling a miniature Indonesian train locomotive using tweezers. Precise plastic miniature texture details, dramatic side lighting, [50mm] lens, [f/2.8], ${professional_studio_lighting}, intricate mechanical details.\n\n[00:04 - 00:06]\n${medium_shot} Komar, an 18-year-old Indonesian man with short hair, wearing black-framed glasses with minus lenses, wearing a plain navy blue short-sleeved t-shirt with a regular fit. Sitting at a wooden workbench filled with model kit equipment. Warm atmosphere, ${dust_motes} visible in light beams, ${cinematic_color_grading}, ${soft_shadows}.",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "cinematic_bokeh",
+          "default": null
+        },
+        {
+          "name": "cinematic_color_grading",
+          "default": null
+        },
+        {
+          "name": "dust_motes",
+          "default": null
+        },
+        {
+          "name": "macro_shot",
+          "default": null
+        },
+        {
+          "name": "medium_shot",
+          "default": null
+        },
+        {
+          "name": "professional_studio_lighting",
+          "default": null
+        },
+        {
+          "name": "soft_shadows",
+          "default": null
+        },
+        {
+          "name": "volumetric_lighting",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c7770d612826.json"
+    },
+    {
       "id": "opl_554b82a69074",
       "slug": "monthly-updates",
       "title": "Monthly Updates",
@@ -782,6 +1513,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b017088438d.json"
     },
     {
+      "id": "opl_752185e15b0c",
+      "slug": "movie-website-with-menu-navigation",
+      "title": "Movie Website with Menu Navigation",
+      "prompt": "Create a movie website that will have menu navigation, beautiful selectors, and more.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_752185e15b0c.json"
+    },
+    {
       "id": "opl_a231d06e63ce",
       "slug": "m-nchener-skyline-als-umrissbild-darstellen",
       "title": "Münchener Skyline als Umrissbild darstellen",
@@ -796,6 +1543,71 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a231d06e63ce.json"
+    },
+    {
+      "id": "opl_e9f5cd550567",
+      "slug": "national-architecture-dioramas",
+      "title": "National Architecture Dioramas",
+      "prompt": "“Create an isometric miniature 3D diorama representing the iconic architecture of ${country_name} through ${famous_structure}. Use a 45° top-down view.\n\nApply clean soft textures and realistic PBR materials.\nLighting feels balanced and natural. The raised base includes nearby streets, landscape features, and cultural details linked to the structure. Add tiny stylized locals and visitors with heavy facial details.\n\nBackground stays solid ${background_color}. Top center text shows ${country_name} in bold. Second line shows ${structure_name}. Place a minimal architecture icon below. Text color adjusts for contrast.”",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "background_color",
+          "default": null
+        },
+        {
+          "name": "country_name",
+          "default": null
+        },
+        {
+          "name": "famous_structure",
+          "default": null
+        },
+        {
+          "name": "structure_name",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9f5cd550567.json"
+    },
+    {
+      "id": "opl_ffc72ffb7ebc",
+      "slug": "nature",
+      "title": "Nature",
+      "prompt": "---\nname: nature\ndescription: Introduction \n---\n\n# Nature\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ffc72ffb7ebc.json"
+    },
+    {
+      "id": "opl_8314f670941e",
+      "slug": "neon-koi-pond-under-a-rainy-tokyo-alley",
+      "title": "Neon Koi Pond Under a Rainy Tokyo Alley",
+      "prompt": "Rainy Tokyo alley at night, neon signs in Japanese reflected in a shallow koi pond built into the street, orange and teal neon, wet asphalt, umbrellas, gentle rain streaks, cinematic still, shallow depth of field, ultra-detailed reflections, moody atmosphere",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8314f670941e.json"
     },
     {
       "id": "opl_82d1ffdb9261",
@@ -814,6 +1626,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82d1ffdb9261.json"
     },
     {
+      "id": "opl_17193da31bbe",
+      "slug": "oil-painting-of-a-lighthouse-keeper-s-kitchen-in-a-storm",
+      "title": "Oil Painting of a Lighthouse Keeper's Kitchen in a Storm",
+      "prompt": "A lighthouse keeper's kitchen painted in rich oil, warm and lived-in while a storm rages outside. Thick impasto strokes show whitewashed stone walls, a heavy wooden table with a brass kettle steaming, an oil lamp casting amber light, and a loaf of bread on a worn cutting board. Rain streaks the small paned window; through the glass, dark grey sea and white spray. Wet yellow oilskins and rubber boots hang dripping by the door. Copper pans and a enamel mug sit on open shelves. Cozy interior warmth contrasts with cold storm light at the window. Visible brushwork, muted ochres and deep blues, slight varnish sheen. No people, no text, no modern appliances.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_17193da31bbe.json"
+    },
+    {
       "id": "opl_61f9bb84d1cb",
       "slug": "openai-assistants",
       "title": "OpenAI Assistants",
@@ -830,6 +1658,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61f9bb84d1cb.json"
     },
     {
+      "id": "opl_05890a845e5a",
+      "slug": "origami-paper-cranes-flying-over-a-folded-paper-pagoda-at-sunset",
+      "title": "Origami Paper Cranes Flying Over a Folded-Paper Pagoda at Sunset",
+      "prompt": "A handcrafted origami paper art diorama of dozens of folded paper cranes flying in a sweeping arc over a five-tier folded-paper pagoda at sunset, in a wide landscape 16:9 composition. About thirty origami cranes in crimson red, golden yellow, and cream white rise in a gentle curve from the lower left, just beside the sun, up and across to the upper right corner, each with sharp, crisp folds and visible paper grain. In the center, the pagoda stands on a stepped paper base with a small staircase at the top of a hill, built from natural cream paper with five tiers of upturned eaves trimmed in thin red edges, tiny railings, and small windows. A small pink folded-paper cherry blossom tree sits just left of the pagoda base, and a large cherry tree with a twisted brown paper trunk and clusters of pink paper blossoms fills the right foreground. Behind them, layered faceted paper mountains in beige, warm grey, and soft pink (pink on the left) recede in overlapping ridges, with crumpled beige paper hills in the foreground. A large flat orange textured paper circle sun hangs low on the left against a plain light grey-beige paper sky. Soft studio lighting with gentle shadows between the paper layers, shallow depth of field, warm and calm handcrafted mood. No text, no people.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05890a845e5a.json"
+    },
+    {
       "id": "opl_95639bed1dd1",
       "slug": "output-to-prompt",
       "title": "Output To Prompt",
@@ -844,6 +1688,47 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95639bed1dd1.json"
+    },
+    {
+      "id": "opl_6018810539e2",
+      "slug": "paper-quilled-haute-couture-gown-fashion-shot",
+      "title": "Paper-Quilled Haute Couture Gown Fashion Shot",
+      "prompt": "Generate a full-body high-fashion shot of a ${subject:tall model with a sleek low bun} in a ${pose:elegant three-quarter standing pose}, wearing an avant-garde paper-quilled haute couture gown made of fluid, overlapping 3D ribbon strands. The dress features ${dress_features:a fitted corset bodice and sweeping train} made of swooping ribbon layers in a gradient of ${color_palette:vivid cobalt, emerald green, and gold}. Accessories include a ${headwear:wide-brimmed matching hat with quilled plume details}. Set against a ${background_color:dark charcoal grey} background with dramatic studio spotlighting highlighting texture and fine edges. Rendered in crisp, high-contrast 3D detail.",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "background_color",
+          "default": "dark charcoal grey"
+        },
+        {
+          "name": "color_palette",
+          "default": "vivid cobalt, emerald green, and gold"
+        },
+        {
+          "name": "dress_features",
+          "default": "a fitted corset bodice and sweeping train"
+        },
+        {
+          "name": "headwear",
+          "default": "wide-brimmed matching hat with quilled plume details"
+        },
+        {
+          "name": "pose",
+          "default": "elegant three-quarter standing pose"
+        },
+        {
+          "name": "subject",
+          "default": "tall model with a sleek low bun"
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6018810539e2.json"
     },
     {
       "id": "opl_049bb36e802f",
@@ -892,6 +1777,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94b55e88f223.json"
+    },
+    {
+      "id": "opl_d37ae304c518",
+      "slug": "political",
+      "title": "Political",
+      "prompt": "I need to understand why Somalia can't be stable country and what is the missing thing that if Somali politicians do Somalia become great again",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d37ae304c518.json"
     },
     {
       "id": "opl_3c599f702129",
@@ -1027,6 +1928,54 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a2b7f4c3611.json"
     },
     {
+      "id": "opl_154a0f0d5110",
+      "slug": "psy",
+      "title": "psy",
+      "prompt": "A cinematic wide-angle shot of a couple walking hand-in-hand on a quiet beach at night, the couple appearing small and distant in the frame to emphasize the vast environment. Deep teal and navy blue color grading. A vast clear night sky. Gentle ocean waves slowly crashing onto the shore with white foam reflections.\n\nCamera: smooth slow tracking shot from behind, wide framing, slight cinematic drift, stabilized motion  \nFraming: couple placed in lower third, small scale, large negative space, emphasizing sky and ocean  \nLighting: low-light, moody, high contrast, soft shadows, subtle highlights on water and sand  \nMotion: natural walking movement, soft wind blowing hair and clothes, slow wave movement  \nStyle: dreamy lo-fi, romantic atmosphere, film grain, anamorphic lens, shallow depth of field  \nQuality: ultra-realistic, 8K, clean composition, no clutter  \n\nDuration: 5–8 seconds  \nFPS: 24fps cinematic",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_154a0f0d5110.json"
+    },
+    {
+      "id": "opl_4e1c6d034497",
+      "slug": "rags-to-riches-young-man-character-sheet",
+      "title": "Rags to Riches Young Man Character Sheet",
+      "prompt": "Young Black man, 23 years old\n* Slim athletic build, medium height\n* Dark brown skin\n* Short, tightly curled black hair\n* Brown eyes\n* Small scar above his right eyebrow\n* Calm, determined facial expression\n* Poor version: faded dark-brown hoodie, worn blue jeans, old black sneakers, brown canvas shoulder bag",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e1c6d034497.json"
+    },
+    {
+      "id": "opl_1d45d695fd75",
+      "slug": "realistic-monkey-fruit-mukbang",
+      "title": "Realistic Monkey Fruit Mukbang",
+      "prompt": "Create an ultra-realistic 4K live-action monkey fruit mukbang featuring [FRUIT].\n\nA real macaque sits high on the tree of the requested fruit, wearing a small Gucci crossbody bag and carrying Vietnamese chili salt.\n\nThe video starts immediately with the macaque naturally picking a whole [FRUIT] directly from the tree, then immediately eating it continuously. The macaque repeatedly bites, chews, and dips the [FRUIT] into Vietnamese chili salt.\n\nThe fruit must always remain exactly [FRUIT] throughout the entire video. Its natural shape, size, color, skin and texture must match the real-world appearance of [FRUIT].\n\nStrict fruit identity lock: [FRUIT] only. Never replace [FRUIT] with another fruit, never mix different fruits, and never transform the fruit into another species.\n\nUltra-realistic natural smartphone footage, natural daylight, realistic macaque behavior, authentic fruit texture, realistic chewing sounds, no CGI, no cartoon, no talking, no music, no text, no watermark.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d45d695fd75.json"
+    },
+    {
       "id": "opl_7ce4390d0961",
       "slug": "rebuttal",
       "title": "rebuttal",
@@ -1075,6 +2024,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82aad9634b1e.json"
     },
     {
+      "id": "opl_7232cd5c5857",
+      "slug": "red-dior-puffy-jacket-fashion-night-out-winner",
+      "title": "Red Dior Puffy Jacket Fashion Night Out Winner",
+      "prompt": "A model wearing a Dior puffy jacket in red colour wins a party with glossy heels",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7232cd5c5857.json"
+    },
+    {
       "id": "opl_e8902f5dc707",
       "slug": "revenue-performance-report",
       "title": "Revenue Performance Report",
@@ -1091,6 +2056,27 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8902f5dc707.json"
     },
     {
+      "id": "opl_0daaa42b7ceb",
+      "slug": "reverse-brief",
+      "title": "Reverse Brief",
+      "prompt": "Create a reverse brief of this document. Explain the purpose in plain language, list the most important points, identify any risks, deadlines or obligations, and summarize what actions I need to take.\n${document}",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "document",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0daaa42b7ceb.json"
+    },
+    {
       "id": "opl_b9a7f7afdb3c",
       "slug": "rocket-launcher",
       "title": "Rocket launcher",
@@ -1105,6 +2091,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9a7f7afdb3c.json"
+    },
+    {
+      "id": "opl_16eb96229699",
+      "slug": "ronaldo-hanger",
+      "title": "Ronaldo hanger",
+      "prompt": "Ronaldo os angry  that messi winn the world cup, and he run to steal it from him",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_16eb96229699.json"
     },
     {
       "id": "opl_6d889206e6d3",
@@ -1137,6 +2139,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d4334c8e07e4.json"
+    },
+    {
+      "id": "opl_8df32aaaf8ac",
+      "slug": "scrimshaw-engraving-of-a-clipper-ship-and-a-sea-serpent-in-a-storm",
+      "title": "Scrimshaw Engraving of a Clipper Ship and a Sea Serpent in a Storm",
+      "prompt": "A wide scrimshaw-style engraving of a three-masted clipper ship under full sail battling towering storm waves, while a long coiled sea serpent rises from the sea beside it on the right. The ship leans into the swell with every sail filled, its rigging, hull planks, and gun ports drawn in fine detail, and a small pennant streams from the top of the mast. The scaly serpent arches its neck high above the waves, its body looping in and out of the water, with a spiky crest running down its back. Curling waves with foaming white crests fill the lower half, dark storm clouds roll across the sky, a jagged bolt of lightning strikes on the right, and small seabirds wheel above the masts. Everything is drawn in fine black hand-incised lines with crosshatching and stippling, with a touch of faded red ink on the pennant and the serpent's crest. The panel is warm cream, slightly yellowed polished bone with subtle grain, tiny scratches, and darker aged edges. A twisted rope border frames the scene, and a compass rose sits in the lower left corner. Antique 19th-century sailor folk art look, high detail. Wide landscape 16:9. No text, no letters, no signatures.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8df32aaaf8ac.json"
     },
     {
       "id": "opl_6d43288eb98c",
@@ -1251,6 +2269,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ed114f5b669.json"
     },
     {
+      "id": "opl_22d1613bef7a",
+      "slug": "socratic-method-22d161",
+      "title": "Socratic Method",
+      "prompt": "I want you to act as a Socrat. You must use the Socratic method to continue questioning my beliefs. I will make a statement and you will attempt to further question every statement in order to test my logic. You will respond with one line at a time. My first claim is \"justice is neccessary in a society\"",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_22d1613bef7a.json"
+    },
+    {
       "id": "opl_41275487f643",
       "slug": "speech-language-pathologist-slp",
       "title": "Speech-Language Pathologist (SLP)",
@@ -1281,6 +2315,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53d0ffbce7e6.json"
+    },
+    {
+      "id": "opl_483182b74fdf",
+      "slug": "spotify-vibe",
+      "title": "Spotify Vibe",
+      "prompt": "---\nname: spotify-vibe\ndescription: For Spotify Vibe \n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...\n\u001fFILE:README.md gf\u001e\n\n\u001fFILE:README.md golden brown background\u001e",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_483182b74fdf.json"
     },
     {
       "id": "opl_6da9845e1803",
@@ -1389,6 +2439,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a948faafcb74.json"
     },
     {
+      "id": "opl_09216ed3e281",
+      "slug": "support-log-triage-show-only-the-problem-window-and-error-or-fatal-lines-quoted-exactly",
+      "title": "Support log triage: show only the problem window and ERROR or FATAL lines, quoted exactly",
+      "prompt": "From the log below, show only the lines from [10] minutes before to\n[10] minutes after [time and time zone], plus any line anywhere marked\nERROR or FATAL. Quote each line exactly and keep the original order.\nTell me how many lines you left out. Don't summarize yet.\n[paste the log]",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_09216ed3e281.json"
+    },
+    {
       "id": "opl_c93e40eee684",
       "slug": "swagger-docs",
       "title": "Swagger Docs",
@@ -1466,6 +2532,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb45908fd6ee.json"
     },
     {
+      "id": "opl_10bd59da3f51",
+      "slug": "time-management-and-calculating-for-my-employees-to-be-signed-in-by-email",
+      "title": "Time management and calculating for my employees to be signed in by email",
+      "prompt": "Using this app to record time of starting and ending shifts for multi workers to save the date,time and duration of each shift and giving a report in the end of each month.it can be run offline and online by starting counting time until the mobile is connected .each shift should not be more than ten hours continously in single shift.each worker has his own profile can see his own shifts reports and editing is not allowed only by the owner which is me.\nThere is a space to leave a notes in each shift by worker or owner or both . The worker to sign in need to use there own email . There is a botton for start shift and end shift .",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10bd59da3f51.json"
+    },
+    {
       "id": "opl_34f6bcc21661",
       "slug": "tts-tester",
       "title": "TTS Tester",
@@ -1498,6 +2580,54 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce6409ef837.json"
     },
     {
+      "id": "opl_a302f57de767",
+      "slug": "ukiyo-e-woodblock-print-of-a-river-ferry-crossing-in-autumn-rain",
+      "title": "Ukiyo-e Woodblock Print of a River Ferry Crossing in Autumn Rain",
+      "prompt": "A Japanese ukiyo-e woodblock print of a small wooden ferry boat crossing a wide, calm river in autumn rain, in a wide landscape 16:9 composition on warm beige paper with visible fibers and wood grain texture. A long, low wooden boat sits in the center right of the frame, carrying three seated passengers under round oiled paper umbrellas, from left to right one vermilion red, one deep indigo blue, and one ochre yellow, the passengers wearing simple robes in indigo, ochre, and rust. At the stern on the right, a ferryman stands in a pale blue-grey robe and a wide conical straw hat, pushing a long wooden pole diagonally into the water. In the upper left, a red maple tree reaches into the frame with clusters of bright orange-red leaves, above a grassy, rocky near bank with tall reeds in the lower left. In the background, a misty grey-blue volcano-shaped mountain rises behind a hazy far shore with soft tree silhouettes on the right. Fine diagonal rain lines fall across the whole scene, the river shows gentle horizontal ripple lines, and the sky has a soft bokashi gradient from dark slate grey at the top to pale beige near the horizon. Flat color areas, fine black outlines, muted indigo, ochre, vermilion, and grey palette, quiet and contemplative mood. No text, no seals, no signature, no border.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a302f57de767.json"
+    },
+    {
+      "id": "opl_1bf6f2fb1ba2",
+      "slug": "ukiyo-e-woodblock-print-of-a-spring-kite-festival",
+      "title": "Ukiyo-e Woodblock Print of a Spring Kite Festival",
+      "prompt": "A traditional Japanese ukiyo-e woodblock print of a spring kite festival on a windy grassy hill above a river valley. Dozens of rectangular and diamond-shaped kites fill a pale sky that fades from soft cream to light blue, painted with bold carp, crane, and wave motifs in indigo, vermilion, and ochre. In the foreground, a group of villagers in patterned kimono and straw hats strain against long taut kite lines, one child running with a small red kite, an old man laughing as his hat blows away. Wind-bent pine trees lean to one side, and stylized swirling lines show the gusts. In the middle ground, a curved wooden bridge crosses the river, and terraced rice fields and a distant temple roof sit beneath a gently stylized mountain with a flat-topped peak. Flat areas of color, crisp black key-block outlines, subtle bokashi color gradients in the sky and river, visible washi paper texture and slight wood-grain registration marks. Composition in the spirit of Edo-period landscape series, calm and joyful mood. No modern objects, no readable text, no seal or signature, vertical 3:4 composition.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1bf6f2fb1ba2.json"
+    },
+    {
+      "id": "opl_95c054f1eb5c",
+      "slug": "ukrainian-petrykivka-folk-painting-of-twin-firebirds-above-a-sunflower",
+      "title": "Ukrainian Petrykivka Folk Painting of Twin Firebirds Above a Sunflower",
+      "prompt": "A traditional Ukrainian Petrykivka folk painting in a wide landscape 16:9 composition on a warm cream paper background, a perfectly symmetrical decorative ornament mirrored down the vertical center line. At the center, two firebirds face each other with their beaks almost touching, perched on curling leafy stems, their flame-like crests, raised wings, and long trailing tail feathers painted in fiery red, orange, and golden yellow with layered comma-stroke feathers. Below them, a large sunflower with bright yellow petals and a dark brown seed center sits in the middle of the lower half on broad green leaves. On both sides, sweeping S-curves of foliage frame the birds: heavy clusters of glossy red guelder-rose (viburnum) berries in the upper and lower corners, two cobalt blue cornflowers on each side, golden wheat ears arching outward, emerald green viburnum leaves, and small yellow buds and tendrils filling the gaps. Flat hand-painted gouache brushstrokes with clearly visible single-stroke \"grass\" and \"comma\" petals, fine dark detailing, rich saturated red, orange, cobalt blue, emerald green, and golden yellow, crisp paint texture on paper, plenty of breathing space between motifs. Festive, joyful, handcrafted folk-art mood. No text, no signature, no frame, no people.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95c054f1eb5c.json"
+    },
+    {
       "id": "opl_66d4e7ee17a3",
       "slug": "ultra-brief-one-sentence-answers",
       "title": "Ultra Brief One-Sentence Answers",
@@ -1514,6 +2644,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66d4e7ee17a3.json"
     },
     {
+      "id": "opl_26a7955301f1",
+      "slug": "valentines-day-cocktail",
+      "title": "Valentines Day Cocktail",
+      "prompt": "Create a 9-second cinematic Valentine’s Day cocktail video in vertical 9:16 format. Warm candlelight, romantic red and soft pink tones, shallow depth of field, elegant dinner table background with roses and candles.\n\nFast 1-second snapshot cuts with smooth crossfades:\n\n0–3s:\nClose-up slow-motion sparkling wine being poured into a champagne flute (French 75). Macro bubbles rising. Quick cut to lemon twist garnish placed on rim.\n\n3–6s:\nStrawberries being sliced in soft light. Basil leaves gently pressed. Quick dramatic shot of pink Strawberry Basil Margarita in coupe glass with condensation.\n\n6–9s:\nEspresso pouring in slow motion. Cocktail shaker snap cut. Strain into coupe glass with creamy foam (Chocolate Espresso Martini). Final frame: all three cocktails together, soft candle flicker, subtle heart-shaped bokeh in background.\n\nRomantic instrumental jazz soundtrack. Cinematic lighting. Ultra-realistic. High detail. Premium bar aesthetic.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_26a7955301f1.json"
+    },
+    {
       "id": "opl_834ed4796632",
       "slug": "war",
       "title": "war",
@@ -1528,6 +2674,38 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_834ed4796632.json"
+    },
+    {
+      "id": "opl_51c204187c55",
+      "slug": "web-app-ui",
+      "title": "WEB APP UI",
+      "prompt": "# Taste\n- Package manager is npm (not pnpm or yarn). Confidence: 0.95\n- Use Next.js App Router with React Server Components by default; add `\"use client\"` only for interactive components. Confidence: 0.95",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_51c204187c55.json"
+    },
+    {
+      "id": "opl_4e7ade5b3056",
+      "slug": "what-if-a-stick-man-could-stop-time-animated-short",
+      "title": "What If a Stick Man Could Stop Time? Animated Short",
+      "prompt": "Title:** What If a Stick Man Could Stop Time? ⏰  \n   \n**Scene 1 — The Discovery (0–8 sec)** **Visual:** Open on a bright, colorful city street. Use a slow camera pan as Stick Man walks casually, humming. Add light footsteps and cheerful background music. A glowing blue button rolls into frame and stops near his foot.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e7ade5b3056.json"
     },
     {
       "id": "opl_9da44a29d350",

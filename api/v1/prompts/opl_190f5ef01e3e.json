@@ -1,0 +1,21 @@
+{
+  "id": "opl_190f5ef01e3e",
+  "slug": "basl-k",
+  "title": "Başlık",
+  "prompt": "ti ve kahiredeki otel kaldı aşkım benim aşkım benim haklısın ama bu paylaş Facebook Tweet ve fotoğrafları${aşkım}",
+  "category": "General",
+  "folder": "general",
+  "variables": [
+    {
+      "name": "aşkım",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_190f5ef01e3e.json"
+}

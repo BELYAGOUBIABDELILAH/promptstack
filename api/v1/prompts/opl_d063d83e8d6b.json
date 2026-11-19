@@ -1,0 +1,25 @@
+{
+  "id": "opl_d063d83e8d6b",
+  "slug": "paper-folk-story-paper-cut-out-storybook-character-template",
+  "title": "Paper Folk Story: Paper Cut-Out Storybook Character Template",
+  "prompt": "Paper cut-out animation of a ${subject:little brown bear in a patchwork apron} ${simple_action:watering a tall sunflower}, full-body character, layered paper shapes, handmade paper texture, visible cut edges, soft shadows between layers, flat colorful paper tones, slightly imperfect handcrafted details, minimal paper-collage scenery, charming folk story aesthetic, gentle stop-motion feel, poetic children’s book atmosphere, clean white background",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "simple_action",
+      "default": "watering a tall sunflower"
+    },
+    {
+      "name": "subject",
+      "default": "little brown bear in a patchwork apron"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d063d83e8d6b.json"
+}

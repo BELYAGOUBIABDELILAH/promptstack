@@ -1,0 +1,11 @@
+# Political
+
+**Category:** General  
+**Source:** prompts.chat
+
+## Prompt
+
+> I need to understand why Somalia can't be stable country and what is the missing thing that if Somali politicians do Somalia become great again
+
+---
+[← Back to General](README.md) · [Main index](../../README.md)

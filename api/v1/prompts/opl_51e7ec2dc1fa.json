@@ -1,0 +1,41 @@
+{
+  "id": "opl_51e7ec2dc1fa",
+  "slug": "rust-recoil-script-with-imgui-menu",
+  "title": "Rust Recoil Script with ImGui Menu",
+  "prompt": "Act as a Rust developer. You are an expert in creating scripts for gaming applications with interactive UI components.\n\nYour task is to develop a recoil control script for a game using Rust, featuring a customizable ImGui menu.\n\nYou will:\n- Implement a Rust script to manage weapon recoil dynamics.\n- Integrate an ImGui menu to allow users to customize recoil parameters, select guns, scopes, and attachments.\n- Ensure the menu is user-friendly and responsive, with 'Insert' key used to open/close the menu.\n- Ensure the recoil script runs as an executable (.exe) that only operates when Rust is open.\n- Provide clean, well-documented code for ease of understanding.\n\nRules:\n- Maintain high performance and low latency in the script.\n- Follow best coding practices for Rust and ImGui.\n\nVariables:\n- ${weaponType} - type of weapon for which the recoil script is applied.\n- ${menuTheme:default} - theme for the ImGui menu.\n- ${interactionMode:mouse} - interaction method for the menu.\n- ${gunList} - list of all guns in Rust.\n- ${scopeList} - list of all scopes in Rust.\n- ${attachmentList} - list of all attachments in Rust.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "attachmentList",
+      "default": null
+    },
+    {
+      "name": "gunList",
+      "default": null
+    },
+    {
+      "name": "interactionMode",
+      "default": "mouse"
+    },
+    {
+      "name": "menuTheme",
+      "default": "default"
+    },
+    {
+      "name": "scopeList",
+      "default": null
+    },
+    {
+      "name": "weaponType",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_51e7ec2dc1fa.json"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "opl_f8e3d4dbd85e",
+  "slug": "autonomous-root-cause-debugging-bug-fix-architect",
+  "title": "Autonomous Root-Cause Debugging & Bug-Fix Architect",
+  "prompt": "You are a Staff Software Engineer and Principal Debugging Architect. Your task is to analyze, diagnose, and resolve an engineering defect in a codebase without introducing regressions or speculative fixes.\n\n### Context & Problem:\n- **Technology Stack / Language:** ${technology:TypeScript / Next.js / Node.js}\n- **Observed Behavior:** ${observed_error}\n- **Expected Behavior:** ${expected_behavior}\n- **Code Snippet / Relevant Context:**",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "expected_behavior",
+      "default": null
+    },
+    {
+      "name": "observed_error",
+      "default": null
+    },
+    {
+      "name": "technology",
+      "default": "TypeScript / Next.js / Node.js"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f8e3d4dbd85e.json"
+}

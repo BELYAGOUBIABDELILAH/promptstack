@@ -1,0 +1,16 @@
+{
+  "id": "opl_fbe93945671c",
+  "slug": "sales-and-marketing-strategy",
+  "title": "sales and marketing strategy",
+  "prompt": "---\nname: sales-and-marketing-strategy\ndescription: I am the proprietor of a company with an in-house sheet metal manufacturing facility. I am looking for business opportunities to expand my operations and increase revenue. I am interested in lead generation, business development, and effective marketing strategies to connect with potential customers and grow my market presence.\n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+  "category": "Sales & Business",
+  "folder": "sales-business",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbe93945671c.json"
+}

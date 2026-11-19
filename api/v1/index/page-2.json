@@ -1,12 +1,1045 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T16:17:28.363Z",
   "page": 2,
   "per_page": 100,
-  "total": 2832,
-  "total_pages": 29,
+  "total": 3830,
+  "total_pages": 39,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
   "prompts": [
+    {
+      "id": "opl_c0ba0ae18be4",
+      "slug": "academic-analyst-and-exam-pattern-extractor",
+      "title": "Academic analyst and exam pattern extractor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0ba0ae18be4.json"
+    },
+    {
+      "id": "opl_e26c0a782eb6",
+      "slug": "academic-essay-builder",
+      "title": "Academic Essay Builder",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e26c0a782eb6.json"
+    },
+    {
+      "id": "opl_5ed391a67eb9",
+      "slug": "academic-graduation-presentation-guide",
+      "title": "Academic Graduation Presentation Guide",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "duration",
+          "default": "20"
+        },
+        {
+          "name": "slideCount",
+          "default": "10"
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ed391a67eb9.json"
+    },
+    {
+      "id": "opl_fc2605cd4164",
+      "slug": "academic-paper-figure-generator-nano-banana-pro",
+      "title": "Academic Paper Figure Generator - Nano Banana Pro",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "aspect_ratio",
+          "default": "16:9"
+        },
+        {
+          "name": "figure_type",
+          "default": "Type of figure (architecture diagram, flowchart, data visualization, conceptual model, experimental setup)"
+        },
+        {
+          "name": "resolution",
+          "default": "2K"
+        },
+        {
+          "name": "style",
+          "default": "Visual style preference (minimal, detailed, technical, conceptual)"
+        },
+        {
+          "name": "subject",
+          "default": "Specific subject or topic"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc2605cd4164.json"
+    },
+    {
+      "id": "opl_ee241d7c3fb2",
+      "slug": "academic-powerpoint-presentation-designer",
+      "title": "Academic PowerPoint Presentation Designer",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee241d7c3fb2.json"
+    },
+    {
+      "id": "opl_09641c04dbf8",
+      "slug": "academic-text-refinement-assistant",
+      "title": "Academic Text Refinement Assistant",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_09641c04dbf8.json"
+    },
+    {
+      "id": "opl_345bb5f7b9a2",
+      "slug": "academic-tone-writer",
+      "title": "Academic Tone Writer",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_345bb5f7b9a2.json"
+    },
+    {
+      "id": "opl_bc2b67766cd8",
+      "slug": "academic-writing-workshop-plan",
+      "title": "Academic Writing Workshop Plan",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc2b67766cd8.json"
+    },
+    {
+      "id": "opl_7785fcdacb6d",
+      "slug": "academician",
+      "title": "Academician",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7785fcdacb6d.json"
+    },
+    {
+      "id": "opl_42bd4358a639",
+      "slug": "access-unlimited-chatgpt",
+      "title": "Access Unlimited ChatGPT",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42bd4358a639.json"
+    },
+    {
+      "id": "opl_8c120562199e",
+      "slug": "accessibility-auditor",
+      "title": "Accessibility Auditor",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c120562199e.json"
+    },
+    {
+      "id": "opl_6ea4cad3bc49",
+      "slug": "accessibility-auditor-agent-role",
+      "title": "Accessibility Auditor Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ea4cad3bc49.json"
+    },
+    {
+      "id": "opl_c1ca162fbfd6",
+      "slug": "accessibility-color-contrast-auditor",
+      "title": "Accessibility Color Contrast Auditor",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1ca162fbfd6.json"
+    },
+    {
+      "id": "opl_d2684ca08326",
+      "slug": "accessibility-expert",
+      "title": "Accessibility Expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "aria_live_politeness",
+          "default": "polite"
+        },
+        {
+          "name": "compliance_standard",
+          "default": "WCAG 2.1"
+        },
+        {
+          "name": "component_name",
+          "default": "Application"
+        },
+        {
+          "name": "focus_indicator_width",
+          "default": "2"
+        },
+        {
+          "name": "large_text_threshold",
+          "default": "18"
+        },
+        {
+          "name": "lighthouse_a11y_threshold",
+          "default": "90"
+        },
+        {
+          "name": "min_contrast_ratio",
+          "default": "4.5"
+        },
+        {
+          "name": "screen_reader",
+          "default": "NVDA"
+        },
+        {
+          "name": "testing_scope",
+          "default": "full-audit"
+        },
+        {
+          "name": "touch_target_size",
+          "default": "44"
+        },
+        {
+          "name": "touch_target_spacing",
+          "default": "8"
+        },
+        {
+          "name": "wcag_level",
+          "default": "AA"
+        },
+        {
+          "name": "zoom_level",
+          "default": "200"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d2684ca08326.json"
+    },
+    {
+      "id": "opl_3d736c10c008",
+      "slug": "accessibility-testing-superpower",
+      "title": "Accessibility Testing Superpower",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "aria_live_mode",
+          "default": "polite"
+        },
+        {
+          "name": "bold_text_size",
+          "default": "14"
+        },
+        {
+          "name": "compliance_standard",
+          "default": "WCAG 2.1"
+        },
+        {
+          "name": "component_name",
+          "default": "Page"
+        },
+        {
+          "name": "contrast_ratio_large",
+          "default": "3"
+        },
+        {
+          "name": "contrast_ratio_normal",
+          "default": "4.5"
+        },
+        {
+          "name": "focus_outline_color",
+          "default": "#005fcc"
+        },
+        {
+          "name": "focus_outline_offset",
+          "default": "2"
+        },
+        {
+          "name": "focus_outline_width",
+          "default": "2"
+        },
+        {
+          "name": "large_text_size",
+          "default": "18"
+        },
+        {
+          "name": "lighthouse_score",
+          "default": "90"
+        },
+        {
+          "name": "screen_reader",
+          "default": "NVDA"
+        },
+        {
+          "name": "test_framework",
+          "default": "jest-axe"
+        },
+        {
+          "name": "wcag_level",
+          "default": "AA"
+        },
+        {
+          "name": "zoom_level",
+          "default": "200"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d736c10c008.json"
+    },
+    {
+      "id": "opl_bb5cc1eb4c3d",
+      "slug": "accountant",
+      "title": "Accountant",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb5cc1eb4c3d.json"
+    },
+    {
+      "id": "opl_16c8b90f51c8",
+      "slug": "accounting-app-discovery-assistant",
+      "title": "Accounting App Discovery Assistant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_16c8b90f51c8.json"
+    },
+    {
+      "id": "opl_54bc86c8cacd",
+      "slug": "accounting-information-system",
+      "title": "Accounting Information System",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54bc86c8cacd.json"
+    },
+    {
+      "id": "opl_5f9e999a666c",
+      "slug": "acls-master-simulator",
+      "title": "ACLS Master Simulator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f9e999a666c.json"
+    },
+    {
+      "id": "opl_3ed514ca42ef",
+      "slug": "acoustic-guitar-composer",
+      "title": "Acoustic Guitar Composer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ed514ca42ef.json"
+    },
+    {
+      "id": "opl_b123627d7d49",
+      "slug": "acronym-to-organisation-assistant",
+      "title": "Acronym-to-Organisation Assistant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b123627d7d49.json"
+    },
+    {
+      "id": "opl_cec05c7d22bc",
+      "slug": "acropolis-at-golden-sunrise-15-shot-historical-documentary-with-1-second-hard-cuts-15s-video",
+      "title": "Acropolis at Golden Sunrise: 15-Shot Historical Documentary with 1-Second Hard Cuts (15s Video)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cec05c7d22bc.json"
+    },
+    {
+      "id": "opl_a287e5c6c2ee",
+      "slug": "act-as-a-base-llm-model",
+      "title": "Act as a Base LLM Model",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "context",
+          "default": null
+        },
+        {
+          "name": "input",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a287e5c6c2ee.json"
+    },
+    {
+      "id": "opl_b38952ceedb9",
+      "slug": "act-as-a-beginner-bicycle-commuting-coach",
+      "title": "Act as a Beginner Bicycle Commuting Coach",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [
+        {
+          "name": "bike",
+          "default": "old hybrid bike that has been in the basement for two years"
+        },
+        {
+          "name": "city",
+          "default": "mid-sized European city with rainy autumns"
+        },
+        {
+          "name": "distance",
+          "default": "7 km"
+        },
+        {
+          "name": "facilities",
+          "default": "indoor bike room, no showers"
+        },
+        {
+          "name": "fitness",
+          "default": "walks daily but no regular sport"
+        },
+        {
+          "name": "worry",
+          "default": "fast traffic on one main road and arriving sweaty"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b38952ceedb9.json"
+    },
+    {
+      "id": "opl_a17d7830960a",
+      "slug": "act-as-a-beginner-bonsai-care-coach",
+      "title": "Act as a Beginner Bonsai Care Coach",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "climate",
+          "default": "temperate, cold winters with frost, it is autumn now"
+        },
+        {
+          "name": "goal",
+          "default": "keep it alive first, later learn basic pruning and wiring"
+        },
+        {
+          "name": "location",
+          "default": "on my desk by a north-facing window in my apartment"
+        },
+        {
+          "name": "outdoor",
+          "default": "a small east-facing balcony"
+        },
+        {
+          "name": "pot",
+          "default": "a shallow ceramic pot with one drainage hole, the soil looks dark and compact"
+        },
+        {
+          "name": "symptoms",
+          "default": "some needles turning brown and dry at the tips"
+        },
+        {
+          "name": "time",
+          "default": "a few minutes each morning, more on weekends"
+        },
+        {
+          "name": "tools",
+          "default": "regular household scissors, a watering can"
+        },
+        {
+          "name": "tree",
+          "default": "a small juniper I bought at a garden center, about 25 cm tall, label says \"bonsai\""
+        },
+        {
+          "name": "watering",
+          "default": "a small glass of water every Sunday"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a17d7830960a.json"
+    },
+    {
+      "id": "opl_ea19301be122",
+      "slug": "act-as-a-beginner-chess-opening-coach",
+      "title": "Act as a Beginner Chess Opening Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "black_now",
+          "default": "I copy my opponent's moves for a while"
+        },
+        {
+          "name": "goal",
+          "default": "stop losing in the opening and reach a normal middlegame every game"
+        },
+        {
+          "name": "level",
+          "default": "I know how all the pieces move and basic checkmates, online rating about 800"
+        },
+        {
+          "name": "platform",
+          "default": "online rapid games, 10 minutes per side, a few games a week"
+        },
+        {
+          "name": "problems",
+          "default": "I lose my queen early, I get mated on f7, I forget to castle"
+        },
+        {
+          "name": "style",
+          "default": "I like clear, solid positions more than wild attacks"
+        },
+        {
+          "name": "time",
+          "default": "20 minutes a day on weekdays, an hour on weekends"
+        },
+        {
+          "name": "tools",
+          "default": "a free chess app with an analysis board, a physical board at home"
+        },
+        {
+          "name": "white_now",
+          "default": "1.e4 and then I just move pieces around"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea19301be122.json"
+    },
+    {
+      "id": "opl_d52e269ef69a",
+      "slug": "act-as-a-beginner-crochet-coach",
+      "title": "Act as a Beginner Crochet Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "experience",
+          "default": "I have never crocheted; I can tie a knot and I have watched one short video"
+        },
+        {
+          "name": "feedback",
+          "default": "close-up photos of a few rows, my stitch count per row, and notes on what felt hard"
+        },
+        {
+          "name": "goal",
+          "default": "to make a simple winter scarf for myself and maybe gifts later"
+        },
+        {
+          "name": "hands",
+          "default": "no major pain; I get a little stiff if I grip too hard"
+        },
+        {
+          "name": "hook",
+          "default": "a mid-size metal or plastic hook that matches the yarn label, around 5.0 to 5.5 mm"
+        },
+        {
+          "name": "project",
+          "default": "a straight rectangular scarf in one solid color, about adult length"
+        },
+        {
+          "name": "time",
+          "default": "20 minutes on weekday evenings and 40 minutes on the weekend"
+        },
+        {
+          "name": "weeks",
+          "default": "4 weeks"
+        },
+        {
+          "name": "yarn",
+          "default": "one or two skeins of medium worsted acrylic or wool-blend in a light color so I can see the stitches"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d52e269ef69a.json"
+    },
+    {
+      "id": "opl_fbafcbbf7128",
+      "slug": "act-as-a-beginner-home-sewing-and-clothing-repair-coach",
+      "title": "Act as a Beginner Home Sewing and Clothing Repair Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "clothes",
+          "default": "a pair of trousers that are too long and a shirt with a split side seam"
+        },
+        {
+          "name": "experience",
+          "default": "I have never sewn or mended clothing; I can use scissors and I own a few shirts that need hems or torn seams fixed"
+        },
+        {
+          "name": "feedback",
+          "default": "photos of the threaded needle, the pinned hem, the finished stitches from the right side and the wrong side, and notes on what felt awkward"
+        },
+        {
+          "name": "goal",
+          "default": "to hem trousers and repair everyday clothes at home instead of discarding them"
+        },
+        {
+          "name": "machine",
+          "default": "no machine yet, or a basic home machine I have not used"
+        },
+        {
+          "name": "project",
+          "default": "thread a needle, sew a simple hem on a practice scrap or tea towel, then repair one torn seam on a real garment, then sew one straight seam"
+        },
+        {
+          "name": "time",
+          "default": "30 to 45 minutes on two weekday evenings and a longer weekend session"
+        },
+        {
+          "name": "tools",
+          "default": "fabric scissors or sharp household scissors, pins or clips, a packet of needles, all-purpose thread; I may or may not have a basic sewing machine"
+        },
+        {
+          "name": "weeks",
+          "default": "2 weeks of practice then a steady habit of small mends"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbafcbbf7128.json"
+    },
+    {
+      "id": "opl_2133c122ca92",
+      "slug": "act-as-a-beginner-knitting-coach",
+      "title": "Act as a Beginner Knitting Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "about 20 for materials"
+        },
+        {
+          "name": "experience",
+          "default": "never knitted, I can tie a shoelace and follow written steps"
+        },
+        {
+          "name": "first_project",
+          "default": "a plain garter stitch scarf"
+        },
+        {
+          "name": "hands",
+          "default": "right-handed, no wrist or finger pain"
+        },
+        {
+          "name": "learning_style",
+          "default": "short written steps plus a short practice task"
+        },
+        {
+          "name": "materials",
+          "default": "nothing yet, happy to buy one ball of yarn and one pair of needles"
+        },
+        {
+          "name": "time",
+          "default": "20 minutes on weekday evenings, an hour on weekends"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2133c122ca92.json"
+    },
+    {
+      "id": "opl_72c6403c95b9",
+      "slug": "act-as-a-beginner-sourdough-starter-coach",
+      "title": "Act as a Beginner Sourdough Starter Coach",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "avoid",
+          "default": "wasting a lot of flour, complicated schedules"
+        },
+        {
+          "name": "equipment",
+          "default": "a kitchen scale, a large glass jar with a loose lid, a spatula, and a regular home oven"
+        },
+        {
+          "name": "flour",
+          "default": "supermarket all-purpose flour and a small bag of whole wheat flour"
+        },
+        {
+          "name": "frequency",
+          "default": "once a week on weekends"
+        },
+        {
+          "name": "goal",
+          "default": "a simple crusty loaf, later pancakes and pizza with the discard"
+        },
+        {
+          "name": "history",
+          "default": "nothing yet, this is my first starter"
+        },
+        {
+          "name": "schedule",
+          "default": "I work from 9 to 6, I can feed it in the morning and the evening"
+        },
+        {
+          "name": "temperature",
+          "default": "around 20 C during the day, cooler at night"
+        },
+        {
+          "name": "water",
+          "default": "tap water, slightly chlorinated"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_72c6403c95b9.json"
+    },
+    {
+      "id": "opl_24d3263e1ff5",
+      "slug": "act-as-a-beginner-stargazing-guide",
+      "title": "Act as a Beginner Stargazing Guide",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "up to 150 for now"
+        },
+        {
+          "name": "company",
+          "default": "my partner and a 9-year-old"
+        },
+        {
+          "name": "equipment",
+          "default": "just my eyes, a phone, and an old pair of 8x42 binoculars"
+        },
+        {
+          "name": "goals",
+          "default": "planets, a few bright constellations, the Milky Way, maybe a meteor shower"
+        },
+        {
+          "name": "knowledge",
+          "default": "I can find the Moon and maybe the Big Dipper"
+        },
+        {
+          "name": "location",
+          "default": "a suburb about 30 km from a large city, some light pollution to the south"
+        },
+        {
+          "name": "season",
+          "default": "autumn, nights around 8 C"
+        },
+        {
+          "name": "travel",
+          "default": "up to 1 hour by car"
+        },
+        {
+          "name": "when",
+          "default": "a weekend evening this month, from about 9 pm to 11 pm"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_24d3263e1ff5.json"
+    },
+    {
+      "id": "opl_f9235b1cc396",
+      "slug": "act-as-a-beginner-touch-typing-coach",
+      "title": "Act as a Beginner Touch Typing Coach",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "current",
+          "default": "I look at the keys and use two or three fingers on each hand, about 25 words per minute with many mistakes"
+        },
+        {
+          "name": "desk",
+          "default": "a kitchen table at home, an adjustable office chair at work"
+        },
+        {
+          "name": "feedback",
+          "default": "speed and accuracy scores from practice tests, my most common wrong keys, and written notes"
+        },
+        {
+          "name": "goal",
+          "default": "to write emails and reports faster at work without looking at the keyboard"
+        },
+        {
+          "name": "keyboard",
+          "default": "a laptop keyboard at work and a cheap external keyboard at home, US QWERTY layout"
+        },
+        {
+          "name": "time",
+          "default": "15 minutes on weekday mornings and 20 minutes on the weekend"
+        },
+        {
+          "name": "tools",
+          "default": "free online typing practice sites and a plain text editor"
+        },
+        {
+          "name": "typing_tasks",
+          "default": "emails, chat messages, meeting notes, and some spreadsheets with numbers"
+        },
+        {
+          "name": "weeks",
+          "default": "6 weeks"
+        },
+        {
+          "name": "worries",
+          "default": "getting slower at first, my old habits coming back when I am in a hurry, and sore wrists"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9235b1cc396.json"
+    },
+    {
+      "id": "opl_e28c5b6525c8",
+      "slug": "act-as-a-beginner-ukulele-coach",
+      "title": "Act as a Beginner Ukulele Coach",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "about 20 for a tuner, spare strings, or a strap"
+        },
+        {
+          "name": "experience",
+          "default": "I have never played any instrument, I can clap along to a beat"
+        },
+        {
+          "name": "feedback",
+          "default": "short phone videos or audio clips and written notes"
+        },
+        {
+          "name": "goal",
+          "default": "to play simple songs for fun, sing along, and play with friends around a campfire"
+        },
+        {
+          "name": "reading",
+          "default": "no, I cannot read notes or tabs yet"
+        },
+        {
+          "name": "singing",
+          "default": "yes, eventually, but I am shy"
+        },
+        {
+          "name": "songs",
+          "default": "easy pop songs, folk songs, and a few happy island-style tunes"
+        },
+        {
+          "name": "time",
+          "default": "15 minutes on weekday evenings and 30 minutes on the weekend"
+        },
+        {
+          "name": "ukulele",
+          "default": "a cheap soprano ukulele I got as a gift, I am not sure it is tuned or set up well"
+        },
+        {
+          "name": "weeks",
+          "default": "6 weeks"
+        },
+        {
+          "name": "worries",
+          "default": "sore fingertips, buzzing strings, chord changes that are too slow, and losing the rhythm"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e28c5b6525c8.json"
+    },
+    {
+      "id": "opl_348d705922b4",
+      "slug": "act-as-a-beginner-watercolor-painting-coach",
+      "title": "Act as a Beginner Watercolor Painting Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "about 40 to start"
+        },
+        {
+          "name": "experience",
+          "default": "I have never painted with watercolor, I doodled a little at school"
+        },
+        {
+          "name": "feedback",
+          "default": "photos taken with my phone in daylight"
+        },
+        {
+          "name": "goal",
+          "default": "to relax in the evenings and paint small landscapes and flowers for cards and my sketchbook"
+        },
+        {
+          "name": "have",
+          "default": "a few pencils, an eraser, and some printer paper"
+        },
+        {
+          "name": "space",
+          "default": "a small kitchen table that I need to clear after each session"
+        },
+        {
+          "name": "style",
+          "default": "loose, soft, light paintings with blended skies and simple shapes"
+        },
+        {
+          "name": "subjects",
+          "default": "skies, simple landscapes, flowers, and my cat"
+        },
+        {
+          "name": "time",
+          "default": "three 30-minute sessions on weeknights and one 1-hour session on the weekend"
+        },
+        {
+          "name": "weeks",
+          "default": "6 weeks"
+        },
+        {
+          "name": "worries",
+          "default": "muddy colors, paper buckling, and not knowing when to stop"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_348d705922b4.json"
+    },
+    {
+      "id": "opl_86eb88642771",
+      "slug": "act-as-a-birdwatching-weekend-field-trip-planner",
+      "title": "Act as a Birdwatching Weekend Field Trip Planner",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [
+        {
+          "name": "base",
+          "default": "camping near the first reserve, or a B&B if rain is heavy"
+        },
+        {
+          "name": "budget",
+          "default": "modest; free reserves preferred, happy to pay one paid reserve entry"
+        },
+        {
+          "name": "constraints",
+          "default": "no early Friday departure; must be back by Sunday 18:00; friend has a mild knee issue so avoid steep climbs"
+        },
+        {
+          "name": "dates",
+          "default": "mid-April weekend, Saturday and Sunday"
+        },
+        {
+          "name": "kit",
+          "default": "8x42 binoculars, phone with Merlin Bird ID, light rain jacket, no spotting scope"
+        },
+        {
+          "name": "level",
+          "default": "beginner-intermediate; I know common garden birds, struggle with warblers and waders"
+        },
+        {
+          "name": "region",
+          "default": "southern England, near Salisbury"
+        },
+        {
+          "name": "targets",
+          "default": "reedbeds, farmland edges, and any spring migrants; would love to hear a nightingale"
+        },
+        {
+          "name": "transport",
+          "default": "car shared with one friend; can walk 8 to 10 km a day on easy paths"
+        },
+        {
+          "name": "weather",
+          "default": "cool, partly cloudy, light NW wind, 40% chance of showers Sunday afternoon"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_86eb88642771.json"
+    },
+    {
+      "id": "opl_87a717c204db",
+      "slug": "act-as-a-business-coach",
+      "title": "Act as a Business Coach",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_87a717c204db.json"
+    },
+    {
+      "id": "opl_d134203ebd13",
+      "slug": "act-as-a-community-garden-plot-coordinator",
+      "title": "Act as a Community Garden Plot Coordinator",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d134203ebd13.json"
+    },
+    {
+      "id": "opl_9b2a1b327b4e",
+      "slug": "act-as-a-conversational-ai",
+      "title": "Act as a Conversational AI",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "language",
+          "default": "Chinese"
+        },
+        {
+          "name": "tone",
+          "default": "casual"
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b2a1b327b4e.json"
+    },
+    {
+      "id": "opl_c61d1cd07d39",
+      "slug": "act-as-a-customer-price-increase-advisor-for-small-businesses",
+      "title": "Act as a Customer Price Increase Advisor for Small Businesses",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c61d1cd07d39.json"
+    },
+    {
+      "id": "opl_3f15dfef800c",
+      "slug": "act-as-a-family-history-research-guide",
+      "title": "Act as a Family History Research Guide",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "documents",
+          "default": "a few old photos with handwriting on the back, a family Bible, one marriage certificate"
+        },
+        {
+          "name": "goal",
+          "default": "a well-sourced tree back to my great-great-grandparents and the true story of the emigration"
+        },
+        {
+          "name": "known",
+          "default": "my parents' and grandparents' names, birth years, and towns; my great-grandmother's first name only"
+        },
+        {
+          "name": "languages",
+          "default": "English only"
+        },
+        {
+          "name": "regions",
+          "default": "not sure yet, possibly two countries"
+        },
+        {
+          "name": "relatives",
+          "default": "an aunt in her 80s and two older cousins"
+        },
+        {
+          "name": "resources",
+          "default": "about 3 hours a week, prefer free sources, could pay for one month of a records site"
+        },
+        {
+          "name": "story",
+          "default": "my great-grandfather supposedly emigrated by ship around 1910 and changed his surname"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f15dfef800c.json"
+    },
+    {
+      "id": "opl_509a8e4ebe44",
+      "slug": "act-as-a-first-time-manager-one-on-one-coach",
+      "title": "Act as a First-Time Manager One-on-One Coach",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_509a8e4ebe44.json"
+    },
+    {
+      "id": "opl_4b18a0eb16cc",
+      "slug": "act-as-a-game-physics-architect",
+      "title": "Act as a Game Physics Architect",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b18a0eb16cc.json"
+    },
     {
       "id": "opl_574d8f4132c0",
       "slug": "act-as-a-health-recovery-and-weight-loss-specialist",
@@ -34,6 +1067,408 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_574d8f4132c0.json"
     },
     {
+      "id": "opl_5d1cd16548bd",
+      "slug": "act-as-a-home-aquarium-health-troubleshooter",
+      "title": "Act as a Home Aquarium Health Troubleshooter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "changes",
+          "default": "new fish, moved the tank closer to a window"
+        },
+        {
+          "name": "decor",
+          "default": "a few live plants, driftwood, gravel"
+        },
+        {
+          "name": "equipment",
+          "default": "hang-on-back filter, 26 C heater, LED light on 10 hours a day"
+        },
+        {
+          "name": "feeding",
+          "default": "flakes twice a day, algae wafer every other night"
+        },
+        {
+          "name": "livestock",
+          "default": "6 neon tetras, 2 platies, 1 bristlenose pleco, a few nerite snails"
+        },
+        {
+          "name": "maintenance",
+          "default": "25 percent water change every two weeks with dechlorinator, filter sponge rinsed under the tap"
+        },
+        {
+          "name": "started",
+          "default": "4 days ago, right after I added the platies"
+        },
+        {
+          "name": "symptoms",
+          "default": "cloudy white water, two tetras gasping near the surface, one platy with clamped fins"
+        },
+        {
+          "name": "tank",
+          "default": "about 100 liters, set up 7 weeks ago"
+        },
+        {
+          "name": "tests",
+          "default": "not tested yet, I have strips but no liquid kit"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d1cd16548bd.json"
+    },
+    {
+      "id": "opl_874533b98c90",
+      "slug": "act-as-a-home-composting-coach",
+      "title": "Act as a Home Composting Coach",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "browns",
+          "default": "a few leaves in autumn, cardboard from deliveries"
+        },
+        {
+          "name": "climate",
+          "default": "temperate, cold wet winters, warm summers"
+        },
+        {
+          "name": "goal",
+          "default": "vegetable beds and pots"
+        },
+        {
+          "name": "scraps",
+          "default": "two adults, lots of vegetable peels and coffee grounds"
+        },
+        {
+          "name": "space",
+          "default": "terraced house with a small back garden"
+        },
+        {
+          "name": "time",
+          "default": "about 15 minutes"
+        },
+        {
+          "name": "worry",
+          "default": "smell, flies, and rats"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_874533b98c90.json"
+    },
+    {
+      "id": "opl_4815c3468097",
+      "slug": "act-as-a-home-decluttering-coach",
+      "title": "Act as a Home Decluttering Coach",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [
+        {
+          "name": "attachment",
+          "default": "sentimental items, gifts from family, and things that \"might be useful one day\""
+        },
+        {
+          "name": "budget",
+          "default": "about 60, and I would rather not buy many bins"
+        },
+        {
+          "name": "deadline",
+          "default": "about four weeks"
+        },
+        {
+          "name": "energy",
+          "default": "I get overwhelmed quickly and lose motivation after a few days"
+        },
+        {
+          "name": "help",
+          "default": "my partner helps on weekends, our child can help with toys"
+        },
+        {
+          "name": "home",
+          "default": "a two-bedroom apartment with one small hall closet and a storage cage in the basement"
+        },
+        {
+          "name": "hotspots",
+          "default": "the kitchen counters, the hall closet, the kids' toys in the living room, and a spare-room \"junk\" corner"
+        },
+        {
+          "name": "household",
+          "default": "me, my partner, and our 5-year-old"
+        },
+        {
+          "name": "reason",
+          "default": "we feel stressed at home and want space before the holidays bring more stuff"
+        },
+        {
+          "name": "resale",
+          "default": "a stroller, a few kitchen appliances, and some furniture"
+        },
+        {
+          "name": "time",
+          "default": "30 minutes on weeknights and one 3-hour block each weekend"
+        },
+        {
+          "name": "transport",
+          "default": "no car, but a donation center is a 10-minute walk away"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4815c3468097.json"
+    },
+    {
+      "id": "opl_1a84a16ef499",
+      "slug": "act-as-a-home-energy-bill-detective",
+      "title": "Act as a Home Energy Bill Detective",
+      "category": "Food & Recipes",
+      "folder": "food-recipes",
+      "variables": [
+        {
+          "name": "appliances",
+          "default": "electric oven, dishwasher, washing machine, tumble dryer, 12-year-old fridge-freezer, a gaming PC"
+        },
+        {
+          "name": "bills",
+          "default": "paste the last 6 to 12 months of usage and cost, for example \"Jan: 410 kWh electricity 128 EUR, 1650 kWh gas 142 EUR\""
+        },
+        {
+          "name": "budget",
+          "default": "up to 400 EUR this year, renting so no major works"
+        },
+        {
+          "name": "climate",
+          "default": "central Europe, cold winters, warm but short summers"
+        },
+        {
+          "name": "heating",
+          "default": "gas combi boiler for heating and hot water, radiators with old valves"
+        },
+        {
+          "name": "home",
+          "default": "two-bedroom apartment, about 75 square meters, built in the 1990s, top floor"
+        },
+        {
+          "name": "household",
+          "default": "2 adults, one works from home 3 days a week"
+        },
+        {
+          "name": "tariff",
+          "default": "fixed price per kWh, standing charge about 0.45 EUR per day"
+        },
+        {
+          "name": "tried",
+          "default": "LED bulbs everywhere, turning lights off"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a84a16ef499.json"
+    },
+    {
+      "id": "opl_2b0e5e278737",
+      "slug": "act-as-a-home-escape-room-designer",
+      "title": "Act as a Home Escape Room Designer",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "Under $20, mostly household items, paper and a printer"
+        },
+        {
+          "name": "difficulty",
+          "default": "Medium — first-timers welcome"
+        },
+        {
+          "name": "duration",
+          "default": "45 minutes"
+        },
+        {
+          "name": "occasion",
+          "default": "Birthday party for 6 adults"
+        },
+        {
+          "name": "space",
+          "default": "One living room and a hallway"
+        },
+        {
+          "name": "theme",
+          "default": "A 1920s detective's locked study"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b0e5e278737.json"
+    },
+    {
+      "id": "opl_d1b0654028a2",
+      "slug": "act-as-a-home-espresso-dialing-in-coach",
+      "title": "Act as a Home Espresso Dialing-In Coach",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "basket",
+          "default": "18 g double basket"
+        },
+        {
+          "name": "coffee",
+          "default": "medium roast blend, roasted about two weeks ago"
+        },
+        {
+          "name": "drink",
+          "default": "flat white"
+        },
+        {
+          "name": "grinder",
+          "default": "entry-level burr grinder with stepped settings"
+        },
+        {
+          "name": "machine",
+          "default": "single-boiler home machine"
+        },
+        {
+          "name": "problem",
+          "default": "shots taste sour and run too fast"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1b0654028a2.json"
+    },
+    {
+      "id": "opl_123c0ea73839",
+      "slug": "act-as-a-home-move-planner-and-countdown-coach",
+      "title": "Act as a Home Move Planner and Countdown Coach",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "1500 EUR including everything"
+        },
+        {
+          "name": "date",
+          "default": "Saturday 14 November, can shift by one week"
+        },
+        {
+          "name": "household",
+          "default": "two adults, a 6-year-old, and an indoor cat"
+        },
+        {
+          "name": "method",
+          "default": "not decided yet, budget is tight but we have bad backs"
+        },
+        {
+          "name": "old_place",
+          "default": "must return keys and hand over the flat clean by 30 November to get the deposit back"
+        },
+        {
+          "name": "route",
+          "default": "a 2-bedroom rented flat on the 3rd floor with no lift, to a small house 40 km away"
+        },
+        {
+          "name": "stuff",
+          "default": "normal amount for a 2-bedroom flat, full kitchen, a piano, many books"
+        },
+        {
+          "name": "time",
+          "default": "both work full-time, evenings and weekends free, can take one day off"
+        },
+        {
+          "name": "worries",
+          "default": "the piano, keeping the child's routine, losing important documents"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_123c0ea73839.json"
+    },
+    {
+      "id": "opl_e9a826696daf",
+      "slug": "act-as-a-home-vegetable-fermentation-coach",
+      "title": "Act as a Home Vegetable Fermentation Coach",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [
+        {
+          "name": "equipment",
+          "default": "two 1-liter glass jars with lids, a kitchen scale, a large bowl"
+        },
+        {
+          "name": "experience",
+          "default": "never fermented anything, I have made quick fridge pickles once"
+        },
+        {
+          "name": "first_batch",
+          "default": "classic sauerkraut and fermented carrot sticks"
+        },
+        {
+          "name": "health",
+          "default": "none known"
+        },
+        {
+          "name": "taste",
+          "default": "tangy but not too sour, mild garlic, no very spicy food"
+        },
+        {
+          "name": "temperature",
+          "default": "about 21 °C, a little warmer near the stove"
+        },
+        {
+          "name": "time",
+          "default": "30 minutes to prepare, a minute a day to check"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9a826696daf.json"
+    },
+    {
+      "id": "opl_077b385c5347",
+      "slug": "act-as-a-home-winterization-coach",
+      "title": "Act as a Home Winterization Coach",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [
+        {
+          "name": "away",
+          "default": "we travel for 10 days over the holidays"
+        },
+        {
+          "name": "budget",
+          "default": "about 300 for supplies this season"
+        },
+        {
+          "name": "climate",
+          "default": "a northern town where nights drop to about -15 C in January, with snow and freeze-thaw cycles"
+        },
+        {
+          "name": "heating",
+          "default": "a gas furnace about 12 years old, plus a wood stove in the living room"
+        },
+        {
+          "name": "home",
+          "default": "a 1970s two-story detached house with a basement and an attached garage"
+        },
+        {
+          "name": "household",
+          "default": "two adults, a toddler, and a dog"
+        },
+        {
+          "name": "outdoors",
+          "default": "a small lawn, a vegetable bed, patio furniture, a gas grill, a driveway we shovel ourselves"
+        },
+        {
+          "name": "plumbing",
+          "default": "two outdoor taps, a garden hose still connected, some pipes run along the cold garage wall"
+        },
+        {
+          "name": "problems",
+          "default": "a drafty front door, cold upstairs bedrooms, icicles along the gutters last winter"
+        },
+        {
+          "name": "skills",
+          "default": "comfortable with caulk, weatherstripping, and a ladder up to one story, no electrical or gas work"
+        },
+        {
+          "name": "tenure",
+          "default": "we own it"
+        },
+        {
+          "name": "time",
+          "default": "two weekends before mid-November"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_077b385c5347.json"
+    },
+    {
       "id": "opl_ebad42ac7380",
       "slug": "act-as-a-job-application-reviewer",
       "title": "Act as a Job Application Reviewer",
@@ -52,6 +1487,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebad42ac7380.json"
     },
     {
+      "id": "opl_05b8ea65915c",
+      "slug": "act-as-a-kids-science-fair-project-mentor",
+      "title": "Act as a Kids' Science Fair Project Mentor",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05b8ea65915c.json"
+    },
+    {
       "id": "opl_46acf34b8ad2",
       "slug": "act-as-a-lawyer-and-judicial-advisor-with-25-years-of-experience-in-drafting-defense-memoranda-in-saudi-courts-only-with-the-condition-of-adhering-to-the-legal-provisions-currently-in-force",
       "title": "Act as a lawyer and judicial advisor with 25 years of experience in drafting defense memoranda in Saudi courts only, with the condition of adhering to the legal provisions currently in force.",
@@ -61,6 +1505,81 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_46acf34b8ad2.json"
     },
     {
+      "id": "opl_ad92e7131435",
+      "slug": "act-as-a-multi-day-backpacking-trip-packing-coach",
+      "title": "Act as a Multi-Day Backpacking Trip Packing Coach",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [
+        {
+          "name": "constraints",
+          "default": "weak left knee on long descents, no alcohol stove, prefer not to buy new big-ticket gear unless critical"
+        },
+        {
+          "name": "cook",
+          "default": "one canister stove, hot dinners, cold breakfasts and lunches"
+        },
+        {
+          "name": "duration",
+          "default": "4 days, 3 nights"
+        },
+        {
+          "name": "effort",
+          "default": "about 15 km and 900 m gain per day"
+        },
+        {
+          "name": "experience",
+          "default": "I have done several overnight trips; partner is newer to hiking"
+        },
+        {
+          "name": "group",
+          "default": "me plus one adult partner, we share tent and cook kit"
+        },
+        {
+          "name": "owned",
+          "default": "2-person tent 1.8 kg, 0-degree C quilt, inflatable pad R-value 4, rain jacket, midweight fleece, trail runners, 2 L soft bottles, Sawyer filter, 1 L pot, canister stove, headlamp, first-aid basics, trekking poles"
+        },
+        {
+          "name": "pack",
+          "default": "65 L pack, base weight about 9 kg without food and water"
+        },
+        {
+          "name": "rules",
+          "default": "camp only at marked sites, carry out all trash, dogs not allowed on this section"
+        },
+        {
+          "name": "sleep",
+          "default": "tent camping at official sites, no hut bookings"
+        },
+        {
+          "name": "trail",
+          "default": "Tour du Mont Blanc, Chamonix to Courmayeur section"
+        },
+        {
+          "name": "unsure",
+          "default": "how much food, whether I need microspikes, how to split shared gear fairly"
+        },
+        {
+          "name": "water",
+          "default": "streams every few hours, I carry a filter"
+        },
+        {
+          "name": "weather",
+          "default": "mid-September, days 8 to 18 C, nights near 2 C, chance of afternoon rain and wind on ridges"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad92e7131435.json"
+    },
+    {
+      "id": "opl_9e3699a6e7a1",
+      "slug": "act-as-a-neighborhood-mutual-aid-organizer",
+      "title": "Act as a Neighborhood Mutual Aid Organizer",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9e3699a6e7a1.json"
+    },
+    {
       "id": "opl_1e7229657853",
       "slug": "act-as-a-patient-non-technical-android-studio-guide",
       "title": "Act as a Patient, Non-Technical Android Studio Guide",
@@ -68,6 +1587,82 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e7229657853.json"
+    },
+    {
+      "id": "opl_acc1800f2560",
+      "slug": "act-as-a-performance-marketer",
+      "title": "Act as a Performance Marketer",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_acc1800f2560.json"
+    },
+    {
+      "id": "opl_a9b6f971fc56",
+      "slug": "act-as-a-personal-capsule-wardrobe-stylist",
+      "title": "Act as a Personal Capsule Wardrobe Stylist",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "avoid_colors",
+          "default": "bright orange, neon, pure black near my face"
+        },
+        {
+          "name": "budget",
+          "default": "600 EUR spread over the next 3 months"
+        },
+        {
+          "name": "care",
+          "default": "no dry cleaning if avoidable, machine wash at 30 degrees, no ironing time on weekdays"
+        },
+        {
+          "name": "climate",
+          "default": "Milan, hot humid summers, cold damp winters, about 90 rainy days a year"
+        },
+        {
+          "name": "commute",
+          "default": "walk and tram, about 6000 steps a day"
+        },
+        {
+          "name": "fit_notes",
+          "default": "petite at 158 cm, prefer high-rise trousers and tops that skim rather than cling, sensitive to wool against skin"
+        },
+        {
+          "name": "lifestyle",
+          "default": "hybrid office job 3 days a week, business casual; weekends with a toddler, parks and markets; 4 to 6 evening events a year"
+        },
+        {
+          "name": "love_colors",
+          "default": "navy, camel, olive, cream"
+        },
+        {
+          "name": "owned",
+          "default": "dark indigo straight jeans, a navy blazer, two white t-shirts, a camel wool coat, white leather sneakers, a black midi skirt, a grey hoodie"
+        },
+        {
+          "name": "style",
+          "default": "relaxed, polished, a bit French, nothing fussy"
+        },
+        {
+          "name": "unworn",
+          "default": "a red dress that feels too loud, skinny jeans that dig in, heels that hurt"
+        },
+        {
+          "name": "values",
+          "default": "prefer second-hand and durable natural fabrics, no fast fashion if possible"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9b6f971fc56.json"
+    },
+    {
+      "id": "opl_681f53099cbb",
+      "slug": "act-as-a-power-outage-preparedness-and-recovery-coach",
+      "title": "Act as a Power Outage Preparedness and Recovery Coach",
+      "category": "Food & Recipes",
+      "folder": "food-recipes",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_681f53099cbb.json"
     },
     {
       "id": "opl_1be95441358f",
@@ -115,6 +1710,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9bc4385a733.json"
     },
     {
+      "id": "opl_b77fecd28f70",
+      "slug": "act-as-a-senior-codebase-auditor-tech-debt-refactorer",
+      "title": "Act as a Senior Codebase Auditor & Tech Debt Refactorer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b77fecd28f70.json"
+    },
+    {
       "id": "opl_eec3d86dc2b8",
       "slug": "act-as-a-senior-research-paper-evaluator",
       "title": "Act as a Senior Research Paper Evaluator",
@@ -124,6 +1728,98 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eec3d86dc2b8.json"
     },
     {
+      "id": "opl_54806e15579d",
+      "slug": "act-as-a-sleep-habit-coach",
+      "title": "Act as a Sleep Habit Coach",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [
+        {
+          "name": "activity",
+          "default": "gym twice a week at 20:30, mostly indoors during the day"
+        },
+        {
+          "name": "bedroom",
+          "default": "street light through thin curtains, partner snores, room feels warm"
+        },
+        {
+          "name": "constraints",
+          "default": "a toddler who sometimes wakes at night, early meeting on Mondays"
+        },
+        {
+          "name": "evening",
+          "default": "dinner 21:00, laptop work until 22:30, phone in bed for 45 minutes"
+        },
+        {
+          "name": "goal",
+          "default": "fall asleep within 20 minutes and feel awake by 9:00 on workdays"
+        },
+        {
+          "name": "naps",
+          "default": "30 to 60 minute nap on weekend afternoons"
+        },
+        {
+          "name": "problem",
+          "default": "hard to fall asleep, mind racing, tired and foggy until noon"
+        },
+        {
+          "name": "substances",
+          "default": "3 coffees, last one around 16:00; wine 2 to 3 evenings a week"
+        },
+        {
+          "name": "times",
+          "default": "in bed 23:30 but asleep around 01:00, alarm 07:00; weekends asleep 02:00, up 10:30"
+        },
+        {
+          "name": "work",
+          "default": "34, office job 9 to 6, two days a week from home"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54806e15579d.json"
+    },
+    {
+      "id": "opl_8de44372cdbb",
+      "slug": "act-as-a-slow-travel-rail-journey-planner",
+      "title": "Act as a Slow Travel Rail Journey Planner",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [
+        {
+          "name": "avoid",
+          "default": "very early departures before 7:00, more than 2 changes in a day"
+        },
+        {
+          "name": "budget",
+          "default": "around 600 EUR for both of us"
+        },
+        {
+          "name": "dates",
+          "default": "10 days in late September, flexible by 2 days"
+        },
+        {
+          "name": "end",
+          "default": "Rome"
+        },
+        {
+          "name": "interests",
+          "default": "food markets, small museums, lakes and mountains, walkable old towns"
+        },
+        {
+          "name": "pace",
+          "default": "no more than 6 hours of travel on any day, at least 2 nights in each stop"
+        },
+        {
+          "name": "start",
+          "default": "Amsterdam"
+        },
+        {
+          "name": "travelers",
+          "default": "2 adults, one of whom gets motion sick on buses"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8de44372cdbb.json"
+    },
+    {
       "id": "opl_84b65130cc7d",
       "slug": "act-as-a-startup-co-founder",
       "title": "Act as a Startup Co-Founder",
@@ -131,6 +1827,62 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84b65130cc7d.json"
+    },
+    {
+      "id": "opl_38e14fa4946a",
+      "slug": "act-as-a-supplier-negotiation-coach-for-small-businesses",
+      "title": "Act as a Supplier Negotiation Coach for Small Businesses",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_38e14fa4946a.json"
+    },
+    {
+      "id": "opl_57e38230b561",
+      "slug": "act-as-a-workplace-mistake-recovery-and-apology-coach",
+      "title": "Act as a Workplace Mistake Recovery and Apology Coach",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57e38230b561.json"
+    },
+    {
+      "id": "opl_1e77e8a2d5ae",
+      "slug": "act-as-an-adult-beginner-swimming-coach",
+      "title": "Act as an Adult Beginner Swimming Coach",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [
+        {
+          "name": "equipment",
+          "default": "goggles and a swim cap"
+        },
+        {
+          "name": "feelings",
+          "default": "nervous, I had a scary moment as a child"
+        },
+        {
+          "name": "goal",
+          "default": "swim one length of a 25 m pool with front crawl and feel safe in deep water"
+        },
+        {
+          "name": "health",
+          "default": "none known"
+        },
+        {
+          "name": "level",
+          "default": "can stand in chest-deep water but panic when my face is in the water"
+        },
+        {
+          "name": "pool",
+          "default": "public indoor pool with a shallow end, lifeguards, and lane times"
+        },
+        {
+          "name": "sessions",
+          "default": "two sessions of about 40 minutes"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e77e8a2d5ae.json"
     },
     {
       "id": "opl_3566fb9dab33",
@@ -333,6 +2085,24 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40e43b0dcf6a.json"
     },
     {
+      "id": "opl_0e1acebf7027",
+      "slug": "add-black-glasses-to-my-photo",
+      "title": "Add Black Glasses to My Photo",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e1acebf7027.json"
+    },
+    {
+      "id": "opl_2a32932bfd3c",
+      "slug": "add-or-poster-for-well-control-training",
+      "title": "add or poster for well control training",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a32932bfd3c.json"
+    },
+    {
       "id": "opl_7dddbbf8ab92",
       "slug": "adding-these-development-in-a-gasifier-design-tool",
       "title": "adding these development in a gasifier design tool",
@@ -367,6 +2137,24 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb2a01895798.json"
+    },
+    {
+      "id": "opl_3bc125ef7e4a",
+      "slug": "administrator-portal-for-auto-file-renaming-tool",
+      "title": "Administrator Portal for Auto File Renaming Tool",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "month",
+          "default": null
+        },
+        {
+          "name": "year",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3bc125ef7e4a.json"
     },
     {
       "id": "opl_aaf9d7229b1c",
@@ -414,6 +2202,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa388aff29cd.json"
     },
     {
+      "id": "opl_cde0c0a7c9f6",
+      "slug": "advanced-sales-funnel-app-with-react-flow",
+      "title": "Advanced Sales Funnel App with React Flow",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cde0c0a7c9f6.json"
+    },
+    {
       "id": "opl_67d275c75fac",
       "slug": "advanced-text-converter-for-large-datasets",
       "title": "Advanced Text Converter for Large Datasets",
@@ -445,779 +2242,72 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9101e4567413.json"
     },
     {
-      "id": "opl_b90a0f86f703",
-      "slug": "aesthetic-mirror-selfie-of-a-curly-haired-woman-in-a-mocha-r",
-      "title": "Aesthetic Mirror Selfie of a Curly-Haired Woman in a Mocha Ribbed Crop Top",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b90a0f86f703.json"
-    },
-    {
-      "id": "opl_50d4d95eda81",
-      "slug": "aesthetic-sunset",
-      "title": "Aesthetic Sunset",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_50d4d95eda81.json"
-    },
-    {
-      "id": "opl_33cf0ac31883",
-      "slug": "agency-growth-bottleneck-identifier",
-      "title": "Agency Growth Bottleneck Identifier",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33cf0ac31883.json"
-    },
-    {
-      "id": "opl_05e7505a835d",
-      "slug": "agent-assistants-how-to",
-      "title": "Agent & Assistants - How To",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05e7505a835d.json"
-    },
-    {
-      "id": "opl_010870878270",
-      "slug": "agent-classifier",
-      "title": "Agent classifier",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_010870878270.json"
-    },
-    {
-      "id": "opl_442884387e44",
-      "slug": "agent-framework-advisor",
-      "title": "Agent Framework Advisor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_442884387e44.json"
-    },
-    {
-      "id": "opl_1faa6db16ee3",
-      "slug": "agent-organization-expert",
-      "title": "Agent Organization Expert",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "agent_count",
-          "default": "3"
-        },
-        {
-          "name": "agent_selection_accuracy",
-          "default": "95"
-        },
-        {
-          "name": "max_concurrency",
-          "default": "5"
-        },
-        {
-          "name": "orchestration_pattern",
-          "default": "parallel"
-        },
-        {
-          "name": "response_time_threshold",
-          "default": "5"
-        },
-        {
-          "name": "retry_count",
-          "default": "3"
-        },
-        {
-          "name": "task_completion_rate",
-          "default": "99"
-        },
-        {
-          "name": "task_type",
-          "default": "general"
-        },
-        {
-          "name": "timeout_seconds",
-          "default": "300"
-        },
-        {
-          "name": "utilization_max",
-          "default": "80"
-        },
-        {
-          "name": "utilization_min",
-          "default": "60"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1faa6db16ee3.json"
-    },
-    {
-      "id": "opl_d6a940dbcf24",
-      "slug": "agent-plan-document-generator",
-      "title": "Agent Plan Document Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6a940dbcf24.json"
-    },
-    {
-      "id": "opl_5c4af3af59a6",
-      "slug": "agent-prompt-editor",
-      "title": "Agent Prompt Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c4af3af59a6.json"
-    },
-    {
-      "id": "opl_e712ef0653ee",
-      "slug": "agent-prompt-formatter",
-      "title": "Agent Prompt Formatter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e712ef0653ee.json"
-    },
-    {
-      "id": "opl_d0c0d208bd8a",
-      "slug": "agent-router",
-      "title": "Agent router",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0c0d208bd8a.json"
-    },
-    {
-      "id": "opl_b321ab1836b8",
-      "slug": "agent-tool-developer-coach",
-      "title": "Agent Tool Developer Coach",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b321ab1836b8.json"
-    },
-    {
-      "id": "opl_838841e41cbf",
-      "slug": "agent-workflow-spec-generator",
-      "title": "Agent Workflow Spec Generator",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_838841e41cbf.json"
-    },
-    {
-      "id": "opl_7f846346c315",
-      "slug": "ai-agent-builders",
-      "title": "AI Agent Builders",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f846346c315.json"
-    },
-    {
-      "id": "opl_0f243ca76218",
-      "slug": "ai-agent-debugger",
-      "title": "AI Agent Debugger",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f243ca76218.json"
-    },
-    {
-      "id": "opl_f097576988ed",
-      "slug": "ai-agent-orchestration-assistant-advisory",
-      "title": "AI Agent Orchestration Assistant (Advisory)",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f097576988ed.json"
-    },
-    {
-      "id": "opl_8cc17fd10c1a",
-      "slug": "ai-agent-platform-evaulator",
-      "title": "AI Agent Platform Evaulator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8cc17fd10c1a.json"
-    },
-    {
-      "id": "opl_100ebedc3d28",
-      "slug": "ai-agent-security-evaluation-checklist",
-      "title": "AI Agent Security Evaluation Checklist",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "agentType",
-          "default": null
-        },
-        {
-          "name": "focusArea",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_100ebedc3d28.json"
-    },
-    {
-      "id": "opl_8fb7693e226b",
-      "slug": "ai-agents-news",
-      "title": "AI Agents News",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fb7693e226b.json"
-    },
-    {
-      "id": "opl_91a684e909be",
-      "slug": "ai-and-automation",
-      "title": "AI And Automation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91a684e909be.json"
-    },
-    {
-      "id": "opl_d80fcbd8f8b4",
-      "slug": "ai-animation-and-video-guide",
-      "title": "AI Animation And Video Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d80fcbd8f8b4.json"
-    },
-    {
-      "id": "opl_b6d7058d5fde",
-      "slug": "ai-app-prototyping-for-chat-interface",
-      "title": "AI App Prototyping for Chat Interface",
+      "id": "opl_3c51bde755a9",
+      "slug": "aegean-cliffside-village-at-sunset-image-to-video-animation",
+      "title": "Aegean Cliffside Village at Sunset (Image-to-Video Animation)",
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [
         {
-          "name": "agentCreationScreen",
-          "default": null
-        },
-        {
-          "name": "groupChatScreen",
-          "default": null
-        },
-        {
-          "name": "mainChatScreen",
-          "default": null
-        },
-        {
-          "name": "settingsScreen",
-          "default": null
+          "name": "duration",
+          "default": "6"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b6d7058d5fde.json"
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c51bde755a9.json"
     },
     {
-      "id": "opl_90aaf4087347",
-      "slug": "ai-around-the-world",
-      "title": "AI Around The World",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90aaf4087347.json"
-    },
-    {
-      "id": "opl_ba5be2be551b",
-      "slug": "ai-assistant-for-university-assignments",
-      "title": "AI Assistant for University Assignments",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "formatting",
-          "default": "APA"
-        },
-        {
-          "name": "topic",
-          "default": null
-        },
-        {
-          "name": "wordCount",
-          "default": "1500"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba5be2be551b.json"
-    },
-    {
-      "id": "opl_d43d779dc202",
-      "slug": "ai-assistant-idea-generator",
-      "title": "AI Assistant Idea Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d43d779dc202.json"
-    },
-    {
-      "id": "opl_56a7dcbb596e",
-      "slug": "ai-assistant-migration-planner",
-      "title": "AI Assistant Migration Planner",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_56a7dcbb596e.json"
-    },
-    {
-      "id": "opl_73b746c69ccf",
-      "slug": "ai-assistants-for-good",
-      "title": "AI Assistants For Good",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_73b746c69ccf.json"
-    },
-    {
-      "id": "opl_67621e673750",
-      "slug": "ai-assisted-doctor",
-      "title": "AI Assisted Doctor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67621e673750.json"
-    },
-    {
-      "id": "opl_2f541d38047c",
-      "slug": "ai-bot-relative",
-      "title": "AI Bot Relative",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f541d38047c.json"
-    },
-    {
-      "id": "opl_ea0b55f28489",
-      "slug": "ai-builder",
-      "title": "AI builder",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "businessType",
-          "default": null
-        },
-        {
-          "name": "designPreferences",
-          "default": null
-        },
-        {
-          "name": "features",
-          "default": null
-        },
-        {
-          "name": "websiteName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea0b55f28489.json"
-    },
-    {
-      "id": "opl_35a272951cc1",
-      "slug": "ai-capability-advisor",
-      "title": "AI Capability Advisor",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_35a272951cc1.json"
-    },
-    {
-      "id": "opl_c1cb7eafbf74",
-      "slug": "ai-certification-advisor",
-      "title": "AI Certification Advisor",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1cb7eafbf74.json"
-    },
-    {
-      "id": "opl_d182de497f47",
-      "slug": "ai-character-creation-guide",
-      "title": "AI Character Creation Guide",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "characterName",
-          "default": "AI Character"
-        },
-        {
-          "name": "personalityTraits",
-          "default": "Friendly, Intelligent"
-        },
-        {
-          "name": "skills",
-          "default": "Problem Solving"
-        },
-        {
-          "name": "useCase",
-          "default": "Entertainment"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d182de497f47.json"
-    },
-    {
-      "id": "opl_8ab48e45beaf",
-      "slug": "ai-cloning-1-raw",
-      "title": "AI Cloning #1 - RAW",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ab48e45beaf.json"
-    },
-    {
-      "id": "opl_8edd0ac73382",
-      "slug": "ai-customer-support-specialist",
-      "title": "AI Customer Support Specialist",
+      "id": "opl_a4739b4237fc",
+      "slug": "aegean-cliffside-village-sunset-scene-concept-brief-builder",
+      "title": "Aegean Cliffside Village Sunset Scene Concept Brief Builder",
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [
         {
-          "name": "customerIssue",
-          "default": null
+          "name": "chapel",
+          "default": "a small white chapel with a bright blue dome and a cross at the top-left"
         },
         {
-          "name": "responseTime",
-          "default": "immediate"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8edd0ac73382.json"
-    },
-    {
-      "id": "opl_844d16d8b01f",
-      "slug": "ai-developer-assistance",
-      "title": "AI Developer Assistance",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_844d16d8b01f.json"
-    },
-    {
-      "id": "opl_2d8c5dbaa08c",
-      "slug": "ai-engineer",
-      "title": "AI Engineer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2d8c5dbaa08c.json"
-    },
-    {
-      "id": "opl_1ced092b11a7",
-      "slug": "ai-engineering-expert",
-      "title": "AI Engineering Expert",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ced092b11a7.json"
-    },
-    {
-      "id": "opl_bc6931cfb4db",
-      "slug": "ai-exam-mastery-tutor",
-      "title": "AI Exam Mastery Tutor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "write_chapter_name_here",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc6931cfb4db.json"
-    },
-    {
-      "id": "opl_8cafbaf70c64",
-      "slug": "ai-experiment-planner-villages",
-      "title": "AI Experiment Planner (Villages)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8cafbaf70c64.json"
-    },
-    {
-      "id": "opl_d577fb85f5ab",
-      "slug": "ai-face-swapping-for-e-commerce-personalization",
-      "title": "AI Face Swapping for E-commerce Personalization",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "productCategory",
-          "default": null
+          "name": "distance",
+          "default": "dark volcanic cliffs curving away and hazy islands and headlands on the horizon"
         },
         {
-          "name": "userImage",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d577fb85f5ab.json"
-    },
-    {
-      "id": "opl_98084c5e93f1",
-      "slug": "ai-for-casino-list-and-profit-simulation",
-      "title": "AI for Casino List and Profit Simulation",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_98084c5e93f1.json"
-    },
-    {
-      "id": "opl_116040760e66",
-      "slug": "ai-for-document-processing",
-      "title": "AI For Document Processing",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_116040760e66.json"
-    },
-    {
-      "id": "opl_833c64817fbd",
-      "slug": "ai-for-geopolitics",
-      "title": "AI For Geopolitics",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_833c64817fbd.json"
-    },
-    {
-      "id": "opl_2727a6fa9269",
-      "slug": "ai-for-mental-health",
-      "title": "AI For Mental Health",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2727a6fa9269.json"
-    },
-    {
-      "id": "opl_9a2f25154aca",
-      "slug": "ai-for-non-profits",
-      "title": "AI For Non Profits",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a2f25154aca.json"
-    },
-    {
-      "id": "opl_494713ca476e",
-      "slug": "ai-for-the-rest-of-us",
-      "title": "AI For The Rest Of Us",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_494713ca476e.json"
-    },
-    {
-      "id": "opl_121bcdc074d9",
-      "slug": "ai-front-desk-website-for-a-nairobi-hotel",
-      "title": "AI Front Desk Website for a Nairobi Hotel",
-      "category": "Travel & Places",
-      "folder": "travel-places",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_121bcdc074d9.json"
-    },
-    {
-      "id": "opl_a7a1aa67a0d6",
-      "slug": "ai-grounding-prompt",
-      "title": "AI Grounding Prompt",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7a1aa67a0d6.json"
-    },
-    {
-      "id": "opl_36d37b29464b",
-      "slug": "ai-human-operator",
-      "title": "AI Human Operator",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36d37b29464b.json"
-    },
-    {
-      "id": "opl_740c0534c9f3",
-      "slug": "ai-image-generator-advisor",
-      "title": "AI Image Generator Advisor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_740c0534c9f3.json"
-    },
-    {
-      "id": "opl_df8c89958835",
-      "slug": "ai-kickstart-prompt",
-      "title": "AI Kickstart prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df8c89958835.json"
-    },
-    {
-      "id": "opl_47593dd96961",
-      "slug": "ai-model-card",
-      "title": "ai model card",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47593dd96961.json"
-    },
-    {
-      "id": "opl_8ea4a7f118c0",
-      "slug": "ai-new",
-      "title": "Ai new",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ea4a7f118c0.json"
-    },
-    {
-      "id": "opl_25dfba97457b",
-      "slug": "ai-output-trimmer",
-      "title": "AI Output Trimmer",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25dfba97457b.json"
-    },
-    {
-      "id": "opl_6cdf52e98f41",
-      "slug": "ai-pairing-partner-for-exploring-approaches",
-      "title": "AI Pairing Partner for Exploring Approaches",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6cdf52e98f41.json"
-    },
-    {
-      "id": "opl_209800e05366",
-      "slug": "ai-performance-deep-testing-engineer",
-      "title": "AI Performance & Deep Testing Engineer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_209800e05366.json"
-    },
-    {
-      "id": "opl_19fabd72548d",
-      "slug": "ai-personality-creator",
-      "title": "AI Personality Creator",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19fabd72548d.json"
-    },
-    {
-      "id": "opl_8c172282d99f",
-      "slug": "ai-process-feasibility-interview",
-      "title": "AI Process Feasibility Interview",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c172282d99f.json"
-    },
-    {
-      "id": "opl_0f76bf33f0e2",
-      "slug": "ai-productivity-artifact-generator",
-      "title": "AI Productivity Artifact Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f76bf33f0e2.json"
-    },
-    {
-      "id": "opl_416f42221906",
-      "slug": "ai-provider-research-expert",
-      "title": "AI Provider Research Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_416f42221906.json"
-    },
-    {
-      "id": "opl_627b8ffb35ed",
-      "slug": "ai-q-a-doc-formatter",
-      "title": "AI Q&A Doc Formatter",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_627b8ffb35ed.json"
-    },
-    {
-      "id": "opl_5645b29bf3cd",
-      "slug": "ai-questions",
-      "title": "AI Questions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5645b29bf3cd.json"
-    },
-    {
-      "id": "opl_bbba89e48b0f",
-      "slug": "ai-research-tools",
-      "title": "AI Research Tools",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbba89e48b0f.json"
-    },
-    {
-      "id": "opl_45cbdbabe1cd",
-      "slug": "ai-search-mastery-bootcamp",
-      "title": "AI Search Mastery Bootcamp",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45cbdbabe1cd.json"
-    },
-    {
-      "id": "opl_f1a5d0a71b66",
-      "slug": "ai-search-tools-guide",
-      "title": "AI Search Tools Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1a5d0a71b66.json"
-    },
-    {
-      "id": "opl_3ba2f1bcd43f",
-      "slug": "ai-stocks-investment-helper",
-      "title": "AI Stocks Investment Helper",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "investmentAmount",
-          "default": null
+          "name": "flowers",
+          "default": "big clusters of magenta bougainvillea along the walls and the stairway"
         },
         {
-          "name": "investmentHorizon",
-          "default": "long-term"
+          "name": "idea",
+          "default": "a quiet summer evening in a whitewashed village on a Greek island cliff, with the sun touching the horizon and a small ferry crossing the sea below"
         },
         {
-          "name": "riskTolerance",
-          "default": "medium"
+          "name": "lights",
+          "default": "a few windows and wall lanterns already glowing warm in the village"
+        },
+        {
+          "name": "mood",
+          "default": "warm, peaceful, romantic, timeless, summer evening"
+        },
+        {
+          "name": "sea",
+          "default": "a calm deep blue sea filling the right side, with one small white ferry mid-right leaving a thin wake"
+        },
+        {
+          "name": "sky",
+          "default": "the sun just above the horizon on the right, an orange, pink, and violet sky with long thin clouds"
+        },
+        {
+          "name": "stairway",
+          "default": "a winding stone stairway with low white walls leading down through the village in the lower left-center"
+        },
+        {
+          "name": "style",
+          "default": "photoreal travel photography, golden hour, natural but rich colors"
+        },
+        {
+          "name": "village",
+          "default": "white cube houses with flat roofs, blue doors, and small terraces stacked down a steep cliff on the left side of the frame"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ba2f1bcd43f.json"
-    },
-    {
-      "id": "opl_3b67b3f1d39f",
-      "slug": "ai-style-text-generator",
-      "title": "AI Style Text Generator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b67b3f1d39f.json"
-    },
-    {
-      "id": "opl_0c0388dd8423",
-      "slug": "ai-tech-advisor",
-      "title": "AI Tech Advisor",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c0388dd8423.json"
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a4739b4237fc.json"
     }
   ]
 }

@@ -1,0 +1,11 @@
+# Clockwork Hummingbird Drinking From a Brass Flower
+
+**Category:** Image & Design  
+**Source:** prompts.chat
+
+## Prompt
+
+> Macro photograph of a delicate clockwork hummingbird made of brass and enamel, sipping nectar from a blooming brass orchid, tiny gears and sapphire eyes visible, soft studio lighting, shallow depth of field, ultra-detailed metal textures, elegant steampunk aesthetic
+
+---
+[← Back to Image & Design](README.md) · [Main index](../../README.md)

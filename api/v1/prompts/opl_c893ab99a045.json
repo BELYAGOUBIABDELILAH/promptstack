@@ -1,0 +1,16 @@
+{
+  "id": "opl_c893ab99a045",
+  "slug": "odds-daily",
+  "title": "Odds daily",
+  "prompt": "Create a prompt that allows ai to study, scrutinize etc daily odds of betting across all sports. Odds ranging from 2-30.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c893ab99a045.json"
+}

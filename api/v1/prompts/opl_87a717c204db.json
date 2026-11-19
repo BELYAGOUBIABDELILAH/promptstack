@@ -1,0 +1,16 @@
+{
+  "id": "opl_87a717c204db",
+  "slug": "act-as-a-business-coach",
+  "title": "Act as a Business Coach",
+  "prompt": "Act as a business coach. Ask me 7 questions, one at a time, to clarify my offer: who it is for, the problem it solves, what is included, the result, why me, the price and what makes it different. Wait for each answer. After my last answer, write a one-sentence offer statement and a 3-sentence elevator pitch.\n\nFollow-up: Write 3 shorter versions of the one-sentence offer.",
+  "category": "Sales & Business",
+  "folder": "sales-business",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_87a717c204db.json"
+}

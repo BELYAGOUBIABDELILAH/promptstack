@@ -1,0 +1,23 @@
+# Car Repair Manual Writer
+
+**Category:** Writing & Content  
+**Source:** prompts.chat
+
+## Prompt
+
+> ---
+> name: car-repair-manual-writer
+> description: Create a reusable skill for vehicle-specific DIY repair manuals grounded in verified OEM sources. Cover beginner-friendly maintenance, diagnostics, disassembly, rebuilding and engine overhaul. Generate accurate, reviewed black-and-white diagrams in every chapter, embedded beside relevant steps. Use professional 8.5×11-inch layout, 200–230 pages. First provide a detailed outline, page budget and figure-placement plan for one approval; then deliver one complete, illustrated, editable DOCX.
+> ---
+> 
+> # My Skill
+> 
+> Describe what this skill does and how the agent should use it.
+> 
+> ## Instructions
+> 
+> - Step 1: ...
+> - Step 2: ...
+
+---
+[← Back to Writing & Content](README.md) · [Main index](../../README.md)

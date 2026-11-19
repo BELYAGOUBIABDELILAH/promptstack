@@ -1,0 +1,16 @@
+{
+  "id": "opl_d9cc593cf6dd",
+  "slug": "the-curriculum-mapping-prompt",
+  "title": "The curriculum mapping prompt.",
+  "prompt": "Prompt:\n​\"Task: Based exclusively on the uploaded materials, engineer a comprehensive [Insert Number]-week curriculum map. \nConstraints: Structure the learning journey using Bloom's Taxonomy, moving learners from basic recall to complex creation. \nOutput Format: For each week, provide: \nA) The core competency to be mastered. \nB) The specific source document that introduces the concept (include exact citations). \nC) The source that deepens or challenges it. \nD) A real-world application or business scenario where this theory must be applied. Ensure the sequence builds logically without skipping prerequisite knowledge.\"",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9cc593cf6dd.json"
+}

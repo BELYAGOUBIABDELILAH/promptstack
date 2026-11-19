@@ -1,0 +1,53 @@
+{
+  "id": "opl_7348b66ab9fa",
+  "slug": "ladder-start-stop-with-interlocks",
+  "title": "Ladder Start/Stop With Interlocks",
+  "prompt": "I want you to act as a PLC programmer writing ladder logic for ${Platform and version}. Write a motor start/stop circuit for ${Motor name:Conveyor_M1}.\n\nInputs, with what TRUE means:\n- ${Start tag:Start_PB} (normally open pushbutton, TRUE = pressed)\n- ${Stop tag:Stop_PB} (wired normally closed, TRUE = healthy, not pressed)\n- ${Overload tag:M1_OL_OK} (TRUE = overload healthy)\n- ${Permissive tags:Downstream_Running, Lube_Pressure_OK} (TRUE = OK to run)\n- ${Reset tag:Reset_PB} (normally open, TRUE = pressed)\nOutputs: ${Run output:M1_Run}, ${Fault tag:M1_Fault}.\n\nRequirements:\n1. Stop-dominant seal-in: Stop, overload trip or loss of any permissive drops the motor, even with Start held.\n2. Overload trip latches M1_Fault. Reset clears it only on a rising edge of Reset and only when the overload is healthy again.\n3. Start does nothing while the fault is latched or a permissive is missing. No restart on its own when a permissive returns.\n4. Each output is written in exactly one rung.\nUse only instructions that exist on my platform. If you are unsure one exists, mark it UNSURE.\n\nGive: the rungs as text in execution order with a comment per rung, your assumptions, then a test table:\nID | Precondition | Action | Expected (tags and values)\nInclude Start and Stop pressed together, Stop while running, overload trip and Reset while still tripped, and a permissive dropping and returning.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "Fault tag",
+      "default": "M1_Fault"
+    },
+    {
+      "name": "Motor name",
+      "default": "Conveyor_M1"
+    },
+    {
+      "name": "Overload tag",
+      "default": "M1_OL_OK"
+    },
+    {
+      "name": "Permissive tags",
+      "default": "Downstream_Running, Lube_Pressure_OK"
+    },
+    {
+      "name": "Platform and version",
+      "default": null
+    },
+    {
+      "name": "Reset tag",
+      "default": "Reset_PB"
+    },
+    {
+      "name": "Run output",
+      "default": "M1_Run"
+    },
+    {
+      "name": "Start tag",
+      "default": "Start_PB"
+    },
+    {
+      "name": "Stop tag",
+      "default": "Stop_PB"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7348b66ab9fa.json"
+}

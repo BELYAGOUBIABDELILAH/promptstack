@@ -2,28 +2,40 @@
 
 [← Back to main index](../../README.md)
 
-**21 prompts in this category**
+**33 prompts in this category**
 
 ## Table of Contents
 
+- [Act as a Business Coach](act-as-a-business-coach.md)
+- [Act as a Customer Price Increase Advisor for Small Businesses](act-as-a-customer-price-increase-advisor-for-small-businesses.md)
+- [Act as a Performance Marketer](act-as-a-performance-marketer.md)
+- [Act as a Supplier Negotiation Coach for Small Businesses](act-as-a-supplier-negotiation-coach-for-small-businesses.md)
 - [AI Tool Finder](ai-tool-finder.md)
 - [Analyze Earnings Call Before Prospect Meetings](analyze-earnings-call-before-prospect-meetings.md)
 - [Birthday Message Generator – 3 Styles](birthday-message-generator-3-styles.md)
 - [Cloud STT Guide](cloud-stt-guide.md)
 - [Cloud TTS Advisor](cloud-tts-advisor.md)
+- [Come Up With a Business Idea](come-up-with-a-business-idea.md)
+- [Commissioning Checklist Builder](commissioning-checklist-builder.md)
 - [Dictated email formatter](dictated-email-formatter.md)
 - [Draft Personalized Outreach Post-Sale](draft-personalized-outreach-post-sale.md)
+- [hr Manager interview planning](hr-manager-interview-planning.md)
 - [Identify High Churn Risk Customers](identify-high-churn-risk-customers.md)
 - [Imposter Syndrome Allly](imposter-syndrome-allly.md)
 - [Investor Pitch Coach](investor-pitch-coach.md)
 - [Is This A Sales Pitch?](is-this-a-sales-pitch.md)
 - [Israel Tech Shopping Assistant](israel-tech-shopping-assistant.md)
 - [Long Tail LLMs](long-tail-llms.md)
+- [Martin Lazzari vs. Giant Pitcher Plant Swallowed Whole](martin-lazzari-vs-giant-pitcher-plant-swallowed-whole.md)
 - [Objection Handling](objection-handling.md)
 - [RPA Guide](rpa-guide.md)
+- [sales and marketing strategy](sales-and-marketing-strategy.md)
 - [Sales Enablement Writer](sales-enablement-writer.md)
 - [search for clients](search-for-clients.md)
 - [Self Hostable Tech Finder](self-hostable-tech-finder.md)
 - [Similar Software Finder](similar-software-finder.md)
 - [Spec Requirements Document Generator](spec-requirements-document-generator.md)
 - [Spec Sheet Retrieval](spec-sheet-retrieval.md)
+- [Stained Glass Window of a Great Horned Owl Under a Full Moon](stained-glass-window-of-a-great-horned-owl-under-a-full-moon.md)
+- [The Fighter](the-fighter.md)
+- [Vineyard Tasting Pavilion Terrace at Sunset (Downhill Vine Row View)](vineyard-tasting-pavilion-terrace-at-sunset-downhill-vine-row-view.md)

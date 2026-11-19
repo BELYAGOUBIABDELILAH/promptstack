@@ -1,0 +1,16 @@
+{
+  "id": "opl_a704240ac322",
+  "slug": "animation-style-master-prompt-from-a-reference-video",
+  "title": "Animation Style Master Prompt from a Reference Video",
+  "prompt": "analyze the uploaded video and create a comperhensive master  prompt , to be ble to create such video animation style",
+  "category": "Research & Analysis",
+  "folder": "research-analysis",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a704240ac322.json"
+}

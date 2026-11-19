@@ -1,0 +1,1158 @@
+{
+  "last_updated": "2026-11-19T16:17:28.363Z",
+  "page": 37,
+  "per_page": 100,
+  "total": 3830,
+  "total_pages": 39,
+  "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-38.json",
+  "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-36.json",
+  "prompts": [
+    {
+      "id": "opl_0e48b5a0727c",
+      "slug": "ugc-style-tiktok-script-generator-for-gen-z-skincare",
+      "title": "UGC-Style TikTok Script Generator for Gen Z Skincare",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "callToAction",
+          "default": null
+        },
+        {
+          "name": "keyBenefits",
+          "default": null
+        },
+        {
+          "name": "productName",
+          "default": null
+        },
+        {
+          "name": "trendyElement",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e48b5a0727c.json"
+    },
+    {
+      "id": "opl_1be1ef2ef814",
+      "slug": "ui-architect-agent-role",
+      "title": "UI Architect Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1be1ef2ef814.json"
+    },
+    {
+      "id": "opl_29ba9ccc8917",
+      "slug": "ui-designer-role",
+      "title": "UI Designer Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29ba9ccc8917.json"
+    },
+    {
+      "id": "opl_54af463578e8",
+      "slug": "uipath-xaml-code-review-specialist",
+      "title": "UiPath XAML Code Review Specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54af463578e8.json"
+    },
+    {
+      "id": "opl_a302f57de767",
+      "slug": "ukiyo-e-woodblock-print-of-a-river-ferry-crossing-in-autumn-rain",
+      "title": "Ukiyo-e Woodblock Print of a River Ferry Crossing in Autumn Rain",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a302f57de767.json"
+    },
+    {
+      "id": "opl_1bf6f2fb1ba2",
+      "slug": "ukiyo-e-woodblock-print-of-a-spring-kite-festival",
+      "title": "Ukiyo-e Woodblock Print of a Spring Kite Festival",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1bf6f2fb1ba2.json"
+    },
+    {
+      "id": "opl_95c054f1eb5c",
+      "slug": "ukrainian-petrykivka-folk-painting-of-twin-firebirds-above-a-sunflower",
+      "title": "Ukrainian Petrykivka Folk Painting of Twin Firebirds Above a Sunflower",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_95c054f1eb5c.json"
+    },
+    {
+      "id": "opl_8442776686ac",
+      "slug": "ultimate-2025-2026-ai-life-strategist-retrospective",
+      "title": "Ultimate 2025-2026 AI Life Strategist & Retrospective",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8442776686ac.json"
+    },
+    {
+      "id": "opl_2a80714ac3cb",
+      "slug": "ultimate-inpainting-reference-prompt",
+      "title": "Ultimate Inpainting / Reference Prompt",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a80714ac3cb.json"
+    },
+    {
+      "id": "opl_127df6b61ca5",
+      "slug": "ultimate-stake-us-dice-strategy-builder-all-risk-levels-bankrolls",
+      "title": "Ultimate Stake.us Dice Strategy Builder — All Risk Levels & Bankrolls",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "bankroll",
+          "default": "$50 SC"
+        },
+        {
+          "name": "num_strategies",
+          "default": "5"
+        },
+        {
+          "name": "profit_goal",
+          "default": "10% of bankroll"
+        },
+        {
+          "name": "risk_level",
+          "default": "Medium"
+        },
+        {
+          "name": "stop_loss",
+          "default": "25% of bankroll"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_127df6b61ca5.json"
+    },
+    {
+      "id": "opl_b13571c9c446",
+      "slug": "ultimate-stake-us-dice-wagering-strategy-builder-rollover-playthrough-completion",
+      "title": "Ultimate Stake.us Dice Wagering Strategy Builder — Rollover & Playthrough Completion",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "acceptable_loss",
+          "default": "10% of bankroll"
+        },
+        {
+          "name": "bankroll",
+          "default": "$18 SC"
+        },
+        {
+          "name": "num_strategies",
+          "default": "5"
+        },
+        {
+          "name": "risk_level",
+          "default": "Medium"
+        },
+        {
+          "name": "session_length",
+          "default": "30 minutes"
+        },
+        {
+          "name": "wagering_target",
+          "default": "$100 SC"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b13571c9c446.json"
+    },
+    {
+      "id": "opl_66d4e7ee17a3",
+      "slug": "ultra-brief-one-sentence-answers",
+      "title": "Ultra Brief One-Sentence Answers",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66d4e7ee17a3.json"
+    },
+    {
+      "id": "opl_ff225bb36f30",
+      "slug": "ultra-photorealistic-rooftop-pool-portrait",
+      "title": "Ultra Photorealistic Rooftop Pool Portrait",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff225bb36f30.json"
+    },
+    {
+      "id": "opl_2cfb03bf5e3f",
+      "slug": "ultra-realistic-bedroom-selfie-description",
+      "title": "Ultra Realistic Bedroom Selfie Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cfb03bf5e3f.json"
+    },
+    {
+      "id": "opl_66432abaf290",
+      "slug": "ultra-realistic-candid-photo-of-a-turkish-woman-in-istanbul",
+      "title": "Ultra Realistic Candid Photo of a Turkish Woman in Istanbul Café",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66432abaf290.json"
+    },
+    {
+      "id": "opl_2e5b1edb0206",
+      "slug": "ultra-realistic-cinematic-portrait",
+      "title": "Ultra Realistic Cinematic Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e5b1edb0206.json"
+    },
+    {
+      "id": "opl_b28c6a4fc379",
+      "slug": "ultra-detailed-vintage-photo-restoration-and-colorization",
+      "title": "Ultra-Detailed Vintage Photo Restoration and Colorization",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28c6a4fc379.json"
+    },
+    {
+      "id": "opl_f9562d64f874",
+      "slug": "ultra-high-resolution-4k-enhancement",
+      "title": "Ultra-high-resolution 4K enhancement",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9562d64f874.json"
+    },
+    {
+      "id": "opl_c3134ffd47ac",
+      "slug": "ultra-high-resolution-portrait-restoration",
+      "title": "Ultra-High-Resolution Portrait Restoration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c3134ffd47ac.json"
+    },
+    {
+      "id": "opl_e303b2c11f1c",
+      "slug": "ultra-micro-functional-analyst-prompt",
+      "title": "Ultra-micro Functional Analyst Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e303b2c11f1c.json"
+    },
+    {
+      "id": "opl_75c059b4950c",
+      "slug": "ultra-photorealistic-infographics",
+      "title": "Ultra-photorealistic Infographics",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "object_name",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75c059b4950c.json"
+    },
+    {
+      "id": "opl_8d2691bf68e8",
+      "slug": "ultra-photorealistic-romantic-cinematic-scene-in-the-rain",
+      "title": "Ultra-Photorealistic Romantic Cinematic Scene in the Rain",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d2691bf68e8.json"
+    },
+    {
+      "id": "opl_f4dd48a7d280",
+      "slug": "ultra-realistic-3d-character-avatar-creation",
+      "title": "Ultra-Realistic 3D Character Avatar Creation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4dd48a7d280.json"
+    },
+    {
+      "id": "opl_a6e00054319e",
+      "slug": "ultra-realistic-amateur-street-photo-of-ankara-scene",
+      "title": "Ultra-Realistic Amateur Street Photo of Ankara Scene",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e00054319e.json"
+    },
+    {
+      "id": "opl_2fc33f50ca7f",
+      "slug": "ultra-realistic-ankara-apartment-night-scene",
+      "title": "Ultra-Realistic Ankara Apartment Night Scene",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2fc33f50ca7f.json"
+    },
+    {
+      "id": "opl_65aca7113a6b",
+      "slug": "ultra-realistic-ankara-indie-bar-scene-description",
+      "title": "Ultra-Realistic Ankara Indie Bar Scene Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65aca7113a6b.json"
+    },
+    {
+      "id": "opl_03e984fb1cbb",
+      "slug": "ultra-realistic-ankara-street-photo-with-surreal-element",
+      "title": "Ultra-Realistic Ankara Street Photo with Surreal Element",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e984fb1cbb.json"
+    },
+    {
+      "id": "opl_96fb5f51dcb8",
+      "slug": "ultra-realistic-comedic-slice-of-life-in-an-ankara-bus",
+      "title": "Ultra-Realistic Comedic Slice-of-Life in an Ankara Bus",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96fb5f51dcb8.json"
+    },
+    {
+      "id": "opl_4f2e0f7af3e7",
+      "slug": "ultra-realistic-handwritten-hospital-note-image",
+      "title": "Ultra-Realistic Handwritten Hospital Note Image",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f2e0f7af3e7.json"
+    },
+    {
+      "id": "opl_ce9613a16d53",
+      "slug": "ultra-realistic-night-scene-in-a-turkish-kitchen",
+      "title": "Ultra-Realistic Night Scene in a Turkish Kitchen",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce9613a16d53.json"
+    },
+    {
+      "id": "opl_037cbb3af3c5",
+      "slug": "ultra-realistic-street-photo-prompt-turkish-woman-in-ankara",
+      "title": "Ultra-Realistic Street Photo Prompt: Turkish Woman in Ankara",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_037cbb3af3c5.json"
+    },
+    {
+      "id": "opl_635372a02b21",
+      "slug": "ultra-realistic-turkish-living-room-scene-during-football-ma",
+      "title": "Ultra-Realistic Turkish Living Room Scene During Football Match",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_635372a02b21.json"
+    },
+    {
+      "id": "opl_177026a7d19e",
+      "slug": "ultra-realistic-winter-cinematography-series",
+      "title": "Ultra-Realistic Winter Cinematography Series",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_177026a7d19e.json"
+    },
+    {
+      "id": "opl_eaa80c412019",
+      "slug": "ultra-realistic-young-woman-portrait-generation",
+      "title": "Ultra-Realistic Young Woman Portrait Generation",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eaa80c412019.json"
+    },
+    {
+      "id": "opl_f9c137f76e03",
+      "slug": "ultrathinker",
+      "title": "Ultrathinker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9c137f76e03.json"
+    },
+    {
+      "id": "opl_b13472dfdd74",
+      "slug": "unbiased-english-literature-character-analysis-ai-assistant",
+      "title": "Unbiased English Literature Character Analysis AI Assistant",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b13472dfdd74.json"
+    },
+    {
+      "id": "opl_03e5b9d98091",
+      "slug": "unconstrained-ai-model-dan",
+      "title": "Unconstrained AI model DAN",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e5b9d98091.json"
+    },
+    {
+      "id": "opl_c81741911356",
+      "slug": "understand-async-operations-and-concurrency",
+      "title": "Understand Async Operations and Concurrency",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c81741911356.json"
+    },
+    {
+      "id": "opl_29b2f21e5018",
+      "slug": "understand-class-hierarchy-and-inheritance",
+      "title": "Understand Class Hierarchy and Inheritance",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29b2f21e5018.json"
+    },
+    {
+      "id": "opl_14027f148a0f",
+      "slug": "understand-code-before-making-changes",
+      "title": "Understand Code Before Making Changes",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14027f148a0f.json"
+    },
+    {
+      "id": "opl_143870cdafab",
+      "slug": "understand-configuration-and-environment-setup",
+      "title": "Understand Configuration and Environment Setup",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_143870cdafab.json"
+    },
+    {
+      "id": "opl_20c1f02c7466",
+      "slug": "understand-data-flow-through-system",
+      "title": "Understand Data Flow Through System",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20c1f02c7466.json"
+    },
+    {
+      "id": "opl_fbbf6ce6fde3",
+      "slug": "understand-error-handling-patterns",
+      "title": "Understand Error Handling Patterns",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbbf6ce6fde3.json"
+    },
+    {
+      "id": "opl_8769d160ffc0",
+      "slug": "understand-third-party-library-error",
+      "title": "Understand Third-Party Library Error",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8769d160ffc0.json"
+    },
+    {
+      "id": "opl_4f76626e440e",
+      "slug": "understanding-and-utilizing-llms",
+      "title": "Understanding and Utilizing LLMs",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "task",
+          "default": "content creation"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f76626e440e.json"
+    },
+    {
+      "id": "opl_1a1e5a26206d",
+      "slug": "underwater-veo-3-video",
+      "title": "Underwater Veo 3 video",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a1e5a26206d.json"
+    },
+    {
+      "id": "opl_6b6489ad07dd",
+      "slug": "unified-research-and-source-analysis-prompt",
+      "title": "Unified Research and Source Analysis Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b6489ad07dd.json"
+    },
+    {
+      "id": "opl_1e6d6d6a9784",
+      "slug": "unit-tester-assistant",
+      "title": "Unit Tester Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6d6d6a9784.json"
+    },
+    {
+      "id": "opl_3f755250c62c",
+      "slug": "unity-architecture-specialist",
+      "title": "Unity Architecture Specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f755250c62c.json"
+    },
+    {
+      "id": "opl_4ed6bea26792",
+      "slug": "unity-game-project-taste",
+      "title": "Unity Game Project taste",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ed6bea26792.json"
+    },
+    {
+      "id": "opl_c8b5d4709d75",
+      "slug": "universal-context-document-ucd-generator",
+      "title": "Universal Context Document (UCD) Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8b5d4709d75.json"
+    },
+    {
+      "id": "opl_6a6f6794942e",
+      "slug": "universal-job-fit-evaluation-prompt",
+      "title": "Universal Job Fit Evaluation Prompt",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a6f6794942e.json"
+    },
+    {
+      "id": "opl_64545dfe6e54",
+      "slug": "universal-lead-candidate-outreach-generator-hr-sales",
+      "title": "Universal Lead & Candidate Outreach Generator (HR, SALES)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "calendly_link",
+          "default": null
+        },
+        {
+          "name": "company_name",
+          "default": null
+        },
+        {
+          "name": "firstname",
+          "default": null
+        },
+        {
+          "name": "functional_responsibilities",
+          "default": null
+        },
+        {
+          "name": "job_link",
+          "default": null
+        },
+        {
+          "name": "job_title",
+          "default": null
+        },
+        {
+          "name": "lastname",
+          "default": null
+        },
+        {
+          "name": "location",
+          "default": null
+        },
+        {
+          "name": "pain_point_inferred_from_pdf",
+          "default": null
+        },
+        {
+          "name": "recruiter_name",
+          "default": null
+        },
+        {
+          "name": "sales_representative_name",
+          "default": null
+        },
+        {
+          "name": "service_name",
+          "default": null
+        },
+        {
+          "name": "short_description",
+          "default": null
+        },
+        {
+          "name": "tech_stack",
+          "default": null
+        },
+        {
+          "name": "technical_scope_extracted_from_pdf",
+          "default": null
+        },
+        {
+          "name": "value_proposition",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64545dfe6e54.json"
+    },
+    {
+      "id": "opl_bccfb0b4e33a",
+      "slug": "universal-llm-operating-guidelines",
+      "title": "Universal LLM Operating Guidelines",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bccfb0b4e33a.json"
+    },
+    {
+      "id": "opl_1ee9fb569d89",
+      "slug": "universal-system-design-prompt",
+      "title": "Universal System Design Prompt",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ee9fb569d89.json"
+    },
+    {
+      "id": "opl_bc708e924697",
+      "slug": "university-admission-interview-simulation",
+      "title": "University Admission Interview Simulation",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "universityName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc708e924697.json"
+    },
+    {
+      "id": "opl_044c526f663e",
+      "slug": "update-agent-permissions",
+      "title": "Update Agent Permissions",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_044c526f663e.json"
+    },
+    {
+      "id": "opl_d3abd0c0b27f",
+      "slug": "update-checker",
+      "title": "Update checker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3abd0c0b27f.json"
+    },
+    {
+      "id": "opl_40841affb943",
+      "slug": "update-documentation-after-code-changes",
+      "title": "Update Documentation After Code Changes",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40841affb943.json"
+    },
+    {
+      "id": "opl_511c40c3aae2",
+      "slug": "update-sync-prompt",
+      "title": "Update/Sync Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "date",
+          "default": null
+        },
+        {
+          "name": "paste_or_reference_file",
+          "default": null
+        },
+        {
+          "name": "section_name",
+          "default": null
+        },
+        {
+          "name": "upload_files_or_provide_path",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_511c40c3aae2.json"
+    },
+    {
+      "id": "opl_c16f23e99887",
+      "slug": "urban-casual-confidence",
+      "title": "Urban Casual Confidence",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "gender",
+          "default": "man"
+        },
+        {
+          "name": "position",
+          "default": "leaning against weathered brick wall"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16f23e99887.json"
+    },
+    {
+      "id": "opl_810ea788d860",
+      "slug": "urban-night-waterfront-portrait",
+      "title": "Urban Night Waterfront Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_810ea788d860.json"
+    },
+    {
+      "id": "opl_88a062d45ee2",
+      "slug": "urban-streetwear-alley-portrait",
+      "title": "Urban Streetwear Alley Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88a062d45ee2.json"
+    },
+    {
+      "id": "opl_0a44bdd3e417",
+      "slug": "url-shortener",
+      "title": "URL Shortener",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a44bdd3e417.json"
+    },
+    {
+      "id": "opl_c49d166d1e2a",
+      "slug": "url-shortening-service-full-stack-application",
+      "title": "URL Shortening Service — Full-Stack Application",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c49d166d1e2a.json"
+    },
+    {
+      "id": "opl_c17e84fa7fca",
+      "slug": "url-title-and-description-analysis-tool-with-lsi-keywords",
+      "title": "URL, Title, and Description Analysis Tool with LSI Keywords",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "region",
+          "default": "Global"
+        },
+        {
+          "name": "url",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c17e84fa7fca.json"
+    },
+    {
+      "id": "opl_f46e4a091584",
+      "slug": "user-acquisition-data-analysis",
+      "title": "User Acquisition Data Analysis",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f46e4a091584.json"
+    },
+    {
+      "id": "opl_8254c6ba3c0b",
+      "slug": "using-stanfordvl-behavior-1k-for-robotics-and-ai-tasks",
+      "title": "Using StanfordVL/BEHAVIOR-1K for Robotics and AI Tasks",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8254c6ba3c0b.json"
+    },
+    {
+      "id": "opl_30b6db5059f0",
+      "slug": "ux-conversion-deconstruction-engine",
+      "title": "UX Conversion Deconstruction Engine",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_30b6db5059f0.json"
+    },
+    {
+      "id": "opl_f3880529ab96",
+      "slug": "ux-ui-developer",
+      "title": "UX/UI Developer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3880529ab96.json"
+    },
+    {
+      "id": "opl_7e1bdb945930",
+      "slug": "uzbek-new-latin-alphabet",
+      "title": "Uzbek new latin alphabet",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e1bdb945930.json"
+    },
+    {
+      "id": "opl_10aae149bc50",
+      "slug": "vacuum-arc-modeling-under-transverse-magnetic-fields",
+      "title": "Vacuum Arc Modeling under Transverse Magnetic Fields",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "errorType",
+          "default": null
+        },
+        {
+          "name": "guidanceLevel",
+          "default": "beginner"
+        },
+        {
+          "name": "simulationParameter",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10aae149bc50.json"
+    },
+    {
+      "id": "opl_26a7955301f1",
+      "slug": "valentines-day-cocktail",
+      "title": "Valentines Day Cocktail",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_26a7955301f1.json"
+    },
+    {
+      "id": "opl_a5903db6e80c",
+      "slug": "valorant-agent-style",
+      "title": "Valorant Agent Style",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5903db6e80c.json"
+    },
+    {
+      "id": "opl_d6e2c5219e17",
+      "slug": "vector-based-space-combat-system",
+      "title": "Vector-Based Space Combat System",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6e2c5219e17.json"
+    },
+    {
+      "id": "opl_6ea05c94dc81",
+      "slug": "verbatim-chat-to-organized-notes",
+      "title": "Verbatim Chat to Organized Notes",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ea05c94dc81.json"
+    },
+    {
+      "id": "opl_1079a1c69ed9",
+      "slug": "version-review",
+      "title": "Version Review",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1079a1c69ed9.json"
+    },
+    {
+      "id": "opl_b339d6db9a11",
+      "slug": "vfd-fault-code-explainer",
+      "title": "VFD Fault Code Explainer",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "Drive make, model and firmware if known",
+          "default": null
+        },
+        {
+          "name": "Driven load",
+          "default": "conveyor"
+        },
+        {
+          "name": "Fault code and text",
+          "default": null
+        },
+        {
+          "name": "Motor nameplate",
+          "default": " kW or HP, volts, FLA, rpm"
+        },
+        {
+          "name": "When it trips",
+          "default": "on start, at full speed, on stop, random"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b339d6db9a11.json"
+    },
+    {
+      "id": "opl_585e5e97120d",
+      "slug": "vibe-coding-master",
+      "title": "Vibe Coding Master",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_585e5e97120d.json"
+    },
+    {
+      "id": "opl_6c3a23ae98bc",
+      "slug": "vibe-coding-with-commands-and-skills",
+      "title": "Vibe Coding with Commands and Skills",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c3a23ae98bc.json"
+    },
+    {
+      "id": "opl_0eb330068127",
+      "slug": "vibe-coding-with-modern-designs-and-seo",
+      "title": "Vibe Coding with Modern Designs and SEO",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0eb330068127.json"
+    },
+    {
+      "id": "opl_b4d4b36d7a95",
+      "slug": "vibrant-fauvist-style-sunlit-living-room-illustration",
+      "title": "Vibrant Fauvist Style Sunlit Living Room Illustration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d4b36d7a95.json"
+    },
+    {
+      "id": "opl_6d9665c0a227",
+      "slug": "victorian-glass-conservatory-at-blue-hour-garden-approach-view",
+      "title": "Victorian Glass Conservatory at Blue Hour (Garden Approach View)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d9665c0a227.json"
+    },
+    {
+      "id": "opl_49889b20776c",
+      "slug": "victorian-glass-conservatory-interior-with-ferns-morning-light",
+      "title": "Victorian Glass Conservatory Interior with Ferns (Morning Light)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49889b20776c.json"
+    },
+    {
+      "id": "opl_f9c91134895a",
+      "slug": "victorian-halloween-cabinet-card-photograph-circa-1890",
+      "title": "Victorian Halloween Cabinet Card Photograph (circa 1890)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9c91134895a.json"
+    },
+    {
+      "id": "opl_ac77eea818f3",
+      "slug": "video",
+      "title": "Video",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac77eea818f3.json"
+    },
+    {
+      "id": "opl_1a958c678693",
+      "slug": "video-extractor-prompt",
+      "title": "Video extractor prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "code_here_with_inline_comments_explaining_what_each_line_does",
+          "default": null
+        },
+        {
+          "name": "concept_name",
+          "default": null
+        },
+        {
+          "name": "infer_the_main_topic_from_the_content",
+          "default": null
+        },
+        {
+          "name": "language",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a958c678693.json"
+    },
+    {
+      "id": "opl_275be93dda80",
+      "slug": "video-review-and-teacher",
+      "title": "Video review and teacher",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_275be93dda80.json"
+    },
+    {
+      "id": "opl_08294366a121",
+      "slug": "video-scenario",
+      "title": "Video scenario",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_08294366a121.json"
+    },
+    {
+      "id": "opl_d4c695a6c06c",
+      "slug": "viking",
+      "title": "Viking",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d4c695a6c06c.json"
+    },
+    {
+      "id": "opl_f3817125f6ef",
+      "slug": "vineyard-tasting-pavilion-terrace-at-sunset-downhill-vine-row-view",
+      "title": "Vineyard Tasting Pavilion Terrace at Sunset (Downhill Vine Row View)",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3817125f6ef.json"
+    },
+    {
+      "id": "opl_703fddca8ff0",
+      "slug": "vintage-analog-portrait",
+      "title": "Vintage Analog Portrait — ناز",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_703fddca8ff0.json"
+    },
+    {
+      "id": "opl_85737be60963",
+      "slug": "vintage-black-and-white-photograph-of-galata-tower",
+      "title": "Vintage Black and White Photograph of Galata Tower",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85737be60963.json"
+    },
+    {
+      "id": "opl_5ac7ce92f9c7",
+      "slug": "vintage-botanical-illustration-generator",
+      "title": "Vintage Botanical Illustration Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "subject",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ac7ce92f9c7.json"
+    },
+    {
+      "id": "opl_19f51199bf22",
+      "slug": "vintage-chromolithograph-plate-of-forest-mushrooms-and-mosses",
+      "title": "Vintage Chromolithograph Plate of Forest Mushrooms and Mosses",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19f51199bf22.json"
+    },
+    {
+      "id": "opl_4d50b1071283",
+      "slug": "vintage-copper-engraving-portrait-with-glasses-in-front-of-y",
+      "title": "Vintage copper engraving portrait with glasses in front of yellow circle",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d50b1071283.json"
+    },
+    {
+      "id": "opl_ef3d91cb790c",
+      "slug": "vintage-country-souvenir-box-travel-poster-universal-template",
+      "title": "Vintage Country Souvenir Box Travel Poster (Universal Template)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "country",
+          "default": "Japan"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef3d91cb790c.json"
+    },
+    {
+      "id": "opl_847a62984de2",
+      "slug": "vintage-cutaway-illustration-of-a-deep-sea-research-submarine",
+      "title": "Vintage Cutaway Illustration of a Deep-Sea Research Submarine",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_847a62984de2.json"
+    },
+    {
+      "id": "opl_11c92376151b",
+      "slug": "vintage-film-matchlight-portrait",
+      "title": "Vintage Film Matchlight Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11c92376151b.json"
+    },
+    {
+      "id": "opl_f9e7ae0be967",
+      "slug": "vintage-food-cafe-travel-diary-photo-scrapbook-journal-collage",
+      "title": "Vintage Food & Café Travel Diary: Photo + Scrapbook Journal Collage",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9e7ae0be967.json"
+    }
+  ]
+}

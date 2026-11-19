@@ -1,0 +1,33 @@
+{
+  "id": "opl_404365968427",
+  "slug": "plc-comment-translator",
+  "title": "PLC Comment Translator",
+  "prompt": "I want you to act as a technical translator for PLC programs. Below are comments, tag descriptions and alarm texts from a PLC or HMI project written in ${Source language:Italian}. Translate them to ${Target language:English}.\n\nRules:\n1. Keep every tag name, address, block name and number exactly as is. Translate only the human text.\n2. Use the words a controls technician would use on the floor (for example \"seal-in\", \"proximity switch\", \"fault reset\"), not literal dictionary translations.\n3. Keep each translation within ${Max length:the same length as the original, because HMI fields and comment columns have limits}. If it will not fit, give a short version and flag it.\n4. Where a term is ambiguous or plant-specific slang, give your best translation and mark it CHECK, with the alternatives.\n5. Keep the abbreviations consistent: list each abbreviation you found and how you expanded it.\n\nOutput as a table I can paste back:\nTag / address | Original text | Translation | Notes\nThen a glossary of the recurring technical terms.\n\n=== TEXT TO TRANSLATE ===\n${Paste comments or tag table export}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "Max length",
+      "default": "the same length as the original, because HMI fields and comment columns have limits"
+    },
+    {
+      "name": "Paste comments or tag table export",
+      "default": null
+    },
+    {
+      "name": "Source language",
+      "default": "Italian"
+    },
+    {
+      "name": "Target language",
+      "default": "English"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_404365968427.json"
+}

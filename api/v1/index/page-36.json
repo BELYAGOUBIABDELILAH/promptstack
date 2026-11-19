@@ -1,0 +1,1126 @@
+{
+  "last_updated": "2026-11-19T16:17:28.363Z",
+  "page": 36,
+  "per_page": 100,
+  "total": 3830,
+  "total_pages": 39,
+  "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-37.json",
+  "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-35.json",
+  "prompts": [
+    {
+      "id": "opl_bde3892eb67d",
+      "slug": "the-gravedigger-s-vigil",
+      "title": "The Gravedigger's Vigil",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bde3892eb67d.json"
+    },
+    {
+      "id": "opl_e2e109e100db",
+      "slug": "the-greedy-cat",
+      "title": "The greedy Cat",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e2e109e100db.json"
+    },
+    {
+      "id": "opl_2ac4ecf03761",
+      "slug": "the-last-adagio",
+      "title": "The Last Adagio",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ac4ecf03761.json"
+    },
+    {
+      "id": "opl_7e571a218dde",
+      "slug": "the-last-parking-space-painterly-3d-comedy-short-where-a-tiny-grandma-steals-the-spot-20s-7-shot-video",
+      "title": "The Last Parking Space: Painterly 3D Comedy Short Where a Tiny Grandma Steals the Spot (20s, 7-Shot Video)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e571a218dde.json"
+    },
+    {
+      "id": "opl_85b155f35397",
+      "slug": "the-lovelyline",
+      "title": "The Lovelyline",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85b155f35397.json"
+    },
+    {
+      "id": "opl_1aee54f7cb21",
+      "slug": "the-midnight-informant",
+      "title": "The Midnight Informant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1aee54f7cb21.json"
+    },
+    {
+      "id": "opl_6275fc2ba77c",
+      "slug": "the-midnight-melody-mystery",
+      "title": "The Midnight Melody Mystery",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6275fc2ba77c.json"
+    },
+    {
+      "id": "opl_7ecf558fa4b7",
+      "slug": "the-missing-woman",
+      "title": "The Missing Woman",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ecf558fa4b7.json"
+    },
+    {
+      "id": "opl_bb45908fd6ee",
+      "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
+      "title": "The Mystery of Easter Island | Who Built the Giant Moai Statues? In the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb45908fd6ee.json"
+    },
+    {
+      "id": "opl_ec998a24493b",
+      "slug": "the-paradoxical-soundscape-ancient-acoustic-mysteries-video-exploration",
+      "title": "The Paradoxical Soundscape: Ancient Acoustic Mysteries Video Exploration",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec998a24493b.json"
+    },
+    {
+      "id": "opl_0d9c441f9c79",
+      "slug": "the-pleasure-of-finding-things-out",
+      "title": "The Pleasure of Finding Things Out",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d9c441f9c79.json"
+    },
+    {
+      "id": "opl_909fcf10072a",
+      "slug": "the-pragmatic-architect-mastering-tech-with-humor-and-precis",
+      "title": "The Pragmatic Architect: Mastering Tech with Humor and Precision",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_909fcf10072a.json"
+    },
+    {
+      "id": "opl_890be12694b3",
+      "slug": "the-prd-mastermind",
+      "title": "The PRD Mastermind",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_890be12694b3.json"
+    },
+    {
+      "id": "opl_76dd8eff0795",
+      "slug": "the-quant-edge-engine",
+      "title": "The Quant Edge Engine",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76dd8eff0795.json"
+    },
+    {
+      "id": "opl_aec76621cd01",
+      "slug": "the-red-headscarf",
+      "title": "The Red Headscarf",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aec76621cd01.json"
+    },
+    {
+      "id": "opl_0378a6177664",
+      "slug": "the-rest-of-the-story",
+      "title": "The Rest of the Story",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0378a6177664.json"
+    },
+    {
+      "id": "opl_5095712849e1",
+      "slug": "the-room-that-forgot-gravity",
+      "title": "The Room That Forgot Gravity",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5095712849e1.json"
+    },
+    {
+      "id": "opl_c30d347133ee",
+      "slug": "the-silent-standoff",
+      "title": "The Silent Standoff",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c30d347133ee.json"
+    },
+    {
+      "id": "opl_a3270af8d7e3",
+      "slug": "the-solar-priestess-of-amun",
+      "title": "The Solar Priestess of Amun",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3270af8d7e3.json"
+    },
+    {
+      "id": "opl_4d5dc9d04e5e",
+      "slug": "the-summer-detour-15-second-nostalgic-anime-countryside-short-16-9-video",
+      "title": "The Summer Detour: 15-Second Nostalgic Anime Countryside Short (16:9 Video)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d5dc9d04e5e.json"
+    },
+    {
+      "id": "opl_562dd2a9ff54",
+      "slug": "the-technical-co-founder-building-real-products-together",
+      "title": "The Technical Co-Founder: Building Real Products Together",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_562dd2a9ff54.json"
+    },
+    {
+      "id": "opl_fc282fa03ee6",
+      "slug": "the-technical-co-founder-building-real-products-together-fc282f",
+      "title": "The Technical Co-Founder: Building Real Products Together",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc282fa03ee6.json"
+    },
+    {
+      "id": "opl_65c5bb7d8a36",
+      "slug": "the-tyrant-king",
+      "title": "The tyrant King",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65c5bb7d8a36.json"
+    },
+    {
+      "id": "opl_fafeb3aea5b0",
+      "slug": "the-ultimate-podcast-format-audio-branding-architect",
+      "title": "The Ultimate Podcast Format & Audio Branding Architect",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "Desired_Vibe",
+          "default": null
+        },
+        {
+          "name": "Host_Background",
+          "default": null
+        },
+        {
+          "name": "Target_Niche",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fafeb3aea5b0.json"
+    },
+    {
+      "id": "opl_06fd8e8af52b",
+      "slug": "the-ultimate-typescript-code-review",
+      "title": "The Ultimate TypeScript Code Review",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06fd8e8af52b.json"
+    },
+    {
+      "id": "opl_eb7c70456c9d",
+      "slug": "the-witcher-double-exposure-effect",
+      "title": "The Witcher - Double Exposure Effect",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb7c70456c9d.json"
+    },
+    {
+      "id": "opl_4fe0c6111bfd",
+      "slug": "theme-and-colors",
+      "title": "theme and colors",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4fe0c6111bfd.json"
+    },
+    {
+      "id": "opl_34ccaf201035",
+      "slug": "theme-based-art-style-fusion-meta-prompt",
+      "title": "Theme based Art Style Fusion Meta-Prompt",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "theme",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34ccaf201035.json"
+    },
+    {
+      "id": "opl_debeaa903eca",
+      "slug": "through-the-glass-one-eye-in-focus",
+      "title": "Through the Glass: One Eye in Focus",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_debeaa903eca.json"
+    },
+    {
+      "id": "opl_20882e97c59c",
+      "slug": "tic-tac-toe-game",
+      "title": "Tic-Tac-Toe Game",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20882e97c59c.json"
+    },
+    {
+      "id": "opl_90be54191b8d",
+      "slug": "ticket-to-pr",
+      "title": "ticket-to-pr",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90be54191b8d.json"
+    },
+    {
+      "id": "opl_172eedc53559",
+      "slug": "tiktok-marketing-visual-designer-agent",
+      "title": "TikTok Marketing Visual Designer Agent",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_172eedc53559.json"
+    },
+    {
+      "id": "opl_663af91bd878",
+      "slug": "tiktok-video-style-prompt-generator",
+      "title": "TikTok Video Style Prompt Generator",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_663af91bd878.json"
+    },
+    {
+      "id": "opl_62bb7035510a",
+      "slug": "tilt-shift-photograph-of-mountain-rice-terraces-and-a-stilt-house-village-at-dawn",
+      "title": "Tilt-Shift Photograph of Mountain Rice Terraces and a Stilt-House Village at Dawn",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_62bb7035510a.json"
+    },
+    {
+      "id": "opl_c43da9d3f3e8",
+      "slug": "time-commitment",
+      "title": "Time Commitment",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c43da9d3f3e8.json"
+    },
+    {
+      "id": "opl_6d182c1d2b3c",
+      "slug": "time-layer-photography",
+      "title": "Time Layer Photography",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "era1",
+          "default": "1890s sepia Ottoman period"
+        },
+        {
+          "name": "era2",
+          "default": "1960s faded color"
+        },
+        {
+          "name": "era3",
+          "default": "present day digital clarity"
+        },
+        {
+          "name": "location",
+          "default": "Galata Tower, Istanbul"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d182c1d2b3c.json"
+    },
+    {
+      "id": "opl_10bd59da3f51",
+      "slug": "time-management-and-calculating-for-my-employees-to-be-signed-in-by-email",
+      "title": "Time management and calculating for my employees to be signed in by email",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10bd59da3f51.json"
+    },
+    {
+      "id": "opl_314e6bc56634",
+      "slug": "time-series-gap-and-anomaly-checker",
+      "title": "Time Series Gap and Anomaly Checker",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_314e6bc56634.json"
+    },
+    {
+      "id": "opl_f1e90823beca",
+      "slug": "time-travel-guide",
+      "title": "Time Travel Guide",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1e90823beca.json"
+    },
+    {
+      "id": "opl_d739f25311aa",
+      "slug": "timeline",
+      "title": "timeline",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "any_dates_marked_uncertain",
+          "default": null
+        },
+        {
+          "name": "any_events_where_sequence_is_unclear",
+          "default": null
+        },
+        {
+          "name": "event_description",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d739f25311aa.json"
+    },
+    {
+      "id": "opl_858c66a85690",
+      "slug": "tiny-astronaut-tending-a-mars-rooftop-garden",
+      "title": "Tiny Astronaut Tending a Mars Rooftop Garden",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_858c66a85690.json"
+    },
+    {
+      "id": "opl_83ac4934ea79",
+      "slug": "title-generator-for-written-pieces",
+      "title": "Title Generator for written pieces",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83ac4934ea79.json"
+    },
+    {
+      "id": "opl_44843dff7ea1",
+      "slug": "tma-help",
+      "title": "TMA help",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_44843dff7ea1.json"
+    },
+    {
+      "id": "opl_74d2baa1122b",
+      "slug": "todo-comment-debt-tracker",
+      "title": "TODO Comment Debt Tracker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_74d2baa1122b.json"
+    },
+    {
+      "id": "opl_3ae5ca96ef04",
+      "slug": "todo-list",
+      "title": "Todo List",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ae5ca96ef04.json"
+    },
+    {
+      "id": "opl_d9972b3bc945",
+      "slug": "token-architecture",
+      "title": "Token Architecture",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9972b3bc945.json"
+    },
+    {
+      "id": "opl_706c871e7766",
+      "slug": "tokio-async-rust-taste",
+      "title": "Tokio Async Rust taste",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_706c871e7766.json"
+    },
+    {
+      "id": "opl_53a35b5a63c6",
+      "slug": "tom-and-jerry",
+      "title": "Tom and Jerry",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53a35b5a63c6.json"
+    },
+    {
+      "id": "opl_b70160fd5fc4",
+      "slug": "tom-and-jerry-classic-cartoon-chase",
+      "title": "Tom and Jerry Classic Cartoon Chase",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b70160fd5fc4.json"
+    },
+    {
+      "id": "opl_c1bbef2c8c5e",
+      "slug": "tool-evaluator-agent-role",
+      "title": "Tool Evaluator Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1bbef2c8c5e.json"
+    },
+    {
+      "id": "opl_c1853f62840f",
+      "slug": "top-failing-jobs",
+      "title": "Top Failing Jobs",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1853f62840f.json"
+    },
+    {
+      "id": "opl_d31d5c9bfa40",
+      "slug": "top-programming-expert",
+      "title": "Top Programming Expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d31d5c9bfa40.json"
+    },
+    {
+      "id": "opl_3d2a55d1ab3f",
+      "slug": "topic-article",
+      "title": "Topic Article",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d2a55d1ab3f.json"
+    },
+    {
+      "id": "opl_c1d2440353a8",
+      "slug": "trace-authentication-and-authorization-flow",
+      "title": "Trace Authentication and Authorization Flow",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1d2440353a8.json"
+    },
+    {
+      "id": "opl_f862f5aa3437",
+      "slug": "trace-function-usage-across-codebase",
+      "title": "Trace Function Usage Across Codebase",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f862f5aa3437.json"
+    },
+    {
+      "id": "opl_cf106018f032",
+      "slug": "trade-contract-review-expert",
+      "title": "Trade Contract Review Expert",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "industry",
+          "default": "global trade"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf106018f032.json"
+    },
+    {
+      "id": "opl_6b5c41c2021a",
+      "slug": "trading-investing-simulation-platform",
+      "title": "Trading & Investing Simulation Platform",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5c41c2021a.json"
+    },
+    {
+      "id": "opl_33bbbb6a43a0",
+      "slug": "train-waiter",
+      "title": "Train Waiter",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33bbbb6a43a0.json"
+    },
+    {
+      "id": "opl_8748e10df19a",
+      "slug": "transcript-to-notes",
+      "title": "transcript_to_notes",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8748e10df19a.json"
+    },
+    {
+      "id": "opl_65d8ac580423",
+      "slug": "transform-subjects-into-adorable-plush-forms",
+      "title": "Transform Subjects into Adorable Plush Forms",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65d8ac580423.json"
+    },
+    {
+      "id": "opl_2a991b49faf5",
+      "slug": "transform-the-input-product-image-into-a-professional-commercial-studio-photograph",
+      "title": "Transform the input product image into a professional commercial studio photograph",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a991b49faf5.json"
+    },
+    {
+      "id": "opl_7f9226b534cc",
+      "slug": "transform-the-provided-clothing-product-image",
+      "title": "Transform the provided clothing product image.",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f9226b534cc.json"
+    },
+    {
+      "id": "opl_60d3528019bc",
+      "slug": "transforming-a-photo-into-a-post-apocalyptic-scene",
+      "title": "Transforming a Photo into a Post-Apocalyptic Scene",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_60d3528019bc.json"
+    },
+    {
+      "id": "opl_9c50769f66fa",
+      "slug": "transition-to-professional-services-consultant",
+      "title": "Transition to Professional Services Consultant",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c50769f66fa.json"
+    },
+    {
+      "id": "opl_b5e4be86fffe",
+      "slug": "translate-application-to-another-language",
+      "title": "Translate Application to Another Language",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5e4be86fffe.json"
+    },
+    {
+      "id": "opl_36e891d57cf5",
+      "slug": "translate-document-to-arabic",
+      "title": "Translate Document to Arabic",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36e891d57cf5.json"
+    },
+    {
+      "id": "opl_49e2d7f690b0",
+      "slug": "translation-dictionary",
+      "title": "Translation Dictionary",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49e2d7f690b0.json"
+    },
+    {
+      "id": "opl_2a23cfa9430e",
+      "slug": "transmute",
+      "title": "Transmute",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [
+        {
+          "name": "insert_your_idea_here",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a23cfa9430e.json"
+    },
+    {
+      "id": "opl_390c46b9c1c8",
+      "slug": "transmute-edgy",
+      "title": "Transmute edgy",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "insert_your_idea_here",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_390c46b9c1c8.json"
+    },
+    {
+      "id": "opl_04451921f124",
+      "slug": "transparent-svg-image-for-cricut-printing",
+      "title": "Transparent SVG Image for Cricut Printing",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04451921f124.json"
+    },
+    {
+      "id": "opl_8548a46bdf04",
+      "slug": "travel-guide",
+      "title": "Travel Guide",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8548a46bdf04.json"
+    },
+    {
+      "id": "opl_cebd927bc6a2",
+      "slug": "travel-planner-prompt",
+      "title": "Travel Planner Prompt",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [
+        {
+          "name": "budget",
+          "default": null
+        },
+        {
+          "name": "city",
+          "default": null
+        },
+        {
+          "name": "constraints",
+          "default": null
+        },
+        {
+          "name": "dates",
+          "default": null
+        },
+        {
+          "name": "interests",
+          "default": null
+        },
+        {
+          "name": "pace",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cebd927bc6a2.json"
+    },
+    {
+      "id": "opl_29735b81b19b",
+      "slug": "travel-poster",
+      "title": "Travel Poster",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29735b81b19b.json"
+    },
+    {
+      "id": "opl_e3561d6a7c6c",
+      "slug": "treehouse-retreat-concept-brief-builder",
+      "title": "Treehouse Retreat Concept Brief Builder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "self-build with a carpenter's help, mid-range materials"
+        },
+        {
+          "name": "must_have",
+          "default": "a big window facing the forest, a covered deck, a small wood stove, a rope swing"
+        },
+        {
+          "name": "site",
+          "default": "a single huge old oak in a sloping meadow at the edge of a beech forest, trunk about 1.2 m wide, splitting into three main limbs about 5 m up"
+        },
+        {
+          "name": "size",
+          "default": "a small cabin about 3 x 4 m on a deck about 3.5 m above the ground"
+        },
+        {
+          "name": "style",
+          "default": "warm natural timber, a little storybook but not cartoonish, simple modern details"
+        },
+        {
+          "name": "use",
+          "default": "a family retreat for reading, sleepovers for two kids, and quiet evenings for the adults"
+        },
+        {
+          "name": "view_a",
+          "default": "summer afternoon, full green canopy, seen from the meadow at the front left"
+        },
+        {
+          "name": "view_b",
+          "default": "snowy winter evening, bare branches, windows glowing, seen from the front right"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3561d6a7c6c.json"
+    },
+    {
+      "id": "opl_c87b2f9acdca",
+      "slug": "trello-integration-skill",
+      "title": "trello-integration-skill",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "API_KEY",
+          "default": null
+        },
+        {
+          "name": "b.id",
+          "default": null
+        },
+        {
+          "name": "b.name",
+          "default": null
+        },
+        {
+          "name": "b.url",
+          "default": null
+        },
+        {
+          "name": "boardId",
+          "default": null
+        },
+        {
+          "name": "card_description",
+          "default": null
+        },
+        {
+          "name": "card_name",
+          "default": null
+        },
+        {
+          "name": "card.id",
+          "default": null
+        },
+        {
+          "name": "card.name",
+          "default": null
+        },
+        {
+          "name": "card.url",
+          "default": null
+        },
+        {
+          "name": "errText",
+          "default": null
+        },
+        {
+          "name": "l.id",
+          "default": null
+        },
+        {
+          "name": "l.name",
+          "default": null
+        },
+        {
+          "name": "listId",
+          "default": null
+        },
+        {
+          "name": "response.status",
+          "default": null
+        },
+        {
+          "name": "TOKEN",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c87b2f9acdca.json"
+    },
+    {
+      "id": "opl_2223ec24cea9",
+      "slug": "trend-researcher",
+      "title": "Trend Researcher",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2223ec24cea9.json"
+    },
+    {
+      "id": "opl_29bc158d0b2e",
+      "slug": "trendy-streetwear-cafe-portrait",
+      "title": "Trendy Streetwear Café Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29bc158d0b2e.json"
+    },
+    {
+      "id": "opl_98caa6bc5e7f",
+      "slug": "tri-panel-collage-portrait",
+      "title": "Tri-Panel Collage Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_98caa6bc5e7f.json"
+    },
+    {
+      "id": "opl_45f7e59d41ba",
+      "slug": "tropical-elegance-a-serene-afternoon-in-a-sunlit-villa",
+      "title": "Tropical Elegance: A Serene Afternoon in a Sunlit Villa",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45f7e59d41ba.json"
+    },
+    {
+      "id": "opl_47de518607eb",
+      "slug": "troubleshoot-production-issue",
+      "title": "Troubleshoot Production Issue",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47de518607eb.json"
+    },
+    {
+      "id": "opl_6c2f88e3882f",
+      "slug": "trustshield",
+      "title": "TrustShield",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c2f88e3882f.json"
+    },
+    {
+      "id": "opl_2ccd1f1bfb75",
+      "slug": "tts-announcement-creator",
+      "title": "TTS Announcement Creator",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ccd1f1bfb75.json"
+    },
+    {
+      "id": "opl_010e0c41f29f",
+      "slug": "tts-script-generator",
+      "title": "TTS Script Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_010e0c41f29f.json"
+    },
+    {
+      "id": "opl_34f6bcc21661",
+      "slug": "tts-tester",
+      "title": "TTS Tester",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34f6bcc21661.json"
+    },
+    {
+      "id": "opl_f999d2ea0948",
+      "slug": "tumeric-kojic-soap",
+      "title": "Tumeric kojic soap",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f999d2ea0948.json"
+    },
+    {
+      "id": "opl_0d9e8f483904",
+      "slug": "tumor-medical-industry-solution-business-plan",
+      "title": "Tumor Medical Industry Solution Business Plan",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d9e8f483904.json"
+    },
+    {
+      "id": "opl_683917c0dac3",
+      "slug": "turf-roofed-faroese-village-above-a-sea-gorge-at-golden-hour",
+      "title": "Turf-Roofed Faroese Village Above a Sea Gorge at Golden Hour",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_683917c0dac3.json"
+    },
+    {
+      "id": "opl_5255fe8e51ec",
+      "slug": "turkish-cats-hanging-out-nearby-of-galata-tower",
+      "title": "Turkish Cats hanging out nearby of Galata Tower",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5255fe8e51ec.json"
+    },
+    {
+      "id": "opl_2fd7bfa6618d",
+      "slug": "turkish-woman-in-ankara-with-a-surreal-twist",
+      "title": "Turkish woman in Ankara with a surreal twist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2fd7bfa6618d.json"
+    },
+    {
+      "id": "opl_f82858d537ec",
+      "slug": "turn-your-photo-into-a-simpsons-scene",
+      "title": "Turn Your Photo Into a Simpsons Scene",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f82858d537ec.json"
+    },
+    {
+      "id": "opl_4dcb40a69075",
+      "slug": "tv-premiere-weekly-listing-prompt",
+      "title": "TV Premiere Weekly Listing Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4dcb40a69075.json"
+    },
+    {
+      "id": "opl_f6cd6c867707",
+      "slug": "tv-wall-planner-screen-size-seating-distance-mount-height-and-materials",
+      "title": "TV Wall Planner: Screen Size, Seating Distance, Mount Height and Materials",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "below_tv",
+          "default": "media console 24 inches tall"
+        },
+        {
+          "name": "cable_run_in",
+          "default": "72"
+        },
+        {
+          "name": "eye_height_in",
+          "default": "42"
+        },
+        {
+          "name": "mount_type",
+          "default": "fixed"
+        },
+        {
+          "name": "seat_distance_in",
+          "default": "110"
+        },
+        {
+          "name": "tv_diagonal_in",
+          "default": "65"
+        },
+        {
+          "name": "wall_type",
+          "default": "wood stud drywall"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f6cd6c867707.json"
+    },
+    {
+      "id": "opl_2ce6409ef837",
+      "slug": "tvs-raider",
+      "title": "TVS raider",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce6409ef837.json"
+    },
+    {
+      "id": "opl_dcafc9aa4939",
+      "slug": "typescript-library-taste",
+      "title": "TypeScript Library taste",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dcafc9aa4939.json"
+    },
+    {
+      "id": "opl_bd5f7f631474",
+      "slug": "typescript-type-expert-agent-role",
+      "title": "TypeScript Type Expert Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd5f7f631474.json"
+    },
+    {
+      "id": "opl_e3ad4ae9d318",
+      "slug": "typescript-unit-testing-with-vitest",
+      "title": "TypeScript Unit Testing with Vitest",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3ad4ae9d318.json"
+    },
+    {
+      "id": "opl_0d4d97f34e62",
+      "slug": "typical-90-s-teen-boy",
+      "title": "Typical 90's TEEN Boy",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d4d97f34e62.json"
+    },
+    {
+      "id": "opl_127f6a1164a8",
+      "slug": "typing-speed-test",
+      "title": "Typing Speed Test",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_127f6a1164a8.json"
+    },
+    {
+      "id": "opl_b114fefe45a6",
+      "slug": "typographic-portrait-artwork-creation",
+      "title": "Typographic Portrait Artwork Creation",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b114fefe45a6.json"
+    },
+    {
+      "id": "opl_535fce2327ed",
+      "slug": "ubuntu-audio-input-output-loop-virtual-connection-specialist",
+      "title": "ubuntu audio input/output,loop/virtual connection specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_535fce2327ed.json"
+    }
+  ]
+}

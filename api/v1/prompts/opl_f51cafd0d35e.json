@@ -1,0 +1,16 @@
+{
+  "id": "opl_f51cafd0d35e",
+  "slug": "library-migration",
+  "title": "library migration",
+  "prompt": "🔴 1. Data Access & Connection Management\nThese are critical because they affect performance, scalability, and outages.\n\n🔹 Redis\n❌ Jedis (older pattern, topology issues)\n\n✅ Lettuce (reactive, auto-reconnect)\n\n✅ Valkey Glide (AWS recommended)\n\n🔹 JDBC Connection Pool\n❌ Apache DBCP\n\n❌ C3P0\n\n✅ HikariCP (default in Spring Boot, fastest, stable)\n\n \n\n🔹 ORM / Persistence\n❌ Old Hibernate 4.x\n\n❌ MyBatis legacy configs\n\n✅ Hibernate 6+\n\n✅ Spring Data JPA latest",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f51cafd0d35e.json"
+}

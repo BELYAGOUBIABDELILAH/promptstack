@@ -1,0 +1,21 @@
+{
+  "id": "opl_c0fd0f9a2ee0",
+  "slug": "santorini-caldera-blue-dome-village-at-golden-hour-image-to-video-animation",
+  "title": "Santorini Caldera Blue-Dome Village at Golden Hour (Image-to-Video Animation)",
+  "prompt": "Start from the previous step image \"Whitewashed Santorini Cliffside Village with Blue Domes at Golden Hour\" as the exact first frame, and animate it into a calm ${duration:6}-second cinematic shot. Keep the sea on the left with the sun and gold path, the whitewashed village on the right, the two blue domes (larger center-right, one slightly lower), volcanic cliff rock, warm golden-hour light, haze, and style exactly as in the image. The camera makes a slow gentle push-in toward the larger blue dome. Subtle sun glitter shimmers on the sea; very light atmospheric haze drifts softly. Architecture stays locked. Natural, realistic motion, no large crowds, no close faces, no cuts, no text, no logos. Soft evening ambience, distant quiet air.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "duration",
+      "default": "6"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0fd0f9a2ee0.json"
+}

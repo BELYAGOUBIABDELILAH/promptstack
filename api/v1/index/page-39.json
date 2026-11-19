@@ -1,0 +1,424 @@
+{
+  "last_updated": "2026-11-19T16:17:28.363Z",
+  "page": 39,
+  "per_page": 100,
+  "total": 3830,
+  "total_pages": 39,
+  "next": null,
+  "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-38.json",
+  "prompts": [
+    {
+      "id": "opl_8b281dd5fa0d",
+      "slug": "xiaomi-company-self-service-management-system-frontend-devel",
+      "title": "Xiaomi Company Self-Service Management System Frontend Development",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "apiEndpoint",
+          "default": null
+        },
+        {
+          "name": "designFramework",
+          "default": "Bootstrap"
+        },
+        {
+          "name": "themeColor",
+          "default": "#FF6700"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8b281dd5fa0d.json"
+    },
+    {
+      "id": "opl_5afca3294b07",
+      "slug": "y2k-cheshire-cat-flash-snapshot",
+      "title": "Y2K Cheshire Cat Flash Snapshot",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5afca3294b07.json"
+    },
+    {
+      "id": "opl_3437dc26498f",
+      "slug": "y2k-direct-flash-glamour-portrait",
+      "title": "Y2K Direct Flash Glamour Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3437dc26498f.json"
+    },
+    {
+      "id": "opl_9da44a29d350",
+      "slug": "ya-l-boya-tablona-bak",
+      "title": "Yağlı boya tablona bak",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9da44a29d350.json"
+    },
+    {
+      "id": "opl_4f9e2f36a3c9",
+      "slug": "yamuna-river-cleanup-plan-for-vrindavan",
+      "title": "Yamuna River Cleanup Plan for Vrindavan",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "duration",
+          "default": "6 months"
+        },
+        {
+          "name": "startDate",
+          "default": "immediately"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f9e2f36a3c9.json"
+    },
+    {
+      "id": "opl_dfb8b9f04e6a",
+      "slug": "yapper-twitter-strategist-2026",
+      "title": "Yapper Twitter Strategist 2026",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "project_data",
+          "default": null
+        },
+        {
+          "name": "website_link",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfb8b9f04e6a.json"
+    },
+    {
+      "id": "opl_bf45e3b25b5b",
+      "slug": "yes-or-no-answer",
+      "title": "Yes or No answer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf45e3b25b5b.json"
+    },
+    {
+      "id": "opl_929cc45a0122",
+      "slug": "yks-ydt-vocabulary-acquisition-guide",
+      "title": "YKS-YDT Vocabulary Acquisition Guide",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_929cc45a0122.json"
+    },
+    {
+      "id": "opl_0ad60a317a07",
+      "slug": "yogi",
+      "title": "Yogi",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad60a317a07.json"
+    },
+    {
+      "id": "opl_8ac7ec2469b3",
+      "slug": "young-saudi-doctor-in-a-professional-setting",
+      "title": "Young Saudi Doctor in a Professional Setting",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ac7ec2469b3.json"
+    },
+    {
+      "id": "opl_07bc262a310a",
+      "slug": "young-woman-with-bikini",
+      "title": "Young woman with bikini",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07bc262a310a.json"
+    },
+    {
+      "id": "opl_3e230e2e86a5",
+      "slug": "young-woman-with-mixed-ethnicity-features",
+      "title": "Young woman with mixed ethnicity features",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e230e2e86a5.json"
+    },
+    {
+      "id": "opl_cbadf612345a",
+      "slug": "youtube-channel-audit-expert",
+      "title": "YouTube Channel Audit Expert",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cbadf612345a.json"
+    },
+    {
+      "id": "opl_e116906ec90f",
+      "slug": "youtube-script-engine-high-retention",
+      "title": "YouTube Script Engine — High Retention",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "cta_goal",
+          "default": null
+        },
+        {
+          "name": "target_audience",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        },
+        {
+          "name": "video_style",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e116906ec90f.json"
+    },
+    {
+      "id": "opl_ee5513ef67a2",
+      "slug": "youtube-video-analyst",
+      "title": "YouTube Video Analyst",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee5513ef67a2.json"
+    },
+    {
+      "id": "opl_dc8213514284",
+      "slug": "youtube-video-downloader-skill",
+      "title": "YouTube Video Downloader Skill",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dc8213514284.json"
+    },
+    {
+      "id": "opl_af5323816738",
+      "slug": "yt-video-geopolitic-analysis",
+      "title": "YT video  geopolitic analysis",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af5323816738.json"
+    },
+    {
+      "id": "opl_66d7398a272d",
+      "slug": "zero-to-one-solo-founder-launch-system",
+      "title": "Zero to One Solo-Founder Launch System",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66d7398a272d.json"
+    },
+    {
+      "id": "opl_6dca1c00c89c",
+      "slug": "zod-schema-validation-taste",
+      "title": "Zod Schema Validation taste",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dca1c00c89c.json"
+    },
+    {
+      "id": "opl_b65067587389",
+      "slug": "untitled-b65067",
+      "title": "Недвижимость",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b65067587389.json"
+    },
+    {
+      "id": "opl_9aee2a423e55",
+      "slug": "untitled-9aee2a",
+      "title": "商业演示设计专家指南",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "coreContent",
+          "default": null
+        },
+        {
+          "name": "existingMaterials",
+          "default": null
+        },
+        {
+          "name": "presentationGoals",
+          "default": null
+        },
+        {
+          "name": "presentationObjective",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        },
+        {
+          "name": "timeLimit",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9aee2a423e55.json"
+    },
+    {
+      "id": "opl_11a3ba7b2871",
+      "slug": "untitled-2-11a3ba",
+      "title": "小红书邮轮项目推广提示词",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "projectName",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": "Travel Enthusiasts"
+        },
+        {
+          "name": "uniqueFeature",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11a3ba7b2871.json"
+    },
+    {
+      "id": "opl_1ce09e7f4cf2",
+      "slug": "untitled-prompt",
+      "title": "技术支持群问答汇总表生成器-企业微信专用",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ce09e7f4cf2.json"
+    },
+    {
+      "id": "opl_37079d138c08",
+      "slug": "json",
+      "title": "提取查询 json 中的查询条件",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37079d138c08.json"
+    },
+    {
+      "id": "opl_0aec25f3c003",
+      "slug": "untitled-3-0aec25",
+      "title": "电商与社交平台内容创作提示词",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "audience",
+          "default": null
+        },
+        {
+          "name": "platform",
+          "default": "Douyin"
+        },
+        {
+          "name": "product",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": "engaging"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0aec25f3c003.json"
+    },
+    {
+      "id": "opl_bbc49b5106c9",
+      "slug": "untitled-bbc49b",
+      "title": "电商选品助手",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbc49b5106c9.json"
+    },
+    {
+      "id": "opl_ed3955766c66",
+      "slug": "untitled-4",
+      "title": "网络故障报告撰写",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "networkIssue",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed3955766c66.json"
+    },
+    {
+      "id": "opl_f36eb0db09cc",
+      "slug": "untitled-5",
+      "title": "自动写作、图片生成与发布工具",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "length",
+          "default": "500-1000"
+        },
+        {
+          "name": "platform",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f36eb0db09cc.json"
+    },
+    {
+      "id": "opl_5f45fcccf1e2",
+      "slug": "untitled-6",
+      "title": "论文降重指南",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "input",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f45fcccf1e2.json"
+    },
+    {
+      "id": "opl_ad93e0bfc503",
+      "slug": "untitled-7",
+      "title": "资深卖货短视频脚本创作者",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "keyFeatures",
+          "default": null
+        },
+        {
+          "name": "productName",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad93e0bfc503.json"
+    }
+  ]
+}

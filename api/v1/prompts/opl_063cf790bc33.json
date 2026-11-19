@@ -1,0 +1,16 @@
+{
+  "id": "opl_063cf790bc33",
+  "slug": "shipping-stamp",
+  "title": "shipping stamp",
+  "prompt": "create a PNG image like a stamp saying sent to $(country). Image in red, retro style, horizontal stamp",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_063cf790bc33.json"
+}

@@ -24,6 +24,19 @@ Axiom/
 *.bundle
 *.tmp
 *.bak
+*-dry-run.json
+*-apply.json
+data/import-sources.json
+data/import-report*.json
+data/import-*.csv
+data/import-*.jsonl
+*.pyc
+__pycache__/
+.venv/
+venv/
+.vscode/
+.idea/
+.copilot/
 
 # OS and editor artifacts
 Thumbs.db

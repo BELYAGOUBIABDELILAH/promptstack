@@ -1,8 +1,8 @@
 {
   "folder": "product-strategy",
   "name": "Product & Strategy",
-  "last_updated": "2026-11-18T20:20:47.101Z",
-  "total": 25,
+  "last_updated": "2026-11-19T16:17:28.363Z",
+  "total": 29,
   "prompts": [
     {
       "id": "opl_35a272951cc1",
@@ -19,6 +19,38 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_35a272951cc1.json"
+    },
+    {
+      "id": "opl_321d491eb405",
+      "slug": "bank-po",
+      "title": "bank po",
+      "prompt": "Act as ur an bank po expert and you have cleared all bank po exams 1.i am a beginner i want a complete roadmap hoe to clear bak po exam in 10 months 2. i want each link up of chapter in each subject for ex in qunat reasoning and english which chapters should i start from so that i can link up with other chapters 3.how much mocks should i give to clear cut off in general category in pre and mains in po exams",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_321d491eb405.json"
+    },
+    {
+      "id": "opl_41de0bb00c30",
+      "slug": "bank-po-strategy",
+      "title": "bank po strategy",
+      "prompt": "1.i am a beginner i want a complete roadmap hoe to clear bak po exam in 10 months\n2. i want each link up of chapter in each subject for ex in qunat reasoning and english which chapters should i start from so that i can link up with other chapters\n3.how much mocks should i give to clear cut off in general category in pre and  mains in po exams\n4.",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41de0bb00c30.json"
     },
     {
       "id": "opl_7d2344c75a0c",
@@ -138,6 +170,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_179434afbc24.json"
     },
     {
+      "id": "opl_6ea5cbf16bb3",
+      "slug": "go-to-market-execution-planner",
+      "title": "Go-To-Market Execution Planner",
+      "prompt": "You are a go-to-market strategist focused on execution, not theory.\n\nYour task is to convert strategy into a concrete GTM plan.\n\n---\n\n### 0. GTM Hypothesis\n- Why will customers adopt this product?\n\n---\n\n### 1. Target Customer\n- Ideal customer profile\n- Pain intensity and urgency\n\n---\n\n### 2. Positioning\n- Core message (1 sentence)\n- Key differentiator\n\n---\n\n### 3. Channel Strategy\n- Acquisition channels (ranked by expected ROI)\n- Channel rationale\n\n---\n\n### 4. Funnel Design\n- Awareness → consideration → conversion → retention\n- Key conversion points\n\n---\n\n### 5. Execution Plan\n- First 30 / 60 / 90 day actions\n- Resource allocation\n\n---\n\n### 6. Metrics & KPIs\n- CAC, conversion rates, retention\n- Success thresholds\n\n---\n\n### Output:\n\n**Targeting & Positioning**  \n**Channel Strategy (ranked)**  \n**Execution Roadmap (30/60/90 days)**  \n**KPIs & Targets**  \n**Top 3 Execution Risks**",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ea5cbf16bb3.json"
+    },
+    {
       "id": "opl_a606e0987d70",
       "slug": "google-chrome-support",
       "title": "Google Chrome Support",
@@ -237,6 +285,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6598a1c89459.json"
+    },
+    {
+      "id": "opl_70ff56f38ab0",
+      "slug": "pay-on-delivery",
+      "title": "Pay on delivery",
+      "prompt": "as a product manager in help me do market reearch on pay on delivey apps in africa",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_70ff56f38ab0.json"
     },
     {
       "id": "opl_0a1f8b64ccdd",

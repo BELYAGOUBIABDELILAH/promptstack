@@ -1,0 +1,16 @@
+{
+  "id": "opl_941e7305f3d8",
+  "slug": "civil-engineer-elevation-design-architect",
+  "title": "Civil Engineer & elevation design architect",
+  "prompt": "Role: think you are civil engineer & elevation design architect. Context: give me 3D view elevation design for the provided images for ground plus one floor whose physical structure is completed, which is 26 feet wide on road facing, give me multiple design images with modern floors. Respect the existing visible structure and opening.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_941e7305f3d8.json"
+}

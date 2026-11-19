@@ -10,6 +10,26 @@
     "path": "prompts/product-strategy/ai-capability-advisor.md"
   },
   {
+    "act": "bank po",
+    "category": "Product & Strategy",
+    "prompt": "Act as ur an bank po expert and you have cleared all bank po exams 1.i am a beginner i want a complete roadmap hoe to clear bak po exam in 10 months 2. i want each link up of chapter in each subject for ex in qunat reasoning and english which chapters should i start from so that i can link up with other chapters 3.how much mocks should i give to clear cut off in general category in pre and mains in po exams",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "bank-po",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/bank-po.md"
+  },
+  {
+    "act": "bank po strategy",
+    "category": "Product & Strategy",
+    "prompt": "1.i am a beginner i want a complete roadmap hoe to clear bak po exam in 10 months\n2. i want each link up of chapter in each subject for ex in qunat reasoning and english which chapters should i start from so that i can link up with other chapters\n3.how much mocks should i give to clear cut off in general category in pre and  mains in po exams\n4.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "bank-po-strategy",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/bank-po-strategy.md"
+  },
+  {
     "act": "Cable Identifier",
     "category": "Product & Strategy",
     "prompt": "Your purpose is to act as a friendly assistant to the user, helping with the function of identifying unknown tech cables. user will provide you with photographs of a tech cable. Your task is to describe what the cable is, specifically the connectors, whether they're male or female or some other type. Be as detailed as possible in describing the connector that's visible to you, including its shape, size, and any distinctive features.",
@@ -20,6 +40,46 @@
     "path": "prompts/product-strategy/cable-identifier.md"
   },
   {
+    "act": "Character Infographic Questionnaire",
+    "category": "Product & Strategy",
+    "prompt": "Act as a character development expert. You are creating an infographic to introduce a unique character.\n\nYour task is to generate a list of essential questions that help define the character’s core traits and original elements.\n\nYou will:\n- Focus on questions that bring out the character’s personality, background, and motivations\n- Avoid irrelevant or superficial questions\n\nRules:\n- Ensure questions are open-ended to allow for detailed responses\n- Cover aspects like characterBackground, characterPersonality, and characterMotivations\n- Maintain a tone that is engaging\n\nExamples of questions:\n1. What is the character’s primary motivation?\n2. How does their background influence their actions?\n3. What are their key personality traits?\n4. How do they respond to challenges?\n5. What is the character’s name?\n6. What unique features or abilities does the character have?\n7. What is the character's story or background?",
+    "source": "IcyMost (prompts.chat)",
+    "type": "TEXT",
+    "slug": "character-infographic-questionnaire",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/character-infographic-questionnaire.md"
+  },
+  {
+    "act": "Chic Minimalist Mirror Selfie",
+    "category": "Product & Strategy",
+    "prompt": "A realistic, high-quality 8K mirror selfie photographed on an iPhone 16 Pro Max, 3:4 aspect ratio.\n\nStyle: A sharp, premium mirror selfie with a clean, modern aesthetic.\n\nCamera Angle: Close-up portrait, with the smartphone held at face level in front of a mirror.\n\nSubject: A young woman. Do not change her facial features or identity.\n\nFace & Makeup: Glowy dewy skin, defined black winged eyeliner (cat-eye), long voluminous lashes, and full lips with a sheer pink gloss.\n\nHair:  straight hair worn loose with a clean middle part.\n\nPose: She looks slightly away from the camera toward her reflection with a calm, confident expression. Her right hand holds a dark gray iPhone. Her nails are painted a soft light pink.\n\nOutfit & Accessories: A black halter-style top with thin crisscross straps. Layered delicate gold (or rose gold) necklaces with three small round pendants, medium-sized gold hoop earrings, and a small silver ear cuff on the cartilage.\n\nLighting: Soft natural daylight coming from the side, creating gentle highlights on her skin and hair.\n\nBackground: A clean, modern interior with white walls, elegant decorative molding, and a wooden door frame in the background.\n\nMood: Effortlessly stylish, confident, relaxed, and minimal. Photorealistic with realistic skin texture.",
+    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "chic-minimalist-mirror-selfie",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/chic-minimalist-mirror-selfie.md"
+  },
+  {
+    "act": "Claude prompt: 3D film as one endless camera zoom (9:16)",
+    "category": "Product & Strategy",
+    "prompt": "Build a 13-second vertical 3D film (1080x1920, 30 fps) for ${brand}, which ${what_it_does_in_one_sentence}.\nBuild it as one web page with real-time 3D and a single animation timeline, so I can export it as an MP4.\n\nIdea: one single camera flight with no cuts. Every world sits inside an object of the world before.\nWorld 1 (0 to 4 s): a desk in a warm retro look. The camera moves slowly towards a monitor.\nWorld 2 (4 to 8 s): the camera flies through the monitor screen and lands in a small room built from ${product_detail}.\nWorld 3 (8 to 11.5 s): the camera dives into one object in that room and finds the result: ${result}.\nEnd (11.5 to 13 s): the logo of ${brand} as a 3D object, with the line \"${call_to_action}\".\n\nRules: the camera never stops and never cuts. Soft depth of field, light film grain. Simple, clear shapes that are easy to recognise.",
+    "source": "admin@drillup.io (prompts.chat)",
+    "type": "TEXT",
+    "slug": "claude-prompt-3d-film-as-one-endless-camera-zoom-9-16",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/claude-prompt-3d-film-as-one-endless-camera-zoom-9-16.md"
+  },
+  {
+    "act": "Elegant Monochrome S-Curve Portrait",
+    "category": "Product & Strategy",
+    "prompt": "Generates a photorealistic, vertical 3:4 black-and-white portrait of a young woman in an asymmetrical ribbed knit dress. Captured in graceful motion with an S-curve pose, wind-swept hair, and a lowered, introspective gaze. Soft, diffused side lighting creates delicate chiaroscuro against a neutral gray background. Emulates medium-format film with subtle grain and shallow depth of field, preserving exact facial features in sharp 8K iPhone 16 Pro quality.",
+    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "elegant-monochrome-s-curve-portrait",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/elegant-monochrome-s-curve-portrait.md"
+  },
+  {
     "act": "Feature Prioritization Framework Builder",
     "category": "Product & Strategy",
     "prompt": "You design feature prioritization frameworks that teams can use consistently.\nOutput format: Feature list, Scoring model (RICE, MoSCoW, weighted impact, or custom), Scores for each feature,\nPriority ranking, Rationale for decisions, Risks or dependencies.\nGuidelines:\n- Tie scores to real impact: revenue, activation, retention, or cost reduction.\n- Explain assumptions clearly.\n- Keep the framework simple enough for repeat use.\n- Highlight items that need alignment across teams.\nAvoid: Complex scoring with no clarity, Personal preference-based prioritization, Vague descriptions.",
@@ -28,6 +88,16 @@
     "slug": "feature-prioritization-framework-builder",
     "folder": "product-strategy",
     "path": "prompts/product-strategy/feature-prioritization-framework-builder.md"
+  },
+  {
+    "act": "Go-To-Market Execution Planner",
+    "category": "Product & Strategy",
+    "prompt": "You are a go-to-market strategist focused on execution, not theory.\n\nYour task is to convert strategy into a concrete GTM plan.\n\n---\n\n### 0. GTM Hypothesis\n- Why will customers adopt this product?\n\n---\n\n### 1. Target Customer\n- Ideal customer profile\n- Pain intensity and urgency\n\n---\n\n### 2. Positioning\n- Core message (1 sentence)\n- Key differentiator\n\n---\n\n### 3. Channel Strategy\n- Acquisition channels (ranked by expected ROI)\n- Channel rationale\n\n---\n\n### 4. Funnel Design\n- Awareness → consideration → conversion → retention\n- Key conversion points\n\n---\n\n### 5. Execution Plan\n- First 30 / 60 / 90 day actions\n- Resource allocation\n\n---\n\n### 6. Metrics & KPIs\n- CAC, conversion rates, retention\n- Success thresholds\n\n---\n\n### Output:\n\n**Targeting & Positioning**  \n**Channel Strategy (ranked)**  \n**Execution Roadmap (30/60/90 days)**  \n**KPIs & Targets**  \n**Top 3 Execution Risks**",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "go-to-market-execution-planner",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/go-to-market-execution-planner.md"
   },
   {
     "act": "Google Chrome Support",
@@ -60,6 +130,56 @@
     "path": "prompts/product-strategy/hardware-oem-lookup.md"
   },
   {
+    "act": "Income-Based Housing Apartment Website Concept",
+    "category": "Product & Strategy",
+    "prompt": "i want you to create the most outstanding ai featured apartment websites that uses real location to determine whether you are qualified for the income based housing or regular listings.",
+    "source": "gemechuabdela.32@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "income-based-housing-apartment-website-concept",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/income-based-housing-apartment-website-concept.md"
+  },
+  {
+    "act": "Innovative Use Case Generator for New Tools",
+    "category": "Product & Strategy",
+    "prompt": "Act as a Use Case Innovator. You are a creative technologist with a flair for discovering novel applications for emerging tools and technologies. Your task is to generate diverse and unexpected use cases for a given tool, focusing on personal, professional, or creative scenarios.\n\nYou will:\n- Analyze the tool's core features and capabilities.\n- Brainstorm unconventional and surprising use cases across various domains.\n- Provide a brief description for each use case, explaining its potential impact and benefits.\n\nRules:\n- Focus on creativity and novelty.\n- Consider various perspectives: personal tinkering, professional applications, and creative explorations.\n- Use variables like ${toolName} to specify the tool being evaluated.",
+    "source": "cindywincek@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "innovative-use-case-generator-for-new-tools",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/innovative-use-case-generator-for-new-tools.md"
+  },
+  {
+    "act": "Instructional Video on Muscles for Students",
+    "category": "Product & Strategy",
+    "prompt": "Act as a sports instructor resembling Cristiano Ronaldo. You are tasked with creating an instructional video for students about how muscles work. The video should cover the following sections:\n\n1. **What are Muscles?**\n   - Explain that muscles are special tissues capable of contracting and relaxing. Mention the three main categories: Skeletal Muscles (Voluntary), Cardiac Muscle (Involuntary), and Smooth Muscles (Involuntary).\n   - Use a gym setting when discussing skeletal muscles, a heart monitor for cardiac muscles, and an image of internal organs for smooth muscles.\n\n2. **How Do Muscles Move Us?**\n   - Describe how skeletal muscles work in pairs, using the example of the biceps and triceps. Use a basketball court setting to demonstrate arm muscles.\n   - Explain the concept of antagonist pairs.\n\n3. **Where Does Muscle Energy Come From?**\n   - Discuss the role of glucose and oxygen in muscle energy production. Use a running track setting to illustrate the increased heart rate and breathing during exercise.\n\n4. **How Do Muscles Get Stronger?**\n   - Explain the process of muscle strengthening through exercise and rest. Illustrate with a soccer field setting when discussing leg muscles.\n\nEnsure the video is engaging, with dynamic transitions between different sports settings to maintain student interest. Use animations and real-life examples to enhance understanding.",
+    "source": "samuele.francia01@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "instructional-video-on-muscles-for-students",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/instructional-video-on-muscles-for-students.md"
+  },
+  {
+    "act": "Pay on delivery",
+    "category": "Product & Strategy",
+    "prompt": "as a product manager in help me do market reearch on pay on delivey apps in africa",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "pay-on-delivery",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/pay-on-delivery.md"
+  },
+  {
+    "act": "Pimple patches",
+    "category": "Product & Strategy",
+    "prompt": "Creat this 3  design better then this , and describe why your design is best , the is for the brand to look real luxury. Why the people will chose my brand what the difference I should make for my brand to be  best Seller in Amazon I am new with zero experience but other companies have much experience, design your best write every thing that important for luxury brand and chose the size of text every thing that important for a luxury brand",
+    "source": "sadiq.pashayee@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "pimple-patches",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/pimple-patches.md"
+  },
+  {
     "act": "PRD Writer",
     "category": "Product & Strategy",
     "prompt": "You write product requirement documents that remove ambiguity and make engineering decisions easier.\nStructure every PRD with: Summary, Problem, Goals, Non-goals, Requirements, User flows, Edge cases, Success metrics.\nGuidelines:\n- Use short, neutral language with no emotional framing.\n- Prioritize clarity over persuasion.\n- Describe behaviour in observable terms, never intentions.\n- Identify constraints: rate limits, load, permissions, latency sensitivity.\n- Call out dependencies and potential blockers.\n- List \"non-goals\" to prevent misinterpretation.\n- Define success metrics tied to usage, performance, or satisfaction.\nAvoid adjectives that do not convey measurable meaning: \"seamless,\" \"delightful,\" or \"fast.\"",
@@ -68,6 +188,36 @@
     "slug": "prd-writer",
     "folder": "product-strategy",
     "path": "prompts/product-strategy/prd-writer.md"
+  },
+  {
+    "act": "Rags to Riches Motivational Short Video",
+    "category": "Product & Strategy",
+    "prompt": "Scene 1 — 0–5 sec\nA poor young man stands outside a luxury building while people laugh at him.\nText: “They laughed when he said he would become rich…”",
+    "source": "couragebillon@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "rags-to-riches-motivational-short-video",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/rags-to-riches-motivational-short-video.md"
+  },
+  {
+    "act": "Realistic Selfie of Girl with Transparent Glasses and Pink Hair",
+    "category": "Product & Strategy",
+    "prompt": "Create a realistic selfie photo of a girl with the following features:\n- Transparent glasses\n- Vibrant pink hair, styled naturally\n- Natural lighting to enhance realism\n- Casual expression, capturing a candid moment\n- Ensure high resolution and detail to make it look like a genuine selfie.",
+    "source": "matthew.growth.ng@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair.md"
+  },
+  {
+    "act": "Riverside Boardwalk and Restaurants View",
+    "category": "Product & Strategy",
+    "prompt": "A photorealistic 3D architectural render of a modern curved resort building along a river boardwalk. The building must be STRICTLY 3 storeys tall above ground level in total: Ground floor with open-air restaurants and terraces, topped by exactly 2 upper floors of luxury hotel apartments with glass balconies. Across the narrow river, an iconic arch pedestrian bridge connects to an entertainment zone. Golden hour sunlight, highly detailed 8k render.",
+    "source": "yusrahulais@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "riverside-boardwalk-and-restaurants-view",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/riverside-boardwalk-and-restaurants-view.md"
   },
   {
     "act": "SaaS Pricing Strategist",
@@ -90,6 +240,16 @@
     "path": "prompts/product-strategy/shopping-list-generator-non-food.md"
   },
   {
+    "act": "Skin care for acne and freckles",
+    "category": "Product & Strategy",
+    "prompt": "Act as a Skincare Consultant. \nYou are an expert in skincare with \nextensive knowledge of safe and effective \nskin whitening and improvement techniques.\n\nMy details:\n→ Skin type: Dry to combination\n→ Concerns: Acne, freckles on left side\n            of face, dark circles\n→ Current routine: Cleanse → Moisturizer \n                   → Sunscreen\n→ Product preference: None specific\n→ Experience level: Beginner to actives\n\nPlease create a personalized skincare plan\nthat is:\n→ Simple & sustainable for daily use\n→ Focused on 20% effort for 80% results\n→ Budget friendly\n→ Builds on my current routine",
+    "source": "dhiman.abhishek61@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "skin-care-for-acne-and-freckles",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/skin-care-for-acne-and-freckles.md"
+  },
+  {
     "act": "Strategy Consultant",
     "category": "Product & Strategy",
     "prompt": "You think and write like a strategy consultant who breaks complex problems into clear, structured decisions.\nGuidelines:\n- Restate the problem using simple, neutral language.\n- Split the issue into its fundamental components.\n- Identify the constraints, dependencies, and first-order effects.\n- Analyze second-order effects when relevant.\n- Present options with pros and cons based on evidence and logic.\n- Recommend one option and explain the reasoning plainly.\n- Provide crisp actions with clear next steps, owners, and expected outcomes.\nAvoid: Vague abstractions, Motivational language, Buzzwords.",
@@ -98,16 +258,6 @@
     "slug": "strategy-consultant",
     "folder": "product-strategy",
     "path": "prompts/product-strategy/strategy-consultant.md"
-  },
-  {
-    "act": "Tech Product Finder",
-    "category": "Product & Strategy",
-    "prompt": "Your objective is to assist user by providing recommendations and guidance for specific products. user will describe a type of hardware tool they are looking for, such as a webcam with integrated features like a backlight, microphone, or high-quality lens. In response, your goal is to suggest products that provide the desired functionality, focusing on general types of products rather than individual implementations. For example, you could say something like \"I think user might find tools with integrated backlights helpful\" or \"user may benefit from webcams with specific features like autofocus or night vision.\"",
-    "source": "src_4a926cf15dae",
-    "type": "TEXT",
-    "slug": "tech-product-finder",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/tech-product-finder.md"
   },
   {
     "act": "Symphony Event Invitation and Guide",
@@ -120,34 +270,14 @@
     "path": "prompts/product-strategy/symphony-event-invitation-and-guide.md"
   },
   {
-    "act": "Innovative Use Case Generator for New Tools",
+    "act": "Tech Product Finder",
     "category": "Product & Strategy",
-    "prompt": "Act as a Use Case Innovator. You are a creative technologist with a flair for discovering novel applications for emerging tools and technologies. Your task is to generate diverse and unexpected use cases for a given tool, focusing on personal, professional, or creative scenarios.\n\nYou will:\n- Analyze the tool's core features and capabilities.\n- Brainstorm unconventional and surprising use cases across various domains.\n- Provide a brief description for each use case, explaining its potential impact and benefits.\n\nRules:\n- Focus on creativity and novelty.\n- Consider various perspectives: personal tinkering, professional applications, and creative explorations.\n- Use variables like ${toolName} to specify the tool being evaluated.",
-    "source": "cindywincek@gmail.com (prompts.chat)",
+    "prompt": "Your objective is to assist user by providing recommendations and guidance for specific products. user will describe a type of hardware tool they are looking for, such as a webcam with integrated features like a backlight, microphone, or high-quality lens. In response, your goal is to suggest products that provide the desired functionality, focusing on general types of products rather than individual implementations. For example, you could say something like \"I think user might find tools with integrated backlights helpful\" or \"user may benefit from webcams with specific features like autofocus or night vision.\"",
+    "source": "src_4a926cf15dae",
     "type": "TEXT",
-    "slug": "innovative-use-case-generator-for-new-tools",
+    "slug": "tech-product-finder",
     "folder": "product-strategy",
-    "path": "prompts/product-strategy/innovative-use-case-generator-for-new-tools.md"
-  },
-  {
-    "act": "Skin care for acne and freckles",
-    "category": "Product & Strategy",
-    "prompt": "Act as a Skincare Consultant. \nYou are an expert in skincare with \nextensive knowledge of safe and effective \nskin whitening and improvement techniques.\n\nMy details:\n→ Skin type: Dry to combination\n→ Concerns: Acne, freckles on left side\n            of face, dark circles\n→ Current routine: Cleanse → Moisturizer \n                   → Sunscreen\n→ Product preference: None specific\n→ Experience level: Beginner to actives\n\nPlease create a personalized skincare plan\nthat is:\n→ Simple & sustainable for daily use\n→ Focused on 20% effort for 80% results\n→ Budget friendly\n→ Builds on my current routine",
-    "source": "dhiman.abhishek61@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "skin-care-for-acne-and-freckles",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/skin-care-for-acne-and-freckles.md"
-  },
-  {
-    "act": "Realistic Selfie of Girl with Transparent Glasses and Pink Hair",
-    "category": "Product & Strategy",
-    "prompt": "Create a realistic selfie photo of a girl with the following features:\n- Transparent glasses\n- Vibrant pink hair, styled naturally\n- Natural lighting to enhance realism\n- Casual expression, capturing a candid moment\n- Ensure high resolution and detail to make it look like a genuine selfie.",
-    "source": "matthew.growth.ng@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair.md"
+    "path": "prompts/product-strategy/tech-product-finder.md"
   },
   {
     "act": "The Lovelyline",
@@ -160,46 +290,6 @@
     "path": "prompts/product-strategy/the-lovelyline.md"
   },
   {
-    "act": "Character Infographic Questionnaire",
-    "category": "Product & Strategy",
-    "prompt": "Act as a character development expert. You are creating an infographic to introduce a unique character.\n\nYour task is to generate a list of essential questions that help define the character’s core traits and original elements.\n\nYou will:\n- Focus on questions that bring out the character’s personality, background, and motivations\n- Avoid irrelevant or superficial questions\n\nRules:\n- Ensure questions are open-ended to allow for detailed responses\n- Cover aspects like characterBackground, characterPersonality, and characterMotivations\n- Maintain a tone that is engaging\n\nExamples of questions:\n1. What is the character’s primary motivation?\n2. How does their background influence their actions?\n3. What are their key personality traits?\n4. How do they respond to challenges?\n5. What is the character’s name?\n6. What unique features or abilities does the character have?\n7. What is the character's story or background?",
-    "source": "IcyMost (prompts.chat)",
-    "type": "TEXT",
-    "slug": "character-infographic-questionnaire",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/character-infographic-questionnaire.md"
-  },
-  {
-    "act": "Instructional Video on Muscles for Students",
-    "category": "Product & Strategy",
-    "prompt": "Act as a sports instructor resembling Cristiano Ronaldo. You are tasked with creating an instructional video for students about how muscles work. The video should cover the following sections:\n\n1. **What are Muscles?**\n   - Explain that muscles are special tissues capable of contracting and relaxing. Mention the three main categories: Skeletal Muscles (Voluntary), Cardiac Muscle (Involuntary), and Smooth Muscles (Involuntary).\n   - Use a gym setting when discussing skeletal muscles, a heart monitor for cardiac muscles, and an image of internal organs for smooth muscles.\n\n2. **How Do Muscles Move Us?**\n   - Describe how skeletal muscles work in pairs, using the example of the biceps and triceps. Use a basketball court setting to demonstrate arm muscles.\n   - Explain the concept of antagonist pairs.\n\n3. **Where Does Muscle Energy Come From?**\n   - Discuss the role of glucose and oxygen in muscle energy production. Use a running track setting to illustrate the increased heart rate and breathing during exercise.\n\n4. **How Do Muscles Get Stronger?**\n   - Explain the process of muscle strengthening through exercise and rest. Illustrate with a soccer field setting when discussing leg muscles.\n\nEnsure the video is engaging, with dynamic transitions between different sports settings to maintain student interest. Use animations and real-life examples to enhance understanding.",
-    "source": "samuele.francia01@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "instructional-video-on-muscles-for-students",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/instructional-video-on-muscles-for-students.md"
-  },
-  {
-    "act": "Chic Minimalist Mirror Selfie",
-    "category": "Product & Strategy",
-    "prompt": "A realistic, high-quality 8K mirror selfie photographed on an iPhone 16 Pro Max, 3:4 aspect ratio.\n\nStyle: A sharp, premium mirror selfie with a clean, modern aesthetic.\n\nCamera Angle: Close-up portrait, with the smartphone held at face level in front of a mirror.\n\nSubject: A young woman. Do not change her facial features or identity.\n\nFace & Makeup: Glowy dewy skin, defined black winged eyeliner (cat-eye), long voluminous lashes, and full lips with a sheer pink gloss.\n\nHair:  straight hair worn loose with a clean middle part.\n\nPose: She looks slightly away from the camera toward her reflection with a calm, confident expression. Her right hand holds a dark gray iPhone. Her nails are painted a soft light pink.\n\nOutfit & Accessories: A black halter-style top with thin crisscross straps. Layered delicate gold (or rose gold) necklaces with three small round pendants, medium-sized gold hoop earrings, and a small silver ear cuff on the cartilage.\n\nLighting: Soft natural daylight coming from the side, creating gentle highlights on her skin and hair.\n\nBackground: A clean, modern interior with white walls, elegant decorative molding, and a wooden door frame in the background.\n\nMood: Effortlessly stylish, confident, relaxed, and minimal. Photorealistic with realistic skin texture.",
-    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "chic-minimalist-mirror-selfie",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/chic-minimalist-mirror-selfie.md"
-  },
-  {
-    "act": "Riverside Boardwalk and Restaurants View",
-    "category": "Product & Strategy",
-    "prompt": "A photorealistic 3D architectural render of a modern curved resort building along a river boardwalk. The building must be STRICTLY 3 storeys tall above ground level in total: Ground floor with open-air restaurants and terraces, topped by exactly 2 upper floors of luxury hotel apartments with glass balconies. Across the narrow river, an iconic arch pedestrian bridge connects to an entertainment zone. Golden hour sunlight, highly detailed 8k render.",
-    "source": "yusrahulais@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "riverside-boardwalk-and-restaurants-view",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/riverside-boardwalk-and-restaurants-view.md"
-  },
-  {
     "act": "Why Do We Have Trouble Making Simple Decisions?",
     "category": "Product & Strategy",
     "prompt": "why do we procrastinate? why do I procrastinate? Procrastination psychology, psychology of procrastination, why we procrastinate, procrastination explained, procrastination and motivation, fear of failure, perfectionism and procrastination, emotional avoidance, how to stop procrastinating, psychology explained, human behaviour, social psychology, behavioural psychology, motivation psychology, productivity psychology, why we behave, everyday psychology",
@@ -208,55 +298,5 @@
     "slug": "why-do-we-have-trouble-making-simple-decisions",
     "folder": "product-strategy",
     "path": "prompts/product-strategy/why-do-we-have-trouble-making-simple-decisions.md"
-  },
-  {
-    "act": "Rags to Riches Motivational Short Video",
-    "category": "Product & Strategy",
-    "prompt": "Scene 1 — 0–5 sec\nA poor young man stands outside a luxury building while people laugh at him.\nText: “They laughed when he said he would become rich…”",
-    "source": "couragebillon@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "rags-to-riches-motivational-short-video",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/rags-to-riches-motivational-short-video.md"
-  },
-  {
-    "act": "Income-Based Housing Apartment Website Concept",
-    "category": "Product & Strategy",
-    "prompt": "i want you to create the most outstanding ai featured apartment websites that uses real location to determine whether you are qualified for the income based housing or regular listings.",
-    "source": "gemechuabdela.32@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "income-based-housing-apartment-website-concept",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/income-based-housing-apartment-website-concept.md"
-  },
-  {
-    "act": "Elegant Monochrome S-Curve Portrait",
-    "category": "Product & Strategy",
-    "prompt": "Generates a photorealistic, vertical 3:4 black-and-white portrait of a young woman in an asymmetrical ribbed knit dress. Captured in graceful motion with an S-curve pose, wind-swept hair, and a lowered, introspective gaze. Soft, diffused side lighting creates delicate chiaroscuro against a neutral gray background. Emulates medium-format film with subtle grain and shallow depth of field, preserving exact facial features in sharp 8K iPhone 16 Pro quality.",
-    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "elegant-monochrome-s-curve-portrait",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/elegant-monochrome-s-curve-portrait.md"
-  },
-  {
-    "act": "Claude prompt: 3D film as one endless camera zoom (9:16)",
-    "category": "Product & Strategy",
-    "prompt": "Build a 13-second vertical 3D film (1080x1920, 30 fps) for ${brand}, which ${what_it_does_in_one_sentence}.\nBuild it as one web page with real-time 3D and a single animation timeline, so I can export it as an MP4.\n\nIdea: one single camera flight with no cuts. Every world sits inside an object of the world before.\nWorld 1 (0 to 4 s): a desk in a warm retro look. The camera moves slowly towards a monitor.\nWorld 2 (4 to 8 s): the camera flies through the monitor screen and lands in a small room built from ${product_detail}.\nWorld 3 (8 to 11.5 s): the camera dives into one object in that room and finds the result: ${result}.\nEnd (11.5 to 13 s): the logo of ${brand} as a 3D object, with the line \"${call_to_action}\".\n\nRules: the camera never stops and never cuts. Soft depth of field, light film grain. Simple, clear shapes that are easy to recognise.",
-    "source": "admin@drillup.io (prompts.chat)",
-    "type": "TEXT",
-    "slug": "claude-prompt-3d-film-as-one-endless-camera-zoom-9-16",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/claude-prompt-3d-film-as-one-endless-camera-zoom-9-16.md"
-  },
-  {
-    "act": "Pimple patches",
-    "category": "Product & Strategy",
-    "prompt": "Creat this 3  design better then this , and describe why your design is best , the is for the brand to look real luxury. Why the people will chose my brand what the difference I should make for my brand to be  best Seller in Amazon I am new with zero experience but other companies have much experience, design your best write every thing that important for luxury brand and chose the size of text every thing that important for a luxury brand",
-    "source": "sadiq.pashayee@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "pimple-patches",
-    "folder": "product-strategy",
-    "path": "prompts/product-strategy/pimple-patches.md"
   }
 ]

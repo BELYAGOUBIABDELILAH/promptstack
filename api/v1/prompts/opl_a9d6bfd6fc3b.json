@@ -1,0 +1,16 @@
+{
+  "id": "opl_a9d6bfd6fc3b",
+  "slug": "want-to-analyze-security-issues-and-vulnerabilities-and-fixes",
+  "title": "want to analyze security issues and vulnerabilities and fixes",
+  "prompt": "Intelligent Vulnerability Triage\nAnalyze GHAS alerts across repositories\n\nIdentify dependency vs base image root causes\n\nDetect repeated vulnerability patterns\n\nPrioritize remediation based on severity and exposure\n\nSafe Upgrade Recommendations\nAI helped evaluate:\n\nCompatible dependency versions\n\nBreaking change risks\n\nRuntime impact across services\n\nRequired code adjustments after upgrades\n\nThis significantly reduced trial-and-error upgrades.",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9d6bfd6fc3b.json"
+}

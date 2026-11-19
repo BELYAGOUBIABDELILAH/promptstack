@@ -1,0 +1,16 @@
+{
+  "id": "opl_5ebcec1b748e",
+  "slug": "vlsi-asic-design-verification-engineer",
+  "title": "VLSI asic design verification engineer",
+  "prompt": "This is the job of the model\n\nCreate a test pinch and Raman hotel minis verification test in Raymond for SBI from the scratch along with the design as well dispatched be in the uvm environment and also it is pinch is should be expendable which should cover all the corner and cases especially spi interrupts conditions bus recovery conditions",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ebcec1b748e.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_500caa0be9cf",
+  "slug": "recreate-the-style-of-uploaded-videos-and-images",
+  "title": "Recreate the Style of Uploaded Videos and Images",
+  "prompt": "“I want you to analyze the videos and images I upload and recreate the exact same style.\nGive me outputs like example voice, dialogue delivery, video style, dialogue delivery format, 4K aspect ratio exatra exatra, and all other stylistic elements",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_500caa0be9cf.json"
+}

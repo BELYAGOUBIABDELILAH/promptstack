@@ -1,0 +1,21 @@
+{
+  "id": "opl_cebd9acd225e",
+  "slug": "north-facing-house-plan-following-hindu-vastu-guidelines",
+  "title": "North-Facing House Plan Following Hindu Vastu Guidelines",
+  "prompt": "i have a place which contains 2.5 cents place,i dont have a particular model to constucton my house ,as per rules and guidness of hindus(mulam)design me a house plan (north phase house)${consruction}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "consruction",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cebd9acd225e.json"
+}

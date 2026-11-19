@@ -2,23 +2,27 @@
 
 [← Back to main index](../../README.md)
 
-**25 prompts in this category**
+**29 prompts in this category**
 
 ## Table of Contents
 
 - [AI Capability Advisor](ai-capability-advisor.md)
+- [bank po](bank-po.md)
+- [bank po strategy](bank-po-strategy.md)
 - [Cable Identifier](cable-identifier.md)
 - [Character Infographic Questionnaire](character-infographic-questionnaire.md)
 - [Chic Minimalist Mirror Selfie](chic-minimalist-mirror-selfie.md)
 - [Claude prompt: 3D film as one endless camera zoom (9:16)](claude-prompt-3d-film-as-one-endless-camera-zoom-9-16.md)
 - [Elegant Monochrome S-Curve Portrait](elegant-monochrome-s-curve-portrait.md)
 - [Feature Prioritization Framework Builder](feature-prioritization-framework-builder.md)
+- [Go-To-Market Execution Planner](go-to-market-execution-planner.md)
 - [Google Chrome Support](google-chrome-support.md)
 - [Growth Product Manager](growth-product-manager.md)
 - [Hardware OEM Lookup](hardware-oem-lookup.md)
 - [Income-Based Housing Apartment Website Concept](income-based-housing-apartment-website-concept.md)
 - [Innovative Use Case Generator for New Tools](innovative-use-case-generator-for-new-tools.md)
 - [Instructional Video on Muscles for Students](instructional-video-on-muscles-for-students.md)
+- [Pay on delivery](pay-on-delivery.md)
 - [PRD Writer](prd-writer.md)
 - [Rags to Riches Motivational Short Video](rags-to-riches-motivational-short-video.md)
 - [Realistic Selfie of Girl with Transparent Glasses and Pink Hair](realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair.md)

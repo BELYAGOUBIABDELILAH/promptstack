@@ -1,0 +1,16 @@
+{
+  "id": "opl_f604b1330e56",
+  "slug": "design-a-professional-self-learning-poster-for-digital-media-lecture",
+  "title": "Design a Professional Self-Learning Poster for Digital Media Lecture",
+  "prompt": "Act as a professional educational designer. Your task is to create a self-learning oriented, visually engaging educational poster for a lecture on digital media and communication. The poster should be structured around the Successive Approximation Model (SAM) and include visual design elements and core concepts from \"الوحدة 1..ظهور الوسائط الرقمية - إيجيان كوش.pdf\". Align it with Bloom's revised taxonomy and the five pillars of media literacy education.\n\nYour responsibilities:\n- Organize visual hierarchy and messaging around the five pillars, using ABCD format to craft behavioral objectives focused on self-learning.\n- Reflect Bloom's cognitive levels and SAM iterative refinement stages (Preparation, Iterative Design, Iterative Development) to promote independent learning.\n- Highlight how understanding digital media can evolve through cycles of personal learning and application.\n\nConstraints:\n- Ensure the design progresses from lower-order (Remember/Understand) to higher-order thinking skills (Evaluate/Create), facilitating self-guided progression.\n- Reflect SAM's iterative refinement visually, demonstrating the continuous cycle of personal learning and application.\n- Suitable for digital media (online platforms, learning management systems, classroom displays).\n\nIncorporate the following:\n- Visual representation of foundational features from the lecture materials: Interactivity, Convergence, Immediacy, Archiving, Connectivity.\n- Reference emerging trends and contemporary challenges, showcasing real-world application and critical issues through self-learning.\n\nInclude a practical application activity at the end of the poster, connecting at least two pillars and demonstrating how to apply media literacy principles in real-world contexts. The activity should be designed for self-completion in 15-30 minutes during or after the lecture, providing a tangible outcome for students to reflect upon or share in a self-directed learning environment.",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f604b1330e56.json"
+}

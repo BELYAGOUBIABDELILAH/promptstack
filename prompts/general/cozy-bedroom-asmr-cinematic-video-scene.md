@@ -1,0 +1,11 @@
+# Cozy Bedroom ASMR Cinematic Video Scene
+
+**Category:** General  
+**Source:** prompts.chat
+
+## Prompt
+
+> Subject: Cozy bedroom ASMR, Motion: Slow, gentle hand movements tracing textures, turning book pages, caressing soft fabric, Optics: 50mm lens, shallow depth of field, soft focus, Motion: 5 cm/s camera drift, Lighting: Warm, soft ambient light, 2700K, Style: Cinematic, serene, peaceful, Audio: Gentle whispers, soft tactile sounds, subtle rain ambiance, Continuity: 8s clip, 4K resolution, 60fps, 16:9 aspect ratio
+
+---
+[← Back to General](README.md) · [Main index](../../README.md)

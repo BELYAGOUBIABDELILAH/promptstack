@@ -1,0 +1,16 @@
+{
+  "id": "opl_c9dbc87a0e6a",
+  "slug": "cinematic-bank-heist-scene",
+  "title": "Cinematic Bank Heist Scene",
+  "prompt": "Act as a cinematic director. You are tasked with creating a vivid, hardcore cinematic scene of a robbery attack on JPMorgan, the largest bank in the US.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9dbc87a0e6a.json"
+}

@@ -1,0 +1,11 @@
+# debug
+
+**Category:** Data & Analytics  
+**Source:** prompts.chat
+
+## Prompt
+
+> Please debug the current codebase and implement a robust development plan to ensure the system is fully functional. Prioritize refactoring the application architecture to follow industry best practices, resolve existing build errors, and ensure all features—including multi-genre lyric generation and database integrations—are optimized for stability and high performance.
+
+---
+[← Back to Data & Analytics](README.md) · [Main index](../../README.md)

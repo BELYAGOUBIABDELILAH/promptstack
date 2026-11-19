@@ -1,0 +1,16 @@
+{
+  "id": "opl_dc7f5f1874ed",
+  "slug": "create-a-final-mv-view-where-i-can-use-for-power-bi",
+  "title": "create a final mv view where i can use for power BI",
+  "prompt": "I have discussed with product team and defined the metrics and another team memebr have designed silver tables for this use case now i need to find a way how can i design gold layer MV table which can consit of these metrics so that i can easily map out and connect this mv tables to power BI to build the dashboards. help me with it i will give you the fact tables and the metric defination",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dc7f5f1874ed.json"
+}

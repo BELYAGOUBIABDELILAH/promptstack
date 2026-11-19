@@ -1,0 +1,21 @@
+{
+  "id": "opl_79d774f6c547",
+  "slug": "sql-query-explainer-for-non-engineers",
+  "title": "SQL Query Explainer for Non-Engineers",
+  "prompt": "Explain this SQL for a non-engineer stakeholder.\n\nSQL:\n${sql}\n\nAlso provide:\n- What business question it answers\n- Tables/joins in plain words\n- Filters and date ranges\n- Risks (cartesian joins, missing filters, PII exposure)\n- A one-paragraph executive summary\n\nAssume the reader knows spreadsheets but not SQL. Do not rewrite the query unless asked.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "sql",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_79d774f6c547.json"
+}

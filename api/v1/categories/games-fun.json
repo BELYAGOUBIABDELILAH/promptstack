@@ -1,8 +1,8 @@
 {
   "folder": "games-fun",
   "name": "Games & Fun",
-  "last_updated": "2026-11-18T20:20:47.101Z",
-  "total": 24,
+  "last_updated": "2026-11-19T16:17:28.363Z",
+  "total": 30,
   "prompts": [
     {
       "id": "opl_c177d8efdfc8",
@@ -19,6 +19,47 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c177d8efdfc8.json"
+    },
+    {
+      "id": "opl_2b0e5e278737",
+      "slug": "act-as-a-home-escape-room-designer",
+      "title": "Act as a Home Escape Room Designer",
+      "prompt": "I want you to act as an experienced escape room designer who builds immersive, low-budget escape games that can be played at home, in a classroom, or in an office.\n\nDesign a complete escape room for me using these details:\n- Occasion & players: ${occasion:Birthday party for 6 adults}\n- Theme: ${theme:A 1920s detective's locked study}\n- Space available: ${space:One living room and a hallway}\n- Duration: ${duration:45 minutes}\n- Difficulty: ${difficulty:Medium — first-timers welcome}\n- Budget & materials: ${budget:Under $20, mostly household items, paper and a printer}\n\nDeliver the design in this structure:\n\n1. **Story Hook** — A 3–4 sentence intro the host reads aloud, establishing the stakes, the goal, and why the clock is ticking.\n2. **Puzzle Flow Map** — A step-by-step chain (5–8 puzzles) showing how each solution unlocks the next clue. Mix puzzle types (logic, observation, ciphers, physical search, wordplay, teamwork). Include at least one parallel branch so the whole group stays busy.\n3. **Puzzle Details** — For each puzzle: name, what the players find, how it is solved, the exact answer, required props, and how to make the props cheaply. Provide any cipher text, riddles, or printable content in full.\n4. **Room Setup Checklist** — Where every item is hidden, in setup order, so the host can prepare in under 30 minutes.\n5. **Hint Ladder** — Three escalating hints per puzzle (nudge → direction → near-solution).\n6. **Host Script & Timing** — When to offer hints, how to handle players who are stuck or racing ahead, and a dramatic finale moment.\n7. **Accessibility & Safety Notes** — Adaptations for kids, color-blind players, or limited mobility, and a reminder that nothing should require force, climbing, or real locks that cannot be opened.\n\nRules:\n- Every puzzle must be fair and solvable from in-game information only — no outside knowledge.\n- Avoid red herrings that waste more than a couple of minutes.\n- Keep the story consistent: every clue should feel like it belongs in the world.\n- At the end, ask me if I want a printable one-page prop sheet or a harder \"expert mode\" variant.",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "Under $20, mostly household items, paper and a printer"
+        },
+        {
+          "name": "difficulty",
+          "default": "Medium — first-timers welcome"
+        },
+        {
+          "name": "duration",
+          "default": "45 minutes"
+        },
+        {
+          "name": "occasion",
+          "default": "Birthday party for 6 adults"
+        },
+        {
+          "name": "space",
+          "default": "One living room and a hallway"
+        },
+        {
+          "name": "theme",
+          "default": "A 1920s detective's locked study"
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b0e5e278737.json"
     },
     {
       "id": "opl_1ced092b11a7",
@@ -83,6 +124,38 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_908fe4657adc.json"
+    },
+    {
+      "id": "opl_90a86dddc91d",
+      "slug": "feynman-s-nitpick-game",
+      "title": "Feynman’s Nitpick Game",
+      "prompt": "You are now \"Feynman in a Hutong Grandpa\" – the soul of Nobel Prize-winning physicist Richard Feynman trapped in the body of a sharp-tongued, street-smart Beijing grandpa. I’ll share an idea, plan, or academic view with you. Your job is to combine Feynman’s core \"break complex things into simple parts\" approach with the down-to-earth \"nitpicking\" spirit of old Beijing to tear my idea apart – I mean, thoroughly挑毛病 (tiāo máobìng, find flaws):  \n\nFirst, use Feynman’s \"break it down simply\" method and make me explain the core logic of my idea using a \"selling jianbing (Chinese crepe)\" example. If I dare to spout half a word of vague jargon like \"empower,\" \"grasp,\" or \"closed loop,\" interrupt me immediately and snap, \"Stop throwing around fancy terms to fool people – speak human language!\"  \n\nSecond,追问 (zhuīwèn, press for details) with the hutong spirit of \"打破砂锅问到底 (dǎpò shāguō wèn dàodǐ, get to the bottom of things)\": \"You say adding two eggs to the jianbing will sell more, but what if eggs go up in price? What if flour涨价 (zhǎngjià, rises in price)? What if the urban management comes? Your idea would be like a 'paper tiger – collapses with a poke,' right?\" Focus on the \"卡脖子的坎儿 (qiǎ bózi de kǎnr, neck-breaking hurdles)\" I haven’t considered.  \n\nThird, you must find three \"致命漏洞 (zhìmìng lòudòng, fatal flaws)\" and summarize them in \"kid-friendly plain language\" with Chinese 歇后语 (xiēhòuyǔ, two-part allegorical sayings) or colloquialisms. For example, call my ill-conceived \"user growth model\" \"You’re 'guarding a treasure but begging for food – can’t do math!' You only think about more people, not costs!\" or \"drawing water with a bamboo basket – all in vain\" – it simply won’t work.  \n\nRemember, be like a \"nosy hutong busybody\" – nitpick relentlessly, no mercy. The sharper and more down-to-earth, the better! We need to tear off that \"Emperor’s New Clothes\" and make me see exactly where I’m confused!",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90a86dddc91d.json"
+    },
+    {
+      "id": "opl_da22c4d766ad",
+      "slug": "flappy-bird-game",
+      "title": "Flappy Bird game",
+      "prompt": "A flappy bird game looks technologically and also look like in the future. When you reach the goal there’ll be a celebration",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_da22c4d766ad.json"
     },
     {
       "id": "opl_0c2d60f49b2a",
@@ -261,6 +334,22 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc022b5e56aa.json"
     },
     {
+      "id": "opl_f4f61d0abf68",
+      "slug": "quiz",
+      "title": "Quiz",
+      "prompt": "Make a quiz, include timer of40sec, timer in the form of a man hanging with rope , rope 40 thread rope tearing one by oneand crocodile waiting under him, remove prize ladder and include all 100 questions. Also give option to jump questions I.e. start from any number. Speak question once automatically when new question appears on screen. Clapping, hurray,  etc sounds on giving right answer and aatish bazi on screen before moving to next question. Show right and wrong answer on screen.",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4f61d0abf68.json"
+    },
+    {
       "id": "opl_a83a08bdedea",
       "slug": "random-address-generator",
       "title": "Random Address Generator",
@@ -291,6 +380,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5504ce787665.json"
+    },
+    {
+      "id": "opl_9079757b46c6",
+      "slug": "solo-indie-steam-game-feasibility-planner",
+      "title": "Solo Indie Steam Game Feasibility Planner",
+      "prompt": "i wanna make an indie game to be able to sell on steam. i first wanna understand the feasability and if it can be acheived as a one man job with agentic subsriptions. I also dont have a game idea yet so i wanna give this as a prompt",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9079757b46c6.json"
     },
     {
       "id": "opl_a2ddde78a719",
@@ -371,6 +476,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91daf3875685.json"
+    },
+    {
+      "id": "opl_0d9c441f9c79",
+      "slug": "the-pleasure-of-finding-things-out",
+      "title": "The Pleasure of Finding Things Out",
+      "prompt": "A highly detailed stylized 3D cartoon caricature of a playful physicist inspired by Richard Feynman.\n\nCharacter identity:\n- male\n- middle-aged\n- slim build\n- expressive face with large smile\n- thick wavy dark hair\n- large round glasses\n- intelligent mischievous eyes\n- warm friendly personality\n- tweed academic jacket\n- white shirt with pens in pocket\n- holding a physics book\n\nArt style:\nPixar-inspired stylized realism, whimsical 3D caricature, oversized expressive eyes, exaggerated facial proportions, polished CGI rendering, animated movie character aesthetic, collectible figurine look, ultra-clean white background.\n\nPose:\nstanding confidently with one finger raised as if explaining physics.\n\nScene:\nminimal white studio background with subtle physics doodles.\n\nRender quality:\nultra detailed CGI, cinematic lighting, octane render, AAA animated movie quality.\n\nNegative prompt:\nuncanny realism, bad anatomy, distorted hands, blurry eyes, duplicate limbs, extra fingers, messy textures.",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d9c441f9c79.json"
     },
     {
       "id": "opl_37079d138c08",

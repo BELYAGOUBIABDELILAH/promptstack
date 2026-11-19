@@ -1,0 +1,16 @@
+{
+  "id": "opl_3ce8fe8271e1",
+  "slug": "classic-algorithm-writing-tutorial",
+  "title": "Classic Algorithm writing tutorial",
+  "prompt": "I want you to provide a course note and a presentation for about 3 hours of first session of python programming course with following topic:\n\"Basic programming concepts (problem, solution, algorithm, flowchart, code, program) and programming languages, ide for absolutely beginner junior university students. \"",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ce8fe8271e1.json"
+}

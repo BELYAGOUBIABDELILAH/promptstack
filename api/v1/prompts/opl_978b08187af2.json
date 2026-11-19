@@ -1,0 +1,16 @@
+{
+  "id": "opl_978b08187af2",
+  "slug": "building-code-with-ollama-instead-of-claude-code",
+  "title": "Building Code with Ollama Instead of Claude Code",
+  "prompt": "I’m tired of using Claude Code to build my code because of tokens limits can Ollama build code scripts agentic workflow?",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_978b08187af2.json"
+}

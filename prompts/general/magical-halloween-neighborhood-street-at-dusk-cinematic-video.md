@@ -1,0 +1,11 @@
+# Magical Halloween Neighborhood Street at Dusk (Cinematic Video)
+
+**Category:** General  
+**Source:** prompts.chat
+
+## Prompt
+
+> A cinematic, magical Halloween neighborhood street decorated for a festive autumn celebration. Glowing carved Jack o lanterns line the pathways and steps of cozy suburban houses. Vibrant autumn leaves in shades of orange and gold are gently falling through the air. Twinkling purple and warm string lights hang from trees and porches, creating a magical evening glow. Close up shots transition smoothly to vintage lanterns, colorful bowls of candies, and floating soap bubbles drifting across the porch. Ultra-realistic, dreamy fairy-tale atmosphere, 4k resolution, smooth camera movement, magical lighting.
+
+---
+[← Back to General](README.md) · [Main index](../../README.md)

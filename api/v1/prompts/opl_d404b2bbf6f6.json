@@ -1,0 +1,16 @@
+{
+  "id": "opl_d404b2bbf6f6",
+  "slug": "learning-linux-for-beginer",
+  "title": "learning linux for beginer",
+  "prompt": "---\nname: learning-linux-for-beginer\ndescription: A clear description of what this skill does and when to use it\n---\n\n# learning linux for beginer\n\nDescribe what this skill does and how the agent should use it. using the repo https://github.com/TunB3ru/LINUX-WORLD.git\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d404b2bbf6f6.json"
+}

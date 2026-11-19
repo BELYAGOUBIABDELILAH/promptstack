@@ -1,0 +1,37 @@
+{
+  "id": "opl_3bf917ea4cec",
+  "slug": "plc-fault-tracer-from-an-operator-symptom",
+  "title": "PLC Fault Tracer From an Operator Symptom",
+  "prompt": "I want you to act as a controls troubleshooter. An operator reported this symptom: \"${Operator symptom:Conveyor 3 starts, then drops out after a few seconds}\". Platform: ${Platform and version}. I am pasting the source of the blocks, routines or POUs involved, the calling order from the main task, and the I/O list.\n\nStart from the output or fault that misbehaves, ${Tag that misbehaves:the motor run output}, and trace it backward across every block. Give a table:\nHop | Block / routine / network / line | Exact condition for this hop | Tag I must watch online to confirm it\n\nThen:\n1. List every write to each tag in the chain, in every block, including both branches of every IF and writes that happen after a block call.\n2. Say which block calls which, and whether any call is conditional.\n3. Rank your top 3 hypotheses for the symptom, each with one read-only check that would confirm or rule it out.\n4. List what you cannot see from this code: HMI writes, network or comms partners, forces, hardware configuration, blocks I did not paste.\nDo not propose a fix yet. I will send back live values for your watch list first.\n\n=== CODE (all blocks involved) ===\n${Paste block sources}\n\n=== I/O LIST ===\n${Paste I/O list}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "Operator symptom",
+      "default": "Conveyor 3 starts, then drops out after a few seconds"
+    },
+    {
+      "name": "Paste block sources",
+      "default": null
+    },
+    {
+      "name": "Paste I/O list",
+      "default": null
+    },
+    {
+      "name": "Platform and version",
+      "default": null
+    },
+    {
+      "name": "Tag that misbehaves",
+      "default": "the motor run output"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3bf917ea4cec.json"
+}

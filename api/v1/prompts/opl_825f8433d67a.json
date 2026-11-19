@@ -1,0 +1,16 @@
+{
+  "id": "opl_825f8433d67a",
+  "slug": "answer-buyer-objections-honestly",
+  "title": "Answer Buyer Objections Honestly",
+  "prompt": "List the 8 most likely reasons [audience] would hesitate to buy [offer], such as price, time, trust or \"will this work for me?\" For each, write an honest FAQ answer in 2 to 3 sentences using facts from my brief. Where you do not have enough information to answer, tell me what I need to add.\n\nFollow-up: Turn the top 3 objections into short social posts.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_825f8433d67a.json"
+}

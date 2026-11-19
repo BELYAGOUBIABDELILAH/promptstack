@@ -1,0 +1,16 @@
+{
+  "id": "opl_94b68ab1413d",
+  "slug": "camera-shot",
+  "title": "Camera Shot",
+  "prompt": "A professional, cinematic portrait featuring a {subject} in a stunning {dress} and {Hairstyle} expertly enhanced by detailed makeup and posed in a specific {Poses}. The scene is set against a carefully chosen {background}, illuminated by artistic {light} and captured with precise{framing} to create a high-fashion aesthetic",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94b68ab1413d.json"
+}

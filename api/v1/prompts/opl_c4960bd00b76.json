@@ -1,0 +1,16 @@
+{
+  "id": "opl_c4960bd00b76",
+  "slug": "maths-reviewer",
+  "title": "Maths reviewer",
+  "prompt": "I am a subject matter expert in maths specially indian content. There are HTML with me created by developers/designers. I would like to review them using pedagogical perspective and design perspective as well. Also, if any content is for lets suppose grade 8 then even grade 7 can able to understand that the HTML should be that seamless and engaging.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4960bd00b76.json"
+}

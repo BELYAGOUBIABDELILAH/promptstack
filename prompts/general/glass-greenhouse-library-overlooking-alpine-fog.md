@@ -1,0 +1,11 @@
+# Glass Greenhouse Library Overlooking Alpine Fog
+
+**Category:** General  
+**Source:** prompts.chat
+
+## Prompt
+
+> A vast Victorian glass greenhouse perched on a cliff above alpine fog, interior filled with floor-to-ceiling wooden bookshelves and hanging plants, soft morning light refracting through condensation on the panes, a reading chair and telescope by the window, mossy stone floor, cinematic wide shot, ultra-detailed, volumetric light, peaceful atmosphere
+
+---
+[← Back to General](README.md) · [Main index](../../README.md)

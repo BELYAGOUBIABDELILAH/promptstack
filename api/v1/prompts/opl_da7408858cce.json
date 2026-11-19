@@ -1,0 +1,16 @@
+{
+  "id": "opl_da7408858cce",
+  "slug": "step-inside-a-painting-frozen-3d-camera-fly-through-image-to-video",
+  "title": "Step Inside a Painting: Frozen 3D Camera Fly-Through (Image-to-Video)",
+  "prompt": "The video begins from the frame defined by the attached painting and preserves its exact composition, subjects, colors, lighting, and arrangement as a still three-dimensional space.\n\nNo person, animal, object, water, foliage, cloud, flame, or any other painted element moves, animates, or changes state. The entire scene remains completely frozen, as if the painting has simply become a solid, motionless diorama.\n\nThe camera performs continuous cinematic 3D travel through this frozen scene: it slowly pushes forward, gently orbits, and drifts past the main subjects and spatial layers, revealing depth, parallax, and volumetric form while never altering or animating any content inside the painting.\nOnly ambient spatial presence accompanies the movement; there is no dialogue, narration, music, or sound effects from any element within the painting.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_da7408858cce.json"
+}

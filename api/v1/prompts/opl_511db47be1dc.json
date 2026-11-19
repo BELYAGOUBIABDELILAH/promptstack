@@ -1,0 +1,16 @@
+{
+  "id": "opl_511db47be1dc",
+  "slug": "cv-build",
+  "title": "CV build",
+  "prompt": "create a version of cv by referencing existing cv and align with the jd to produce best case cv so that it gets selected",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_511db47be1dc.json"
+}

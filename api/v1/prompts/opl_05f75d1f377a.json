@@ -1,0 +1,16 @@
+{
+  "id": "opl_05f75d1f377a",
+  "slug": "research-connections",
+  "title": "Research connections",
+  "prompt": "Write a prompt or code that I can input 2 people's names.  Prompt ans code is for searching osint and other online sources to find hidden personal connections betwern the 2 people's names input into the search",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05f75d1f377a.json"
+}

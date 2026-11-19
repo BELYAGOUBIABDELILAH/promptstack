@@ -1,0 +1,16 @@
+{
+  "id": "opl_4c0bd5196620",
+  "slug": "face-identity-preservation-negative-prompt",
+  "title": "Face Identity Preservation Negative Prompt",
+  "prompt": "face morph, identity drift, different person, new face, reconstructed face, \naveraged face, AI face, generic face, idealized face, beautified, airbrushed, \nplastic skin, porcelain skin, over-smoothed, skin retouching, beauty filter, \nface replacement, younger face, older face, gender change, race change, \naltered facial proportions, wider eyes, narrowed nose, reshaped jaw, \nreshaped lips, lifted cheekbones, symmetry correction, cartoon face, \nanime face, illustrated face, caricature, exaggerated features, wax figure, \nuncanny valley, deformed, asymmetric, distorted, double face, extra face",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c0bd5196620.json"
+}

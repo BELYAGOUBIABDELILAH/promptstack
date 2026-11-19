@@ -1,0 +1,12 @@
+# Reverse Brief
+
+**Category:** General  
+**Source:** prompts.chat
+
+## Prompt
+
+> Create a reverse brief of this document. Explain the purpose in plain language, list the most important points, identify any risks, deadlines or obligations, and summarize what actions I need to take.
+> ${document}
+
+---
+[← Back to General](README.md) · [Main index](../../README.md)

@@ -1,0 +1,33 @@
+{
+  "id": "opl_e9f5cd550567",
+  "slug": "national-architecture-dioramas",
+  "title": "National Architecture Dioramas",
+  "prompt": "“Create an isometric miniature 3D diorama representing the iconic architecture of ${country_name} through ${famous_structure}. Use a 45° top-down view.\n\nApply clean soft textures and realistic PBR materials.\nLighting feels balanced and natural. The raised base includes nearby streets, landscape features, and cultural details linked to the structure. Add tiny stylized locals and visitors with heavy facial details.\n\nBackground stays solid ${background_color}. Top center text shows ${country_name} in bold. Second line shows ${structure_name}. Place a minimal architecture icon below. Text color adjusts for contrast.”",
+  "category": "General",
+  "folder": "general",
+  "variables": [
+    {
+      "name": "background_color",
+      "default": null
+    },
+    {
+      "name": "country_name",
+      "default": null
+    },
+    {
+      "name": "famous_structure",
+      "default": null
+    },
+    {
+      "name": "structure_name",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9f5cd550567.json"
+}

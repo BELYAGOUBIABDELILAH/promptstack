@@ -1,0 +1,16 @@
+{
+  "id": "opl_659c863825f6",
+  "slug": "propfirm-strategy",
+  "title": "propfirm strategy",
+  "prompt": "i want to create the best strategy which will take only winning trades and as many as possible in a day in propfirm challenges using ctrader which i will connect using mcp server of ctrader backtest it with the data available in the ctrader and create a strategy in c#",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_659c863825f6.json"
+}

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**66 prompts in this category**
+**67 prompts in this category**
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@
 - [Business Coaching Mentor](business-coaching-mentor.md)
 - [Business Legal Assistant](business-legal-assistant.md)
 - [Business management](business-management.md)
+- [Business plan](business-plan.md)
 - [Career Path Deliberation Assistant](career-path-deliberation-assistant.md)
 - [China Business Law Assistant](china-business-law-assistant.md)
 - [Commercial cleaning services](commercial-cleaning-services.md)

@@ -1,0 +1,16 @@
+{
+  "id": "opl_43b313197e90",
+  "slug": "student-chapter-summary-short-visual-revision-notes",
+  "title": "Student Chapter Summary: Short, Visual Revision Notes",
+  "prompt": "Summarize this chapter for a student. Rules:\n1. Cover every topic and key point; do not skip anything.\n2. Keep it short: brief bullet points, no long paragraphs.\n3. Make it visual: use tables for comparisons, simple text diagrams or flowcharts for processes, and bold for key terms.\n4. Use simple language and give one short example for each hard concept.\n5. End with a 5-line quick-revision recap.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_43b313197e90.json"
+}

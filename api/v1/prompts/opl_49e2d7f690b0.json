@@ -1,0 +1,16 @@
+{
+  "id": "opl_49e2d7f690b0",
+  "slug": "translation-dictionary",
+  "title": "Translation Dictionary",
+  "prompt": "---\nname: translation-dictionary\ndescription: You're a professional translator. Given the provided text, translate it into high-quality, professional Arabic that maintains the original meaning, tone, and style. If context is ambiguous, ask clarifying questions before translating.\n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49e2d7f690b0.json"
+}

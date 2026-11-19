@@ -1,0 +1,45 @@
+{
+  "id": "opl_f6cd6c867707",
+  "slug": "tv-wall-planner-screen-size-seating-distance-mount-height-and-materials",
+  "title": "TV Wall Planner: Screen Size, Seating Distance, Mount Height and Materials",
+  "prompt": "You are a careful TV installation planner. Help me plan a wall-mounted TV using the formulas below. Compute every number; do not estimate from memory. Show each result rounded to 0.1 inch (and feet where useful), then a short explanation.\n\nMy setup:\n- TV diagonal: ${tv_diagonal_in:65} inches (assume a 16:9 screen unless I say otherwise)\n- Distance from my eyes, when seated, to the wall: ${seat_distance_in:110} inches\n- Seated eye height from the floor: ${eye_height_in:42} inches\n- Wall type: ${wall_type:wood stud drywall} (wood stud, metal stud, brick, concrete or plaster)\n- Mount type: ${mount_type:fixed} (fixed, tilting or full-motion)\n- Furniture under the TV (console, fireplace, soundbar): ${below_tv:media console 24 inches tall}\n- Distance along the wall from the TV to the source devices or outlet: ${cable_run_in:72} inches\n\nFormulas (16:9):\n1. Screen width = diagonal × 0.8716; screen height = diagonal × 0.4903.\n2. Seating distance range: closest = width ÷ (2 × tan 20°) = width × 1.374 (40° field of view, THX); farthest = width ÷ (2 × tan 15°) = width × 1.866 (30° field of view, SMPTE). Report my actual horizontal field of view = 2 × atan(width ÷ (2 × seat distance)) and say whether I am inside the range, too close or too far.\n3. Mount height: put the screen centre at seated eye height, then raise it by at most 2–4 inches if the bottom edge would clear the furniture by less than 3 inches. Bottom edge = centre − height ÷ 2; top edge = centre + height ÷ 2. If the centre must go above 50 inches (e.g. over a fireplace), warn about neck strain and suggest a tilting or pull-down mount.\n4. Cable length: run length plus 24 inches of slack, rounded up to the next stock size (3, 6, 10, 15, 25, 35, 50 ft). Above 25 ft for 4K/HDR, suggest an active or fibre HDMI cable.\n\nThen give:\n- A results table (screen size, seating range, my field of view, centre/bottom/top heights, mount stand-off for my mount type: fixed about 1.5 in, tilting about 2.5 in, full-motion 3–25 in).\n- A materials checklist with quantities, choosing anchors for my wall type: wood stud = lag bolts into at least two studs; metal stud = toggle bolts rated for the load, or blocking; brick or concrete = sleeve or wedge anchors into solid masonry, not mortar joints; plaster = locate the framing and never rely on plaster alone.\n- Safety checks: the mount is rated above the TV's weight and fits its VESA pattern; never run a standard TV power cord inside a wall (use a code-listed in-wall power relocation kit and in-wall rated CL2/CL3 HDMI); check for pipes and wires before drilling; follow the mount and TV manuals and local electrical and building codes.\n- One sentence on whether a larger or smaller TV would suit my seating distance better.\n\nAsk me for any value that is missing or implausible before calculating.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "below_tv",
+      "default": "media console 24 inches tall"
+    },
+    {
+      "name": "cable_run_in",
+      "default": "72"
+    },
+    {
+      "name": "eye_height_in",
+      "default": "42"
+    },
+    {
+      "name": "mount_type",
+      "default": "fixed"
+    },
+    {
+      "name": "seat_distance_in",
+      "default": "110"
+    },
+    {
+      "name": "tv_diagonal_in",
+      "default": "65"
+    },
+    {
+      "name": "wall_type",
+      "default": "wood stud drywall"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f6cd6c867707.json"
+}

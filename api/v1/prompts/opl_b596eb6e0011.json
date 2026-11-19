@@ -1,0 +1,41 @@
+{
+  "id": "opl_b596eb6e0011",
+  "slug": "crossover-arts",
+  "title": "Crossover arts",
+  "prompt": "Create a cinematic crossover scene featuring ${character1} and ${character2} in ${location:fantasy world}. \n\nArt style: high-quality 2D cartoon animation with detailed lighting, expressive emotions, dynamic poses, and movie-like composition.\n\nScene mood: ${mood:emotional and adventurous}.\n\nThe characters are interacting through ${interaction:a heartfelt moment of friendship}. \n\nInclude:\n- dramatic lighting\n- colorful background\n- cinematic atmosphere\n- detailed environment\n- smooth animation style\n- expressive faces\n- depth and motion\n\nCamera angle: ${camera:wide cinematic shot}\n\nVisual inspiration: animated feature films, modern cartoon aesthetics, emotional storytelling, fantasy adventure.\n\nAvoid:\n- blurry details\n- extra limbs\n- distorted anatomy\n- low quality\n- cropped characters",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "camera",
+      "default": "wide cinematic shot"
+    },
+    {
+      "name": "character1",
+      "default": null
+    },
+    {
+      "name": "character2",
+      "default": null
+    },
+    {
+      "name": "interaction",
+      "default": "a heartfelt moment of friendship"
+    },
+    {
+      "name": "location",
+      "default": "fantasy world"
+    },
+    {
+      "name": "mood",
+      "default": "emotional and adventurous"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b596eb6e0011.json"
+}

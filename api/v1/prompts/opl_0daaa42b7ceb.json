@@ -1,0 +1,21 @@
+{
+  "id": "opl_0daaa42b7ceb",
+  "slug": "reverse-brief",
+  "title": "Reverse Brief",
+  "prompt": "Create a reverse brief of this document. Explain the purpose in plain language, list the most important points, identify any risks, deadlines or obligations, and summarize what actions I need to take.\n${document}",
+  "category": "General",
+  "folder": "general",
+  "variables": [
+    {
+      "name": "document",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0daaa42b7ceb.json"
+}

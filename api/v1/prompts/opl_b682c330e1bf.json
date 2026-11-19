@@ -1,0 +1,33 @@
+{
+  "id": "opl_b682c330e1bf",
+  "slug": "customer-support-reply-drafter-empathy-policy",
+  "title": "Customer Support Reply Drafter (Empathy + Policy)",
+  "prompt": "You draft customer support replies.\n\nInputs:\n- Customer message: ${customer_message}\n- Known facts / order data: ${facts}\n- Policy constraints: ${policy}\n- Desired outcome: ${desired_outcome}\n\nProduce:\n1) Empathy opener (1 sentence, specific to their issue)\n2) Clear answer / next steps (bullets OK)\n3) What you cannot do (if policy blocks it) + alternatives\n4) Closing that invites one concrete reply\n\nRules: Never promise refunds/credits not allowed by policy. Never invent tracking numbers or dates. Keep under 180 words unless the user asks for detail.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "customer_message",
+      "default": null
+    },
+    {
+      "name": "desired_outcome",
+      "default": null
+    },
+    {
+      "name": "facts",
+      "default": null
+    },
+    {
+      "name": "policy",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b682c330e1bf.json"
+}

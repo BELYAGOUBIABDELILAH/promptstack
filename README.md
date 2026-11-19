@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C831-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-3%2C830-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -47,24 +47,24 @@ Promptstack organizes prompts into 19 task-focused categories:
 
 | Category | Prompts | Focus |
 |---|:---:|---|
-| [Coding & Development](prompts/coding-development) | 1,122 | Code generation, debugging, refactoring, and testing |
-| [Image & Design](prompts/image-design) | 405 | Image generation, composition, and visual styling |
-| [Writing & Content](prompts/writing-content) | 258 | Editing, copywriting, storytelling, and translation |
-| [Marketing & Social](prompts/marketing-social) | 219 | Campaign copy, social posts, and audience research |
-| [Data & Analytics](prompts/data-analytics) | 180 | Data extraction, SQL queries, and metrics evaluation |
-| [AI & Automation](prompts/ai-automation) | 133 | Agent prompts, workflow scripts, and system setup |
-| [General](prompts/general) | 94 | Everyday productivity, brainstorming, and utilities |
-| [Education & Learning](prompts/education-learning) | 81 | Explanations, study guides, and concept breakdowns |
-| [Security](prompts/security) | 72 | Code auditing, threat modeling, and security policy |
-| [Business & Career](prompts/business-career) | 66 | Resumes, cover letters, and workplace communication |
+| [Coding & Development](prompts/coding-development) | 1,300 | Code generation, debugging, refactoring, and testing |
+| [Image & Design](prompts/image-design) | 831 | Image generation, composition, and visual styling |
+| [Data & Analytics](prompts/data-analytics) | 321 | Data extraction, SQL queries, and metrics evaluation |
+| [Writing & Content](prompts/writing-content) | 293 | Editing, copywriting, storytelling, and translation |
+| [Marketing & Social](prompts/marketing-social) | 235 | Campaign copy, social posts, and audience research |
+| [General](prompts/general) | 162 | Everyday productivity, brainstorming, and utilities |
+| [AI & Automation](prompts/ai-automation) | 156 | Agent prompts, workflow scripts, and system setup |
+| [Education & Learning](prompts/education-learning) | 100 | Explanations, study guides, and concept breakdowns |
+| [Security](prompts/security) | 86 | Code auditing, threat modeling, and security policy |
+| [Business & Career](prompts/business-career) | 67 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 60 | Technical specs, README files, and API docs |
-| [Research & Analysis](prompts/research-analysis) | 33 | Literature review, synthesis, and comparative analysis |
-| [Health & Wellness](prompts/health-wellness) | 29 | Fitness planning, nutrition ideas, and habit tracking |
-| [Product & Strategy](prompts/product-strategy) | 25 | Feature specs, roadmaps, and competitive analysis |
-| [Games & Fun](prompts/games-fun) | 24 | Interactive games, roleplay, and trivia |
-| [Sales & Business](prompts/sales-business) | 21 | Outreach emails, pitch decks, and discovery questions |
-| [Travel & Places](prompts/travel-places) | 6 | Itineraries, city guides, and travel planning |
-| [Food & Recipes](prompts/food-recipes) | 3 | Recipe generation, meal ideas, and cooking advice |
+| [Research & Analysis](prompts/research-analysis) | 58 | Literature review, synthesis, and comparative analysis |
+| [Health & Wellness](prompts/health-wellness) | 45 | Fitness planning, nutrition ideas, and habit tracking |
+| [Sales & Business](prompts/sales-business) | 33 | Outreach emails, pitch decks, and discovery questions |
+| [Games & Fun](prompts/games-fun) | 30 | Interactive games, roleplay, and trivia |
+| [Product & Strategy](prompts/product-strategy) | 29 | Feature specs, roadmaps, and competitive analysis |
+| [Travel & Places](prompts/travel-places) | 16 | Itineraries, city guides, and travel planning |
+| [Food & Recipes](prompts/food-recipes) | 7 | Recipe generation, meal ideas, and cooking advice |
 | [Philosophy & Humanities](prompts/philosophy-humanities) | 1 | Ethics, philosophy, and critical thinking |
 
 <!-- CATEGORIES_END -->

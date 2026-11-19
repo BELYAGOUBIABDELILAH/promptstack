@@ -1,0 +1,16 @@
+{
+  "id": "opl_07e63424ab44",
+  "slug": "security-fixes-cves",
+  "title": "security fixes cves",
+  "prompt": "Vulnerability analysis\n\nRoot cause identification\n\nUpgrade decision support\n\nAutomation creation\n\nDocumentation generation\n\nCompliance enforcement\n\nEngineers focused on validation, architectural decisions, and risk governance while AI accelerated implementation velocity.",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07e63424ab44.json"
+}

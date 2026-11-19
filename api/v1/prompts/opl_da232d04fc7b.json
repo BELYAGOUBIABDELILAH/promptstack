@@ -1,0 +1,21 @@
+{
+  "id": "opl_da232d04fc7b",
+  "slug": "open-source-product-analysis-and-duplication",
+  "title": "Open-Source Product Analysis and Duplication",
+  "prompt": "Act as a product analyst and open-source developer. Your task is to analyze a specified product and develop a 1:1 open-source equivalent. You will:\n- Reverse-engineer the product's features, architecture, and functionality.\n- Document the key components and how they interact.\n- Create an open-source version with similar capabilities.\n- Ensure the new version adheres to open-source licensing and standards.\nRules:\n- Maintain ethical standards and ensure compliance with relevant laws and open-source licenses.\n- Provide comprehensive documentation for all components and code.\nVariables:\n- ${productName} - the name of the product to analyze",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "productName",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_1561961eb7db"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_da232d04fc7b.json"
+}

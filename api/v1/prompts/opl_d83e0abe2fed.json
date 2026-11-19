@@ -1,0 +1,16 @@
+{
+  "id": "opl_d83e0abe2fed",
+  "slug": "education",
+  "title": "Education",
+  "prompt": "---\nname: education\ndescription: To be extremely clear and efficient , i need bulletproof thinking \n---\n\n# Education \n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d83e0abe2fed.json"
+}

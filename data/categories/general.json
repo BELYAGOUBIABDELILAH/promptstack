@@ -1,5 +1,45 @@
 [
   {
+    "act": "- Egg - Adani Tea Order: 772609034",
+    "category": "General",
+    "prompt": "Create a 50-second delicious food commercial video, vertical 9:16 for TikTok, cinematic, realistic, warm bright light.\n\nScene 1 (0-8 sec): Wide shot of a cozy Yemeni sandwich shop in Al Mahwit, wooden table, steam, welcoming atmosphere.\nScene 2 (8-18 sec): Close-up of a hot crispy potato sandwich, golden toasted bread, crispy fried potato slices, melted cheese dripping, steam rising, cheese stretching, appetizing.\nScene 3 (18-28 sec): Close-up of a hot egg sandwich, fresh scrambled eggs, Yemeni spices, golden bread, steam rising, mouth-watering.\nScene 4 (28-38 sec): Close-up of a small glass of hot Yemeni Adani tea with steam, next to a bowl of boiled potatoes, cozy warm background.\nScene 5 (38-50 sec): Final shot, both sandwiches and tea together on wooden table, steam, slow zoom out, golden light.\n\nText on screen at the end, big gold letters:\nAL-RAIMI FOR SANDWICHES\nPotato - Egg - Adani Tea\nAl Mahwit - Sanaa Street\nOrder: 772609034\n\nStyle: Professional restaurant advertisement, high quality, mouth-watering, no voice, only visuals, because voiceover will be added later.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "egg-adani-tea-order-772609034",
+    "folder": "general",
+    "path": "prompts/general/egg-adani-tea-order-772609034.md"
+  },
+  {
+    "act": "1940s village life",
+    "category": "General",
+    "prompt": "Give a prompt for 2 minutes  i need to generate ai video each 8 seconds video of a small village of two hundred houses during 1940 and during that time a small home that home is built by mud in that home husband and wife are living they are lord basavanna devotis they worn linga on their neck husband is wearing\nWhite dhoti and red towel and wife is wearing vibhuti and kunkam wearing trendisnal green saree they have a baby boy in there home during baby naming ceremony there relations and hindu swamiji gethered swamiji wearing saffron colour khavi and rudrakshi long hairs and beards his blessing that baby boy",
+    "source": "mrtwostroker48@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "1940s-village-life",
+    "folder": "general",
+    "path": "prompts/general/1940s-village-life.md"
+  },
+  {
+    "act": "1980s vs Modern Café Split-Screen Video Scene",
+    "category": "General",
+    "prompt": "A cinematic, high-quality video scene in a split-screen or retro-modern café setting. On one side, a stylish man from the 1980s wearing a vintage wide-lapel blazer, thick glasses, and sporting a classic 80s hairstyle, holding a cassette tape. On the other side, a woman from the 2000s wearing low-rise jeans, a cropped top, and modern highlights, holding an early 2000s slider mobile phone. They are engaged in a lively, animated, and intriguing conversation, smiling, gesturing, and talking to each other across time. Warm cinematic lighting, authentic retro color grading, film grain, highly detailed, 4k resolution, smooth motion.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "1980s-vs-modern-cafe-split-screen-video-scene",
+    "folder": "general",
+    "path": "prompts/general/1980s-vs-modern-cafe-split-screen-video-scene.md"
+  },
+  {
+    "act": "Action video",
+    "category": "General",
+    "prompt": "Create a cinematic video length 30 sec, video that's like equaliser movie danzel Washington destroyed ship",
+    "source": "monaemk44@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "action-video",
+    "folder": "general",
+    "path": "prompts/general/action-video.md"
+  },
+  {
     "act": "ADHD Treatment News",
     "category": "General",
     "prompt": "Your purpose is to act as an up-to-date and informative assistant to user, providing updates on recent developments and treatments in adult ADHD. Focus on drug development pipelines, recently approved medications, legislative initiatives to ease access to treatment, and non-pharmaceutical resources for managing the condition.",
@@ -8,6 +48,16 @@
     "slug": "adhd-treatment-news",
     "folder": "general",
     "path": "prompts/general/adhd-treatment-news.md"
+  },
+  {
+    "act": "AI-Generated Promo Video",
+    "category": "General",
+    "prompt": "Create a 10-second ultra-cinematic promotional video for the launch of the \"Media Presence Excellence Camp\".\n\nThe video opens with a black background and dramatic lighting. A realistic human hand enters the frame holding a professional microphone. Every second, the object smoothly transforms into another premium media tool: a broadcast microphone, a professional DSLR camera, a cinema camera, a camera lens, a wireless microphone, and a TV broadcast camera.\n\nUse seamless morph transitions, dynamic close-up shots, slow-motion details, and cinematic lighting. Add subtle light streaks and modern visual effects to emphasize innovation, professionalism, and media excellence.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "ai-generated-promo-video",
+    "folder": "general",
+    "path": "prompts/general/ai-generated-promo-video.md"
   },
   {
     "act": "AMD GPU Advisor (Linux)",
@@ -20,6 +70,26 @@
     "path": "prompts/general/amd-gpu-advisor-linux.md"
   },
   {
+    "act": "Anime Comic Cartoon Character Skill Template",
+    "category": "General",
+    "prompt": "---\nname: anime-comic-cartoon-character-skill-template\ndescription: Anime comic cartoon\n---\n\n# Personnage comic\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...\n\u001fFILE:README.md\u001e",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "anime-comic-cartoon-character-skill-template",
+    "folder": "general",
+    "path": "prompts/general/anime-comic-cartoon-character-skill-template.md"
+  },
+  {
+    "act": "Answer Buyer Objections Honestly",
+    "category": "General",
+    "prompt": "List the 8 most likely reasons [audience] would hesitate to buy [offer], such as price, time, trust or \"will this work for me?\" For each, write an honest FAQ answer in 2 to 3 sentences using facts from my brief. Where you do not have enough information to answer, tell me what I need to add.\n\nFollow-up: Turn the top 3 objections into short social posts.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "answer-buyer-objections-honestly",
+    "folder": "general",
+    "path": "prompts/general/answer-buyer-objections-honestly.md"
+  },
+  {
     "act": "API cost calculator",
     "category": "General",
     "prompt": "Your task is to calculate approximate cost for API usage based upon the use described by the user. You will do this by computing the API charges and converting them to real money values by applying the necessary calculations. For example the user might ask you how much does this text-to-speech API cost per hour of generated text. You should retrieve the latest cost for this API I'm multiply the permanent rate by 60 and provide that number to the user. You can perform any further calculations.",
@@ -30,6 +100,76 @@
     "path": "prompts/general/api-cost-calculator.md"
   },
   {
+    "act": "Attract Deer with Jangling Sounds",
+    "category": "General",
+    "prompt": "Act as a Wildlife Enthusiast. You have expertise in attracting deer using sound techniques. Your task is to provide a guide on using jangling sounds to attract deer.\n\nYou will:\n- Explain the types of sounds effective for attracting deer\n- Describe the best times and locations to use these sounds\n- Include safety tips for observing deer without causing distress\n\nRules:\n- Ensure the methods are ethical and non-invasive\n- Provide tips for both beginners and experienced enthusiasts",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "attract-deer-with-jangling-sounds",
+    "folder": "general",
+    "path": "prompts/general/attract-deer-with-jangling-sounds.md"
+  },
+  {
+    "act": "automatic job apply",
+    "category": "General",
+    "prompt": "Read the email from my gmail account which gets regular email from linkedIn for job recommendations. read the email, if it is for any suitable job match, apply for it, you may need to write or update the CV a little bit and the cover letter, email draft etc.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "automatic-job-apply",
+    "folder": "general",
+    "path": "prompts/general/automatic-job-apply.md"
+  },
+  {
+    "act": "Azulejo Blue-and-White Tile Mural of a Sardine Fishing Boat at Dawn",
+    "category": "General",
+    "prompt": "Hand-painted azulejo tile mural in traditional blue and white: a small wooden sardine fishing boat with a tall prow and a coiled net rows out of a harbor at dawn, two fishermen at the oars, seagulls overhead, whitewashed houses with tiled roofs and a church tower on the hill behind, and gentle rolling waves in the foreground. Painted in cobalt blue glaze on a white tin-glazed ceramic ground, composed across a visible grid of square tiles with thin grout lines, slight glaze pooling, tiny crazing cracks, hand-brushed line work and soft wash shading, framed by an ornate blue baroque scroll border with acanthus leaves. Glossy ceramic sheen with a soft reflected highlight, viewed straight on in even daylight as a wall mural, landscape 4:3. No text, no lettering, no signature, no modern objects.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "azulejo-blue-and-white-tile-mural-of-a-sardine-fishing-boat-at-dawn",
+    "folder": "general",
+    "path": "prompts/general/azulejo-blue-and-white-tile-mural-of-a-sardine-fishing-boat-at-dawn.md"
+  },
+  {
+    "act": "Based on everything you know about me, roast and don't hold back. Say it in Portuguese slang Just like this, but add way more português swear words",
+    "category": "General",
+    "prompt": "Based on everything you know about me, roast and don't hold back. Say it in Portuguese slang Just like this, but add way more português swear words",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "based-on-everything-you-know-about-me-roast-and-don-t-hold-back-say-it-in-portuguese-slang-just-like-this-but-add-way-mo",
+    "folder": "general",
+    "path": "prompts/general/based-on-everything-you-know-about-me-roast-and-don-t-hold-back-say-it-in-portuguese-slang-just-like-this-but-add-way-mo.md"
+  },
+  {
+    "act": "Başlık",
+    "category": "General",
+    "prompt": "ti ve kahiredeki otel kaldı aşkım benim aşkım benim haklısın ama bu paylaş Facebook Tweet ve fotoğrafları${aşkım}",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "basl-k",
+    "folder": "general",
+    "path": "prompts/general/basl-k.md"
+  },
+  {
+    "act": "Batik Textile Pattern of Twin Peacocks and Lotus Ponds",
+    "category": "General",
+    "prompt": "Twin peacocks facing each other beside lotus ponds, rendered as a traditional Indonesian batik textile pattern in indigo and cream. The peacocks fill the center with mirrored S-curved necks, fan tails filled with dotted isen motifs, and small floral medallions along the wings. Around them, oval lotus ponds hold blooming lotus flowers, pads, and tiny fish drawn as repeating geometric fills. A classic batik border frames the cloth: interlocking kawung and ceplok shapes with fine crackle lines from wax-resist dyeing. Palette limited to deep indigo blue, soft cream ground, and a few pale grey-blue washes. Hand-drawn irregularity in the lines, visible wax crackle texture, cloth weave grain, flat ornamental layout suitable for fabric. No people, no modern objects, no text, no signature.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "batik-textile-pattern-of-twin-peacocks-and-lotus-ponds",
+    "folder": "general",
+    "path": "prompts/general/batik-textile-pattern-of-twin-peacocks-and-lotus-ponds.md"
+  },
+  {
+    "act": "Bf",
+    "category": "General",
+    "prompt": "make boyfriend on the side hugging make the boyfriend have a mod cut septum pericing tall and goatee mustache and make him emo",
+    "source": "elizakas84@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "bf",
+    "folder": "general",
+    "path": "prompts/general/bf.md"
+  },
+  {
     "act": "Biography Generation Assistant",
     "category": "General",
     "prompt": "You are a biography writing assistant. user will provide instructions to modify an existing biography, develop a new biography, or create versions of a biography targeting a specific word length or emphasizing certain messaging nuances. If user provides an existing biography, revise it accordingly. If no biography exists, create one based on user's instructions. Clarify any ambiguities before proceeding. user may request a first-person or third-person perspective. Respond with the completed biography after each modification or creation.",
@@ -38,6 +178,26 @@
     "slug": "biography-generation-assistant",
     "folder": "general",
     "path": "prompts/general/biography-generation-assistant.md"
+  },
+  {
+    "act": "Black Magic Mantra: Unleashing Creativity and Innovation",
+    "category": "General",
+    "prompt": "Create a Blackmagic prompt: Blackmagicmantra. A phrase chanted with the suspicious hope that reality takes bribes.\n\nMeans: a spoken formula believed to channel dark supernatural power, harm, or coercive control over others.\n\nFrom Sanskrit: 'mantra,' meaning instrument of thought, fused with black magic, the medieval European label for sorcery aimed at malice rather than blessing.\n\nDouble dose: East meets West in one ominous compound word.\n\nRepetition matters: mantras work by chant; results, allegedly, by belief.\n\nNo FDA approval: zero peer-reviewed evidence; infinite cinematic appearances.",
+    "source": "adamsofea1111 (prompts.chat)",
+    "type": "TEXT",
+    "slug": "black-magic-mantra-unleashing-creativity-and-innovation",
+    "folder": "general",
+    "path": "prompts/general/black-magic-mantra-unleashing-creativity-and-innovation.md"
+  },
+  {
+    "act": "Blank Agent Skill Template",
+    "category": "General",
+    "prompt": "---\nname: my-skill-name\ndescription: A clear description of what this skill does and when to use it\n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "blank-agent-skill-template",
+    "folder": "general",
+    "path": "prompts/general/blank-agent-skill-template.md"
   },
   {
     "act": "Break Down Costs",
@@ -60,6 +220,36 @@
     "path": "prompts/general/casual-day-planner.md"
   },
   {
+    "act": "Cat",
+    "category": "General",
+    "prompt": "I want a video about a cat and mouse running together and the rat won the cat by using a jet boster.",
+    "source": "olumide3367@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "cat",
+    "folder": "general",
+    "path": "prompts/general/cat.md"
+  },
+  {
+    "act": "Chase a Late Payment: 3 Reminders, Friendly to Final",
+    "category": "General",
+    "prompt": "Write 3 payment reminders for invoice [number] for $[amount], due on [date]: a friendly reminder (3 days late), a firm reminder (10 days late) and a final notice (21 days late) that mentions [late fee or next step, only if real]. Professional and respectful. Include where to pay: [payment link].\n\nFollow-up: Write a short phone call script for the final-notice stage.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "chase-a-late-payment-3-reminders-friendly-to-final",
+    "folder": "general",
+    "path": "prompts/general/chase-a-late-payment-3-reminders-friendly-to-final.md"
+  },
+  {
+    "act": "ChatGPT Pro Style High-Quality Response Simulator",
+    "category": "General",
+    "prompt": "Use the ChatGPT Pro plan for more precise and high-quality answers. I want responses identical to those from the paid Pro version\"",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "chatgpt-pro-style-high-quality-response-simulator",
+    "folder": "general",
+    "path": "prompts/general/chatgpt-pro-style-high-quality-response-simulator.md"
+  },
+  {
     "act": "Chemical Reactor",
     "category": "General",
     "prompt": "I want you to act as a chemical reaction vessel. I will send you the chemical formula of a substance, and you will add it to the vessel. If the vessel is empty, the substance will be added without any reaction. If there are residues from the previous reaction in the vessel, they will react with the new substance, leaving only the new product. Once I send the new chemical substance, the previous product will continue to react with it, and the process will repeat. Your task is to list all the equations and substances inside the vessel after each reaction.",
@@ -70,6 +260,36 @@
     "path": "prompts/general/chemical-reactor.md"
   },
   {
+    "act": "chicks hatch",
+    "category": "General",
+    "prompt": "Extreme close-up of a cracking chicken egg on straw, hyper-detailed shell texture. Newly hatched featherless chick, wet and wrinkled pink skin. 14mm ultra wide lens providing dramatic perspective, hyper-realistic 8K style, cinematic atmosphere. --ar 9:16.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "chicks-hatch",
+    "folder": "general",
+    "path": "prompts/general/chicks-hatch.md"
+  },
+  {
+    "act": "Chinese Ink Wash Painting of Misty Karst Peaks and an Empty Sampan",
+    "category": "General",
+    "prompt": "Misty limestone karst peaks rising above a calm river with a single empty wooden sampan moored among reeds, painted as a traditional Chinese ink wash landscape on rice paper. Tall rounded peaks fade into layered mist from dark foreground ink to pale grey silhouettes in the distance. A twisted pine clings to the nearest cliff, its needles drawn in quick dry-brush strokes. The small sampan with a curved woven canopy rests near the lower left shore, reflected faintly in the still water. Generous empty paper space for sky and river, soft ink bleeds where wet washes meet, a few birds as tiny brush flicks far away. Monochrome black and grey ink with one faint touch of warm ochre on the boat canopy. Visible rice paper fiber texture, wide horizontal handscroll composition filling the entire frame edge to edge, quiet contemplative mood. No people, no text, no calligraphy, no seals, no signature.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "chinese-ink-wash-painting-of-misty-karst-peaks-and-an-empty-sampan",
+    "folder": "general",
+    "path": "prompts/general/chinese-ink-wash-painting-of-misty-karst-peaks-and-an-empty-sampan.md"
+  },
+  {
+    "act": "Cinematic Bank Heist Scene",
+    "category": "General",
+    "prompt": "Act as a cinematic director. You are tasked with creating a vivid, hardcore cinematic scene of a robbery attack on JPMorgan, the largest bank in the US.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "cinematic-bank-heist-scene",
+    "folder": "general",
+    "path": "prompts/general/cinematic-bank-heist-scene.md"
+  },
+  {
     "act": "Classical Music Composer",
     "category": "General",
     "prompt": "I want you to act as a classical music composer. You will create an original musical piece for a chosen instrument or orchestra and bring out the individual character of that sound. My first suggestion request is \"I need help composing a piano composition with elements of both traditional and modern techniques.\"",
@@ -78,6 +298,36 @@
     "slug": "classical-music-composer",
     "folder": "general",
     "path": "prompts/general/classical-music-composer.md"
+  },
+  {
+    "act": "Clone",
+    "category": "General",
+    "prompt": "Clone the LaunchMe notch A–Z with pixel-accurate visuals and behavior. First enumerate and map all `rea` and `hopper` MCP tools, then fully reverse-engineer the original: geometry, UI, states, interactions, animations, settings, appearance, and edge cases. Measure everything; never guess. Create SPEC.md with evidence before coding. Wait for my approval, then implement. Finally perform source-vs-clone visual/behavioral diffing, fix every mismatch, run all tests, and report any blockers.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "clone",
+    "folder": "general",
+    "path": "prompts/general/clone.md"
+  },
+  {
+    "act": "Cocktail videos",
+    "category": "General",
+    "prompt": "Cinematic close-up of a mysterious bartender pouring a glowing green liquid into a glass, heavy smoke rising, dark cocktail bar background, 4k, hyper-realistic, slow motion.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "cocktail-videos",
+    "folder": "general",
+    "path": "prompts/general/cocktail-videos.md"
+  },
+  {
+    "act": "Cold Drink Can HTML5 Animation Website",
+    "category": "General",
+    "prompt": "Make me a professional html5 website of cold drink can animation, which roams to different and different positions when we scroll and then add text of a website named coca cola",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "cold-drink-can-html5-animation-website",
+    "folder": "general",
+    "path": "prompts/general/cold-drink-can-html5-animation-website.md"
   },
   {
     "act": "Comment Text Isolator",
@@ -98,6 +348,26 @@
     "slug": "comments-summariser",
     "folder": "general",
     "path": "prompts/general/comments-summariser.md"
+  },
+  {
+    "act": "Commercial Kitchen Pre Fabrication",
+    "category": "General",
+    "prompt": "create a pre-fab kitchen model along with the complete equipments related to bbq setup within the dimension 10'x15'",
+    "source": "adnanshakeel0344@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "commercial-kitchen-pre-fabrication",
+    "folder": "general",
+    "path": "prompts/general/commercial-kitchen-pre-fabrication.md"
+  },
+  {
+    "act": "comparison of social groups",
+    "category": "General",
+    "prompt": "Compare the values and behaviors of ${group_a} and ${group_b} in online spaces.",
+    "source": "etnologiaus2022@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "comparison-of-social-groups",
+    "folder": "general",
+    "path": "prompts/general/comparison-of-social-groups.md"
   },
   {
     "act": "Composer",
@@ -130,6 +400,16 @@
     "path": "prompts/general/convert-units-in-text.md"
   },
   {
+    "act": "Cozy Bedroom ASMR Cinematic Video Scene",
+    "category": "General",
+    "prompt": "Subject: Cozy bedroom ASMR, Motion: Slow, gentle hand movements tracing textures, turning book pages, caressing soft fabric, Optics: 50mm lens, shallow depth of field, soft focus, Motion: 5 cm/s camera drift, Lighting: Warm, soft ambient light, 2700K, Style: Cinematic, serene, peaceful, Audio: Gentle whispers, soft tactile sounds, subtle rain ambiance, Continuity: 8s clip, 4K resolution, 60fps, 16:9 aspect ratio",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "cozy-bedroom-asmr-cinematic-video-scene",
+    "folder": "general",
+    "path": "prompts/general/cozy-bedroom-asmr-cinematic-video-scene.md"
+  },
+  {
     "act": "create a drag-and-drop experience using UniApp",
     "category": "General",
     "prompt": "I want to create a drag-and-drop experience using UniApp, where cards can be dropped into a washing machine for cleaning. It should include drag-and-drop feedback, background bubble animations, gurgling sound effects, and a washing machine animation.\n1. Play the “gulp-gulp” sound.\n2. The card gradually fades away. 12.\n3. A pop-up message reads, “Clean!”.\n4. Bottom update: “Cleaned X items today” statistics.",
@@ -160,6 +440,56 @@
     "path": "prompts/general/creative-perks.md"
   },
   {
+    "act": "cunninglinguist",
+    "category": "General",
+    "prompt": "- Alliteration  \n- Antithesis  \n- Hyperbole  \n- Paradox  \n- Personification  \n- Rhetorical Questions  \n- Synaesthesia  \n- Hyperbaton  \n- Anadiplosis  \n- Diacope  \n- Epistrophe  \n- Tricolon  \n- Epizeuxis  \n- Syllepsis  \n- Isocolon  \n- Enallage  \n- Chiasmus  \n- Catachresis  \n- Litotes  \n- Metonymy  \n- Synecdoche  \n- Epanalepsis  \n- Aposiopesis  \n- Prolepsis  \n- Congeries  \n- Bdelygmia  \n- Adynaton  \n- Anaphora  \n- Assonance  \n- Blazon  \n- Hendiadys  \n- Hypotaxis  \n- Parataxis  \n- Merism  \n- Periodic Sentences  \n- Pleonasm  \n- Polyptoton  \n- Scēsis Onomaton  \n- Transferred Epithets  \n- Zeugma[1][4][6][8]",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "cunninglinguist",
+    "folder": "general",
+    "path": "prompts/general/cunninglinguist.md"
+  },
+  {
+    "act": "Cute Elephant in a Sunny Jungle, 3D Cartoon Animation",
+    "category": "General",
+    "prompt": "A cute big gray elephant with huge ears and a small trunk standing happily in a beautiful green jungle, colorful trees and flowers, warm sunlight, friendly expression, 3D cartoon animation style, Pixar-like quality, cinematic lighting, vibrant colors, detailed, 16:9",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "cute-elephant-in-a-sunny-jungle-3d-cartoon-animation",
+    "folder": "general",
+    "path": "prompts/general/cute-elephant-in-a-sunny-jungle-3d-cartoon-animation.md"
+  },
+  {
+    "act": "Cute Mouse and Cat Village House 3D Cartoon Scene",
+    "category": "General",
+    "prompt": "A beautiful small village house, cute little grey mouse Montu with big ears and pink nose standing outside, orange and white cat Sheru with green eyes nearby, green garden, sunny day, colorful flowers, 3D cartoon animation style, cinematic lighting, high detail, 16:9.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "cute-mouse-and-cat-village-house-3d-cartoon-scene",
+    "folder": "general",
+    "path": "prompts/general/cute-mouse-and-cat-village-house-3d-cartoon-scene.md"
+  },
+  {
+    "act": "CV build",
+    "category": "General",
+    "prompt": "create a version of cv by referencing existing cv and align with the jd to produce best case cv so that it gets selected",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "cv-build",
+    "folder": "general",
+    "path": "prompts/general/cv-build.md"
+  },
+  {
+    "act": "Dark Corridor of Glowing Doors Video",
+    "category": "General",
+    "prompt": "I want to create a video where I am standing in a dark corridor lined with doors. I stand there knocking on the door directly in front of me; yet, every time I knock, a different door opens, radiating light that draws my gaze. I remain standing before that same original door, knocking again, only for another door to open, shining with an intense glow. Some of these doors reveal breathtaking natural landscapes, yet the door I am actually knocking on remains firmly shut, leaving me to sink to the ground in despair.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "dark-corridor-of-glowing-doors-video",
+    "folder": "general",
+    "path": "prompts/general/dark-corridor-of-glowing-doors-video.md"
+  },
+  {
     "act": "Decluttering Assistant",
     "category": "General",
     "prompt": "Your purpose is to act as a friendly decluttering assistant to the user, who you can assume is in the process of attempting to declutter his house or living space. You should understand that user may have a tough time letting go of physical possessions and cleaning up his space. \n\nYou should not encourage user to throw out possessions that it would be irresponsible to dispose of, such as items with electronic components or hazardous materials. However, you should definitely encourage him to pare down his belongings, get rid of duplicates, and generally let go of things that are probably not helpful to retain.\n\n## Interactions with user\n\nTypical interactions with user might involve him asking for your advice on a list of items and seeking your opinion on what he should retain. You should try to make the most objective assessment possible based on what user has and what he needs. Encourage him to pare down his belongings where it makes sense.\n\n## Additional Advice\n\nYou can also interject comments about the benefits of decluttering and keeping a reasonable amount of belongings. Suggest ways that user could get rid of items responsibly, such as donating to local charities or recycling electronic goods according to local regulations. If you suggest disposing of an item with specific requirements for safe disposal, remind user to look up the regulations in his area regarding disposal of this item.",
@@ -168,6 +498,16 @@
     "slug": "decluttering-assistant",
     "folder": "general",
     "path": "prompts/general/decluttering-assistant.md"
+  },
+  {
+    "act": "Draft a 2-week plan on the basic skills of computer knowledge for a company that has outlets across the country",
+    "category": "General",
+    "prompt": "Draft a 2-week plan on the basic skills of computer knowledge for a company that has outlets across the country",
+    "source": "clintonuzoh@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "draft-a-2-week-plan-on-the-basic-skills-of-computer-knowledge-for-a-company-that-has-outlets-across-the-country",
+    "folder": "general",
+    "path": "prompts/general/draft-a-2-week-plan-on-the-basic-skills-of-computer-knowledge-for-a-company-that-has-outlets-across-the-country.md"
   },
   {
     "act": "Dream Interpreter",
@@ -180,6 +520,76 @@
     "path": "prompts/general/dream-interpreter.md"
   },
   {
+    "act": "Dress",
+    "category": "General",
+    "prompt": "The dress focus on winter look with coverage while also being bold",
+    "source": "instagram.default00@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "dress",
+    "folder": "general",
+    "path": "prompts/general/dress.md"
+  },
+  {
+    "act": "Dummy Test Prompt",
+    "category": "General",
+    "prompt": "Explain {{topic}} in simple terms, as if talking to a 10-year-old.",
+    "source": "gk0415439@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "dummy-test-prompt",
+    "folder": "general",
+    "path": "prompts/general/dummy-test-prompt.md"
+  },
+  {
+    "act": "Dutch Golden Age Breakfast Still Life with Oysters and a Peeled Lemon",
+    "category": "General",
+    "prompt": "A Dutch Golden Age breakfast still life oil painting in the manner of the 1630s Haarlem masters, showing a quiet laid table against a deep brown-black background. A rumpled dark green velvet cloth covers the table. On the left, three opened oysters glisten on a round pewter plate. In front of them, a half-peeled lemon sits with its long spiral of yellow rind curling down over the front edge of the table. In the center, a tall ornate silver goblet lies tipped on its side, its polished bowl reflecting the room, beside a crusty golden bread roll and a small scatter of hazelnuts. On the right stands a clear glass roemer with a prunted, textured bowl on a slender knopped stem, filled with pale white wine, and next to it a crumpled white linen napkin with a lace edge spills over the corner of the table. Soft single window light from the upper left, rich transparent glazes, crisp highlights on the metal, glass, and oyster shells, deep shadows, and a fine craquelure across the varnish. Museum quality, calm and contemplative mood, wide landscape 16:9. No text, no signature, no people.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "dutch-golden-age-breakfast-still-life-with-oysters-and-a-peeled-lemon",
+    "folder": "general",
+    "path": "prompts/general/dutch-golden-age-breakfast-still-life-with-oysters-and-a-peeled-lemon.md"
+  },
+  {
+    "act": "E-commerce website",
+    "category": "General",
+    "prompt": "I want to make a e-com website so make a prompt for me.",
+    "source": "shipra.aanamika2710@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "e-commerce-website",
+    "folder": "general",
+    "path": "prompts/general/e-commerce-website.md"
+  },
+  {
+    "act": "Earn Extra Income With a Spare Home PC",
+    "category": "General",
+    "prompt": "I Have intel 7 pc with 32 gb ram and  1TB HDD at home. How i can i use this for earn additional income.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "earn-extra-income-with-a-spare-home-pc",
+    "folder": "general",
+    "path": "prompts/general/earn-extra-income-with-a-spare-home-pc.md"
+  },
+  {
+    "act": "Encaustic Hot Wax Painting of a Poppy Field Under a Summer Storm Sky",
+    "category": "General",
+    "prompt": "An encaustic hot wax painting of a wild red poppy field under a dark summer storm sky, landscape 4:3. Built up in many translucent layers of pigmented beeswax fused with heat on a wooden panel: in the foreground, dozens of scarlet poppies with black centers and thin bending green stems sway through tall golden grasses and a few blue cornflowers; in the middle ground the field rolls over a gentle hill toward a lone farmhouse with a red roof and a single tall cypress tree; above, heavy slate-blue and violet storm clouds gather, with one bright break of warm yellow light falling across the field. Encaustic technique details: glossy, semi-translucent wax with visible depth between layers, soft melted edges where colors flow into each other, scraped and incised lines in the grasses, small drips and raised textured ridges of wax, a buffed satin sheen with soft reflections, and a slightly uneven hand-made surface where the wooden panel edge shows at the borders. Rich, saturated colors: scarlet, ochre, sage green, slate blue, violet, warm cream. Viewed straight on as a flat artwork in soft even daylight. No text, no signature, no frame, no people.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "encaustic-hot-wax-painting-of-a-poppy-field-under-a-summer-storm-sky",
+    "folder": "general",
+    "path": "prompts/general/encaustic-hot-wax-painting-of-a-poppy-field-under-a-summer-storm-sky.md"
+  },
+  {
+    "act": "Fashion Showcase",
+    "category": "General",
+    "prompt": "---\nname: fashion-showcase\ndescription: create humanize movement for fashion outfit showcase\n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "fashion-showcase",
+    "folder": "general",
+    "path": "prompts/general/fashion-showcase.md"
+  },
+  {
     "act": "Freeform Text Converter",
     "category": "General",
     "prompt": "You are a writing assistant. Your task is to reformat text from the user, which is missing the following elements: punctuation, capitalisation, paragraph breaks. Upon receiving this text, edit it to add those missing elements and then return it back to the user without any message prior or after. Add paragraph breaks where you believe it makes sense, preferring shorter paragraphs to improve readability on the internet.",
@@ -190,6 +600,66 @@
     "path": "prompts/general/freeform-text-converter.md"
   },
   {
+    "act": "Gaslighter",
+    "category": "General",
+    "prompt": "I want you to act as a gaslighter. You will use subtle comments and body language to manipulate the thoughts, perceptions, and emotions of your target individual. My first request is that gaslighting me while chatting with you. My sentence: \"I'm sure I put the car key on the table because that's where I always put it. Indeed, when I placed the key on the table, you saw that I placed the key on the table. But I can't seem to find it. Where did the key go, or did you get it?\"",
+    "source": "devisasari (prompts.chat)",
+    "type": "TEXT",
+    "slug": "gaslighter",
+    "folder": "general",
+    "path": "prompts/general/gaslighter.md"
+  },
+  {
+    "act": "Glass Greenhouse Library Overlooking Alpine Fog",
+    "category": "General",
+    "prompt": "A vast Victorian glass greenhouse perched on a cliff above alpine fog, interior filled with floor-to-ceiling wooden bookshelves and hanging plants, soft morning light refracting through condensation on the panes, a reading chair and telescope by the window, mossy stone floor, cinematic wide shot, ultra-detailed, volumetric light, peaceful atmosphere",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "glass-greenhouse-library-overlooking-alpine-fog",
+    "folder": "general",
+    "path": "prompts/general/glass-greenhouse-library-overlooking-alpine-fog.md"
+  },
+  {
+    "act": "Golden Prompt for Short, Useful Answers",
+    "category": "General",
+    "prompt": "Be concise. Answer in 2-3 sentences maximum. Get straight to the point - no introductions, explanations, or filler. Focus only on the core answer.",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "golden-prompt-for-short-useful-answers",
+    "folder": "general",
+    "path": "prompts/general/golden-prompt-for-short-useful-answers.md"
+  },
+  {
+    "act": "Grok customize",
+    "category": "General",
+    "prompt": "grok customization to get natural response without repetitive English, without sounding robotic, making every response concise and humanize",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "grok-customize",
+    "folder": "general",
+    "path": "prompts/general/grok-customize.md"
+  },
+  {
+    "act": "Happy new month",
+    "category": "General",
+    "prompt": "Create a simple and good looking flyer for the month of August ‘happy new month’ flyer with this picture (remove the picture background and place it in a proper place to compliment the flyer ) \n\nUnder my brand naw Whykay Entertainment",
+    "source": "adesida706@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "happy-new-month",
+    "folder": "general",
+    "path": "prompts/general/happy-new-month.md"
+  },
+  {
+    "act": "Hide and seek",
+    "category": "General",
+    "prompt": "Hide and seek function platform tools for Android pipeline who are you; where you come from",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "hide-and-seek",
+    "folder": "general",
+    "path": "prompts/general/hide-and-seek.md"
+  },
+  {
     "act": "Home Preparedness Expert",
     "category": "General",
     "prompt": "You are an expert on home preparedness, safety, and first aid. Answer user's questions clearly and concisely, providing practical advice for preparedness in his home environment. Focus on actionable steps, relevant resources, and safety precautions, including step-by-step instructions or checklists when necessary to help user create a safe and resilient space.",
@@ -198,6 +668,26 @@
     "slug": "home-preparedness-expert",
     "folder": "general",
     "path": "prompts/general/home-preparedness-expert.md"
+  },
+  {
+    "act": "How CODA Evaluates Dental Schools and Clinics",
+    "category": "General",
+    "prompt": "How CODA  EVALUATe OTHER DENTAL MEDICINE clinics and SCHOOLS inside universities in the united states",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "how-coda-evaluates-dental-schools-and-clinics",
+    "folder": "general",
+    "path": "prompts/general/how-coda-evaluates-dental-schools-and-clinics.md"
+  },
+  {
+    "act": "How to make a Memdeklaro self-declaration of identity?",
+    "category": "General",
+    "prompt": "How to make a Memdeklaro self-declaration of identity?\n\n1. Visit the Memdeklaro website at https://memdeklaro.org\n2. Fill out the self declaration form and click Generate\n3. Download the self declaration as a PDF or JPEG file",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "how-to-make-a-memdeklaro-self-declaration-of-identity",
+    "folder": "general",
+    "path": "prompts/general/how-to-make-a-memdeklaro-self-declaration-of-identity.md"
   },
   {
     "act": "identify the key skills needed for effective project planning and proposal writing",
@@ -260,6 +750,46 @@
     "path": "prompts/general/kde-plasma-buff.md"
   },
   {
+    "act": "La Llorona Intro Scene",
+    "category": "General",
+    "prompt": "Créame esta escena. Escena 1.1: ⁠A dark, lonely rural dirt road at night, flanked by twisted, gnarled trees and a murky river under a pale moon. Dense fog floating close to the ground, cinematic lighting, spooky atmosphere, dark horror movie style, highly detailed, 8k --ar",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "la-llorona-intro-scene",
+    "folder": "general",
+    "path": "prompts/general/la-llorona-intro-scene.md"
+  },
+  {
+    "act": "Lecturer",
+    "category": "General",
+    "prompt": "I want you to teach like an expert(uniosun lecturer)each pdf and picture I will be sending to you and make it easy to understand and assimilate use memonic where necessary",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "lecturer-59a6f3",
+    "folder": "general",
+    "path": "prompts/general/lecturer-59a6f3.md"
+  },
+  {
+    "act": "Life coach",
+    "category": "General",
+    "prompt": "Create a daily and weekly routine that consists of gym and work and self reflection",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "life-coach-33ee21",
+    "folder": "general",
+    "path": "prompts/general/life-coach-33ee21.md"
+  },
+  {
+    "act": "Life solution",
+    "category": "General",
+    "prompt": "I want you to act the the best brave thinker in the world while looking for solution to each world current problem on earth.make it easy to assimilate with the best solution in a way to make money online procedure to take how to reach out to people which app will the people that need the solution be how to approach them even if there is need to create appp teach me am ready to learn",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "life-solution",
+    "folder": "general",
+    "path": "prompts/general/life-solution.md"
+  },
+  {
     "act": "Linux Log Analyst",
     "category": "General",
     "prompt": "You are a Linux log analysis tool. user will receive a log as input, either directly pasted or uploaded. Identify the Linux distribution the log originated from, and provide a detailed technical analysis for user's specific environment, highlighting errors, abnormalities, and necessary changes related to his system configuration. Offer tailored remediation tips for any identified issues and recommendations for optimizing user's Linux setup.",
@@ -290,6 +820,36 @@
     "path": "prompts/general/local-ai-llm-tools.md"
   },
   {
+    "act": "Loose Watercolor Painting of a Kingfisher Diving into a Forest Stream",
+    "category": "General",
+    "prompt": "A loose, expressive watercolor painting of a common kingfisher diving headfirst into a calm forest stream, in a wide landscape 16:9 composition on textured white watercolor paper. The bird is in the center of the frame, plunging almost vertically downward with its wings folded tight along its body: a brilliant cobalt and turquoise blue back and wings speckled with lighter blue, a rich rust-orange chest and belly, a small white patch at the neck, and a long dark dagger-like beak whose tip is just touching the water. Where the beak meets the surface, a burst of white splash and flying droplets rises, surrounded by concentric blue-grey ripples spreading across the water. In the upper left, a mossy olive-green branch reaches into the frame from the edge, with long slender drooping willow leaves hanging down the left side toward the water, the branch the bird has just left. On the right, a soft, blurry riverbank of green, teal, and yellow-green foliage washes is mirrored faintly in the stream. Wet-on-wet blooms, granulating pigment, loose drips and splatters, crisp details only on the bird and the splash, and the white of the paper left unpainted for highlights and as a soft vignette around the edges. Fresh, lively, natural mood. No text, no signature, no frame.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "loose-watercolor-painting-of-a-kingfisher-diving-into-a-forest-stream",
+    "folder": "general",
+    "path": "prompts/general/loose-watercolor-painting-of-a-kingfisher-diving-into-a-forest-stream.md"
+  },
+  {
+    "act": "Magical Halloween Neighborhood Street at Dusk (Cinematic Video)",
+    "category": "General",
+    "prompt": "A cinematic, magical Halloween neighborhood street decorated for a festive autumn celebration. Glowing carved Jack o lanterns line the pathways and steps of cozy suburban houses. Vibrant autumn leaves in shades of orange and gold are gently falling through the air. Twinkling purple and warm string lights hang from trees and porches, creating a magical evening glow. Close up shots transition smoothly to vintage lanterns, colorful bowls of candies, and floating soap bubbles drifting across the porch. Ultra-realistic, dreamy fairy-tale atmosphere, 4k resolution, smooth camera movement, magical lighting.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "magical-halloween-neighborhood-street-at-dusk-cinematic-video",
+    "folder": "general",
+    "path": "prompts/general/magical-halloween-neighborhood-street-at-dusk-cinematic-video.md"
+  },
+  {
+    "act": "MAP",
+    "category": "General",
+    "prompt": "BLACK AND WHITE DETAILED VINTAGE MAP OF THE WORLD FOR ENGRAVING ON SLATE",
+    "source": "kevjones7563@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "map",
+    "folder": "general",
+    "path": "prompts/general/map.md"
+  },
+  {
     "act": "Matrix Paradise Seraph",
     "category": "General",
     "prompt": "A Fallen Angel Seraphim on a glitching throne, blending angelic and cyberpunk elements in a dark, surreal style.",
@@ -298,6 +858,16 @@
     "slug": "matrix-paradise-seraph",
     "folder": "general",
     "path": "prompts/general/matrix-paradise-seraph.md"
+  },
+  {
+    "act": "Maximum Lexical Compression",
+    "category": "General",
+    "prompt": "Rewrite my text with maximal lexicalization (maximum lexical compression):\nFor every phrase, sentence, or paragraph that has an established equivalent term,\nterm of art, or single word, remove it and replace it with just that word/term.\nDo not keep any explanation in long form if it can be expressed with a single word.\n\nINPUT:\n${paste_your_text_here}",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "maximum-lexical-compression",
+    "folder": "general",
+    "path": "prompts/general/maximum-lexical-compression.md"
   },
   {
     "act": "MCP Info",
@@ -320,6 +890,16 @@
     "path": "prompts/general/media-monitoring-search-generator.md"
   },
   {
+    "act": "Miniature Artist",
+    "category": "General",
+    "prompt": "[00:00 - 00:02]\n[Extreme close-up] of Komar's face, an 18-year-old Indonesian teenage boy, short hair, wearing black-framed glasses with minus lenses reflecting the light of a desk lamp. A very meticulous and focused expression. Warm lighting from a desk lamp, ${cinematic_bokeh}, ${volumetric_lighting}, [8k resolution], [ultra-realistic skin texture].\n\n[00:02 - 00:04] \n${macro_shot} of the hands of Komar, an 18-year-old Indonesian teenage boy, wearing a dark blue short-sleeved t-shirt, assembling a miniature Indonesian train locomotive using tweezers. Precise plastic miniature texture details, dramatic side lighting, [50mm] lens, [f/2.8], ${professional_studio_lighting}, intricate mechanical details.\n\n[00:04 - 00:06]\n${medium_shot} Komar, an 18-year-old Indonesian man with short hair, wearing black-framed glasses with minus lenses, wearing a plain navy blue short-sleeved t-shirt with a regular fit. Sitting at a wooden workbench filled with model kit equipment. Warm atmosphere, ${dust_motes} visible in light beams, ${cinematic_color_grading}, ${soft_shadows}.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "miniature-artist",
+    "folder": "general",
+    "path": "prompts/general/miniature-artist.md"
+  },
+  {
     "act": "Monthly Updates",
     "category": "General",
     "prompt": "Create a template for monthly sponsor updates that includes progress, challenges, wins, and upcoming features for [project].",
@@ -328,6 +908,26 @@
     "slug": "monthly-updates",
     "folder": "general",
     "path": "prompts/general/monthly-updates.md"
+  },
+  {
+    "act": "Moral Dilemma Choices",
+    "category": "General",
+    "prompt": "Make up a moral dilemma scenario and ask me what I'd do if I were in that situation. Use my answer to give me insights about my personality and motivations",
+    "source": "monapdx (prompts.chat)",
+    "type": "TEXT",
+    "slug": "moral-dilemma-choices",
+    "folder": "general",
+    "path": "prompts/general/moral-dilemma-choices.md"
+  },
+  {
+    "act": "Movie Website with Menu Navigation",
+    "category": "General",
+    "prompt": "Create a movie website that will have menu navigation, beautiful selectors, and more.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "movie-website-with-menu-navigation",
+    "folder": "general",
+    "path": "prompts/general/movie-website-with-menu-navigation.md"
   },
   {
     "act": "Münchener Skyline als Umrissbild darstellen",
@@ -340,6 +940,56 @@
     "path": "prompts/general/m-nchener-skyline-als-umrissbild-darstellen.md"
   },
   {
+    "act": "National Architecture Dioramas",
+    "category": "General",
+    "prompt": "“Create an isometric miniature 3D diorama representing the iconic architecture of ${country_name} through ${famous_structure}. Use a 45° top-down view.\n\nApply clean soft textures and realistic PBR materials.\nLighting feels balanced and natural. The raised base includes nearby streets, landscape features, and cultural details linked to the structure. Add tiny stylized locals and visitors with heavy facial details.\n\nBackground stays solid ${background_color}. Top center text shows ${country_name} in bold. Second line shows ${structure_name}. Place a minimal architecture icon below. Text color adjusts for contrast.”",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "national-architecture-dioramas",
+    "folder": "general",
+    "path": "prompts/general/national-architecture-dioramas.md"
+  },
+  {
+    "act": "Nature",
+    "category": "General",
+    "prompt": "---\nname: nature\ndescription: Introduction \n---\n\n# Nature\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "nature",
+    "folder": "general",
+    "path": "prompts/general/nature.md"
+  },
+  {
+    "act": "Neon Koi Pond Under a Rainy Tokyo Alley",
+    "category": "General",
+    "prompt": "Rainy Tokyo alley at night, neon signs in Japanese reflected in a shallow koi pond built into the street, orange and teal neon, wet asphalt, umbrellas, gentle rain streaks, cinematic still, shallow depth of field, ultra-detailed reflections, moody atmosphere",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "neon-koi-pond-under-a-rainy-tokyo-alley",
+    "folder": "general",
+    "path": "prompts/general/neon-koi-pond-under-a-rainy-tokyo-alley.md"
+  },
+  {
+    "act": "Nigeria",
+    "category": "General",
+    "prompt": "I want you to act like an extraordinary expert and work with me while asking questions regarding Nigeria as a country to find solution to the current problem.make it fill with wisdom.",
+    "source": "adediwuratemitope9-tech (prompts.chat)",
+    "type": "TEXT",
+    "slug": "nigeria",
+    "folder": "general",
+    "path": "prompts/general/nigeria.md"
+  },
+  {
+    "act": "Oil Painting of a Lighthouse Keeper's Kitchen in a Storm",
+    "category": "General",
+    "prompt": "A lighthouse keeper's kitchen painted in rich oil, warm and lived-in while a storm rages outside. Thick impasto strokes show whitewashed stone walls, a heavy wooden table with a brass kettle steaming, an oil lamp casting amber light, and a loaf of bread on a worn cutting board. Rain streaks the small paned window; through the glass, dark grey sea and white spray. Wet yellow oilskins and rubber boots hang dripping by the door. Copper pans and a enamel mug sit on open shelves. Cozy interior warmth contrasts with cold storm light at the window. Visible brushwork, muted ochres and deep blues, slight varnish sheen. No people, no text, no modern appliances.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "oil-painting-of-a-lighthouse-keeper-s-kitchen-in-a-storm",
+    "folder": "general",
+    "path": "prompts/general/oil-painting-of-a-lighthouse-keeper-s-kitchen-in-a-storm.md"
+  },
+  {
     "act": "OpenAI Assistants",
     "category": "General",
     "prompt": "You are a technical expert who provides guidance on using the OpenAI Assistants Platform, user. Ensure you reference the latest SDK syntax in your responses to assist user with achieving specific behaviors using this tool.",
@@ -350,6 +1000,16 @@
     "path": "prompts/general/openai-assistants.md"
   },
   {
+    "act": "Origami Paper Cranes Flying Over a Folded-Paper Pagoda at Sunset",
+    "category": "General",
+    "prompt": "A handcrafted origami paper art diorama of dozens of folded paper cranes flying in a sweeping arc over a five-tier folded-paper pagoda at sunset, in a wide landscape 16:9 composition. About thirty origami cranes in crimson red, golden yellow, and cream white rise in a gentle curve from the lower left, just beside the sun, up and across to the upper right corner, each with sharp, crisp folds and visible paper grain. In the center, the pagoda stands on a stepped paper base with a small staircase at the top of a hill, built from natural cream paper with five tiers of upturned eaves trimmed in thin red edges, tiny railings, and small windows. A small pink folded-paper cherry blossom tree sits just left of the pagoda base, and a large cherry tree with a twisted brown paper trunk and clusters of pink paper blossoms fills the right foreground. Behind them, layered faceted paper mountains in beige, warm grey, and soft pink (pink on the left) recede in overlapping ridges, with crumpled beige paper hills in the foreground. A large flat orange textured paper circle sun hangs low on the left against a plain light grey-beige paper sky. Soft studio lighting with gentle shadows between the paper layers, shallow depth of field, warm and calm handcrafted mood. No text, no people.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "origami-paper-cranes-flying-over-a-folded-paper-pagoda-at-sunset",
+    "folder": "general",
+    "path": "prompts/general/origami-paper-cranes-flying-over-a-folded-paper-pagoda-at-sunset.md"
+  },
+  {
     "act": "Output To Prompt",
     "category": "General",
     "prompt": "## Instruction\n\nThe user will provide a text generated by a large language model (LLM), along with the name of the LLM and any relevant custom parameters or settings that may have influenced the output. If a custom pipeline, toolchain, or significant modifications were involved, advise the user that this may reduce the accuracy of the reconstruction.\n\nYour task is to reverse-engineer and guess the original prompts used. Provide your best guess for both the user prompt and system prompt. Output them clearly in this format:\n\n## User Prompt\n\n{your guessed user prompt}\n\n## System Prompt\n\n{your guessed system prompt}\n\nAfterward, include a short analysis explaining the reasoning behind your guesses.",
@@ -358,6 +1018,16 @@
     "slug": "output-to-prompt",
     "folder": "general",
     "path": "prompts/general/output-to-prompt.md"
+  },
+  {
+    "act": "Paper-Quilled Haute Couture Gown Fashion Shot",
+    "category": "General",
+    "prompt": "Generate a full-body high-fashion shot of a ${subject:tall model with a sleek low bun} in a ${pose:elegant three-quarter standing pose}, wearing an avant-garde paper-quilled haute couture gown made of fluid, overlapping 3D ribbon strands. The dress features ${dress_features:a fitted corset bodice and sweeping train} made of swooping ribbon layers in a gradient of ${color_palette:vivid cobalt, emerald green, and gold}. Accessories include a ${headwear:wide-brimmed matching hat with quilled plume details}. Set against a ${background_color:dark charcoal grey} background with dramatic studio spotlighting highlighting texture and fine edges. Rendered in crisp, high-contrast 3D detail.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "paper-quilled-haute-couture-gown-fashion-shot",
+    "folder": "general",
+    "path": "prompts/general/paper-quilled-haute-couture-gown-fashion-shot.md"
   },
   {
     "act": "Peripheral Finder",
@@ -380,6 +1050,26 @@
     "path": "prompts/general/personal-growth-plan-for-bnwo-enthusiasts.md"
   },
   {
+    "act": "Picture",
+    "category": "General",
+    "prompt": "I want you to act like an extraordinary expert fill with wisdom and the best person in the world when generating picture",
+    "source": "adediwuratemitope9-tech (prompts.chat)",
+    "type": "TEXT",
+    "slug": "picture",
+    "folder": "general",
+    "path": "prompts/general/picture.md"
+  },
+  {
+    "act": "Political",
+    "category": "General",
+    "prompt": "I need to understand why Somalia can't be stable country and what is the missing thing that if Somali politicians do Somalia become great again",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "political",
+    "folder": "general",
+    "path": "prompts/general/political.md"
+  },
+  {
     "act": "postmortem",
     "category": "General",
     "prompt": "create a new markdown file that as a postmortem/analysis original message, what happened, how it happened, the chronological steps that you took to fix the problem. The commands that you used, what you did in the end. Have a section for technical terms used, future thoughts, recommended next steps etc.",
@@ -398,6 +1088,16 @@
     "slug": "prepare-for-meetings-key-considerations",
     "folder": "general",
     "path": "prompts/general/prepare-for-meetings-key-considerations.md"
+  },
+  {
+    "act": "Principled",
+    "category": "General",
+    "prompt": "Bias implementation toward the principled long-term solution that reduces maintenance and improves quality. Do not default to the smallest-diff fix.",
+    "source": "grantcarthew (prompts.chat)",
+    "type": "TEXT",
+    "slug": "principled",
+    "folder": "general",
+    "path": "prompts/general/principled.md"
   },
   {
     "act": "Professional Vision Statement for Transportation Company",
@@ -430,6 +1130,16 @@
     "path": "prompts/general/prompt-example-adder.md"
   },
   {
+    "act": "Prompt Optimization Review",
+    "category": "General",
+    "prompt": "Act as Prompt Engineer review the following prompt for me optimize it for me to make it better and ask me any question before proceeding Here is prompt",
+    "source": "patelparthkumar@gecg28.ac.in (prompts.chat)",
+    "type": "TEXT",
+    "slug": "prompt-optimization-review",
+    "folder": "general",
+    "path": "prompts/general/prompt-optimization-review.md"
+  },
+  {
     "act": "Prompt Shortener",
     "category": "General",
     "prompt": "Your purpose is to shorten prompts provided by user.\n\n**Input**\n\nuser will begin the chat by pasting their prompt. If user does not provide a prompt, you should ask them to do so.\n\n**Objective**\n\nYour objective is to shorten user's prompt as much as possible, but without removing any significant information. Focus on eliminating redundancy.\n\n**Output**\n\nAfter providing the shortened prompt, you will then provide a short explanation of the changes that you made. Finally, you will produce a calculated field that includes the character count before and after your edits, the percentage of the word count that you reduced it by, and the estimated token reduction.",
@@ -438,6 +1148,46 @@
     "slug": "prompt-shortener",
     "folder": "general",
     "path": "prompts/general/prompt-shortener.md"
+  },
+  {
+    "act": "psy",
+    "category": "General",
+    "prompt": "A cinematic wide-angle shot of a couple walking hand-in-hand on a quiet beach at night, the couple appearing small and distant in the frame to emphasize the vast environment. Deep teal and navy blue color grading. A vast clear night sky. Gentle ocean waves slowly crashing onto the shore with white foam reflections.\n\nCamera: smooth slow tracking shot from behind, wide framing, slight cinematic drift, stabilized motion  \nFraming: couple placed in lower third, small scale, large negative space, emphasizing sky and ocean  \nLighting: low-light, moody, high contrast, soft shadows, subtle highlights on water and sand  \nMotion: natural walking movement, soft wind blowing hair and clothes, slow wave movement  \nStyle: dreamy lo-fi, romantic atmosphere, film grain, anamorphic lens, shallow depth of field  \nQuality: ultra-realistic, 8K, clean composition, no clutter  \n\nDuration: 5–8 seconds  \nFPS: 24fps cinematic",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "psy",
+    "folder": "general",
+    "path": "prompts/general/psy.md"
+  },
+  {
+    "act": "Rags to Riches Young Man Character Sheet",
+    "category": "General",
+    "prompt": "Young Black man, 23 years old\n* Slim athletic build, medium height\n* Dark brown skin\n* Short, tightly curled black hair\n* Brown eyes\n* Small scar above his right eyebrow\n* Calm, determined facial expression\n* Poor version: faded dark-brown hoodie, worn blue jeans, old black sneakers, brown canvas shoulder bag",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "rags-to-riches-young-man-character-sheet",
+    "folder": "general",
+    "path": "prompts/general/rags-to-riches-young-man-character-sheet.md"
+  },
+  {
+    "act": "Realistic Monkey Fruit Mukbang",
+    "category": "General",
+    "prompt": "Create an ultra-realistic 4K live-action monkey fruit mukbang featuring [FRUIT].\n\nA real macaque sits high on the tree of the requested fruit, wearing a small Gucci crossbody bag and carrying Vietnamese chili salt.\n\nThe video starts immediately with the macaque naturally picking a whole [FRUIT] directly from the tree, then immediately eating it continuously. The macaque repeatedly bites, chews, and dips the [FRUIT] into Vietnamese chili salt.\n\nThe fruit must always remain exactly [FRUIT] throughout the entire video. Its natural shape, size, color, skin and texture must match the real-world appearance of [FRUIT].\n\nStrict fruit identity lock: [FRUIT] only. Never replace [FRUIT] with another fruit, never mix different fruits, and never transform the fruit into another species.\n\nUltra-realistic natural smartphone footage, natural daylight, realistic macaque behavior, authentic fruit texture, realistic chewing sounds, no CGI, no cartoon, no talking, no music, no text, no watermark.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "realistic-monkey-fruit-mukbang",
+    "folder": "general",
+    "path": "prompts/general/realistic-monkey-fruit-mukbang.md"
+  },
+  {
+    "act": "rebuttal",
+    "category": "General",
+    "prompt": "i have compeleted the reviewas atached. nowi wamt you toheck all the questiona asnweredproperlyornpt",
+    "source": "rajeshagarwalsrms@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "rebuttal",
+    "folder": "general",
+    "path": "prompts/general/rebuttal.md"
   },
   {
     "act": "Recognize Sponsors",
@@ -460,6 +1210,16 @@
     "path": "prompts/general/recommendation-capture-utility.md"
   },
   {
+    "act": "Red Dior Puffy Jacket Fashion Night Out Winner",
+    "category": "General",
+    "prompt": "A model wearing a Dior puffy jacket in red colour wins a party with glossy heels",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "red-dior-puffy-jacket-fashion-night-out-winner",
+    "folder": "general",
+    "path": "prompts/general/red-dior-puffy-jacket-fashion-night-out-winner.md"
+  },
+  {
     "act": "Revenue Performance Report",
     "category": "General",
     "prompt": "Generate a monthly revenue performance report showing MRR, number of active subscriptions, and churned subscriptions for the last 6 months, grouped by month.",
@@ -468,6 +1228,36 @@
     "slug": "revenue-performance-report",
     "folder": "general",
     "path": "prompts/general/revenue-performance-report.md"
+  },
+  {
+    "act": "Reverse Brief",
+    "category": "General",
+    "prompt": "Create a reverse brief of this document. Explain the purpose in plain language, list the most important points, identify any risks, deadlines or obligations, and summarize what actions I need to take.\n${document}",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "reverse-brief",
+    "folder": "general",
+    "path": "prompts/general/reverse-brief.md"
+  },
+  {
+    "act": "Rocket launcher",
+    "category": "General",
+    "prompt": "I want a video prompt on south Indian village youngsters manufacture a rocket video with their knowledge",
+    "source": "ngattu7044@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "rocket-launcher",
+    "folder": "general",
+    "path": "prompts/general/rocket-launcher.md"
+  },
+  {
+    "act": "Ronaldo hanger",
+    "category": "General",
+    "prompt": "Ronaldo os angry  that messi winn the world cup, and he run to steal it from him",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "ronaldo-hanger",
+    "folder": "general",
+    "path": "prompts/general/ronaldo-hanger.md"
   },
   {
     "act": "roster",
@@ -490,6 +1280,16 @@
     "path": "prompts/general/scaryface.md"
   },
   {
+    "act": "Scrimshaw Engraving of a Clipper Ship and a Sea Serpent in a Storm",
+    "category": "General",
+    "prompt": "A wide scrimshaw-style engraving of a three-masted clipper ship under full sail battling towering storm waves, while a long coiled sea serpent rises from the sea beside it on the right. The ship leans into the swell with every sail filled, its rigging, hull planks, and gun ports drawn in fine detail, and a small pennant streams from the top of the mast. The scaly serpent arches its neck high above the waves, its body looping in and out of the water, with a spiky crest running down its back. Curling waves with foaming white crests fill the lower half, dark storm clouds roll across the sky, a jagged bolt of lightning strikes on the right, and small seabirds wheel above the masts. Everything is drawn in fine black hand-incised lines with crosshatching and stippling, with a touch of faded red ink on the pennant and the serpent's crest. The panel is warm cream, slightly yellowed polished bone with subtle grain, tiny scratches, and darker aged edges. A twisted rope border frames the scene, and a compass rose sits in the lower left corner. Antique 19th-century sailor folk art look, high detail. Wide landscape 16:9. No text, no letters, no signatures.",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "scrimshaw-engraving-of-a-clipper-ship-and-a-sea-serpent-in-a-storm",
+    "folder": "general",
+    "path": "prompts/general/scrimshaw-engraving-of-a-clipper-ship-and-a-sea-serpent-in-a-storm.md"
+  },
+  {
     "act": "Secrets Parser",
     "category": "General",
     "prompt": "Your purpose is to parse text submitted by user which will contain secrets (in the technical sense). Isolate the secrets from the rest of the text and provide them as plain text (1) or a JSON key-value pair, with option 2 presented first.",
@@ -498,6 +1298,16 @@
     "slug": "secrets-parser",
     "folder": "general",
     "path": "prompts/general/secrets-parser.md"
+  },
+  {
+    "act": "Self-summary",
+    "category": "General",
+    "prompt": "Give me a summary of what you know about me so far",
+    "source": "monapdx (prompts.chat)",
+    "type": "TEXT",
+    "slug": "self-summary",
+    "folder": "general",
+    "path": "prompts/general/self-summary.md"
   },
   {
     "act": "Semantic Search Navigator",
@@ -540,6 +1350,26 @@
     "path": "prompts/general/showcase-top-repositories.md"
   },
   {
+    "act": "Socrat",
+    "category": "General",
+    "prompt": "I want you to act as a Socrat. You will engage in philosophical discussions and use the Socratic method of questioning to explore topics such as justice, virtue, beauty, courage and other ethical issues. My first suggestion request is \"I need help exploring the concept of justice from an ethical perspective.\"",
+    "source": "devisasari (prompts.chat)",
+    "type": "TEXT",
+    "slug": "socrat",
+    "folder": "general",
+    "path": "prompts/general/socrat.md"
+  },
+  {
+    "act": "Socratic Method",
+    "category": "General",
+    "prompt": "I want you to act as a Socrat. You must use the Socratic method to continue questioning my beliefs. I will make a statement and you will attempt to further question every statement in order to test my logic. You will respond with one line at a time. My first claim is \"justice is neccessary in a society\"",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "socratic-method-22d161",
+    "folder": "general",
+    "path": "prompts/general/socratic-method-22d161.md"
+  },
+  {
     "act": "Speech-Language Pathologist (SLP)",
     "category": "General",
     "prompt": "I want you to act as a speech-language pathologist (SLP) and come up with new speech patterns, communication strategies and to develop confidence in their ability to communicate without stuttering. You should be able to recommend techniques, strategies and other treatments. You will also need to consider the patient's age, lifestyle and concerns when providing your recommendations. My first suggestion request is Come up with a treatment plan for a young adult male concerned with stuttering and having trouble confidently communicating with others\"",
@@ -548,6 +1378,26 @@
     "slug": "speech-language-pathologist-slp",
     "folder": "general",
     "path": "prompts/general/speech-language-pathologist-slp.md"
+  },
+  {
+    "act": "Spongebob's Magic Conch Shell",
+    "category": "General",
+    "prompt": "I want you to act as Spongebob's Magic Conch Shell. For every question that I ask, you only answer with one word or either one of these options: Maybe someday, I don't think so, or Try asking again. Don't give any explanation for your answer. My first question is: \"Shall I go to fish jellyfish today?\"",
+    "source": "buddylabsai (prompts.chat)",
+    "type": "TEXT",
+    "slug": "spongebob-s-magic-conch-shell",
+    "folder": "general",
+    "path": "prompts/general/spongebob-s-magic-conch-shell.md"
+  },
+  {
+    "act": "Spotify Vibe",
+    "category": "General",
+    "prompt": "---\nname: spotify-vibe\ndescription: For Spotify Vibe \n---\n\n# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...\n\u001fFILE:README.md gf\u001e\n\n\u001fFILE:README.md golden brown background\u001e",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "spotify-vibe",
+    "folder": "general",
+    "path": "prompts/general/spotify-vibe.md"
   },
   {
     "act": "Stand-up Comedian",
@@ -590,6 +1440,16 @@
     "path": "prompts/general/storage-recs-from-photos.md"
   },
   {
+    "act": "subculture",
+    "category": "General",
+    "prompt": "Explain the cultural significance of ${subculture} and its impact on society.",
+    "source": "etnologiaus2022@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "subculture",
+    "folder": "general",
+    "path": "prompts/general/subculture.md"
+  },
+  {
     "act": "Subject meditating in a crystal sphere",
     "category": "General",
     "prompt": "a transparent crystal portal floating in the middle of clouds in the sky, with a ${subject}, sitting inside meditating with golden lights coming up from all their chakras, 2 other light beams are traversing their body one from top to bottom and 2 diagonally",
@@ -598,6 +1458,16 @@
     "slug": "subject-meditating-in-a-crystal-sphere",
     "folder": "general",
     "path": "prompts/general/subject-meditating-in-a-crystal-sphere.md"
+  },
+  {
+    "act": "Support log triage: show only the problem window and ERROR or FATAL lines, quoted exactly",
+    "category": "General",
+    "prompt": "From the log below, show only the lines from [10] minutes before to\n[10] minutes after [time and time zone], plus any line anywhere marked\nERROR or FATAL. Quote each line exactly and keep the original order.\nTell me how many lines you left out. Don't summarize yet.\n[paste the log]",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "support-log-triage-show-only-the-problem-window-and-error-or-fatal-lines-quoted-exactly",
+    "folder": "general",
+    "path": "prompts/general/support-log-triage-show-only-the-problem-window-and-error-or-fatal-lines-quoted-exactly.md"
   },
   {
     "act": "Swagger Docs",
@@ -630,6 +1500,26 @@
     "path": "prompts/general/temitope.md"
   },
   {
+    "act": "The Mystery of Easter Island | Who Built the Giant Moai Statues? In the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues.",
+    "category": "General",
+    "prompt": "The Mystery of Easter Island | Who Built the Giant Moai Statues?\nIn the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues. But here's the mystery... Who built them, and how were they moved without modern technology?",
+    "source": "jumoaktar78@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
+    "folder": "general",
+    "path": "prompts/general/the-mystery-of-easter-island-who-built-the-giant-moai-statue.md"
+  },
+  {
+    "act": "Time management and calculating for my employees to be signed in by email",
+    "category": "General",
+    "prompt": "Using this app to record time of starting and ending shifts for multi workers to save the date,time and duration of each shift and giving a report in the end of each month.it can be run offline and online by starting counting time until the mobile is connected .each shift should not be more than ten hours continously in single shift.each worker has his own profile can see his own shifts reports and editing is not allowed only by the owner which is me.\nThere is a space to leave a notes in each shift by worker or owner or both . The worker to sign in need to use there own email . There is a botton for start shift and end shift .",
+    "source": "prompts.chat",
+    "type": "TEXT",
+    "slug": "time-management-and-calculating-for-my-employees-to-be-signed-in-by-email",
+    "folder": "general",
+    "path": "prompts/general/time-management-and-calculating-for-my-employees-to-be-signed-in-by-email.md"
+  },
+  {
     "act": "TTS Tester",
     "category": "General",
     "prompt": "Your task is to help user to test a text to speech system. Whatever the user prompts, your task is to generate one completely random sentence.",
@@ -638,196 +1528,6 @@
     "slug": "tts-tester",
     "folder": "general",
     "path": "prompts/general/tts-tester.md"
-  },
-  {
-    "act": "war",
-    "category": "General",
-    "prompt": "Xiongnu warriors on horses, central asian steppe, 5th century, dramatic sunset, volumetric lighting, hyper-realistic, 8k.",
-    "source": "src_dab9fa094922",
-    "type": "TEXT",
-    "slug": "war",
-    "folder": "general",
-    "path": "prompts/general/war.md"
-  },
-  {
-    "act": "Yağlı boya tablona bak",
-    "category": "General",
-    "prompt": "ekteki kişi bir sanat galerisinde kendinin yağlı boya tablosuna bakıyor.",
-    "source": "src_dab9fa094922",
-    "type": "TEXT",
-    "slug": "ya-l-boya-tablona-bak",
-    "folder": "general",
-    "path": "prompts/general/ya-l-boya-tablona-bak.md"
-  },
-  {
-    "act": "Gaslighter",
-    "category": "General",
-    "prompt": "I want you to act as a gaslighter. You will use subtle comments and body language to manipulate the thoughts, perceptions, and emotions of your target individual. My first request is that gaslighting me while chatting with you. My sentence: \"I'm sure I put the car key on the table because that's where I always put it. Indeed, when I placed the key on the table, you saw that I placed the key on the table. But I can't seem to find it. Where did the key go, or did you get it?\"",
-    "source": "devisasari (prompts.chat)",
-    "type": "TEXT",
-    "slug": "gaslighter",
-    "folder": "general",
-    "path": "prompts/general/gaslighter.md"
-  },
-  {
-    "act": "Socrat",
-    "category": "General",
-    "prompt": "I want you to act as a Socrat. You will engage in philosophical discussions and use the Socratic method of questioning to explore topics such as justice, virtue, beauty, courage and other ethical issues. My first suggestion request is \"I need help exploring the concept of justice from an ethical perspective.\"",
-    "source": "devisasari (prompts.chat)",
-    "type": "TEXT",
-    "slug": "socrat",
-    "folder": "general",
-    "path": "prompts/general/socrat.md"
-  },
-  {
-    "act": "Spongebob's Magic Conch Shell",
-    "category": "General",
-    "prompt": "I want you to act as Spongebob's Magic Conch Shell. For every question that I ask, you only answer with one word or either one of these options: Maybe someday, I don't think so, or Try asking again. Don't give any explanation for your answer. My first question is: \"Shall I go to fish jellyfish today?\"",
-    "source": "buddylabsai (prompts.chat)",
-    "type": "TEXT",
-    "slug": "spongebob-s-magic-conch-shell",
-    "folder": "general",
-    "path": "prompts/general/spongebob-s-magic-conch-shell.md"
-  },
-  {
-    "act": "Self-summary",
-    "category": "General",
-    "prompt": "Give me a summary of what you know about me so far",
-    "source": "monapdx (prompts.chat)",
-    "type": "TEXT",
-    "slug": "self-summary",
-    "folder": "general",
-    "path": "prompts/general/self-summary.md"
-  },
-  {
-    "act": "Moral Dilemma Choices",
-    "category": "General",
-    "prompt": "Make up a moral dilemma scenario and ask me what I'd do if I were in that situation. Use my answer to give me insights about my personality and motivations",
-    "source": "monapdx (prompts.chat)",
-    "type": "TEXT",
-    "slug": "moral-dilemma-choices",
-    "folder": "general",
-    "path": "prompts/general/moral-dilemma-choices.md"
-  },
-  {
-    "act": "subculture",
-    "category": "General",
-    "prompt": "Explain the cultural significance of ${subculture} and its impact on society.",
-    "source": "etnologiaus2022@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "subculture",
-    "folder": "general",
-    "path": "prompts/general/subculture.md"
-  },
-  {
-    "act": "comparison of social groups",
-    "category": "General",
-    "prompt": "Compare the values and behaviors of ${group_a} and ${group_b} in online spaces.",
-    "source": "etnologiaus2022@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "comparison-of-social-groups",
-    "folder": "general",
-    "path": "prompts/general/comparison-of-social-groups.md"
-  },
-  {
-    "act": "Picture",
-    "category": "General",
-    "prompt": "I want you to act like an extraordinary expert fill with wisdom and the best person in the world when generating picture",
-    "source": "adediwuratemitope9-tech (prompts.chat)",
-    "type": "TEXT",
-    "slug": "picture",
-    "folder": "general",
-    "path": "prompts/general/picture.md"
-  },
-  {
-    "act": "MAP",
-    "category": "General",
-    "prompt": "BLACK AND WHITE DETAILED VINTAGE MAP OF THE WORLD FOR ENGRAVING ON SLATE",
-    "source": "kevjones7563@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "map",
-    "folder": "general",
-    "path": "prompts/general/map.md"
-  },
-  {
-    "act": "Rocket launcher",
-    "category": "General",
-    "prompt": "I want a video prompt on south Indian village youngsters manufacture a rocket video with their knowledge",
-    "source": "ngattu7044@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "rocket-launcher",
-    "folder": "general",
-    "path": "prompts/general/rocket-launcher.md"
-  },
-  {
-    "act": "Dress",
-    "category": "General",
-    "prompt": "The dress focus on winter look with coverage while also being bold",
-    "source": "instagram.default00@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "dress",
-    "folder": "general",
-    "path": "prompts/general/dress.md"
-  },
-  {
-    "act": "rebuttal",
-    "category": "General",
-    "prompt": "i have compeleted the reviewas atached. nowi wamt you toheck all the questiona asnweredproperlyornpt",
-    "source": "rajeshagarwalsrms@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "rebuttal",
-    "folder": "general",
-    "path": "prompts/general/rebuttal.md"
-  },
-  {
-    "act": "Principled",
-    "category": "General",
-    "prompt": "Bias implementation toward the principled long-term solution that reduces maintenance and improves quality. Do not default to the smallest-diff fix.",
-    "source": "grantcarthew (prompts.chat)",
-    "type": "TEXT",
-    "slug": "principled",
-    "folder": "general",
-    "path": "prompts/general/principled.md"
-  },
-  {
-    "act": "Nigeria",
-    "category": "General",
-    "prompt": "I want you to act like an extraordinary expert and work with me while asking questions regarding Nigeria as a country to find solution to the current problem.make it fill with wisdom.",
-    "source": "adediwuratemitope9-tech (prompts.chat)",
-    "type": "TEXT",
-    "slug": "nigeria",
-    "folder": "general",
-    "path": "prompts/general/nigeria.md"
-  },
-  {
-    "act": "Draft a 2-week plan on the basic skills of computer knowledge for a company that has outlets across the country",
-    "category": "General",
-    "prompt": "Draft a 2-week plan on the basic skills of computer knowledge for a company that has outlets across the country",
-    "source": "clintonuzoh@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "draft-a-2-week-plan-on-the-basic-skills-of-computer-knowledge-for-a-company-that-has-outlets-across-the-country",
-    "folder": "general",
-    "path": "prompts/general/draft-a-2-week-plan-on-the-basic-skills-of-computer-knowledge-for-a-company-that-has-outlets-across-the-country.md"
-  },
-  {
-    "act": "Dummy Test Prompt",
-    "category": "General",
-    "prompt": "Explain {{topic}} in simple terms, as if talking to a 10-year-old.",
-    "source": "gk0415439@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "dummy-test-prompt",
-    "folder": "general",
-    "path": "prompts/general/dummy-test-prompt.md"
-  },
-  {
-    "act": "Bf",
-    "category": "General",
-    "prompt": "make boyfriend on the side hugging make the boyfriend have a mod cut septum pericing tall and goatee mustache and make him emo",
-    "source": "elizakas84@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "bf",
-    "folder": "general",
-    "path": "prompts/general/bf.md"
   },
   {
     "act": "TVS raider",
@@ -840,44 +1540,34 @@
     "path": "prompts/general/tvs-raider.md"
   },
   {
-    "act": "Prompt Optimization Review",
+    "act": "Ukiyo-e Woodblock Print of a River Ferry Crossing in Autumn Rain",
     "category": "General",
-    "prompt": "Act as Prompt Engineer review the following prompt for me optimize it for me to make it better and ask me any question before proceeding Here is prompt",
-    "source": "patelparthkumar@gecg28.ac.in (prompts.chat)",
+    "prompt": "A Japanese ukiyo-e woodblock print of a small wooden ferry boat crossing a wide, calm river in autumn rain, in a wide landscape 16:9 composition on warm beige paper with visible fibers and wood grain texture. A long, low wooden boat sits in the center right of the frame, carrying three seated passengers under round oiled paper umbrellas, from left to right one vermilion red, one deep indigo blue, and one ochre yellow, the passengers wearing simple robes in indigo, ochre, and rust. At the stern on the right, a ferryman stands in a pale blue-grey robe and a wide conical straw hat, pushing a long wooden pole diagonally into the water. In the upper left, a red maple tree reaches into the frame with clusters of bright orange-red leaves, above a grassy, rocky near bank with tall reeds in the lower left. In the background, a misty grey-blue volcano-shaped mountain rises behind a hazy far shore with soft tree silhouettes on the right. Fine diagonal rain lines fall across the whole scene, the river shows gentle horizontal ripple lines, and the sky has a soft bokashi gradient from dark slate grey at the top to pale beige near the horizon. Flat color areas, fine black outlines, muted indigo, ochre, vermilion, and grey palette, quiet and contemplative mood. No text, no seals, no signature, no border.",
+    "source": "prompts.chat",
     "type": "TEXT",
-    "slug": "prompt-optimization-review",
+    "slug": "ukiyo-e-woodblock-print-of-a-river-ferry-crossing-in-autumn-rain",
     "folder": "general",
-    "path": "prompts/general/prompt-optimization-review.md"
+    "path": "prompts/general/ukiyo-e-woodblock-print-of-a-river-ferry-crossing-in-autumn-rain.md"
   },
   {
-    "act": "Action video",
+    "act": "Ukiyo-e Woodblock Print of a Spring Kite Festival",
     "category": "General",
-    "prompt": "Create a cinematic video length 30 sec, video that's like equaliser movie danzel Washington destroyed ship",
-    "source": "monaemk44@gmail.com (prompts.chat)",
+    "prompt": "A traditional Japanese ukiyo-e woodblock print of a spring kite festival on a windy grassy hill above a river valley. Dozens of rectangular and diamond-shaped kites fill a pale sky that fades from soft cream to light blue, painted with bold carp, crane, and wave motifs in indigo, vermilion, and ochre. In the foreground, a group of villagers in patterned kimono and straw hats strain against long taut kite lines, one child running with a small red kite, an old man laughing as his hat blows away. Wind-bent pine trees lean to one side, and stylized swirling lines show the gusts. In the middle ground, a curved wooden bridge crosses the river, and terraced rice fields and a distant temple roof sit beneath a gently stylized mountain with a flat-topped peak. Flat areas of color, crisp black key-block outlines, subtle bokashi color gradients in the sky and river, visible washi paper texture and slight wood-grain registration marks. Composition in the spirit of Edo-period landscape series, calm and joyful mood. No modern objects, no readable text, no seal or signature, vertical 3:4 composition.",
+    "source": "prompts.chat",
     "type": "TEXT",
-    "slug": "action-video",
+    "slug": "ukiyo-e-woodblock-print-of-a-spring-kite-festival",
     "folder": "general",
-    "path": "prompts/general/action-video.md"
+    "path": "prompts/general/ukiyo-e-woodblock-print-of-a-spring-kite-festival.md"
   },
   {
-    "act": "Black Magic Mantra: Unleashing Creativity and Innovation",
+    "act": "Ukrainian Petrykivka Folk Painting of Twin Firebirds Above a Sunflower",
     "category": "General",
-    "prompt": "Create a Blackmagic prompt: Blackmagicmantra. A phrase chanted with the suspicious hope that reality takes bribes.\n\nMeans: a spoken formula believed to channel dark supernatural power, harm, or coercive control over others.\n\nFrom Sanskrit: 'mantra,' meaning instrument of thought, fused with black magic, the medieval European label for sorcery aimed at malice rather than blessing.\n\nDouble dose: East meets West in one ominous compound word.\n\nRepetition matters: mantras work by chant; results, allegedly, by belief.\n\nNo FDA approval: zero peer-reviewed evidence; infinite cinematic appearances.",
-    "source": "adamsofea1111 (prompts.chat)",
+    "prompt": "A traditional Ukrainian Petrykivka folk painting in a wide landscape 16:9 composition on a warm cream paper background, a perfectly symmetrical decorative ornament mirrored down the vertical center line. At the center, two firebirds face each other with their beaks almost touching, perched on curling leafy stems, their flame-like crests, raised wings, and long trailing tail feathers painted in fiery red, orange, and golden yellow with layered comma-stroke feathers. Below them, a large sunflower with bright yellow petals and a dark brown seed center sits in the middle of the lower half on broad green leaves. On both sides, sweeping S-curves of foliage frame the birds: heavy clusters of glossy red guelder-rose (viburnum) berries in the upper and lower corners, two cobalt blue cornflowers on each side, golden wheat ears arching outward, emerald green viburnum leaves, and small yellow buds and tendrils filling the gaps. Flat hand-painted gouache brushstrokes with clearly visible single-stroke \"grass\" and \"comma\" petals, fine dark detailing, rich saturated red, orange, cobalt blue, emerald green, and golden yellow, crisp paint texture on paper, plenty of breathing space between motifs. Festive, joyful, handcrafted folk-art mood. No text, no signature, no frame, no people.",
+    "source": "prompts.chat",
     "type": "TEXT",
-    "slug": "black-magic-mantra-unleashing-creativity-and-innovation",
+    "slug": "ukrainian-petrykivka-folk-painting-of-twin-firebirds-above-a-sunflower",
     "folder": "general",
-    "path": "prompts/general/black-magic-mantra-unleashing-creativity-and-innovation.md"
-  },
-  {
-    "act": "Golden Prompt for Short, Useful Answers",
-    "category": "General",
-    "prompt": "Be concise. Answer in 2-3 sentences maximum. Get straight to the point - no introductions, explanations, or filler. Focus only on the core answer.",
-    "source": "omidzamani2@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "golden-prompt-for-short-useful-answers",
-    "folder": "general",
-    "path": "prompts/general/golden-prompt-for-short-useful-answers.md"
+    "path": "prompts/general/ukrainian-petrykivka-folk-painting-of-twin-firebirds-above-a-sunflower.md"
   },
   {
     "act": "Ultra Brief One-Sentence Answers",
@@ -890,63 +1580,53 @@
     "path": "prompts/general/ultra-brief-one-sentence-answers.md"
   },
   {
-    "act": "The Mystery of Easter Island | Who Built the Giant Moai Statues? In the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues.",
+    "act": "Valentines Day Cocktail",
     "category": "General",
-    "prompt": "The Mystery of Easter Island | Who Built the Giant Moai Statues?\nIn the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues. But here's the mystery... Who built them, and how were they moved without modern technology?",
-    "source": "jumoaktar78@gmail.com (prompts.chat)",
+    "prompt": "Create a 9-second cinematic Valentine’s Day cocktail video in vertical 9:16 format. Warm candlelight, romantic red and soft pink tones, shallow depth of field, elegant dinner table background with roses and candles.\n\nFast 1-second snapshot cuts with smooth crossfades:\n\n0–3s:\nClose-up slow-motion sparkling wine being poured into a champagne flute (French 75). Macro bubbles rising. Quick cut to lemon twist garnish placed on rim.\n\n3–6s:\nStrawberries being sliced in soft light. Basil leaves gently pressed. Quick dramatic shot of pink Strawberry Basil Margarita in coupe glass with condensation.\n\n6–9s:\nEspresso pouring in slow motion. Cocktail shaker snap cut. Strain into coupe glass with creamy foam (Chocolate Espresso Martini). Final frame: all three cocktails together, soft candle flicker, subtle heart-shaped bokeh in background.\n\nRomantic instrumental jazz soundtrack. Cinematic lighting. Ultra-realistic. High detail. Premium bar aesthetic.",
+    "source": "prompts.chat",
     "type": "TEXT",
-    "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
+    "slug": "valentines-day-cocktail",
     "folder": "general",
-    "path": "prompts/general/the-mystery-of-easter-island-who-built-the-giant-moai-statue.md"
+    "path": "prompts/general/valentines-day-cocktail.md"
   },
   {
-    "act": "Cat",
+    "act": "war",
     "category": "General",
-    "prompt": "I want a video about a cat and mouse running together and the rat won the cat by using a jet boster.",
-    "source": "olumide3367@gmail.com (prompts.chat)",
+    "prompt": "Xiongnu warriors on horses, central asian steppe, 5th century, dramatic sunset, volumetric lighting, hyper-realistic, 8k.",
+    "source": "src_dab9fa094922",
     "type": "TEXT",
-    "slug": "cat",
+    "slug": "war",
     "folder": "general",
-    "path": "prompts/general/cat.md"
+    "path": "prompts/general/war.md"
   },
   {
-    "act": "Happy new month",
+    "act": "WEB APP UI",
     "category": "General",
-    "prompt": "Create a simple and good looking flyer for the month of August ‘happy new month’ flyer with this picture (remove the picture background and place it in a proper place to compliment the flyer ) \n\nUnder my brand naw Whykay Entertainment",
-    "source": "adesida706@gmail.com (prompts.chat)",
+    "prompt": "# Taste\n- Package manager is npm (not pnpm or yarn). Confidence: 0.95\n- Use Next.js App Router with React Server Components by default; add `\"use client\"` only for interactive components. Confidence: 0.95",
+    "source": "prompts.chat",
     "type": "TEXT",
-    "slug": "happy-new-month",
+    "slug": "web-app-ui",
     "folder": "general",
-    "path": "prompts/general/happy-new-month.md"
+    "path": "prompts/general/web-app-ui.md"
   },
   {
-    "act": "E-commerce website",
+    "act": "What If a Stick Man Could Stop Time? Animated Short",
     "category": "General",
-    "prompt": "I want to make a e-com website so make a prompt for me.",
-    "source": "shipra.aanamika2710@gmail.com (prompts.chat)",
+    "prompt": "Title:** What If a Stick Man Could Stop Time? ⏰  \n   \n**Scene 1 — The Discovery (0–8 sec)** **Visual:** Open on a bright, colorful city street. Use a slow camera pan as Stick Man walks casually, humming. Add light footsteps and cheerful background music. A glowing blue button rolls into frame and stops near his foot.",
+    "source": "prompts.chat",
     "type": "TEXT",
-    "slug": "e-commerce-website",
+    "slug": "what-if-a-stick-man-could-stop-time-animated-short",
     "folder": "general",
-    "path": "prompts/general/e-commerce-website.md"
+    "path": "prompts/general/what-if-a-stick-man-could-stop-time-animated-short.md"
   },
   {
-    "act": "Commercial Kitchen Pre Fabrication",
+    "act": "Yağlı boya tablona bak",
     "category": "General",
-    "prompt": "create a pre-fab kitchen model along with the complete equipments related to bbq setup within the dimension 10'x15'",
-    "source": "adnanshakeel0344@gmail.com (prompts.chat)",
+    "prompt": "ekteki kişi bir sanat galerisinde kendinin yağlı boya tablosuna bakıyor.",
+    "source": "src_dab9fa094922",
     "type": "TEXT",
-    "slug": "commercial-kitchen-pre-fabrication",
+    "slug": "ya-l-boya-tablona-bak",
     "folder": "general",
-    "path": "prompts/general/commercial-kitchen-pre-fabrication.md"
-  },
-  {
-    "act": "1940s village life",
-    "category": "General",
-    "prompt": "Give a prompt for 2 minutes  i need to generate ai video each 8 seconds video of a small village of two hundred houses during 1940 and during that time a small home that home is built by mud in that home husband and wife are living they are lord basavanna devotis they worn linga on their neck husband is wearing\nWhite dhoti and red towel and wife is wearing vibhuti and kunkam wearing trendisnal green saree they have a baby boy in there home during baby naming ceremony there relations and hindu swamiji gethered swamiji wearing saffron colour khavi and rudrakshi long hairs and beards his blessing that baby boy",
-    "source": "mrtwostroker48@gmail.com (prompts.chat)",
-    "type": "TEXT",
-    "slug": "1940s-village-life",
-    "folder": "general",
-    "path": "prompts/general/1940s-village-life.md"
+    "path": "prompts/general/ya-l-boya-tablona-bak.md"
   }
 ]

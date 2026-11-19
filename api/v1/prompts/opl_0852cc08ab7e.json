@@ -1,0 +1,21 @@
+{
+  "id": "opl_0852cc08ab7e",
+  "slug": "flipbook-photo-animation-video-concept",
+  "title": "Flipbook Photo Animation Video Concept",
+  "prompt": "${The fox}If you don't have photos yet, I can create a 10-second educational-style video concept showing a sequence of still photographs rapidly flipping through a stack, gradually creating the illusion of smooth motion—like a flipbook.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "The fox",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7372fdd4131"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0852cc08ab7e.json"
+}
