@@ -1160,9 +1160,17 @@
         filtered = catalog.filter(item => {
           if (activeCategory !== 'all' && item.folder !== activeCategory) return false;
           if (!query) return true;
-          return item.title.toLowerCase().includes(query) ||
-                 item.snippet.toLowerCase().includes(query) ||
-                 (item.variables && item.variables.some(v => v.toLowerCase().includes(query)));
+          const title = String(item.title || '').toLowerCase();
+          const category = String(item.category || '').toLowerCase();
+          const snippet = String(item.snippet || '').toLowerCase();
+          const variables = (item.variables || []).map(variable => {
+            if (typeof variable === 'string') return variable;
+            return `${variable.name || ''} ${variable.default || ''}`;
+          }).join(' ').toLowerCase();
+          return title.includes(query) ||
+                 category.includes(query) ||
+                 snippet.includes(query) ||
+                 variables.includes(query);
         });
 
         currentPage = 1;
