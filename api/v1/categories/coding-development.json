@@ -1,7 +1,7 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-19T16:17:28.363Z",
+  "last_updated": "2026-11-19T16:36:52.857Z",
   "total": 1300,
   "prompts": [
     {
@@ -1325,7 +1325,7 @@
       "provenance_status": "needs-review",
       "lifecycle_status": "draft",
       "source_ids": [
-        "src_c7372fdd4131"
+        "src_4f1d62bb1235"
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3bc125ef7e4a.json"
@@ -7656,7 +7656,7 @@
       "provenance_status": "needs-review",
       "lifecycle_status": "draft",
       "source_ids": [
-        "src_31fcdfe2726b"
+        "src_c7372fdd4131"
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c4a1e54a07c.json"
@@ -16035,7 +16035,7 @@
       "provenance_status": "needs-review",
       "lifecycle_status": "draft",
       "source_ids": [
-        "src_1561961eb7db"
+        "src_c7372fdd4131"
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_da232d04fc7b.json"
@@ -21345,7 +21345,7 @@
       "provenance_status": "needs-review",
       "lifecycle_status": "draft",
       "source_ids": [
-        "src_1b6d4825ac85"
+        "src_c7372fdd4131"
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf074fd40421.json"

@@ -1,7 +1,7 @@
 # Open-Source Product Analysis and Duplication
 
 **Category:** Coding & Development  
-**Source:** seva.valeev01@gmail.com (prompts.chat)
+**Source:** prompts.chat
 
 ## Prompt
 

@@ -1,7 +1,7 @@
 # Debugging Detective
 
 **Category:** Coding & Development  
-**Source:** mikeaitrends24 (prompts.chat)
+**Source:** prompts.chat
 
 ## Prompt
 

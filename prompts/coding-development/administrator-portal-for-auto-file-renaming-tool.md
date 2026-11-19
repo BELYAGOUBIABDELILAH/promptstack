@@ -1,7 +1,7 @@
 # Administrator Portal for Auto File Renaming Tool
 
 **Category:** Coding & Development  
-**Source:** prompts.chat
+**Source:** ramsham355@gmail.com (prompts.chat)
 
 ## Prompt
 

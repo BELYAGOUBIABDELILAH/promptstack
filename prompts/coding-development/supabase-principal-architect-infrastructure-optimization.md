@@ -1,7 +1,7 @@
 # Supabase Principal Architect Infrastructure Optimization
 
 **Category:** Coding & Development  
-**Source:** sam.hiotis@gmail.com (prompts.chat)
+**Source:** prompts.chat
 
 ## Prompt
 

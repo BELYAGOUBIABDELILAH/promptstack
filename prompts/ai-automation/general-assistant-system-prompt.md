@@ -1,7 +1,7 @@
 # General Assistant System Prompt
 
 **Category:** AI & Automation  
-**Source:** prompts.chat
+**Source:** amvicioushecs (prompts.chat)
 
 ## Prompt
 

@@ -1615,7 +1615,7 @@ Rules:
 Use variables for customizable interaction:
 - ${topic} for the subject of inquiry
 - ${task} for specific administrative support needed
-- ${language:English} for response language preference",prompts.chat,TEXT,general-assistant-system-prompt,ai-automation,prompts/ai-automation/general-assistant-system-prompt.md
+- ${language:English} for response language preference",amvicioushecs (prompts.chat),TEXT,general-assistant-system-prompt,ai-automation,prompts/ai-automation/general-assistant-system-prompt.md
 Generate an enhanced command prompt,AI & Automation,"Generate an enhanced version of this prompt (reply with only the enhanced prompt - no conversation, explanations, lead-in, bullet points, placeholders, or surrounding quotes):
 
 ${userInput}",src_dab9fa094922,TEXT,generate-an-enhanced-command-prompt,ai-automation,prompts/ai-automation/generate-an-enhanced-command-prompt.md
@@ -7847,7 +7847,7 @@ Rules and Constraints:
 - Maintain a clean and professional user interface.
 - Provide options to download ZIP and processing reports after completion.
 
-You will use variables such as `${month}` and `${year}` in file naming for flexibility.",prompts.chat,TEXT,administrator-portal-for-auto-file-renaming-tool,coding-development,prompts/coding-development/administrator-portal-for-auto-file-renaming-tool.md
+You will use variables such as `${month}` and `${year}` in file naming for flexibility.",ramsham355@gmail.com (prompts.chat),TEXT,administrator-portal-for-auto-file-renaming-tool,coding-development,prompts/coding-development/administrator-portal-for-auto-file-renaming-tool.md
 Advanced Account Research,Coding & Development,"<role>
 You are an Expert Market Research Analyst with deep expertise in:
 - Company intelligence gathering and competitive positioning analysis
@@ -26776,7 +26776,7 @@ For each issue I bring you, follow this process:
 4. Once confirmed, explain the fix and — more importantly — explain WHY the bug happened, so I avoid the same class of mistake again
 5. Flag if this looks like a symptom of a deeper architectural issue rather than a one-off bug
 
-Keep your questions minimal and targeted — don't make me explain things you can infer. Prioritize the fastest path to root cause over exhaustive theorizing. My first issue is: ${describe_your_bug_here}",mikeaitrends24 (prompts.chat),TEXT,debugging-detective,coding-development,prompts/coding-development/debugging-detective.md
+Keep your questions minimal and targeted — don't make me explain things you can infer. Prioritize the fastest path to root cause over exhaustive theorizing. My first issue is: ${describe_your_bug_here}",prompts.chat,TEXT,debugging-detective,coding-development,prompts/coding-development/debugging-detective.md
 Debugging Session Assistant,Coding & Development,"Let's debug this complex issue systematically. I'll track our hypotheses and test results.
 
 ## Problem Statement
@@ -54491,7 +54491,7 @@ Rules:
 - Maintain ethical standards and ensure compliance with relevant laws and open-source licenses.
 - Provide comprehensive documentation for all components and code.
 Variables:
-- ${productName} - the name of the product to analyze",seva.valeev01@gmail.com (prompts.chat),TEXT,open-source-product-analysis-and-duplication,coding-development,prompts/coding-development/open-source-product-analysis-and-duplication.md
+- ${productName} - the name of the product to analyze",prompts.chat,TEXT,open-source-product-analysis-and-duplication,coding-development,prompts/coding-development/open-source-product-analysis-and-duplication.md
 OpenAI Create Plan Skill,Coding & Development,"---
 name: create-plan
 description: Create a concise plan. Use when a user explicitly asks for a plan related to a coding task.
@@ -75565,7 +75565,7 @@ Describe what this skill does and how the agent should use it.
 ## Instructions
 
 - Step 1: ...
-- Step 2: ...",sam.hiotis@gmail.com (prompts.chat),TEXT,supabase-principal-architect-infrastructure-optimization,coding-development,prompts/coding-development/supabase-principal-architect-infrastructure-optimization.md
+- Step 2: ...",prompts.chat,TEXT,supabase-principal-architect-infrastructure-optimization,coding-development,prompts/coding-development/supabase-principal-architect-infrastructure-optimization.md
 Surreal CGI-Photography Hybrid Portrait,Coding & Development,"{
   ""prompt_type"": ""Surreal CGI-Photography Hybrid Portrait"",
   ""subject"": {
