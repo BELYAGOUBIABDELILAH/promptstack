@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 32,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_c7e3f2a0c1e8",
+      "slug": "seo-advice",
+      "title": "SEO Advice",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c7e3f2a0c1e8.json"
+    },
     {
       "id": "opl_40ead337a830",
       "slug": "seo-auditor-agent-role",
@@ -1174,15 +1183,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_82e88a725438.json"
-    },
-    {
-      "id": "opl_dfcd272b2bab",
-      "slug": "solar-system-scale-model-classroom-poster",
-      "title": "Solar System Scale Model Classroom Poster",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dfcd272b2bab.json"
     }
   ]
 }

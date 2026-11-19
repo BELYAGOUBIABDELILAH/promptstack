@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 27,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_d8bd297cd053",
+      "slug": "photoreal-underwater-kelp-forest-with-a-sea-otter-holding-a-sea-urchin",
+      "title": "Photoreal Underwater Kelp Forest with a Sea Otter Holding a Sea Urchin",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d8bd297cd053.json"
+    },
     {
       "id": "opl_135fed0d7640",
       "slug": "photoreal-village-blacksmith-forging-a-glowing-blade",
@@ -1245,15 +1254,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3b60a5ed7770.json"
-    },
-    {
-      "id": "opl_d5829b835a53",
-      "slug": "pricing-retrieval-bot",
-      "title": "Pricing Retrieval Bot",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d5829b835a53.json"
     }
   ]
 }

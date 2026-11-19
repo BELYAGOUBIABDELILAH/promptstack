@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 38,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_f9e7ae0be967",
+      "slug": "vintage-food-cafe-travel-diary-photo-scrapbook-journal-collage",
+      "title": "Vintage Food & Café Travel Diary: Photo + Scrapbook Journal Collage",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f9e7ae0be967.json"
+    },
     {
       "id": "opl_93f99e512baa",
       "slug": "vintage-invention-patent",
@@ -1126,15 +1135,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a1cce478a1c7.json"
-    },
-    {
-      "id": "opl_24e5d2894a53",
-      "slug": "xcode-mcp-for-pi-agent",
-      "title": "xcode-mcp (for pi agent)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_24e5d2894a53.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 35,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_27eda67c6b0c",
+      "slug": "system-prompt-editor-general",
+      "title": "System Prompt Editor (General)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_27eda67c6b0c.json"
+    },
     {
       "id": "opl_d7526f4d1134",
       "slug": "system-prompt-enhancement-ideator",
@@ -994,15 +1003,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7dbddbad2559.json"
-    },
-    {
-      "id": "opl_68fe08e3cb9d",
-      "slug": "the-glass-doppelg-nger",
-      "title": "The Glass Doppelgänger",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_68fe08e3cb9d.json"
     }
   ]
 }

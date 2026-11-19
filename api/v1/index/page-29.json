@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 29,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_11b1d98b803d",
+      "slug": "proxmox-virtualization-expert",
+      "title": "Proxmox Virtualization Expert",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_11b1d98b803d.json"
+    },
     {
       "id": "opl_fec089c51205",
       "slug": "pseudo-ai-messenger",
@@ -1000,15 +1009,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e6bec92474a8.json"
-    },
-    {
-      "id": "opl_82aad9634b1e",
-      "slug": "recommendation-capture-utility",
-      "title": "Recommendation Capture Utility",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_82aad9634b1e.json"
     }
   ]
 }

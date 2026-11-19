@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 37,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_535fce2327ed",
+      "slug": "ubuntu-audio-input-output-loop-virtual-connection-specialist",
+      "title": "ubuntu audio input/output,loop/virtual connection specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_535fce2327ed.json"
+    },
     {
       "id": "opl_0e48b5a0727c",
       "slug": "ugc-style-tiktok-script-generator-for-gen-z-skincare",
@@ -1144,15 +1153,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_11c92376151b.json"
-    },
-    {
-      "id": "opl_f9e7ae0be967",
-      "slug": "vintage-food-cafe-travel-diary-photo-scrapbook-journal-collage",
-      "title": "Vintage Food & Café Travel Diary: Photo + Scrapbook Journal Collage",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f9e7ae0be967.json"
     }
   ]
 }

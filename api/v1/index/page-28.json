@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 28,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_d5829b835a53",
+      "slug": "pricing-retrieval-bot",
+      "title": "Pricing Retrieval Bot",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d5829b835a53.json"
+    },
     {
       "id": "opl_47973b70c39c",
       "slug": "principal-ai-code-reviewer-senior-software-engineer-architect-prompt",
@@ -1236,15 +1245,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b0fb6476a31f.json"
-    },
-    {
-      "id": "opl_11b1d98b803d",
-      "slug": "proxmox-virtualization-expert",
-      "title": "Proxmox Virtualization Expert",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_11b1d98b803d.json"
     }
   ]
 }

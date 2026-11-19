@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 30,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prompts": [
+    {
+      "id": "opl_82aad9634b1e",
+      "slug": "recommendation-capture-utility",
+      "title": "Recommendation Capture Utility",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_82aad9634b1e.json"
+    },
     {
       "id": "opl_500caa0be9cf",
       "slug": "recreate-the-style-of-uploaded-videos-and-images",
@@ -1093,15 +1102,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f41ae2e85f9a.json"
-    },
-    {
-      "id": "opl_9fb5ad97d986",
-      "slug": "rpa-guide",
-      "title": "RPA Guide",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9fb5ad97d986.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 31,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_9fb5ad97d986",
+      "slug": "rpa-guide",
+      "title": "RPA Guide",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9fb5ad97d986.json"
+    },
     {
       "id": "opl_4e4ce94e18c2",
       "slug": "rpa-agentic-ai-process-developer-portfolio-design-for-claude",
@@ -1229,15 +1238,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_590411d9f6e4.json"
-    },
-    {
-      "id": "opl_c7e3f2a0c1e8",
-      "slug": "seo-advice",
-      "title": "SEO Advice",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c7e3f2a0c1e8.json"
     }
   ]
 }

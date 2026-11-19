@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 26,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
@@ -686,6 +686,15 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0157fe07616d.json"
     },
     {
+      "id": "opl_ab76e45c9586",
+      "slug": "personalized-remedy-from-gemini",
+      "title": "Personalized Remedy from Gemini",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ab76e45c9586.json"
+    },
+    {
       "id": "opl_2681ce74b87d",
       "slug": "personalized-skin-whitening-plan",
       "title": "Personalized Skin Whitening Plan",
@@ -1135,15 +1144,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_047e30f16c9f.json"
-    },
-    {
-      "id": "opl_d8bd297cd053",
-      "slug": "photoreal-underwater-kelp-forest-with-a-sea-otter-holding-a-sea-urchin",
-      "title": "Photoreal Underwater Kelp Forest with a Sea Otter Holding a Sea Urchin",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d8bd297cd053.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T18:20:51.183Z",
+  "last_updated": "2026-11-19T19:20:46.841Z",
   "page": 39,
   "per_page": 100,
-  "total": 3830,
+  "total": 3831,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_24e5d2894a53",
+      "slug": "xcode-mcp-for-pi-agent",
+      "title": "xcode-mcp (for pi agent)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_24e5d2894a53.json"
+    },
     {
       "id": "opl_8b281dd5fa0d",
       "slug": "xiaomi-company-self-service-management-system-frontend-devel",

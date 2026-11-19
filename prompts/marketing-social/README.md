@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**235 prompts in this category**
+**236 prompts in this category**
 
 ## Table of Contents
 
@@ -159,6 +159,7 @@
 - [Performing a Popular Song at a Concert](performing-a-popular-song-at-a-concert.md)
 - [person behaviour](person-behaviour.md)
 - [Personal Financial Adviosr](personal-financial-adviosr.md)
+- [Personalized Remedy from Gemini](personalized-remedy-from-gemini.md)
 - [Pest Control Social Media Content Calendar](pest-control-social-media-content-calendar.md)
 - [Pet Store Advertising Campaign Strategy](pet-store-advertising-campaign-strategy.md)
 - [Photo emhanced](photo-emhanced.md)
