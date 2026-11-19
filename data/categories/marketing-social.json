@@ -2398,5 +2398,15 @@
     "slug": "five-image-identity-preserving-hybrid-portrait-series",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/five-image-identity-preserving-hybrid-portrait-series.md"
+  },
+  {
+    "act": "Five-Scene Clean-Shaven Identity Portrait Series",
+    "category": "Marketing & Social",
+    "prompt": "CORE IDENTITY (constant across all 5 images):\nRecreate the exact man from the reference photos — fully recognizable likeness: his real face, gaze, head shape, height and body proportions. CRITICAL: he is completely CLEAN-SHAVEN — no beard, no stubble, no facial hair at all; smooth clear skin on the entire face.\n\nFACE vs BODY RENDER SPLIT (signature of this style):\n- The FACE is rendered sharp, clear, high-detail and almost real — every feature crisp, eyes alive, skin clean and luminous. The face is the anchor of truth in the image.\n- The BODY and clothing gradually shift into the invented artistic render — softer, semi-drawn, sculptural, with hand-touched texture — so the realness dissolves the further you move from the face.\n\nWARDROBE: only REAL wearable modern clothing (fitted t-shirt, overshirt, wool coat, straight trousers, clean sneakers/boots) — but styled sharply, effortlessly cool, magazine-level fit.\n\nENVIRONMENT (critical — \"real but not real\"):\nSpaces that look photographically real at first glance but are quietly IMPOSSIBLE: a street with no sky, a room where the floor becomes fog, a wall lit by a sun that doesn't exist, gravity slightly wrong, horizon missing. Uncanny, dreamlike, minimal and empty — one small surreal detail maximum. The viewer should feel \"this place exists... but it can't.\"\n\nMOOD: bold, striking, iconic — deep interior emotion in the eyes; the image should stop the scroll.\n\nCREATE 5 IMAGES — 5 DIFFERENT INVENTED GENRES OF THE SAME MAN:\n1. Standing in an endless pale street with no sky, hands in pockets, wind in his coat — frozen time.\n2. Seated on a lone chair on a floor of soft mirror-fog, leaning forward, staring into the lens — raw confrontation.\n3. Mid-step through a doorway of pure light standing alone in darkness — solitary motion.\n4. Leaning on a wall whose shadow bends the wrong way, eyes half-closed — calm after the storm.\n5. Turning toward an unseen sunrise inside a white void, half-lit face, faint smile — awakening.\n\nSTRICT NEGATIVES: NO beard, NO stubble, NO facial hair; no full photorealism, no cartoon exaggeration, no fantasy costumes, no known art-style names, no busy scenes, no identity drift between images.",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "five-scene-clean-shaven-identity-portrait-series",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/five-scene-clean-shaven-identity-portrait-series.md"
   }
 ]
