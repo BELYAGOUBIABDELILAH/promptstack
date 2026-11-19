@@ -1,7 +1,7 @@
 {
   "folder": "food-recipes",
   "name": "Food & Recipes",
-  "last_updated": "2026-11-19T16:36:52.857Z",
+  "last_updated": "2026-11-19T17:54:25.975Z",
   "total": 7,
   "prompts": [
     {
@@ -55,7 +55,7 @@
         "src_c7372fdd4131"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a84a16ef499.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1a84a16ef499.json"
     },
     {
       "id": "opl_681f53099cbb",
@@ -71,7 +71,7 @@
         "src_c7372fdd4131"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_681f53099cbb.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_681f53099cbb.json"
     },
     {
       "id": "opl_4d5ab609701c",
@@ -87,7 +87,7 @@
         "src_a5106fc191c4"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d5ab609701c.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4d5ab609701c.json"
     },
     {
       "id": "opl_df6c271e399c",
@@ -103,7 +103,7 @@
         "src_c7372fdd4131"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df6c271e399c.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_df6c271e399c.json"
     },
     {
       "id": "opl_2f65345f210c",
@@ -119,7 +119,7 @@
         "src_a5106fc191c4"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f65345f210c.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2f65345f210c.json"
     },
     {
       "id": "opl_cec13c4693b1",
@@ -135,7 +135,7 @@
         "src_c7372fdd4131"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cec13c4693b1.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cec13c4693b1.json"
     },
     {
       "id": "opl_5f6e8d7fe359",
@@ -151,7 +151,7 @@
         "src_19b9a2997afd"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f6e8d7fe359.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5f6e8d7fe359.json"
     }
   ]
 }

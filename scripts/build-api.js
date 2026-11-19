@@ -46,7 +46,7 @@ function getRepositorySlug() {
 
 const repositorySlug = getRepositorySlug();
 const [repositoryOwner, repoName] = repositorySlug.split('/');
-const BASE_URL   = `https://${repositoryOwner.toLowerCase()}.github.io/${repoName}`;
+const BASE_URL   = 'https://prompts.axiomrepo.tech';
 const REPOSITORY_URL = `https://github.com/${repositorySlug}`;
 
 const PAGE_SIZE  = 100;

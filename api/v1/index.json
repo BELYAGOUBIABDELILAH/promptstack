@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-19T16:36:52.857Z",
+  "last_updated": "2026-11-19T17:54:25.975Z",
   "page": 1,
   "per_page": 100,
   "total": 3830,
   "total_pages": 39,
-  "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
+  "next": "https://prompts.axiomrepo.tech/v1/index/page-2.json",
   "prev": null,
   "prompts": [
     {
@@ -14,7 +14,7 @@
       "category": "General",
       "folder": "general",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7d540931a76a.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7d540931a76a.json"
     },
     {
       "id": "opl_8fbf9edcd378",
@@ -32,7 +32,7 @@
           "default": "10"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fbf9edcd378.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8fbf9edcd378.json"
     },
     {
       "id": "opl_005ebe4d9387",
@@ -41,7 +41,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_005ebe4d9387.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_005ebe4d9387.json"
     },
     {
       "id": "opl_03ba957d0a22",
@@ -50,7 +50,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03ba957d0a22.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_03ba957d0a22.json"
     },
     {
       "id": "opl_48638e055968",
@@ -68,7 +68,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_48638e055968.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_48638e055968.json"
     },
     {
       "id": "opl_eed064e780bd",
@@ -86,7 +86,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eed064e780bd.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_eed064e780bd.json"
     },
     {
       "id": "opl_cd2748b478f4",
@@ -104,7 +104,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd2748b478f4.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cd2748b478f4.json"
     },
     {
       "id": "opl_1d7f2dedf577",
@@ -113,7 +113,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d7f2dedf577.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1d7f2dedf577.json"
     },
     {
       "id": "opl_3db8291da89f",
@@ -122,7 +122,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3db8291da89f.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3db8291da89f.json"
     },
     {
       "id": "opl_b6185048558a",
@@ -131,7 +131,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b6185048558a.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b6185048558a.json"
     },
     {
       "id": "opl_af5d6540d293",
@@ -140,7 +140,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af5d6540d293.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_af5d6540d293.json"
     },
     {
       "id": "opl_d43afe51ac1e",
@@ -149,7 +149,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d43afe51ac1e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d43afe51ac1e.json"
     },
     {
       "id": "opl_518690d6d496",
@@ -158,7 +158,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_518690d6d496.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_518690d6d496.json"
     },
     {
       "id": "opl_c52b5553eb53",
@@ -167,7 +167,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c52b5553eb53.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c52b5553eb53.json"
     },
     {
       "id": "opl_07e8a42a588c",
@@ -176,7 +176,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07e8a42a588c.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_07e8a42a588c.json"
     },
     {
       "id": "opl_c204b562abcc",
@@ -185,7 +185,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c204b562abcc.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c204b562abcc.json"
     },
     {
       "id": "opl_1293a8655b77",
@@ -194,7 +194,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1293a8655b77.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1293a8655b77.json"
     },
     {
       "id": "opl_f888230d8788",
@@ -203,7 +203,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f888230d8788.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f888230d8788.json"
     },
     {
       "id": "opl_dd71a9d32f95",
@@ -212,7 +212,7 @@
       "category": "Security",
       "folder": "security",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd71a9d32f95.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dd71a9d32f95.json"
     },
     {
       "id": "opl_40dd44cf090d",
@@ -234,7 +234,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40dd44cf090d.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_40dd44cf090d.json"
     },
     {
       "id": "opl_b66c1fc3576e",
@@ -243,7 +243,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b66c1fc3576e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b66c1fc3576e.json"
     },
     {
       "id": "opl_17ec2424b2d6",
@@ -252,7 +252,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_17ec2424b2d6.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_17ec2424b2d6.json"
     },
     {
       "id": "opl_a444053e18ce",
@@ -261,7 +261,7 @@
       "category": "Security",
       "folder": "security",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a444053e18ce.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a444053e18ce.json"
     },
     {
       "id": "opl_a0ea04a6dfe4",
@@ -270,7 +270,7 @@
       "category": "AI & Automation",
       "folder": "ai-automation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0ea04a6dfe4.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a0ea04a6dfe4.json"
     },
     {
       "id": "opl_75367788da77",
@@ -279,7 +279,7 @@
       "category": "AI & Automation",
       "folder": "ai-automation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75367788da77.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_75367788da77.json"
     },
     {
       "id": "opl_d0e1938c110b",
@@ -297,7 +297,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0e1938c110b.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d0e1938c110b.json"
     },
     {
       "id": "opl_22b867875e01",
@@ -306,7 +306,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_22b867875e01.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_22b867875e01.json"
     },
     {
       "id": "opl_a647f7ae8e5e",
@@ -315,7 +315,7 @@
       "category": "Security",
       "folder": "security",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a647f7ae8e5e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a647f7ae8e5e.json"
     },
     {
       "id": "opl_a3d16469bf08",
@@ -324,7 +324,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3d16469bf08.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a3d16469bf08.json"
     },
     {
       "id": "opl_328ae8a53eeb",
@@ -333,7 +333,7 @@
       "category": "Security",
       "folder": "security",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_328ae8a53eeb.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_328ae8a53eeb.json"
     },
     {
       "id": "opl_e067b72cc920",
@@ -363,7 +363,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e067b72cc920.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e067b72cc920.json"
     },
     {
       "id": "opl_aa81c6913b7f",
@@ -372,7 +372,7 @@
       "category": "Documentation",
       "folder": "documentation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa81c6913b7f.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_aa81c6913b7f.json"
     },
     {
       "id": "opl_c177d8efdfc8",
@@ -381,7 +381,7 @@
       "category": "Games & Fun",
       "folder": "games-fun",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c177d8efdfc8.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c177d8efdfc8.json"
     },
     {
       "id": "opl_e722c7d1187a",
@@ -390,7 +390,7 @@
       "category": "Documentation",
       "folder": "documentation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e722c7d1187a.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e722c7d1187a.json"
     },
     {
       "id": "opl_d614fa9da78c",
@@ -399,7 +399,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d614fa9da78c.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d614fa9da78c.json"
     },
     {
       "id": "opl_a53d1e183bb3",
@@ -408,7 +408,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a53d1e183bb3.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a53d1e183bb3.json"
     },
     {
       "id": "opl_d13a86549225",
@@ -422,7 +422,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d13a86549225.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d13a86549225.json"
     },
     {
       "id": "opl_d508a41fe13e",
@@ -431,7 +431,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d508a41fe13e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d508a41fe13e.json"
     },
     {
       "id": "opl_9f6ad67e22d5",
@@ -440,7 +440,7 @@
       "category": "AI & Automation",
       "folder": "ai-automation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9f6ad67e22d5.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9f6ad67e22d5.json"
     },
     {
       "id": "opl_6b3b01d8d2ef",
@@ -449,7 +449,7 @@
       "category": "Marketing & Social",
       "folder": "marketing-social",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b3b01d8d2ef.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6b3b01d8d2ef.json"
     },
     {
       "id": "opl_365592972409",
@@ -458,7 +458,7 @@
       "category": "General",
       "folder": "general",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_365592972409.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_365592972409.json"
     },
     {
       "id": "opl_9051647e5ce0",
@@ -467,7 +467,7 @@
       "category": "Business & Career",
       "folder": "business-career",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9051647e5ce0.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9051647e5ce0.json"
     },
     {
       "id": "opl_8609af8f51ca",
@@ -476,7 +476,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8609af8f51ca.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8609af8f51ca.json"
     },
     {
       "id": "opl_1cac53fcafe0",
@@ -485,7 +485,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1cac53fcafe0.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1cac53fcafe0.json"
     },
     {
       "id": "opl_f33772b314d9",
@@ -511,7 +511,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f33772b314d9.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f33772b314d9.json"
     },
     {
       "id": "opl_353fe94ed1c1",
@@ -529,7 +529,7 @@
           "default": "2"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_353fe94ed1c1.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_353fe94ed1c1.json"
     },
     {
       "id": "opl_36b20c6fdfcb",
@@ -543,7 +543,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36b20c6fdfcb.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_36b20c6fdfcb.json"
     },
     {
       "id": "opl_519de7d4ed34",
@@ -561,7 +561,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_519de7d4ed34.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_519de7d4ed34.json"
     },
     {
       "id": "opl_31622910a066",
@@ -570,7 +570,7 @@
       "category": "Education & Learning",
       "folder": "education-learning",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31622910a066.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_31622910a066.json"
     },
     {
       "id": "opl_d7dd20185c6e",
@@ -579,7 +579,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d7dd20185c6e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d7dd20185c6e.json"
     },
     {
       "id": "opl_7a3290504d07",
@@ -588,7 +588,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7a3290504d07.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7a3290504d07.json"
     },
     {
       "id": "opl_014384f55d24",
@@ -597,7 +597,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_014384f55d24.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_014384f55d24.json"
     },
     {
       "id": "opl_59a491a67b76",
@@ -606,7 +606,7 @@
       "category": "Marketing & Social",
       "folder": "marketing-social",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59a491a67b76.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_59a491a67b76.json"
     },
     {
       "id": "opl_b780b892784f",
@@ -615,7 +615,7 @@
       "category": "AI & Automation",
       "folder": "ai-automation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b780b892784f.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b780b892784f.json"
     },
     {
       "id": "opl_71932c41e62e",
@@ -624,7 +624,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_71932c41e62e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_71932c41e62e.json"
     },
     {
       "id": "opl_275d6fb27ab7",
@@ -638,7 +638,7 @@
           "default": "Istanbul"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_275d6fb27ab7.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_275d6fb27ab7.json"
     },
     {
       "id": "opl_6c67f57c551e",
@@ -647,7 +647,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c67f57c551e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6c67f57c551e.json"
     },
     {
       "id": "opl_3a2313c8432a",
@@ -656,7 +656,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3a2313c8432a.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3a2313c8432a.json"
     },
     {
       "id": "opl_f76c756c4de8",
@@ -665,7 +665,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f76c756c4de8.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f76c756c4de8.json"
     },
     {
       "id": "opl_ba7d7acdf53c",
@@ -674,7 +674,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba7d7acdf53c.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ba7d7acdf53c.json"
     },
     {
       "id": "opl_cd180c361748",
@@ -683,7 +683,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd180c361748.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cd180c361748.json"
     },
     {
       "id": "opl_a777fabf66c7",
@@ -692,7 +692,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a777fabf66c7.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a777fabf66c7.json"
     },
     {
       "id": "opl_fbf986276dc3",
@@ -701,7 +701,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbf986276dc3.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fbf986276dc3.json"
     },
     {
       "id": "opl_00ff5b9beff9",
@@ -727,7 +727,7 @@
           "default": "Front view"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00ff5b9beff9.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_00ff5b9beff9.json"
     },
     {
       "id": "opl_6fccdfffa8b8",
@@ -736,7 +736,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fccdfffa8b8.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6fccdfffa8b8.json"
     },
     {
       "id": "opl_238a07be6924",
@@ -745,7 +745,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_238a07be6924.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_238a07be6924.json"
     },
     {
       "id": "opl_abc042afeccf",
@@ -754,7 +754,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_abc042afeccf.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_abc042afeccf.json"
     },
     {
       "id": "opl_cde3b685ab3f",
@@ -763,7 +763,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cde3b685ab3f.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cde3b685ab3f.json"
     },
     {
       "id": "opl_be4eb6e2344f",
@@ -772,7 +772,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be4eb6e2344f.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_be4eb6e2344f.json"
     },
     {
       "id": "opl_89e62205e9a1",
@@ -790,7 +790,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_89e62205e9a1.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_89e62205e9a1.json"
     },
     {
       "id": "opl_738ca787e124",
@@ -799,7 +799,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_738ca787e124.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_738ca787e124.json"
     },
     {
       "id": "opl_6182b602d32e",
@@ -825,7 +825,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6182b602d32e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6182b602d32e.json"
     },
     {
       "id": "opl_78962892dfb9",
@@ -851,7 +851,7 @@
           "default": "defaultPreferences"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_78962892dfb9.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_78962892dfb9.json"
     },
     {
       "id": "opl_904f22810bf3",
@@ -860,7 +860,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_904f22810bf3.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_904f22810bf3.json"
     },
     {
       "id": "opl_530d7fabcb53",
@@ -869,7 +869,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_530d7fabcb53.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_530d7fabcb53.json"
     },
     {
       "id": "opl_529a8786f6b1",
@@ -878,7 +878,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_529a8786f6b1.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_529a8786f6b1.json"
     },
     {
       "id": "opl_f4e9331976cb",
@@ -887,7 +887,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4e9331976cb.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f4e9331976cb.json"
     },
     {
       "id": "opl_2a4c4749b685",
@@ -905,7 +905,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a4c4749b685.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2a4c4749b685.json"
     },
     {
       "id": "opl_39f5c8b96793",
@@ -914,7 +914,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39f5c8b96793.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_39f5c8b96793.json"
     },
     {
       "id": "opl_90e71949fc23",
@@ -923,7 +923,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90e71949fc23.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_90e71949fc23.json"
     },
     {
       "id": "opl_18b02e991544",
@@ -932,7 +932,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18b02e991544.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_18b02e991544.json"
     },
     {
       "id": "opl_d43e2ae9c657",
@@ -946,7 +946,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d43e2ae9c657.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d43e2ae9c657.json"
     },
     {
       "id": "opl_f609cf840cf2",
@@ -955,7 +955,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f609cf840cf2.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f609cf840cf2.json"
     },
     {
       "id": "opl_0f5c784a6885",
@@ -964,7 +964,7 @@
       "category": "Business & Career",
       "folder": "business-career",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f5c784a6885.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0f5c784a6885.json"
     },
     {
       "id": "opl_fa2d2c114d3e",
@@ -973,7 +973,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa2d2c114d3e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fa2d2c114d3e.json"
     },
     {
       "id": "opl_5af17ef9245d",
@@ -982,7 +982,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5af17ef9245d.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5af17ef9245d.json"
     },
     {
       "id": "opl_004129436e4f",
@@ -991,7 +991,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_004129436e4f.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_004129436e4f.json"
     },
     {
       "id": "opl_bf9ffdd961ad",
@@ -1000,7 +1000,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf9ffdd961ad.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bf9ffdd961ad.json"
     },
     {
       "id": "opl_4bc3078438e5",
@@ -1009,7 +1009,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4bc3078438e5.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4bc3078438e5.json"
     },
     {
       "id": "opl_6dc4814ec645",
@@ -1018,7 +1018,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dc4814ec645.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6dc4814ec645.json"
     },
     {
       "id": "opl_0163327586e7",
@@ -1027,7 +1027,7 @@
       "category": "Marketing & Social",
       "folder": "marketing-social",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0163327586e7.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0163327586e7.json"
     },
     {
       "id": "opl_6a1c43a06672",
@@ -1036,7 +1036,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a1c43a06672.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6a1c43a06672.json"
     },
     {
       "id": "opl_32c8a241fa01",
@@ -1050,7 +1050,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32c8a241fa01.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_32c8a241fa01.json"
     },
     {
       "id": "opl_77bfb67e8796",
@@ -1059,7 +1059,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77bfb67e8796.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_77bfb67e8796.json"
     },
     {
       "id": "opl_94abf609995e",
@@ -1068,7 +1068,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94abf609995e.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_94abf609995e.json"
     },
     {
       "id": "opl_84c4f5b728be",
@@ -1077,7 +1077,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84c4f5b728be.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_84c4f5b728be.json"
     },
     {
       "id": "opl_2c269068b4ee",
@@ -1086,7 +1086,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c269068b4ee.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2c269068b4ee.json"
     },
     {
       "id": "opl_05850adffa04",
@@ -1095,7 +1095,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05850adffa04.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_05850adffa04.json"
     },
     {
       "id": "opl_e60b9f24b16b",
@@ -1104,7 +1104,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e60b9f24b16b.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e60b9f24b16b.json"
     },
     {
       "id": "opl_453dd9420974",
@@ -1113,7 +1113,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_453dd9420974.json"
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_453dd9420974.json"
     }
   ]
 }

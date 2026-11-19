@@ -26,7 +26,7 @@ Promptstack provides structured prompts across 19 categories. Each prompt is ava
 
 - **Variables:** Prompts use `${variable}` placeholders so you can fill in your own context or inputs.
 - **Categories:** Prompts are organized into 19 task-oriented domains.
-- **Access:** Browse prompts directly on GitHub, use the [web explorer](https://belyagoubiabdelilah.github.io/promptstack/), or query the static JSON API.
+- **Access:** Browse prompts directly on GitHub, use the [web explorer](https://prompts.axiomrepo.tech/), or query the static JSON API.
 
 ---
 
@@ -75,15 +75,15 @@ Promptstack organizes prompts into 19 task-focused categories:
 
 Promptstack serves a free static JSON API hosted via GitHub Pages. No registration, credentials, or rate limits.
 
-**Base URL:** `https://belyagoubiabdelilah.github.io/promptstack`
+**Base URL:** `https://prompts.axiomrepo.tech`
 
 | Endpoint | Description |
 |---|---|
-| [`/v1/stats.json`](https://belyagoubiabdelilah.github.io/promptstack/v1/stats.json) | Global prompt count, category breakdown, and endpoint directory |
-| [`/v1/catalog.json`](https://belyagoubiabdelilah.github.io/promptstack/v1/catalog.json) | Complete lightweight searchable catalog of all prompts with snippets |
-| [`/v1/categories/index.json`](https://belyagoubiabdelilah.github.io/promptstack/v1/categories/index.json) | List of all 19 categories with prompt counts and URLs |
+| [`/v1/stats.json`](https://prompts.axiomrepo.tech/v1/stats.json) | Global prompt count, category breakdown, and endpoint directory |
+| [`/v1/catalog.json`](https://prompts.axiomrepo.tech/v1/catalog.json) | Complete lightweight searchable catalog of all prompts with snippets |
+| [`/v1/categories/index.json`](https://prompts.axiomrepo.tech/v1/categories/index.json) | List of all 19 categories with prompt counts and URLs |
 | `/v1/categories/{folder}.json` | Complete list of all prompts in a category |
-| [`/v1/index.json`](https://belyagoubiabdelilah.github.io/promptstack/v1/index.json) | Paginated list of all prompts (page 1) |
+| [`/v1/index.json`](https://prompts.axiomrepo.tech/v1/index.json) | Paginated list of all prompts (page 1) |
 | `/v1/index/page-N.json` | Subsequent pagination pages |
 | `/v1/prompts/{id}.json` | Individual prompt by stable ID |
 
@@ -92,7 +92,7 @@ Promptstack serves a free static JSON API hosted via GitHub Pages. No registrati
 ```javascript
 // Fetch all AI Automation prompts
 const response = await fetch(
-  'https://belyagoubiabdelilah.github.io/promptstack/v1/categories/ai-automation.json'
+  'https://prompts.axiomrepo.tech/v1/categories/ai-automation.json'
 );
 const { prompts } = await response.json();
 console.log(prompts[0].title, prompts[0].prompt);
@@ -102,7 +102,7 @@ console.log(prompts[0].title, prompts[0].prompt);
 # Discover categories via Python
 import requests
 
-data = requests.get('https://belyagoubiabdelilah.github.io/promptstack/v1/categories/index.json').json()
+data = requests.get('https://prompts.axiomrepo.tech/v1/categories/index.json').json()
 for cat in data['categories']:
     print(f"{cat['name']}: {cat['prompt_count']} prompts")
 ```
