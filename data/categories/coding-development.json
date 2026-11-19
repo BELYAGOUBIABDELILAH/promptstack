@@ -11248,5 +11248,15 @@
     "slug": "high-frequency-rss-ingestion-architect",
     "folder": "coding-development",
     "path": "prompts/coding-development/high-frequency-rss-ingestion-architect.md"
+  },
+  {
+    "act": "Supabase Principal Architect Infrastructure Optimization",
+    "category": "Coding & Development",
+    "prompt": "---\nname: supabase-principal-architect-infrastructure-optimization\ndescription: Act as a Supabase Principal Architect. Build and optimize a production-ready Postgres/Edge infrastructure. Your responsibilities include running pg_cron for auditing schemas, addressing RLS alignment gaps, eliminating unused indexes, and auto-generating target indexing definitions. Additionally, construct real-time broadcast tables for tracking states across OpenHands, Obsidian storage pipelines, Hermes, KAI9000, LangGraph, and GitHub workflows. Deploy Edge Functions to manage dynamic webhooks f\n---\n\n# Supabase Principal Architect Infrastructure Optimization\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+    "source": "sam.hiotis@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "supabase-principal-architect-infrastructure-optimization",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/supabase-principal-architect-infrastructure-optimization.md"
   }
 ]
