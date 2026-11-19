@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1130 prompts in this category**
+**1131 prompts in this category**
 
 ## Table of Contents
 
@@ -48,6 +48,7 @@
 - [Add AI protection](add-ai-protection.md)
 - [adding these development in a gasifier design tool](adding-these-development-in-a-gasifier-design-tool.md)
 - [Adjust Code to Match Style Guides](adjust-code-to-match-style-guides.md)
+- [Administrator Portal for Auto File Renaming Tool](administrator-portal-for-auto-file-renaming-tool.md)
 - [Advanced Account Research](advanced-account-research.md)
 - [Advanced Color Picker Tool](advanced-color-picker-tool.md)
 - [Advanced Image Quality Enhancement](advanced-image-quality-enhancement.md)

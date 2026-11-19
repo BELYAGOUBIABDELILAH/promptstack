@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 25,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_46b6b34e1374",
+      "slug": "spending-analyst",
+      "title": "Spending Analyst",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_46b6b34e1374.json"
+    },
     {
       "id": "opl_cd61d3b9bd8d",
       "slug": "spending-commentary-summarizer",
@@ -1057,15 +1066,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac87293e2500.json"
-    },
-    {
-      "id": "opl_6bd013212d07",
-      "slug": "summarize-this-whiteboard",
-      "title": "Summarize This Whiteboard",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6bd013212d07.json"
     }
   ]
 }

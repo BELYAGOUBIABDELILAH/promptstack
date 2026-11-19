@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 6,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_8e9af8efd31e",
+      "slug": "chief-executive-officer",
+      "title": "Chief Executive Officer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e9af8efd31e.json"
+    },
     {
       "id": "opl_63396887f0b7",
       "slug": "children-s-book-creator",
@@ -1152,15 +1161,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c028a72bc0e1.json"
-    },
-    {
-      "id": "opl_e87bc26a20b5",
-      "slug": "commit-message-preparation",
-      "title": "Commit Message Preparation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e87bc26a20b5.json"
     }
   ]
 }

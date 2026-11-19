@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 2,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
@@ -376,6 +376,24 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb2a01895798.json"
+    },
+    {
+      "id": "opl_3bc125ef7e4a",
+      "slug": "administrator-portal-for-auto-file-renaming-tool",
+      "title": "Administrator Portal for Auto File Renaming Tool",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "month",
+          "default": null
+        },
+        {
+          "name": "year",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3bc125ef7e4a.json"
     },
     {
       "id": "opl_aaf9d7229b1c",
@@ -1225,28 +1243,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1a5d0a71b66.json"
-    },
-    {
-      "id": "opl_3ba2f1bcd43f",
-      "slug": "ai-stocks-investment-helper",
-      "title": "AI Stocks Investment Helper",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "investmentAmount",
-          "default": null
-        },
-        {
-          "name": "investmentHorizon",
-          "default": "long-term"
-        },
-        {
-          "name": "riskTolerance",
-          "default": "medium"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ba2f1bcd43f.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 16,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_dbb652f716c0",
+      "slug": "lead-generator-tracker-wordpilot-pro",
+      "title": "Lead Generator & Tracker (WordPilot.pro)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbb652f716c0.json"
+    },
     {
       "id": "opl_d1987b1b77ed",
       "slug": "lead-generator-tracker-for-wordpilot-pro",
@@ -1199,15 +1208,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e006fc18e1bc.json"
-    },
-    {
-      "id": "opl_928127979184",
-      "slug": "magician",
-      "title": "Magician",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_928127979184.json"
     }
   ]
 }

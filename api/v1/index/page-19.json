@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 19,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_5e4f80538906",
+      "slug": "nordic-cabin-living-room-at-dusk-reverse-angle-view",
+      "title": "Nordic Cabin Living Room at Dusk (Reverse Angle View)",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e4f80538906.json"
+    },
     {
       "id": "opl_7186b754819f",
       "slug": "nostalgic-road-trip-atmospheric-35mm-film-photograph-prompt",
@@ -1006,24 +1015,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0120043966ea.json"
-    },
-    {
-      "id": "opl_91fb6efc530c",
-      "slug": "personal-insight-analyzer-from-past-chats",
-      "title": "Personal Insight Analyzer from Past Chats",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "chatLogs",
-          "default": null
-        },
-        {
-          "name": "outputFormat",
-          "default": "summary"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91fb6efc530c.json"
     }
   ]
 }

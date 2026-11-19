@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 28,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_66432abaf290",
+      "slug": "ultra-realistic-candid-photo-of-a-turkish-woman-in-istanbul",
+      "title": "Ultra Realistic Candid Photo of a Turkish Woman in Istanbul Café",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66432abaf290.json"
+    },
     {
       "id": "opl_b28c6a4fc379",
       "slug": "ultra-detailed-vintage-photo-restoration-and-colorization",
@@ -1194,15 +1203,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e21fec4c4db.json"
-    },
-    {
-      "id": "opl_f731bd512f44",
-      "slug": "wfgy-2-0-core-flagship-self-healing-reasoning-os-for-any-llm",
-      "title": "WFGY 2.0 Core Flagship · Self-Healing Reasoning OS for Any LLM",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f731bd512f44.json"
     }
   ]
 }

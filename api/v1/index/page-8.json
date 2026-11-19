@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 8,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_bb9bb22d0a2e",
+      "slug": "create-blog-introduction",
+      "title": "Create Blog Introduction",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb9bb22d0a2e.json"
+    },
     {
       "id": "opl_8c37384ed591",
       "slug": "create-content-from-discord-blog-for-hazel-s-website",
@@ -1258,15 +1267,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_44c31bd3ffdc.json"
-    },
-    {
-      "id": "opl_c89622745f01",
-      "slug": "data-trends-identifier",
-      "title": "Data Trends Identifier",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c89622745f01.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 7,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_e87bc26a20b5",
+      "slug": "commit-message-preparation",
+      "title": "Commit Message Preparation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e87bc26a20b5.json"
+    },
     {
       "id": "opl_67916d2513a7",
       "slug": "communicate-in-rhymes",
@@ -1336,15 +1345,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9b83cfb0b23.json"
-    },
-    {
-      "id": "opl_bb9bb22d0a2e",
-      "slug": "create-blog-introduction",
-      "title": "Create Blog Introduction",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb9bb22d0a2e.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 15,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_8fbc7c93d9f3",
+      "slug": "investigate-performance-bottleneck",
+      "title": "Investigate Performance Bottleneck",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fbc7c93d9f3.json"
+    },
     {
       "id": "opl_e3d2c9c3a7eb",
       "slug": "investigative-research-assistant",
@@ -1039,15 +1048,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0bc07060c1f.json"
-    },
-    {
-      "id": "opl_dbb652f716c0",
-      "slug": "lead-generator-tracker-wordpilot-pro",
-      "title": "Lead Generator & Tracker (WordPilot.pro)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbb652f716c0.json"
     }
   ]
 }

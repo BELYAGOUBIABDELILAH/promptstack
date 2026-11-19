@@ -70745,6 +70745,23 @@ You will:
 Rules:
 - No user login features.
 - Maintain simplicity while offering advanced design aesthetics.",IcyMost (prompts.chat),TEXT,designing-a-glassmorphic-about-me-page,coding-development,prompts/coding-development/designing-a-glassmorphic-about-me-page.md
+Administrator Portal for Auto File Renaming Tool,Coding & Development,"Act as a web developer tasked with creating a modern Administrator Portal for an Auto File Renaming Tool. Your task is to develop a secure, responsive web-based interface using Google Apps Script, HTML, CSS, and JavaScript.
+
+Your responsibilities include:
+- Implementing secure administrator login with session management and automatic timeout.
+- Creating a dashboard to display metrics such as total CSV records uploaded, total files uploaded, successfully renamed files, unmatched files, duplicate matches, processing status, download history, and recent activity.
+- Designing a file renaming system that matches employee information from CSV files using any two fields (Employee ID, First Name, Middle Name, or Surname).
+- Allowing administrators to define a renaming template.
+- Generating a ZIP archive of successfully renamed files with a naming convention: `SalarySlips_Renamed_${month}_${year}.zip`.
+- Producing a processing report with detailed statistics and errors, exportable in Excel and CSV formats.
+
+Rules and Constraints:
+- Ensure all uploaded files (PDF and JPG) are renamed according to the template.
+- Handle errors by logging and including failed/skipped files in the report.
+- Maintain a clean and professional user interface.
+- Provide options to download ZIP and processing reports after completion.
+
+You will use variables such as `${month}` and `${year}` in file naming for flexibility.",ramsham355@gmail.com (prompts.chat),TEXT,administrator-portal-for-auto-file-renaming-tool,coding-development,prompts/coding-development/administrator-portal-for-auto-file-renaming-tool.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",

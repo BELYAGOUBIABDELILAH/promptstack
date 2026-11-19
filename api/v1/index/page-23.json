@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 23,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_703c56cfc374",
+      "slug": "review-code-for-security-issues",
+      "title": "Review Code for Security Issues",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_703c56cfc374.json"
+    },
     {
       "id": "opl_2e67f7ba441f",
       "slug": "review-mr-for-logical-errors",
@@ -1211,15 +1220,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad640bae0bb.json"
-    },
-    {
-      "id": "opl_e857b05a4a92",
-      "slug": "seo-prompt",
-      "title": "SEO Prompt",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e857b05a4a92.json"
     }
   ]
 }

@@ -3060,6 +3060,24 @@
     "snippet": "Review a code snippet and suggest improvements to align it with specified style guidelines. For each deviation from the style guide: 1. Quote the problematic line 2. Explain which"
   },
   {
+    "id": "opl_3bc125ef7e4a",
+    "title": "Administrator Portal for Auto File Renaming Tool",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "administrator-portal-for-auto-file-renaming-tool",
+    "variables": [
+      {
+        "name": "month",
+        "default": null
+      },
+      {
+        "name": "year",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a web developer tasked with creating a modern Administrator Portal for an Auto File Renaming Tool. Your task is to develop a secure, responsive web-based interface using Goo"
+  },
+  {
     "id": "opl_261d03573ddc",
     "title": "Advanced Account Research",
     "category": "Coding & Development",

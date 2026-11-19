@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 5,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_427077f27d57",
+      "slug": "boost-engagement-in-artistic-telegram-channels",
+      "title": "Boost Engagement in Artistic Telegram Channels",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_427077f27d57.json"
+    },
     {
       "id": "opl_f57c8ec549a1",
       "slug": "borrow-skill",
@@ -1066,15 +1075,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53939353df6e.json"
-    },
-    {
-      "id": "opl_8e9af8efd31e",
-      "slug": "chief-executive-officer",
-      "title": "Chief Executive Officer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e9af8efd31e.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 21,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_c889f2d0e329",
+      "slug": "product-picker",
+      "title": "Product Picker",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c889f2d0e329.json"
+    },
     {
       "id": "opl_a469d0e05646",
       "slug": "product-pitch-and-business-plan-helper",
@@ -1128,15 +1137,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9842a6d90eb0.json"
-    },
-    {
-      "id": "opl_ced85f1028dd",
-      "slug": "python-security-vulnerability-auditor-owasp-mapped-production-hardened",
-      "title": "Python Security Vulnerability Auditor (OWASP-Mapped & Production-Hardened)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ced85f1028dd.json"
     }
   ]
 }

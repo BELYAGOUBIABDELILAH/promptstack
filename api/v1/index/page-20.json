@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-19T15:20:57.438Z",
+  "last_updated": "2026-11-19T16:20:50.710Z",
   "page": 20,
   "per_page": 100,
-  "total": 2851,
+  "total": 2852,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_91fb6efc530c",
+      "slug": "personal-insight-analyzer-from-past-chats",
+      "title": "Personal Insight Analyzer from Past Chats",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "chatLogs",
+          "default": null
+        },
+        {
+          "name": "outputFormat",
+          "default": "summary"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91fb6efc530c.json"
+    },
     {
       "id": "opl_2cc8f966f5a7",
       "slug": "personal-knowledge-narrative-tool",
@@ -1317,15 +1335,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9acd384ab2bb.json"
-    },
-    {
-      "id": "opl_c889f2d0e329",
-      "slug": "product-picker",
-      "title": "Product Picker",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c889f2d0e329.json"
     }
   ]
 }
