@@ -65,7 +65,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No generated changes to commit"
           else
-            git commit -m "build: refresh prompt catalog"
+            git commit -m "Promptstack"
             git push origin main
           fi
 
