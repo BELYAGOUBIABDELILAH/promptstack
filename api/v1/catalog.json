@@ -1876,6 +1876,15 @@
     "snippet": "--- name: website-design-recreator-skill description: This skill enables AI agents to recreate website designs based on user-uploaded image inspirations, ensuring a blend of origin"
   },
   {
+    "id": "opl_0f0fb4187da4",
+    "title": "Western-Centric Bias Correction Prompt",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "western-centric-bias-correction-prompt",
+    "variables": [],
+    "snippet": "# Western-Centric Bias Correction **How to use it:** Paste the full prompt below into a chat AI, then add your actual question at the end where indicated. For comparison, try aski"
+  },
+  {
     "id": "opl_4c38d3273535",
     "title": "Wickedsmaht.fun",
     "category": "AI & Automation",
@@ -21791,15 +21800,6 @@
     "slug": "webhook-integration-taste",
     "variables": [],
     "snippet": "# Webhook Integration taste of a reliability-focused integrations engineer - Verify every incoming webhook with an HMAC signature over the raw request body before parsing it as JSO"
-  },
-  {
-    "id": "opl_0f0fb4187da4",
-    "title": "Western-Centric Bias Correction Prompt",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "western-centric-bias-correction-prompt",
-    "variables": [],
-    "snippet": "# Western-Centric Bias Correction **How to use it:** Paste the full prompt below into a chat AI, then add your actual question at the end where indicated. For comparison, try aski"
   },
   {
     "id": "opl_bd09b7603549",

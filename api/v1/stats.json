@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-19T19:20:46.841Z",
+  "last_updated": "2026-11-19T20:20:57.052Z",
   "total_prompts": 3831,
   "source_records": 3831,
-  "total_sources": 408,
+  "total_sources": 409,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -32,7 +32,7 @@
     {
       "folder": "data-analytics",
       "name": "Data & Analytics",
-      "prompt_count": 321,
+      "prompt_count": 320,
       "url": "https://prompts.axiomrepo.tech/v1/categories/data-analytics.json"
     },
     {
@@ -56,7 +56,7 @@
     {
       "folder": "ai-automation",
       "name": "AI & Automation",
-      "prompt_count": 156,
+      "prompt_count": 157,
       "url": "https://prompts.axiomrepo.tech/v1/categories/ai-automation.json"
     },
     {

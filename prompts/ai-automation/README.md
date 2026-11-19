@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**156 prompts in this category**
+**157 prompts in this category**
 
 ## Table of Contents
 
@@ -159,6 +159,7 @@
 - [Wary Bear in a Hostile Woodland](wary-bear-in-a-hostile-woodland.md)
 - [Website Design Recreation Workflow](website-design-recreation-workflow.md)
 - [Website Design Recreator Skill](website-design-recreator-skill.md)
+- [Western-Centric Bias Correction Prompt](western-centric-bias-correction-prompt.md)
 - [Wickedsmaht.fun](wickedsmaht-fun.md)
 - [writer](writer.md)
 - [技术支持群问答汇总表生成器-企业微信专用](untitled-prompt.md)

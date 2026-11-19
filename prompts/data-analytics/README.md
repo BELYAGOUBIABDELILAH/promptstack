@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**321 prompts in this category**
+**320 prompts in this category**
 
 ## Table of Contents
 
@@ -324,6 +324,5 @@
 - [Water Balance Management Platform Design](water-balance-management-platform-design.md)
 - [Web Application Testing Skill (Imported)](web-application-testing-skill-imported.md)
 - [Webhook Integration taste](webhook-integration-taste.md)
-- [Western-Centric Bias Correction Prompt](western-centric-bias-correction-prompt.md)
 - [Wikipedia Page](wikipedia-page.md)
 - [YouTube Channel Audit Expert](youtube-channel-audit-expert.md)

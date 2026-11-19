@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T19:20:46.841Z",
+  "last_updated": "2026-11-19T20:20:57.052Z",
   "total_categories": 19,
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "folder": "data-analytics",
       "name": "Data & Analytics",
-      "prompt_count": 321,
+      "prompt_count": 320,
       "url": "https://prompts.axiomrepo.tech/v1/categories/data-analytics.json"
     },
     {
@@ -41,7 +41,7 @@
     {
       "folder": "ai-automation",
       "name": "AI & Automation",
-      "prompt_count": 156,
+      "prompt_count": 157,
       "url": "https://prompts.axiomrepo.tech/v1/categories/ai-automation.json"
     },
     {

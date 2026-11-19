@@ -1,7 +1,7 @@
 # Western-Centric Bias Correction Prompt
 
-**Category:** Data & Analytics  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** 2410404@dtg.hs.kr (prompts.chat)
 
 ## Prompt
 
@@ -83,4 +83,4 @@
 > [Insert your actual question here]
 
 ---
-[← Back to Data & Analytics](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)
