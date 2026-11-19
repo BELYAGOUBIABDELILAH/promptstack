@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 16,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_d1987b1b77ed",
+      "slug": "lead-generator-tracker-for-wordpilot-pro",
+      "title": "Lead Generator & Tracker for WordPilot.pro",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1987b1b77ed.json"
+    },
     {
       "id": "opl_2ce865540b16",
       "slug": "leadership-coach",
@@ -1199,24 +1208,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_928127979184.json"
-    },
-    {
-      "id": "opl_f32b7526ffa1",
-      "slug": "maintenance-prompt-for-design-system",
-      "title": "Maintenance Prompt for Design System",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "paste_or_reference_file",
-          "default": null
-        },
-        {
-          "name": "path_or_uploaded_files",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f32b7526ffa1.json"
     }
   ]
 }

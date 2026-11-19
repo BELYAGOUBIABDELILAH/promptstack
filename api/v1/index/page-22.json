@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 22,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_9b4c2ad2ac23",
+      "slug": "python-tool-finder",
+      "title": "Python Tool Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b4c2ad2ac23.json"
+    },
     {
       "id": "opl_f951d8d6f0af",
       "slug": "python-unit-test-generator-comprehensive-coverage-mapped-production-ready",
@@ -1056,15 +1065,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_703c56cfc374.json"
-    },
-    {
-      "id": "opl_2e67f7ba441f",
-      "slug": "review-mr-for-logical-errors",
-      "title": "Review MR for Logical Errors",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e67f7ba441f.json"
     }
   ]
 }

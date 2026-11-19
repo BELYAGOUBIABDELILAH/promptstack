@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 12,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
@@ -508,6 +508,28 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4582a6355936.json"
+    },
+    {
+      "id": "opl_20d4bc1cb149",
+      "slug": "general-assistant-system-prompt",
+      "title": "General Assistant System Prompt",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "task",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20d4bc1cb149.json"
     },
     {
       "id": "opl_feacce82d564",
@@ -1053,15 +1075,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a4a33e19101.json"
-    },
-    {
-      "id": "opl_b034298d27c3",
-      "slug": "god-mode",
-      "title": "god mode",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b034298d27c3.json"
     }
   ]
 }

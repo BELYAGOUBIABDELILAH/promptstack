@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 27,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_f95bf8091cee",
+      "slug": "test-prompt-generator",
+      "title": "Test Prompt Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f95bf8091cee.json"
+    },
     {
       "id": "opl_01ffba7d9f94",
       "slug": "test-python-algorithmic-trading-project",
@@ -1085,15 +1094,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66432abaf290.json"
-    },
-    {
-      "id": "opl_b28c6a4fc379",
-      "slug": "ultra-detailed-vintage-photo-restoration-and-colorization",
-      "title": "Ultra-Detailed Vintage Photo Restoration and Colorization",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28c6a4fc379.json"
     }
   ]
 }

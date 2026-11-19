@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 24,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_a6cac2c506e8",
+      "slug": "seo-specialist",
+      "title": "SEO specialist",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6cac2c506e8.json"
+    },
     {
       "id": "opl_7244b440f22d",
       "slug": "seo-strategy-for-container-tracking-keywords",
@@ -1114,15 +1123,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_46b6b34e1374.json"
-    },
-    {
-      "id": "opl_cd61d3b9bd8d",
-      "slug": "spending-commentary-summarizer",
-      "title": "Spending Commentary Summarizer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd61d3b9bd8d.json"
     }
   ]
 }

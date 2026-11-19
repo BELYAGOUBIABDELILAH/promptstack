@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**133 prompts in this category**
+**134 prompts in this category**
 
 ## Table of Contents
 
@@ -65,6 +65,7 @@
 - [Fantasy Dataset Creator for Machine Learning](fantasy-dataset-creator-for-machine-learning.md)
 - [Football](football.md)
 - [Gathering Planner Interview](gathering-planner-interview.md)
+- [General Assistant System Prompt](general-assistant-system-prompt.md)
 - [Generate an enhanced command prompt](generate-an-enhanced-command-prompt.md)
 - [Generate GitLab CI Templates](generate-gitlab-ci-templates.md)
 - [Gmail Search Strings](gmail-search-strings.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 19,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_7186b754819f",
+      "slug": "nostalgic-road-trip-atmospheric-35mm-film-photograph-prompt",
+      "title": "Nostalgic Road Trip - Atmospheric 35mm Film Photograph Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7186b754819f.json"
+    },
     {
       "id": "opl_1472379e8395",
       "slug": "note",
@@ -1015,15 +1024,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91fb6efc530c.json"
-    },
-    {
-      "id": "opl_2cc8f966f5a7",
-      "slug": "personal-knowledge-narrative-tool",
-      "title": "Personal Knowledge & Narrative Tool",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cc8f966f5a7.json"
     }
   ]
 }

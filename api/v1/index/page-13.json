@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 13,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_b034298d27c3",
+      "slug": "god-mode",
+      "title": "god mode",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b034298d27c3.json"
+    },
     {
       "id": "opl_aa6917e30f7b",
       "slug": "golden-prompt-for-short-useful-answers",
@@ -995,28 +1004,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cbf5abccb429.json"
-    },
-    {
-      "id": "opl_55af9aff9af2",
-      "slug": "hts-veri-analiz-portal-geli-tirme-ve-hata-ay-klama",
-      "title": "HTS Veri Analiz Portalı Geliştirme ve Hata Ayıklama",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "bugDescription",
-          "default": null
-        },
-        {
-          "name": "datasetSize",
-          "default": "large"
-        },
-        {
-          "name": "featureRequest",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_55af9aff9af2.json"
     }
   ]
 }

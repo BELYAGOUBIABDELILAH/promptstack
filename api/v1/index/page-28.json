@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 28,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_b28c6a4fc379",
+      "slug": "ultra-detailed-vintage-photo-restoration-and-colorization",
+      "title": "Ultra-Detailed Vintage Photo Restoration and Colorization",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28c6a4fc379.json"
+    },
     {
       "id": "opl_c3134ffd47ac",
       "slug": "ultra-high-resolution-portrait-restoration",
@@ -1194,15 +1203,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f731bd512f44.json"
-    },
-    {
-      "id": "opl_dac95f59c8cc",
-      "slug": "what-friendship-should-be-all-about",
-      "title": "What friendship should be all about",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dac95f59c8cc.json"
     }
   ]
 }

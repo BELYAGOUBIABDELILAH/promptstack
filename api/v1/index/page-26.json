@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 26,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_a7496aa40382",
+      "slug": "sun-drenched-outdoor-selfie-of-a-tattooed-female-subject-wit",
+      "title": "Sun-Drenched Outdoor Selfie of a Tattooed Female Subject with Tiki Decor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7496aa40382.json"
+    },
     {
       "id": "opl_3ecd413aaca1",
       "slug": "sunny-beach",
@@ -1003,15 +1012,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_09845691da2e.json"
-    },
-    {
-      "id": "opl_f95bf8091cee",
-      "slug": "test-prompt-generator",
-      "title": "Test Prompt Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f95bf8091cee.json"
     }
   ]
 }

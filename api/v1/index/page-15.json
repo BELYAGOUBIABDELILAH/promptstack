@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 15,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_e3d2c9c3a7eb",
+      "slug": "investigative-research-assistant",
+      "title": "Investigative Research Assistant",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3d2c9c3a7eb.json"
+    },
     {
       "id": "opl_6b276a1fb983",
       "slug": "investigative-research-assistant-for-uncovering-non-mainstre",
@@ -1039,15 +1048,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbb652f716c0.json"
-    },
-    {
-      "id": "opl_d1987b1b77ed",
-      "slug": "lead-generator-tracker-for-wordpilot-pro",
-      "title": "Lead Generator & Tracker for WordPilot.pro",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1987b1b77ed.json"
     }
   ]
 }

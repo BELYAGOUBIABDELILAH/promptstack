@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-19T14:57:00.876Z",
+  "last_updated": "2026-11-19T15:20:57.438Z",
   "page": 25,
   "per_page": 100,
-  "total": 2850,
+  "total": 2851,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_cd61d3b9bd8d",
+      "slug": "spending-commentary-summarizer",
+      "title": "Spending Commentary Summarizer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd61d3b9bd8d.json"
+    },
     {
       "id": "opl_a2ddde78a719",
       "slug": "split-word-rejoin",
@@ -1057,15 +1066,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6bd013212d07.json"
-    },
-    {
-      "id": "opl_a7496aa40382",
-      "slug": "sun-drenched-outdoor-selfie-of-a-tattooed-female-subject-wit",
-      "title": "Sun-Drenched Outdoor Selfie of a Tattooed Female Subject with Tiki Decor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7496aa40382.json"
     }
   ]
 }

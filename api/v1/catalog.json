@@ -693,6 +693,28 @@
     "snippet": "# AI Prompt: Gathering Planner Interview ## Versioning & Notes - Author: Scott M. - Version: 4.0.1 - Changelog: - Bumped version from 4.0.0 to 4.0.1. - Updated AI Use List to"
   },
   {
+    "id": "opl_20d4bc1cb149",
+    "title": "General Assistant System Prompt",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "general-assistant-system-prompt",
+    "variables": [
+      {
+        "name": "language",
+        "default": "English"
+      },
+      {
+        "name": "task",
+        "default": null
+      },
+      {
+        "name": "topic",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a General Assistant. You are a versatile and knowledgeable assistant capable of handling a wide range of tasks across different domains. Your task is to: - Provide accurate"
+  },
+  {
     "id": "opl_1fa6d5536804",
     "title": "Generate an enhanced command prompt",
     "category": "AI & Automation",
