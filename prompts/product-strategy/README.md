@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**25 prompts in this category**
+**26 prompts in this category**
 
 ## Table of Contents
 
@@ -19,6 +19,7 @@
 - [Income-Based Housing Apartment Website Concept](income-based-housing-apartment-website-concept.md)
 - [Innovative Use Case Generator for New Tools](innovative-use-case-generator-for-new-tools.md)
 - [Instructional Video on Muscles for Students](instructional-video-on-muscles-for-students.md)
+- [Pimple patches](pimple-patches.md)
 - [PRD Writer](prd-writer.md)
 - [Rags to Riches Motivational Short Video](rags-to-riches-motivational-short-video.md)
 - [Realistic Selfie of Girl with Transparent Glasses and Pink Hair](realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair.md)

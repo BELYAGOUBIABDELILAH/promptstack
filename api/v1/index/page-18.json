@@ -1,12 +1,110 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 18,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_82354ac950c4",
+      "slug": "modern-video-player-with-sharp-ui",
+      "title": "Modern Video Player with Sharp UI",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82354ac950c4.json"
+    },
+    {
+      "id": "opl_25710f160a27",
+      "slug": "modern-web-development-assistant",
+      "title": "Modern Web Development Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25710f160a27.json"
+    },
+    {
+      "id": "opl_29e3b6041588",
+      "slug": "modernize-legacy-code",
+      "title": "Modernize Legacy Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29e3b6041588.json"
+    },
+    {
+      "id": "opl_10826d6810ee",
+      "slug": "modify-front-end-webpage-with-codex-and-image-input",
+      "title": "Modify Front-End Webpage with Codex and Image Input",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10826d6810ee.json"
+    },
+    {
+      "id": "opl_7aa81dc33df1",
+      "slug": "module-wrap-up-next-steps-video-generation",
+      "title": "Module Wrap-Up & Next Steps Video Generation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7aa81dc33df1.json"
+    },
+    {
+      "id": "opl_9b5e072a011f",
+      "slug": "mom-and-boy",
+      "title": "Mom and boy",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b5e072a011f.json"
+    },
+    {
+      "id": "opl_9b0caed2c960",
+      "slug": "monetization-strategy-for-blockchain-based-merging-games",
+      "title": "Monetization Strategy for Blockchain-Based Merging Games",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "blockchainPlatform",
+          "default": "Sui"
+        },
+        {
+          "name": "gameName",
+          "default": "Merging Game"
+        },
+        {
+          "name": "globalTrends",
+          "default": "Global"
+        },
+        {
+          "name": "targetMarket",
+          "default": "Turkey"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b0caed2c960.json"
+    },
+    {
+      "id": "opl_ca5ba9765d76",
+      "slug": "mongodb-helper",
+      "title": "MongoDB Helper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca5ba9765d76.json"
+    },
+    {
+      "id": "opl_4655c950679e",
+      "slug": "monitor-purchasing-advisor",
+      "title": "Monitor Purchasing Advisor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4655c950679e.json"
+    },
     {
       "id": "opl_f650a97fcba5",
       "slug": "monotonous-newsletter-maker",
@@ -967,121 +1065,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7186b754819f.json"
-    },
-    {
-      "id": "opl_1472379e8395",
-      "slug": "note",
-      "title": "Note",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1472379e8395.json"
-    },
-    {
-      "id": "opl_dbfe5a9befed",
-      "slug": "note-guru",
-      "title": "Note Guru",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "archive_folder",
-          "default": "old"
-        },
-        {
-          "name": "main_folder",
-          "default": null
-        },
-        {
-          "name": "path_to_folder",
-          "default": null
-        },
-        {
-          "name": "topic",
-          "default": "#"
-        },
-        {
-          "name": "topic_max",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbfe5a9befed.json"
-    },
-    {
-      "id": "opl_f5e599ff3733",
-      "slug": "note-taking-assistant",
-      "title": "Note-Taking assistant",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f5e599ff3733.json"
-    },
-    {
-      "id": "opl_f0542746a92c",
-      "slug": "notebooklm-lecture-notes",
-      "title": "notebooklm_lecture_notes",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0542746a92c.json"
-    },
-    {
-      "id": "opl_04491defe0ec",
-      "slug": "notion-transcript-designer-prompt",
-      "title": "Notion Transcript Designer Prompt",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04491defe0ec.json"
-    },
-    {
-      "id": "opl_c6f52e30e8b4",
-      "slug": "novelist",
-      "title": "Novelist",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6f52e30e8b4.json"
-    },
-    {
-      "id": "opl_c9ce63cb5594",
-      "slug": "numerology-expert-guidance",
-      "title": "Numerology Expert Guidance",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "birthDate",
-          "default": null
-        },
-        {
-          "name": "fullName",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": "Russia"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9ce63cb5594.json"
-    },
-    {
-      "id": "opl_25b782b4a993",
-      "slug": "nurse",
-      "title": "Nurse",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25b782b4a993.json"
-    },
-    {
-      "id": "opl_1c54153e4699",
-      "slug": "nutritionist",
-      "title": "Nutritionist",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c54153e4699.json"
     }
   ]
 }

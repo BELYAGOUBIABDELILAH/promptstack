@@ -1,12 +1,48 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 9,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_f06632cbf070",
+      "slug": "data-validator-agent-role",
+      "title": "Data Validator Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f06632cbf070.json"
+    },
+    {
+      "id": "opl_17784e38dc2d",
+      "slug": "data-visualization-and-storytelling",
+      "title": "Data Visualization and Storytelling",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_17784e38dc2d.json"
+    },
+    {
+      "id": "opl_55e747af78b9",
+      "slug": "data-visualization-ideator",
+      "title": "Data Visualization Ideator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_55e747af78b9.json"
+    },
+    {
+      "id": "opl_679aa4555bc8",
+      "slug": "database-architect-agent-role",
+      "title": "Database Architect Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_679aa4555bc8.json"
+    },
     {
       "id": "opl_9104bd4ecc46",
       "slug": "database-matchmaker",
@@ -141,6 +177,20 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c07fa477af7.json"
+    },
+    {
+      "id": "opl_5c4a1e54a07c",
+      "slug": "debugging-detective",
+      "title": "Debugging Detective",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "describe_your_bug_here",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c4a1e54a07c.json"
     },
     {
       "id": "opl_0593e48b06c4",
@@ -538,6 +588,15 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_582598e81265.json"
+    },
+    {
+      "id": "opl_c45195345ae0",
+      "slug": "designing-a-glassmorphic-about-me-page",
+      "title": "Designing a Glassmorphic About Me Page",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c45195345ae0.json"
     },
     {
       "id": "opl_d1d6735c921f",
@@ -1124,65 +1183,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8749c6c85d89.json"
-    },
-    {
-      "id": "opl_f45a7cd42d06",
-      "slug": "discover-gitlab-features",
-      "title": "Discover GitLab Features",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f45a7cd42d06.json"
-    },
-    {
-      "id": "opl_fc8568c9c554",
-      "slug": "distill",
-      "title": "distill",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc8568c9c554.json"
-    },
-    {
-      "id": "opl_6879d352ad13",
-      "slug": "diy-expert",
-      "title": "DIY Expert",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6879d352ad13.json"
-    },
-    {
-      "id": "opl_6cd82fa1997c",
-      "slug": "dizi-ve-film-zeti-eviri-asistan",
-      "title": "Dizi ve Film Özeti Çeviri Asistanı",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "sourceLanguage",
-          "default": "English"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6cd82fa1997c.json"
-    },
-    {
-      "id": "opl_5631d820ac5a",
-      "slug": "django-unit-test-generator-for-viewsets",
-      "title": "Django Unit Test Generator for Viewsets",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5631d820ac5a.json"
-    },
-    {
-      "id": "opl_6c2cea354555",
-      "slug": "docker-compose-autogenerator",
-      "title": "Docker Compose Autogenerator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c2cea354555.json"
     }
   ]
 }

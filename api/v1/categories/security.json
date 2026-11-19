@@ -1,8 +1,8 @@
 {
   "folder": "security",
   "name": "Security",
-  "last_updated": "2026-11-18T20:20:47.101Z",
-  "total": 72,
+  "last_updated": "2026-11-19T14:57:00.876Z",
+  "total": 73,
   "prompts": [
     {
       "id": "opl_dd71a9d32f95",
@@ -973,6 +973,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ec95395315e.json"
+    },
+    {
+      "id": "opl_2d121c6feeb2",
+      "slug": "professional-artist-sketchbook-page",
+      "title": "Professional Artist Sketchbook Page",
+      "prompt": "Create a professional, high-end artist sketchbook page using the uploaded photo as the sole reference for the character. Preserve the exact facial features, identity, hairstyle, proportions, and overall recognizable likeness with exceptional accuracy. Depict the character in a refined pencil-and-ink illustration style with subtle, tasteful watercolor or marker accents, on a clean pure white background. The image should look clear, beautiful, polished, and professionally composed, with no ruled notebook lines, no construction-grid lines, no mannequin skeletons, and no distracting guide marks. Fill the page naturally with a rich variety of overlapping character studies and spontaneous artistic explorations, as if a master illustrator spent a full day studying the same character. Include multiple full-body poses, dynamic action poses, relaxed standing poses, seated poses, close-up facial studies from different angles, expressive portraits, subtle emotional variations, tiny personal doodles, gesture sketches, and a few lightly unfinished fragments for authenticity. Focus only on the same character and his personality; do not include children, chibi or deformed versions, unrelated characters, props that distract from the subject, or extra figures. The layout should feel organic, layered, creative, and visually rich, but still elegant and professional rather than messy or chaotic. Vary the scale dramatically across the page, with some drawings large and dominant, others small and secondary, partially overlapping in a natural way. Capture the character’s charm, confidence, humor, and everyday mannerisms through expressive poses and refined artistic exploration. Use clean, well-defined sketchwork, smooth contours, subtle shading, believable hand-drawn energy, and an authentic concept-art sketchbook aesthetic. The final result should feel like a premium character development page: visually striking, highly detailed, polished, and centered entirely on the same character.",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_32ffe21961b4"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2d121c6feeb2.json"
     },
     {
       "id": "opl_11b1d98b803d",

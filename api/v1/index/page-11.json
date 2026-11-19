@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 11,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_a79f5102bebf",
+      "slug": "english-and-foreign-language-name-splitter",
+      "title": "English And Foreign Language Name Splitter",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a79f5102bebf.json"
+    },
+    {
+      "id": "opl_6ff0f076fcf3",
+      "slug": "english-grammar-and-style-corrector",
+      "title": "English Grammar and Style Corrector",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "text",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": "formal"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ff0f076fcf3.json"
+    },
+    {
+      "id": "opl_239f841fbab7",
+      "slug": "english-language-tutor-for-turkish-speakers",
+      "title": "English Language Tutor for Turkish Speakers",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_239f841fbab7.json"
+    },
+    {
+      "id": "opl_d171ed54b8fb",
+      "slug": "english-practice-app-guide",
+      "title": "English Practice App Guide",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d171ed54b8fb.json"
+    },
+    {
+      "id": "opl_833b6149eef8",
+      "slug": "english-pronunciation-helper",
+      "title": "English Pronunciation Helper",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "Mother Language",
+          "default": "Turkish"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_833b6149eef8.json"
+    },
+    {
+      "id": "opl_746e630b2ec4",
+      "slug": "english-teacher-for-translation-and-cultural-explanation",
+      "title": "English Teacher for Translation and Cultural Explanation",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "englishLevel",
+          "default": "intermediate"
+        },
+        {
+          "name": "sentence",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_746e630b2ec4.json"
+    },
     {
       "id": "opl_949798469fd8",
       "slug": "english-translator-and-improver",
@@ -1052,103 +1129,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3caa77c9cb6.json"
-    },
-    {
-      "id": "opl_7858f47911cd",
-      "slug": "fix-latex-dollars",
-      "title": "Fix LaTeX dollars",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "VAR",
-          "default": null
-        },
-        {
-          "name": "ZSH_CUSTOM",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7858f47911cd.json"
-    },
-    {
-      "id": "opl_9a1e2b947055",
-      "slug": "flaneur",
-      "title": "flaneur",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "amount",
-          "default": null
-        },
-        {
-          "name": "family",
-          "default": null
-        },
-        {
-          "name": "flexible",
-          "default": null
-        },
-        {
-          "name": "hiking",
-          "default": null
-        },
-        {
-          "name": "passport_nationality",
-          "default": null
-        },
-        {
-          "name": "please_recommend",
-          "default": null
-        },
-        {
-          "name": "singapore",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a1e2b947055.json"
-    },
-    {
-      "id": "opl_11937f01aa64",
-      "slug": "flashcard-study-system",
-      "title": "Flashcard Study System",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11937f01aa64.json"
-    },
-    {
-      "id": "opl_b2425e4f63bb",
-      "slug": "flight-tracker-desktop-application",
-      "title": "Flight Tracker Desktop Application",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2425e4f63bb.json"
-    },
-    {
-      "id": "opl_0c2d60f49b2a",
-      "slug": "flirting-boy",
-      "title": "Flirting Boy",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c2d60f49b2a.json"
-    },
-    {
-      "id": "opl_27393adb150a",
-      "slug": "floating-city-island-photoreal-4k-poster",
-      "title": "Floating City Island - Photoreal 4K Poster",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "city",
-          "default": "denizli"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27393adb150a.json"
     }
   ]
 }

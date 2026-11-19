@@ -1,12 +1,43 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 5,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_f57c8ec549a1",
+      "slug": "borrow-skill",
+      "title": "Borrow Skill",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "method",
+          "default": null
+        },
+        {
+          "name": "sizeLimit",
+          "default": null
+        },
+        {
+          "name": "targetAgent",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f57c8ec549a1.json"
+    },
+    {
+      "id": "opl_563dc6016c17",
+      "slug": "boss-update-batcher",
+      "title": "Boss Update Batcher",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_563dc6016c17.json"
+    },
     {
       "id": "opl_79893df87733",
       "slug": "boundary-setting-roleplay-agent",
@@ -552,6 +583,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1bd2604efe4b.json"
     },
     {
+      "id": "opl_881c9ab24a21",
+      "slug": "business-plan",
+      "title": "Business plan",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_881c9ab24a21.json"
+    },
+    {
       "id": "opl_7d2344c75a0c",
       "slug": "cable-identifier",
       "title": "Cable Identifier",
@@ -1035,50 +1075,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e9af8efd31e.json"
-    },
-    {
-      "id": "opl_63396887f0b7",
-      "slug": "children-s-book-creator",
-      "title": "Children's Book Creator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_63396887f0b7.json"
-    },
-    {
-      "id": "opl_a41ece0186f6",
-      "slug": "children-s-story-about-apples",
-      "title": "Children's Story about Apples",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a41ece0186f6.json"
-    },
-    {
-      "id": "opl_ed3119e45905",
-      "slug": "childs-coloring-style",
-      "title": "Childs Coloring Style",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "detail1",
-          "default": null
-        },
-        {
-          "name": "detail2",
-          "default": null
-        },
-        {
-          "name": "detail3",
-          "default": null
-        },
-        {
-          "name": "setting",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed3119e45905.json"
     }
   ]
 }

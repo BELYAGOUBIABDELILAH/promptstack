@@ -1,12 +1,152 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 22,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_f951d8d6f0af",
+      "slug": "python-unit-test-generator-comprehensive-coverage-mapped-production-ready",
+      "title": "Python Unit Test Generator — Comprehensive, Coverage-Mapped & Production-Ready",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f951d8d6f0af.json"
+    },
+    {
+      "id": "opl_4bd7e617e524",
+      "slug": "quality-engineering-agent-role",
+      "title": "Quality Engineering Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4bd7e617e524.json"
+    },
+    {
+      "id": "opl_1d35cee58a22",
+      "slug": "quantitative-factor-research-engineer",
+      "title": "Quantitative Factor Research Engineer",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d35cee58a22.json"
+    },
+    {
+      "id": "opl_882a19f67b15",
+      "slug": "question-list-for-reaserch",
+      "title": "question list for reaserch",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "community",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_882a19f67b15.json"
+    },
+    {
+      "id": "opl_298fe192c92e",
+      "slug": "question-quality-lab-game",
+      "title": "Question Quality Lab Game",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_298fe192c92e.json"
+    },
+    {
+      "id": "opl_ed7ecf6b765e",
+      "slug": "quiet-glow",
+      "title": "Quiet Glow",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed7ecf6b765e.json"
+    },
+    {
+      "id": "opl_788ce3359555",
+      "slug": "quizflix-app-development",
+      "title": "Quizflix App Development",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_788ce3359555.json"
+    },
+    {
+      "id": "opl_25ed4ed275e8",
+      "slug": "quizflix-mobile-app-design-for-university-students",
+      "title": "QuizFlix Mobile App Design for University Students",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25ed4ed275e8.json"
+    },
+    {
+      "id": "opl_226f87d1647d",
+      "slug": "r-programming-interpreter",
+      "title": "R Programming Interpreter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_226f87d1647d.json"
+    },
+    {
+      "id": "opl_c8d1e2d16c6d",
+      "slug": "radical-responsibility-mirror-shadow-work",
+      "title": "Radical Responsibility Mirror (Shadow Work)",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "area_of_life",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8d1e2d16c6d.json"
+    },
+    {
+      "id": "opl_bb372e063446",
+      "slug": "rag-and-vector-storage-consultant",
+      "title": "RAG And Vector Storage Consultant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb372e063446.json"
+    },
+    {
+      "id": "opl_32df1a87c7a7",
+      "slug": "rag-embedding-advisor",
+      "title": "RAG Embedding Advisor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32df1a87c7a7.json"
+    },
+    {
+      "id": "opl_1ecf3335433f",
+      "slug": "rags-to-riches-motivational-short-video",
+      "title": "Rags to Riches Motivational Short Video",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ecf3335433f.json"
+    },
+    {
+      "id": "opl_fcf931986ad2",
+      "slug": "rainy-umbrella-street-full-body",
+      "title": "Rainy Umbrella Street (full-body)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcf931986ad2.json"
+    },
     {
       "id": "opl_a83a08bdedea",
       "slug": "random-address-generator",
@@ -925,174 +1065,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e67f7ba441f.json"
-    },
-    {
-      "id": "opl_236a63502e08",
-      "slug": "review-test-coverage-gaps",
-      "title": "Review Test Coverage Gaps",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_236a63502e08.json"
-    },
-    {
-      "id": "opl_b19d00293443",
-      "slug": "review-the-social-media-content",
-      "title": "Review the social media content",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19d00293443.json"
-    },
-    {
-      "id": "opl_97d4a7bbd971",
-      "slug": "reviews",
-      "title": "reviews",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97d4a7bbd971.json"
-    },
-    {
-      "id": "opl_872a6625c5f6",
-      "slug": "rewrite-in-third-person",
-      "title": "Rewrite In Third Person",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_872a6625c5f6.json"
-    },
-    {
-      "id": "opl_92eb899c7b8d",
-      "slug": "rfq",
-      "title": "RFQ",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92eb899c7b8d.json"
-    },
-    {
-      "id": "opl_f9726b9a2f65",
-      "slug": "rick-and-morty",
-      "title": "Rick And Morty",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9726b9a2f65.json"
-    },
-    {
-      "id": "opl_94e1b305e346",
-      "slug": "ridiculous-conspiracy-theory",
-      "title": "Ridiculous Conspiracy Theory",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94e1b305e346.json"
-    },
-    {
-      "id": "opl_f6145e29ee64",
-      "slug": "rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine",
-      "title": "RIP McKinsey: Here are 10 prompts to replace expensive business consultants",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "company",
-          "default": null
-        },
-        {
-          "name": "describe_funnel",
-          "default": null
-        },
-        {
-          "name": "describe_operations",
-          "default": null
-        },
-        {
-          "name": "insert_data",
-          "default": null
-        },
-        {
-          "name": "insert_primary_goal",
-          "default": null
-        },
-        {
-          "name": "product",
-          "default": null
-        },
-        {
-          "name": "target_market",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f6145e29ee64.json"
-    },
-    {
-      "id": "opl_31dd1cda63c5",
-      "slug": "risk-ready-disaster-scenario-prepper",
-      "title": "Risk Ready - Disaster Scenario Prepper",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31dd1cda63c5.json"
-    },
-    {
-      "id": "opl_bd11f8259270",
-      "slug": "riverside-boardwalk-and-restaurants-view",
-      "title": "Riverside Boardwalk and Restaurants View",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd11f8259270.json"
-    },
-    {
-      "id": "opl_ecf0fabf5012",
-      "slug": "rna-seq-analysis-and-differential-gene-expression",
-      "title": "RNA-Seq Analysis and Differential Gene Expression",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "dataQuality",
-          "default": "high"
-        },
-        {
-          "name": "normalizationMethod",
-          "default": "DESeq2"
-        },
-        {
-          "name": "visualizationTools",
-          "default": "heatmap"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecf0fabf5012.json"
-    },
-    {
-      "id": "opl_b9a7f7afdb3c",
-      "slug": "rocket-launcher",
-      "title": "Rocket launcher",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9a7f7afdb3c.json"
-    },
-    {
-      "id": "opl_db038361a788",
-      "slug": "romantic-rainy-scene-video",
-      "title": "Romantic Rainy Scene Video",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db038361a788.json"
-    },
-    {
-      "id": "opl_04ab3bc83fc4",
-      "slug": "rooftop-sunset-lookback-half-body",
-      "title": "Rooftop Sunset Lookback (half-body)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04ab3bc83fc4.json"
     }
   ]
 }

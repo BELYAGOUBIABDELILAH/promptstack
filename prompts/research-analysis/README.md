@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**33 prompts in this category**
+**34 prompts in this category**
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@
 - [Medical Report Interpreter](medical-report-interpreter.md)
 - [Medication Travel Legality](medication-travel-legality.md)
 - [Meeting Facilitator](meeting-facilitator.md)
+- [Mobile App](mobile-app.md)
 - [Nordic Cabin Living Room at Dusk (Reverse Angle View)](nordic-cabin-living-room-at-dusk-reverse-angle-view.md)
 - [Paper Lantern Harbor at Dusk](paper-lantern-harbor-at-dusk.md)
 - [Paper Lantern Harbor Close-Up Boat Detail](paper-lantern-harbor-close-up-boat-detail.md)

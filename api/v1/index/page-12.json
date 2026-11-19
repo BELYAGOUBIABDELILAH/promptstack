@@ -1,12 +1,109 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 12,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_7858f47911cd",
+      "slug": "fix-latex-dollars",
+      "title": "Fix LaTeX dollars",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "VAR",
+          "default": null
+        },
+        {
+          "name": "ZSH_CUSTOM",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7858f47911cd.json"
+    },
+    {
+      "id": "opl_9a1e2b947055",
+      "slug": "flaneur",
+      "title": "flaneur",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "amount",
+          "default": null
+        },
+        {
+          "name": "family",
+          "default": null
+        },
+        {
+          "name": "flexible",
+          "default": null
+        },
+        {
+          "name": "hiking",
+          "default": null
+        },
+        {
+          "name": "passport_nationality",
+          "default": null
+        },
+        {
+          "name": "please_recommend",
+          "default": null
+        },
+        {
+          "name": "singapore",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a1e2b947055.json"
+    },
+    {
+      "id": "opl_11937f01aa64",
+      "slug": "flashcard-study-system",
+      "title": "Flashcard Study System",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11937f01aa64.json"
+    },
+    {
+      "id": "opl_b2425e4f63bb",
+      "slug": "flight-tracker-desktop-application",
+      "title": "Flight Tracker Desktop Application",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2425e4f63bb.json"
+    },
+    {
+      "id": "opl_0c2d60f49b2a",
+      "slug": "flirting-boy",
+      "title": "Flirting Boy",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c2d60f49b2a.json"
+    },
+    {
+      "id": "opl_27393adb150a",
+      "slug": "floating-city-island-photoreal-4k-poster",
+      "title": "Floating City Island - Photoreal 4K Poster",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "city",
+          "default": "denizli"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27393adb150a.json"
+    },
     {
       "id": "opl_608f5fc145d4",
       "slug": "florist",
@@ -965,65 +1062,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b034298d27c3.json"
-    },
-    {
-      "id": "opl_aa6917e30f7b",
-      "slug": "golden-prompt-for-short-useful-answers",
-      "title": "Golden Prompt for Short, Useful Answers",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa6917e30f7b.json"
-    },
-    {
-      "id": "opl_c4bf1b3c0eed",
-      "slug": "gomoku-player",
-      "title": "Gomoku player",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4bf1b3c0eed.json"
-    },
-    {
-      "id": "opl_513b09dfc12f",
-      "slug": "good-place-to-work",
-      "title": "Good Place To Work?",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_513b09dfc12f.json"
-    },
-    {
-      "id": "opl_976336549a03",
-      "slug": "google-ads-title-copywriter",
-      "title": "Google Ads Title Copywriter",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "characterLimit",
-          "default": "30"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_976336549a03.json"
-    },
-    {
-      "id": "opl_97ff65632ecf",
-      "slug": "google-ai-guide",
-      "title": "Google AI Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97ff65632ecf.json"
-    },
-    {
-      "id": "opl_046761dc1f27",
-      "slug": "google-apps-script-wizard",
-      "title": "Google Apps Script Wizard",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_046761dc1f27.json"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-18T20:20:47.101Z",
-  "total_prompts": 2832,
-  "source_records": 2832,
-  "total_sources": 401,
+  "last_updated": "2026-11-19T14:57:00.876Z",
+  "total_prompts": 2850,
+  "source_records": 2850,
+  "total_sources": 410,
   "total_categories": 19,
   "total_pages": 29,
   "per_page": 100,
@@ -20,13 +20,13 @@
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1122,
+      "prompt_count": 1130,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/coding-development.json"
     },
     {
       "folder": "image-design",
       "name": "Image & Design",
-      "prompt_count": 405,
+      "prompt_count": 406,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/image-design.json"
     },
     {
@@ -38,13 +38,13 @@
     {
       "folder": "marketing-social",
       "name": "Marketing & Social",
-      "prompt_count": 219,
+      "prompt_count": 222,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/marketing-social.json"
     },
     {
       "folder": "data-analytics",
       "name": "Data & Analytics",
-      "prompt_count": 180,
+      "prompt_count": 181,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/data-analytics.json"
     },
     {
@@ -56,7 +56,7 @@
     {
       "folder": "general",
       "name": "General",
-      "prompt_count": 94,
+      "prompt_count": 95,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/general.json"
     },
     {
@@ -68,13 +68,13 @@
     {
       "folder": "security",
       "name": "Security",
-      "prompt_count": 72,
+      "prompt_count": 73,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/security.json"
     },
     {
       "folder": "business-career",
       "name": "Business & Career",
-      "prompt_count": 66,
+      "prompt_count": 67,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/business-career.json"
     },
     {
@@ -86,7 +86,7 @@
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
-      "prompt_count": 33,
+      "prompt_count": 34,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/research-analysis.json"
     },
     {
@@ -98,7 +98,7 @@
     {
       "folder": "product-strategy",
       "name": "Product & Strategy",
-      "prompt_count": 25,
+      "prompt_count": 26,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/product-strategy.json"
     },
     {

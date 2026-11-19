@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 3,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_3b67b3f1d39f",
+      "slug": "ai-style-text-generator",
+      "title": "AI Style Text Generator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b67b3f1d39f.json"
+    },
+    {
+      "id": "opl_0c0388dd8423",
+      "slug": "ai-tech-advisor",
+      "title": "AI Tech Advisor",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c0388dd8423.json"
+    },
     {
       "id": "opl_e289f3359f80",
       "slug": "ai-themed-design-image-creation",
@@ -1125,24 +1143,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ac7a1d3ed6b.json"
-    },
-    {
-      "id": "opl_d3c57f240853",
-      "slug": "assistant-ideator-automation",
-      "title": "Assistant Ideator - Automation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3c57f240853.json"
-    },
-    {
-      "id": "opl_ffa4ad5fe4df",
-      "slug": "assistant-ideator-data",
-      "title": "Assistant Ideator - Data",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ffa4ad5fe4df.json"
     }
   ]
 }

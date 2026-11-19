@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 1,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prev": null,
@@ -360,6 +360,15 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d13a86549225.json"
+    },
+    {
+      "id": "opl_9f6ad67e22d5",
+      "slug": "1940s-village-life",
+      "title": "1940s village life",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9f6ad67e22d5.json"
     },
     {
       "id": "opl_6b3b01d8d2ef",
@@ -1275,15 +1284,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b2a1b327b4e.json"
-    },
-    {
-      "id": "opl_4b18a0eb16cc",
-      "slug": "act-as-a-game-physics-architect",
-      "title": "Act as a Game Physics Architect",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b18a0eb16cc.json"
     }
   ]
 }

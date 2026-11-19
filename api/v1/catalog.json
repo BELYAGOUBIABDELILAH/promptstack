@@ -1792,6 +1792,15 @@
     "snippet": "I own a tree service company and I have no clue what I'm doing I need help with everything I'm lost I need help in every aspect"
   },
   {
+    "id": "opl_881c9ab24a21",
+    "title": "Business plan",
+    "category": "Business & Career",
+    "folder": "business-career",
+    "slug": "business-plan",
+    "variables": [],
+    "snippet": "Write a professional and humanised business plan requesting for funding to be submitted to bank of industry in Nigeria. Used Nigerian naira for all the analysis.business name will"
+  },
+  {
     "id": "opl_bd7d81204755",
     "title": "Career Path Deliberation Assistant",
     "category": "Business & Career",
@@ -3108,6 +3117,44 @@
     "slug": "agent-tool-developer-coach",
     "variables": [],
     "snippet": "You are a friendly and encouraging coach, guiding users in developing tools for AI agents. Assume the user has a reasonable level of technical proficiency and is enthusiastic about"
+  },
+  {
+    "id": "opl_18e7d5eb3862",
+    "title": "AI Agent Architect — Design Production-Ready Agents in 15 Steps",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "ai-agent-architect-design-production-ready-agents-in-15-step",
+    "variables": [
+      {
+        "name": "constraints",
+        "default": "Budget, time, API rate limits, security requirements"
+      },
+      {
+        "name": "data_sources",
+        "default": "Websites, spreadsheets, CRM, Telegram, email, files"
+      },
+      {
+        "name": "expected_output",
+        "default": "What should the agent produce?"
+      },
+      {
+        "name": "frequency",
+        "default": "Scheduled, event-triggered, or manual"
+      },
+      {
+        "name": "process",
+        "default": "Describe the current manual task in detail"
+      },
+      {
+        "name": "risks",
+        "default": "Data deletion, publishing, payments, access credentials"
+      },
+      {
+        "name": "tools",
+        "default": "APIs, MCP, scripts, browser, database"
+      }
+    ],
+    "snippet": "ROLE You are a senior architect of production-ready AI agents and a business process automation specialist. TASK Help design an AI agent for the process described below. The agent"
   },
   {
     "id": "opl_7f846346c315",
@@ -6524,6 +6571,20 @@
     "snippet": "Your objective is to act as a helpful technical debugging partner, helping the user resolve a technical issue he's experiencing. If user is encountering a problem with a desktop ap"
   },
   {
+    "id": "opl_5c4a1e54a07c",
+    "title": "Debugging Detective",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "debugging-detective",
+    "variables": [
+      {
+        "name": "describe_your_bug_here",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a senior debugging engineer with 15+ years of experience finding root causes in production systems. I will describe a bug or unexpected behavior in my code, and you will hel"
+  },
+  {
     "id": "opl_14a31b8371bc",
     "title": "Debugging Session Assistant",
     "category": "Coding & Development",
@@ -6704,6 +6765,15 @@
     "slug": "design-new-feature-architecture",
     "variables": [],
     "snippet": "Design the architecture for this new feature: Feature: [NAME] Description: [WHAT IT DOES] Users: [WHO USES IT AND HOW OFTEN] Performance requirements: [latency, throughput, availa"
+  },
+  {
+    "id": "opl_c45195345ae0",
+    "title": "Designing a Glassmorphic About Me Page",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "designing-a-glassmorphic-about-me-page",
+    "variables": [],
+    "snippet": "Act as a web designer. You are tasked with creating an 'About Me' page that is visually appealing and functional. Your page should use Glassmorphism design principles with a light"
   },
   {
     "id": "opl_03e08310cf8f",
@@ -8539,6 +8609,15 @@
     "slug": "high-end-technology-inspired-website-ui-redesign",
     "variables": [],
     "snippet": "Act as a UI/UX designer using Image2. Your task is to create several high-end, technology-inspired UI designs for a website front end. You must: - Retain all existing functionaliti"
+  },
+  {
+    "id": "opl_623c8e9a2be3",
+    "title": "High-Frequency RSS Ingestion Architect",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "high-frequency-rss-ingestion-architect",
+    "variables": [],
+    "snippet": "--- name: high-frequency-rss-ingestion-architect description: Act as Systems Architect. Build high-frequency RSS Ingestion feeding a 3-Set RAG matrix: Regulatory, Quasi-Crystalline"
   },
   {
     "id": "opl_bbefc9f1353d",
@@ -10933,6 +11012,20 @@
     "snippet": "You are a helpful assistant whose task is to evaluate the relative merits of different open source software projects based on quantifiable metrics such as the project's number of s"
   },
   {
+    "id": "opl_da232d04fc7b",
+    "title": "Open-Source Product Analysis and Duplication",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "open-source-product-analysis-and-duplication",
+    "variables": [
+      {
+        "name": "productName",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a product analyst and open-source developer. Your task is to analyze a specified product and develop a 1:1 open-source equivalent. You will: - Reverse-engineer the product's"
+  },
+  {
     "id": "opl_83f48bc8189d",
     "title": "OpenAI Create Plan Skill",
     "category": "Coding & Development",
@@ -11898,6 +11991,15 @@
     "snippet": "--- name: project-evaluation-for-production-decision description: A skill for evaluating projects to determine if they are ready for production, considering technical, formal, and"
   },
   {
+    "id": "opl_5723ca04a8a4",
+    "title": "project marketing",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "project-marketing",
+    "variables": [],
+    "snippet": "Act as a Notion Content Automation Expert. You are tasked with developing a system to automate content creation for your project using the API from [https://router.bynara.id/dashbo"
+  },
+  {
     "id": "opl_7291e2ffb88a",
     "title": "Prompt Converter - JSON To Markdown",
     "category": "Coding & Development",
@@ -12603,6 +12705,15 @@
     "slug": "review-test-coverage-gaps",
     "variables": [],
     "snippet": "Review test coverage and identify the most important gaps: Coverage report: [PASTE COVERAGE REPORT or describe current coverage %] Test files: [PASTE or describe existing tests] P"
+  },
+  {
+    "id": "opl_fc15aa6ab3ff",
+    "title": "reviewgod",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "reviewgod",
+    "variables": [],
+    "snippet": "Act as a world-class customer insights analyst. Your task is to find, analyze, and synthesize online reviews for [Insert Product/Service Name here]. First, search the web to gath"
   },
   {
     "id": "opl_97d4a7bbd971",
@@ -13841,6 +13952,15 @@
     "slug": "summarize-recent-changes-to-mr-issue",
     "variables": [],
     "snippet": "Summarize recent activity on this MR/Issue so I can get caught up quickly: MR/Issue: [LINK or PASTE CONTENT] I was last active: [DATE] or \"I'm coming in fresh\" ## Executive Summa"
+  },
+  {
+    "id": "opl_bf074fd40421",
+    "title": "Supabase Principal Architect Infrastructure Optimization",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "supabase-principal-architect-infrastructure-optimization",
+    "variables": [],
+    "snippet": "--- name: supabase-principal-architect-infrastructure-optimization description: Act as a Supabase Principal Architect. Build and optimize a production-ready Postgres/Edge infrastru"
   },
   {
     "id": "opl_2c429d029678",
@@ -17493,6 +17613,15 @@
     "snippet": "You are an AI assistant specializing in analyzing system prompts to calculate key parameters and metrics. Your role is to help users understand the technical characteristics of the"
   },
   {
+    "id": "opl_9fa7dba03d5b",
+    "title": "Team Proposal for Conference Event",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "team-proposal-for-conference-event",
+    "variables": [],
+    "snippet": "Act as a project manager. you are to create proposal of a team for an event using data from existing documents uploaded and made in Notion. Your task is to: - Analyze existing pr"
+  },
+  {
     "id": "opl_f7d0da66aece",
     "title": "Tech Desk “Builder” (half-body, cozy monitor glow)",
     "category": "Data & Analytics",
@@ -19338,6 +19467,15 @@
     "slug": "json",
     "variables": [],
     "snippet": "--- name: extract-query-conditions description: A skill to extract and transform filter and search parameters from Azure AI Search request JSON into a structured list format. ---"
+  },
+  {
+    "id": "opl_9f6ad67e22d5",
+    "title": "1940s village life",
+    "category": "General",
+    "folder": "general",
+    "slug": "1940s-village-life",
+    "variables": [],
+    "snippet": "Give a prompt for 2 minutes i need to generate ai video each 8 seconds video of a small village of two hundred houses during 1940 and during that time a small home that home is bu"
   },
   {
     "id": "opl_b382de4bccd8",
@@ -23061,6 +23199,15 @@
     "snippet": "I want to make a ultra realistic minecraf character out of an image, the character should have all the characteristics of the person in the eg. Skin color and outfit leave out the"
   },
   {
+    "id": "opl_877352dcca09",
+    "title": "Minimal Studio Portrait — باشه، هرچی تو بگی",
+    "category": "Image & Design",
+    "folder": "image-design",
+    "slug": "minimal-studio-portrait",
+    "variables": [],
+    "snippet": "High-key minimal studio portrait, pure white seamless background, soft beauty light, Iranian woman, no makeup. Eyes closed for half a second, brows lifted in the center and release"
+  },
+  {
     "id": "opl_06ae622d03ec",
     "title": "Mirror Selfie with Face Preservation",
     "category": "Image & Design",
@@ -25427,6 +25574,15 @@
     "snippet": "Act as a Context-Aware Email Assistant. You are capable of reading browser pages and integrating context from multiple tabs. Your task is to: - Establish a clear goal at the start"
   },
   {
+    "id": "opl_735f0ebfa602",
+    "title": "Conversational Logo Design Process",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "conversational-logo-design-process",
+    "variables": [],
+    "snippet": "Design a conversational process to create a minimal logo for the user's project, leveraging their branding colors: #3a7eab, #cf4832, and #d1d3d4. Begin by developing a set of 10 th"
+  },
+  {
     "id": "opl_a312f0ed4ffe",
     "title": "Copy Script Style",
     "category": "Marketing & Social",
@@ -26918,6 +27074,15 @@
     "snippet": "A professional, high-resolution profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the c"
   },
   {
+    "id": "opl_830a807b1bbd",
+    "title": "Project Name and Title Generator",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "project-name-and-title-generator",
+    "variables": [],
+    "snippet": "Help the user generate a catchy and memorable name and title for their project by first understanding their project through a series of yes/no questions. - Begin by generating 10"
+  },
+  {
     "id": "opl_1086b93126d1",
     "title": "Project Skill & Resource Interviewer",
     "category": "Marketing & Social",
@@ -27126,6 +27291,15 @@
     "slug": "salesperson",
     "variables": [],
     "snippet": "I want you to act as a salesperson. Try to market something to me, but make what you're trying to market look more valuable than it is and convince me to buy it. Now I'm going to p"
+  },
+  {
+    "id": "opl_2bbe23b54b95",
+    "title": "Sang-o-Sayeh Render — Reference-Based Portrait Prompt",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "sang-o-sayeh-render-reference-based-portrait-prompt",
+    "variables": [],
+    "snippet": "STYLE NAME: \"Sang-o-Sayeh Render\" (invented style — do not reference any known art style, filter, anime, Pixar, comic, or painting tradition) SUBJECT: Recreate the exact man from"
   },
   {
     "id": "opl_cb050bceccb9",
@@ -27838,6 +28012,15 @@
     "snippet": "Act as a sports instructor resembling Cristiano Ronaldo. You are tasked with creating an instructional video for students about how muscles work. The video should cover the followi"
   },
   {
+    "id": "opl_54a70171ffe7",
+    "title": "Pimple patches",
+    "category": "Product & Strategy",
+    "folder": "product-strategy",
+    "slug": "pimple-patches",
+    "variables": [],
+    "snippet": "Creat this 3 design better then this , and describe why your design is best , the is for the brand to look real luxury. Why the people will chose my brand what the difference I sh"
+  },
+  {
     "id": "opl_0a1f8b64ccdd",
     "title": "PRD Writer",
     "category": "Product & Strategy",
@@ -28105,6 +28288,15 @@
     "slug": "meeting-facilitator",
     "variables": [],
     "snippet": "You facilitate meetings with structure, clarity, and forward motion. Required output: Agenda with time blocks, Roles and responsibilities, Key discussion points, Decision log, Acti"
+  },
+  {
+    "id": "opl_76530a4b588b",
+    "title": "Mobile App",
+    "category": "Research & Analysis",
+    "folder": "research-analysis",
+    "slug": "mobile-app",
+    "variables": [],
+    "snippet": "Study the attached sheet and provide me with a summary of it in one slide and action plan on the another slide, go and study it and compare it to aldrees I want a full presentation"
   },
   {
     "id": "opl_5e4f80538906",
@@ -29027,6 +29219,15 @@
     "slug": "opus-driven-deep-thinking-system",
     "variables": [],
     "snippet": "Act as a comprehensive decision-making system for deep thinking and development. ## System Structure - **Opus**: You are the central decision-maker, orchestrating all processes a"
+  },
+  {
+    "id": "opl_2d121c6feeb2",
+    "title": "Professional Artist Sketchbook Page",
+    "category": "Security",
+    "folder": "security",
+    "slug": "professional-artist-sketchbook-page",
+    "variables": [],
+    "snippet": "Create a professional, high-end artist sketchbook page using the uploaded photo as the sole reference for the character. Preserve the exact facial features, identity, hairstyle, pr"
   },
   {
     "id": "opl_11b1d98b803d",

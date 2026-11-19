@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**405 prompts in this category**
+**406 prompts in this category**
 
 ## Table of Contents
 
@@ -244,6 +244,7 @@
 - [Mice And Pointing Device](mice-and-pointing-device.md)
 - [Midjourney Prompt Generator](midjourney-prompt-generator.md)
 - [Minecraft image](minecraft-image.md)
+- [Minimal Studio Portrait — باشه، هرچی تو بگی](minimal-studio-portrait.md)
 - [Mirror Selfie with Face Preservation](mirror-selfie-with-face-preservation.md)
 - [Modern Plaza Office Selfie — Corporate Aesthetic in Istanbul](modern-plaza-office-selfie-corporate-aesthetic-in-istanbul.md)
 - [Monitor Purchasing Advisor](monitor-purchasing-advisor.md)

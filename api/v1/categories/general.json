@@ -1,9 +1,25 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-18T20:20:47.101Z",
-  "total": 94,
+  "last_updated": "2026-11-19T14:57:00.876Z",
+  "total": 95,
   "prompts": [
+    {
+      "id": "opl_9f6ad67e22d5",
+      "slug": "1940s-village-life",
+      "title": "1940s village life",
+      "prompt": "Give a prompt for 2 minutes  i need to generate ai video each 8 seconds video of a small village of two hundred houses during 1940 and during that time a small home that home is built by mud in that home husband and wife are living they are lord basavanna devotis they worn linga on their neck husband is wearing\nWhite dhoti and red towel and wife is wearing vibhuti and kunkam wearing trendisnal green saree they have a baby boy in there home during baby naming ceremony there relations and hindu swamiji gethered swamiji wearing saffron colour khavi and rudrakshi long hairs and beards his blessing that baby boy",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_142f44ae09ca"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9f6ad67e22d5.json"
+    },
     {
       "id": "opl_b382de4bccd8",
       "slug": "action-video",

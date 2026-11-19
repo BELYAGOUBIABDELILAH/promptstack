@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1122 prompts in this category**
+**1130 prompts in this category**
 
 ## Table of Contents
 
@@ -56,6 +56,7 @@
 - [Agent Prompt Editor](agent-prompt-editor.md)
 - [Agent Prompt Formatter](agent-prompt-formatter.md)
 - [Agent Tool Developer Coach](agent-tool-developer-coach.md)
+- [AI Agent Architect — Design Production-Ready Agents in 15 Steps](ai-agent-architect-design-production-ready-agents-in-15-step.md)
 - [AI Agent Builders](ai-agent-builders.md)
 - [AI Agent Debugger](ai-agent-debugger.md)
 - [AI Agent Platform Evaulator](ai-agent-platform-evaulator.md)
@@ -342,6 +343,7 @@
 - [Debug Race Conditions](debug-race-conditions.md)
 - [Debug This Prompt](debug-this-prompt.md)
 - [Debugger (General Tech Suport)](debugger-general-tech-suport.md)
+- [Debugging Detective](debugging-detective.md)
 - [Debugging Session Assistant](debugging-session-assistant.md)
 - [Deep Copy Functionality](deep-copy-functionality.md)
 - [Deep GitHub Repository Understanding](deep-github-repository-understanding.md)
@@ -353,6 +355,7 @@
 - [Design Brief](design-brief.md)
 - [Design Handoff Notes - AI First, Human Readable](design-handoff-notes-ai-first-human-readable.md)
 - [Design New Feature Architecture](design-new-feature-architecture.md)
+- [Designing a Glassmorphic About Me Page](designing-a-glassmorphic-about-me-page.md)
 - [Detailed Analysis of YouTube Channels, Databases, and Profiles](detailed-analysis-of-youtube-channels-databases-and-profiles.md)
 - [details of the given bug](details-of-the-given-bug.md)
 - [Develop a Lazy Learner Software](develop-a-lazy-learner-software.md)
@@ -509,6 +512,7 @@
 - [Hebrew Calendar](hebrew-calendar.md)
 - [hermes agent desktop default system prompt](hermes-agent-desktop-default-system-prompt.md)
 - [High-End Technology-Inspired Website UI Redesign](high-end-technology-inspired-website-ui-redesign.md)
+- [High-Frequency RSS Ingestion Architect](high-frequency-rss-ingestion-architect.md)
 - [High-precision research and performance architecture engine](high-precision-research-and-performance-architecture-engine.md)
 - [High-Stakes Decision Support System](high-stakes-decision-support-system.md)
 - [High-Velocity Dogfight](high-velocity-dogfight.md)
@@ -720,6 +724,7 @@
 - [Open Source Contributor Guidelines](open-source-contributor-guidelines.md)
 - [Open Source MCP Finder](open-source-mcp-finder.md)
 - [Open Source Project Size Comparison](open-source-project-size-comparison.md)
+- [Open-Source Product Analysis and Duplication](open-source-product-analysis-and-duplication.md)
 - [OpenAI Create Plan Skill](openai-create-plan-skill.md)
 - [Optical, Optometrist](optical-optometrist.md)
 - [Optimization Auditor Agent Role](optimization-auditor-agent-role.md)
@@ -788,6 +793,7 @@
 - [Project Breakdown](project-breakdown.md)
 - [Project Builder](project-builder.md)
 - [Project Evaluation for Production Decision](project-evaluation-for-production-decision.md)
+- [project marketing](project-marketing.md)
 - [Prompt Converter - JSON To Markdown](prompt-converter-json-to-markdown.md)
 - [Prompt Data Identifier](prompt-data-identifier.md)
 - [Prompt Engineering Expert](prompt-engineering-expert.md)
@@ -857,6 +863,7 @@
 - [Review Code for Security Issues](review-code-for-security-issues.md)
 - [Review MR for Logical Errors](review-mr-for-logical-errors.md)
 - [Review Test Coverage Gaps](review-test-coverage-gaps.md)
+- [reviewgod](reviewgod.md)
 - [reviews](reviews.md)
 - [Root Cause Analysis Agent Role](root-cause-analysis-agent-role.md)
 - [Root Cause Architect (5 Whys Technique)](root-cause-architect-5-whys-technique.md)
@@ -965,6 +972,7 @@
 - [Suggest Pricing Tiers](suggest-pricing-tiers.md)
 - [Suggest Reviewers for MR](suggest-reviewers-for-mr.md)
 - [Summarize Recent Changes to MR/Issue](summarize-recent-changes-to-mr-issue.md)
+- [Supabase Principal Architect Infrastructure Optimization](supabase-principal-architect-infrastructure-optimization.md)
 - [Surreal CGI-Photography Hybrid Portrait](surreal-cgi-photography-hybrid-portrait.md)
 - [Surreal Miniature Cityscape with Giant Observer](surreal-miniature-cityscape-with-giant-observer.md)
 - [SVG designer](svg-designer.md)

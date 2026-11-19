@@ -1,12 +1,97 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 17,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_bc18b8e6736c",
+      "slug": "make-ai-responses-sound-more-human-like",
+      "title": "Make AI responses sound more Human-like",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc18b8e6736c.json"
+    },
+    {
+      "id": "opl_7f029d4cb708",
+      "slug": "make-ai-write-naturally",
+      "title": "Make AI write naturally",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f029d4cb708.json"
+    },
+    {
+      "id": "opl_529aa447df01",
+      "slug": "make-flowers-bloom-in-an-image",
+      "title": "Make Flowers Bloom in an Image",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "bloomIntensity",
+          "default": "medium"
+        },
+        {
+          "name": "colorEnhancement",
+          "default": "high"
+        },
+        {
+          "name": "image",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_529aa447df01.json"
+    },
+    {
+      "id": "opl_d202aa44153e",
+      "slug": "make-ui-ux-better-of-an-already-created-application",
+      "title": "Make UI/UX better of an already Created Application",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "INSERT_APP_TYPE",
+          "default": " e.g., SaaS dashboard / e-commerce / portfolio / social app"
+        },
+        {
+          "name": "INSERT_USER_TYPE",
+          "default": " e.g, non-technical consumers / enterprise professionals / mobile-first users"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d202aa44153e.json"
+    },
+    {
+      "id": "opl_fecd014a3328",
+      "slug": "makeup-artist",
+      "title": "Makeup Artist",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fecd014a3328.json"
+    },
+    {
+      "id": "opl_d0be14533a2f",
+      "slug": "making-basic-mcq-questions-for-entrance",
+      "title": "Making basic MCQ questions for entrance",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0be14533a2f.json"
+    },
+    {
+      "id": "opl_11184cd8a973",
+      "slug": "making-ppt",
+      "title": "making ppt",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11184cd8a973.json"
+    },
     {
       "id": "opl_91b2a4195058",
       "slug": "man-in-a-city",
@@ -890,6 +975,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_835166ad7289.json"
     },
     {
+      "id": "opl_877352dcca09",
+      "slug": "minimal-studio-portrait",
+      "title": "Minimal Studio Portrait — باشه، هرچی تو بگی",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_877352dcca09.json"
+    },
+    {
       "id": "opl_3f6de879debf",
       "slug": "minimal-web-compatible-food-order-app-development",
       "title": "Minimal Web-Compatible Food Order App Development",
@@ -1011,6 +1105,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06ae622d03ec.json"
     },
     {
+      "id": "opl_76530a4b588b",
+      "slug": "mobile-app",
+      "title": "Mobile App",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76530a4b588b.json"
+    },
+    {
       "id": "opl_bd2528abb32c",
       "slug": "mobile-app-builder",
       "title": "Mobile App Builder",
@@ -1068,104 +1171,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6910c13f54b.json"
-    },
-    {
-      "id": "opl_82354ac950c4",
-      "slug": "modern-video-player-with-sharp-ui",
-      "title": "Modern Video Player with Sharp UI",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82354ac950c4.json"
-    },
-    {
-      "id": "opl_25710f160a27",
-      "slug": "modern-web-development-assistant",
-      "title": "Modern Web Development Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25710f160a27.json"
-    },
-    {
-      "id": "opl_29e3b6041588",
-      "slug": "modernize-legacy-code",
-      "title": "Modernize Legacy Code",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29e3b6041588.json"
-    },
-    {
-      "id": "opl_10826d6810ee",
-      "slug": "modify-front-end-webpage-with-codex-and-image-input",
-      "title": "Modify Front-End Webpage with Codex and Image Input",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10826d6810ee.json"
-    },
-    {
-      "id": "opl_7aa81dc33df1",
-      "slug": "module-wrap-up-next-steps-video-generation",
-      "title": "Module Wrap-Up & Next Steps Video Generation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7aa81dc33df1.json"
-    },
-    {
-      "id": "opl_9b5e072a011f",
-      "slug": "mom-and-boy",
-      "title": "Mom and boy",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b5e072a011f.json"
-    },
-    {
-      "id": "opl_9b0caed2c960",
-      "slug": "monetization-strategy-for-blockchain-based-merging-games",
-      "title": "Monetization Strategy for Blockchain-Based Merging Games",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "blockchainPlatform",
-          "default": "Sui"
-        },
-        {
-          "name": "gameName",
-          "default": "Merging Game"
-        },
-        {
-          "name": "globalTrends",
-          "default": "Global"
-        },
-        {
-          "name": "targetMarket",
-          "default": "Turkey"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b0caed2c960.json"
-    },
-    {
-      "id": "opl_ca5ba9765d76",
-      "slug": "mongodb-helper",
-      "title": "MongoDB Helper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca5ba9765d76.json"
-    },
-    {
-      "id": "opl_4655c950679e",
-      "slug": "monitor-purchasing-advisor",
-      "title": "Monitor Purchasing Advisor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4655c950679e.json"
     }
   ]
 }

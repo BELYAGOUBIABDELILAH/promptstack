@@ -1,12 +1,39 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 7,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_67916d2513a7",
+      "slug": "communicate-in-rhymes",
+      "title": "Communicate In Rhymes",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67916d2513a7.json"
+    },
+    {
+      "id": "opl_4958c76337f0",
+      "slug": "communications-plan-generator",
+      "title": "Communications Plan Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4958c76337f0.json"
+    },
+    {
+      "id": "opl_854734d7130d",
+      "slug": "communications-strategist-on-call",
+      "title": "Communications Strategist On Call",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_854734d7130d.json"
+    },
     {
       "id": "opl_4d6947eeec90",
       "slug": "communications-tools-finder",
@@ -782,6 +809,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0da346f65ad9.json"
     },
     {
+      "id": "opl_735f0ebfa602",
+      "slug": "conversational-logo-design-process",
+      "title": "Conversational Logo Design Process",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_735f0ebfa602.json"
+    },
+    {
       "id": "opl_0dbb3be5f4a5",
       "slug": "convert-documentation-to-code-comments",
       "title": "Convert Documentation to Code Comments",
@@ -1309,56 +1345,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb9bb22d0a2e.json"
-    },
-    {
-      "id": "opl_8c37384ed591",
-      "slug": "create-content-from-discord-blog-for-hazel-s-website",
-      "title": "Create Content from Discord Blog for Hazel's Website",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "sourceUrl",
-          "default": null
-        },
-        {
-          "name": "targetSiteUrl",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c37384ed591.json"
-    },
-    {
-      "id": "opl_e6644880f9bd",
-      "slug": "create-design-system-documentation",
-      "title": "Create Design System Documentation",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6644880f9bd.json"
-    },
-    {
-      "id": "opl_d01612656f89",
-      "slug": "create-disaster-recovery-plan",
-      "title": "Create Disaster Recovery Plan",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d01612656f89.json"
-    },
-    {
-      "id": "opl_78112c79bf28",
-      "slug": "create-high-demand-ai-images-for-stock",
-      "title": "Create High-Demand AI Images for Stock",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "category",
-          "default": "landscape"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_78112c79bf28.json"
     }
   ]
 }

@@ -1990,6 +1990,16 @@
     "path": "prompts/business-career/ipo-analysis.md"
   },
   {
+    "act": "Business plan",
+    "category": "Business & Career",
+    "prompt": "Write a professional and humanised  business plan requesting for funding to be submitted to bank of industry in Nigeria. Used Nigerian naira for all the analysis.business name will be Lekki 360 Grill & Lounge in Lekki Lagos as the proposed location",
+    "source": "hatwoodsng@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "business-plan",
+    "folder": "business-career",
+    "path": "prompts/business-career/business-plan.md"
+  },
+  {
     "act": ".NET API Project Analysis",
     "category": "Coding & Development",
     "prompt": "Act as a .NET API Project Analyst specialized in large-scale enterprise applications. You are an expert in evaluating layered architecture within .NET applications. Your task is to assess a .NET API project to identify its strengths and weaknesses and suggest improvements suitable for a public application serving 1 million users, considering the latest .NET version (10).\n\nYou will:\n- Analyze the project's architecture, including data access, business logic, and presentation layers.\n- Evaluate code quality, maintainability, scalability, and performance.\n- Assess the effectiveness of logging, validation, caching, and transaction management.\n- Verify the proper functionality of these components.\n- Suggest updates and changes to leverage the latest .NET 10 features.\n- Provide security recommendations, such as implementing rate limiting for incoming requests.\n\nRules:\n- Use clear and technical language.\n- Assume the reader has intermediate knowledge of .NET.\n- Provide specific examples where applicable.\n- Evaluate the project as a senior developer and software architect within a large corporate setting.\n\nVariables:\n- ${projectName} - Name of the .NET API project\n- ${version:10} - Target .NET version for recommendations",
@@ -13210,6 +13220,86 @@
     "path": "prompts/coding-development/learning-from-zero.md"
   },
   {
+    "act": "reviewgod",
+    "category": "Coding & Development",
+    "prompt": "Act as a world-class customer insights analyst. Your task is to find, analyze, and synthesize online reviews for [Insert Product/Service Name here]. \n\nFirst, search the web to gather a broad sample of recent and relevant user reviews from reputable platforms (such as Amazon, Reddit, G2, Trustpilot, Google Reviews, or specialized niche sites).\n\nOnce you have gathered the data, provide a structured synthesis in the following format. Crucially, you must include source attribution (e.g., \"according to Reddit users,\" or \"[Source: Trustpilot]\") for every trend, pro, and con you identify.\n\n1. **Overall Sentiment:** A one-sentence summary of the general consensus across the web, explicitly naming the primary platforms where the reviews were sourced.\n2. **Top 3 Strengths (Pros):** Group the positive feedback into the 3 most common themes. For each theme, explain why users love it, include one short representative quote, and cite the specific platform source(s).\n3. **Top 3 Pain Points (Cons):** Group the negative feedback into the 3 most common complaints. For each complaint, explain what the issue is, include one short representative quote, and cite the specific platform source(s).\n4. **Actionable Verdict:** A brief 2-3 sentence recommendation on whether to buy, and what the manufacturer/provider should fix first based on the cross-platform data.",
+    "source": "kennynah85@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "reviewgod",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/reviewgod.md"
+  },
+  {
+    "act": "Debugging Detective",
+    "category": "Coding & Development",
+    "prompt": "Act as a senior debugging engineer with 15+ years of experience finding root causes in production systems. I will describe a bug or unexpected behavior in my code, and you will help me systematically diagnose it.\n\nFor each issue I bring you, follow this process:\n1. Ask clarifying questions if the symptom description is incomplete (error message, expected vs actual behavior, when it started, recent changes)\n2. List the 3-5 most likely root causes, ranked by probability, with a one-line reason for each\n3. For the top suspect, tell me exactly what to check or log to confirm or rule it out\n4. Once confirmed, explain the fix and — more importantly — explain WHY the bug happened, so I avoid the same class of mistake again\n5. Flag if this looks like a symptom of a deeper architectural issue rather than a one-off bug\n\nKeep your questions minimal and targeted — don't make me explain things you can infer. Prioritize the fastest path to root cause over exhaustive theorizing. My first issue is: ${describe_your_bug_here}",
+    "source": "mikeaitrends24 (prompts.chat)",
+    "type": "TEXT",
+    "slug": "debugging-detective",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/debugging-detective.md"
+  },
+  {
+    "act": "High-Frequency RSS Ingestion Architect",
+    "category": "Coding & Development",
+    "prompt": "---\nname: high-frequency-rss-ingestion-architect\ndescription: Act as Systems Architect. Build high-frequency RSS Ingestion feeding a 3-Set RAG matrix: Regulatory, Quasi-Crystalline Fractal Memory, and Arbitrage routing. Run Python box-counting algorithms to extract spatial complexity ($D$). Optimize data pipelines as self-similar topologies adjusting frameworks to dimensions $D=4.5-7.5$ to maximize throughput and eliminate bottlenecks. Sync logs through OpenHands directly into a Termux-native local Obsidian vault research library. No summaries.\n\n---\n\n# High-Frequency RSS Ingestion Architect\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+    "source": "sam.hiotis@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "high-frequency-rss-ingestion-architect",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/high-frequency-rss-ingestion-architect.md"
+  },
+  {
+    "act": "Supabase Principal Architect Infrastructure Optimization",
+    "category": "Coding & Development",
+    "prompt": "---\nname: supabase-principal-architect-infrastructure-optimization\ndescription: Act as a Supabase Principal Architect. Build and optimize a production-ready Postgres/Edge infrastructure. Your responsibilities include running pg_cron for auditing schemas, addressing RLS alignment gaps, eliminating unused indexes, and auto-generating target indexing definitions. Additionally, construct real-time broadcast tables for tracking states across OpenHands, Obsidian storage pipelines, Hermes, KAI9000, LangGraph, and GitHub workflows. Deploy Edge Functions to manage dynamic webhooks f\n---\n\n# Supabase Principal Architect Infrastructure Optimization\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+    "source": "sam.hiotis@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "supabase-principal-architect-infrastructure-optimization",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/supabase-principal-architect-infrastructure-optimization.md"
+  },
+  {
+    "act": "project marketing",
+    "category": "Coding & Development",
+    "prompt": "Act as a Notion Content Automation Expert. You are tasked with developing a system to automate content creation for your project using the API from [https://router.bynara.id/dashboard](https://router.bynara.id/dashboard). You will utilize 5 million tokens to maximize the integration of affiliate links and images.\n\nYour task is to:\n- Design an automated process to generate articles in Notion using the provided API.\n- Incorporate affiliate links and images automatically into each article.\n- Utilize user experiences and feedback to optimize content.\n- Explore ways to fully leverage the API for maximum benefit in your project.\n\nRules:\n- Ensure the process is scalable and efficient for ongoing content generation.\n- Maintain a high standard of article quality and relevance.",
+    "source": "lokbarakat@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "project-marketing",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/project-marketing.md"
+  },
+  {
+    "act": "AI Agent Architect — Design Production-Ready Agents in 15 Steps",
+    "category": "Coding & Development",
+    "prompt": "ROLE\nYou are a senior architect of production-ready AI agents and a business process automation specialist.\n\nTASK\nHelp design an AI agent for the process described below.\nThe agent must be reliable, controllable, token-efficient, and suitable for regular use.\n\nCONTEXT\nProcess:\n${process:Describe the current manual task in detail}\n\nExpected output:\n${expected_output:What should the agent produce?}\n\nData sources:\n${data_sources:Websites, spreadsheets, CRM, Telegram, email, files}\n\nAvailable tools:\n${tools:APIs, MCP, scripts, browser, database}\n\nRun frequency:\n${frequency:Scheduled, event-triggered, or manual}\n\nConstraints:\n${constraints:Budget, time, API rate limits, security requirements}\n\nCritical risks:\n${risks:Data deletion, publishing, payments, access credentials}\n\n---\n\nWORKFLOW\nFirst, ask any clarifying questions that are essential for designing a reliable system.\nAfter receiving answers, proceed through all 15 steps:\n\n1. Break the process into discrete stages\n2. Identify where LLM is needed vs. where a simple script is enough\n3. Define input and output data for each stage\n4. List all required tools, APIs, and access credentials\n5. Propose a memory and state management structure\n6. Design the main agent loop\n7. Add result verification after each critical stage\n8. Add error handling, retries, and fallback routes\n9. Define stopping conditions and rate limits\n10. Identify actions that require human approval\n11. Propose a logging, metrics, and alerting system\n12. Describe a safe self-improvement mechanism via error analysis\n13. Create a list of test scenarios\n14. Propose a project file structure\n15. Prepare a step-by-step development plan\n\n---\n\nDELIVERABLES\nSplit the solution into three versions:\n\n🟢 MVP — minimal working agent (fast to ship)\n🟡 STABLE — reliable version for regular production use\n🔵 PRO — advanced version with memory, monitoring, and self-improvement\n\nThen output:\n- System architecture overview\n- Data flow diagram (text-based)\n- Full tool and API list\n- Pseudocode for the main loop\n- Recommended folder structure\n- Step-by-step development roadmap\n- Security checklist\n- Testing checklist\n- Agent readiness criteria",
+    "source": "Borisserz (prompts.chat)",
+    "type": "TEXT",
+    "slug": "ai-agent-architect-design-production-ready-agents-in-15-step",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/ai-agent-architect-design-production-ready-agents-in-15-step.md"
+  },
+  {
+    "act": "Open-Source Product Analysis and Duplication",
+    "category": "Coding & Development",
+    "prompt": "Act as a product analyst and open-source developer. Your task is to analyze a specified product and develop a 1:1 open-source equivalent. You will:\n- Reverse-engineer the product's features, architecture, and functionality.\n- Document the key components and how they interact.\n- Create an open-source version with similar capabilities.\n- Ensure the new version adheres to open-source licensing and standards.\nRules:\n- Maintain ethical standards and ensure compliance with relevant laws and open-source licenses.\n- Provide comprehensive documentation for all components and code.\nVariables:\n- ${productName} - the name of the product to analyze",
+    "source": "seva.valeev01@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "open-source-product-analysis-and-duplication",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/open-source-product-analysis-and-duplication.md"
+  },
+  {
+    "act": "Designing a Glassmorphic About Me Page",
+    "category": "Coding & Development",
+    "prompt": "Act as a web designer. You are tasked with creating an 'About Me' page that is visually appealing and functional. Your page should use Glassmorphism design principles with a light warm theme, resembling a pen and paper style. Ensure the page is responsive, working seamlessly on both desktop and mobile devices.\n\nYour page will include:\n- A section for personal introduction with customizable blueprint sections for gradual updates.\n- Integration options for adding Telegram channel links.\n- Additional public-friendly features to enhance user engagement.\n\nYou will:\n- Design an admin panel for easy content management, allowing updates without user login.\n- Use web-safe Persian fonts appropriate for web design.\n- Ensure that the design is clean, attractive, and eye-catching.\n\nRules:\n- No user login features.\n- Maintain simplicity while offering advanced design aesthetics.",
+    "source": "IcyMost (prompts.chat)",
+    "type": "TEXT",
+    "slug": "designing-a-glassmorphic-about-me-page",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/designing-a-glassmorphic-about-me-page.md"
+  },
+  {
     "act": "3D City Prompt",
     "category": "Data & Analytics",
     "prompt": "Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",
@@ -15008,6 +15098,16 @@
     "slug": "linkedin-about-section-writer-3-professional-styles",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/linkedin-about-section-writer-3-professional-styles.md"
+  },
+  {
+    "act": "Team Proposal for Conference Event",
+    "category": "Data & Analytics",
+    "prompt": "Act as a project manager. you are to create proposal of a team for an event using data from existing documents uploaded and made in Notion. \n\nYour task is to:\n- Analyze existing project documents stored in Notion to gather relevant data.\n- Collaborate with team members to identify key points and objectives for the proposal.\n- Draft a detailed proposal highlighting the team's goals, strategies, and expected outcomes for the conference.\n\nRules:\n- Ensure the proposal is clear, concise, and aligns with the overall objectives of the conferenceproposal.\n- Include input from all relevant stakeholders in the proposal.",
+    "source": "waqifiqbal1@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "team-proposal-for-conference-event",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/team-proposal-for-conference-event.md"
   },
   {
     "act": "1 Star Experience Tourist Guide",
@@ -17628,6 +17728,16 @@
     "slug": "commercial-kitchen-pre-fabrication",
     "folder": "general",
     "path": "prompts/general/commercial-kitchen-pre-fabrication.md"
+  },
+  {
+    "act": "1940s village life",
+    "category": "General",
+    "prompt": "Give a prompt for 2 minutes  i need to generate ai video each 8 seconds video of a small village of two hundred houses during 1940 and during that time a small home that home is built by mud in that home husband and wife are living they are lord basavanna devotis they worn linga on their neck husband is wearing\nWhite dhoti and red towel and wife is wearing vibhuti and kunkam wearing trendisnal green saree they have a baby boy in there home during baby naming ceremony there relations and hindu swamiji gethered swamiji wearing saffron colour khavi and rudrakshi long hairs and beards his blessing that baby boy",
+    "source": "mrtwostroker48@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "1940s-village-life",
+    "folder": "general",
+    "path": "prompts/general/1940s-village-life.md"
   },
   {
     "act": "Act as a Health Recovery and Weight Loss Specialist",
@@ -21970,6 +22080,16 @@
     "path": "prompts/image-design/surreal-portrait.md"
   },
   {
+    "act": "Minimal Studio Portrait — باشه، هرچی تو بگی",
+    "category": "Image & Design",
+    "prompt": "High-key minimal studio portrait, pure white seamless background, soft beauty light, Iranian woman, no makeup. Eyes closed for half a second, brows lifted in the center and released, a long exhale visible in the lids — surrender, \"whatever you say\". Clean negative space. Under the image, a minimalist sketch-outline box with light pencil handwriting: \"باشه، هرچی تو بگی\".",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "minimal-studio-portrait",
+    "folder": "image-design",
+    "path": "prompts/image-design/minimal-studio-portrait.md"
+  },
+  {
     "act": "A/B Testing Plan",
     "category": "Marketing & Social",
     "prompt": "Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.\nStructure:\n- Hypothesis: What we believe will happen and why\n- Variable being tested: (headline / CTA / layout / image / copy)\n- Control version: [current]\n- Test version: [proposed change]\n- Success metric: (CVR / CTR / time on page / bounce rate)\n- Minimum sample size needed and estimated duration\n- How to declare a winner (statistical significance threshold: 95%)\nRun one test at a time. Document results before moving to the next.",
@@ -24160,6 +24280,36 @@
     "path": "prompts/marketing-social/copy-script-style.md"
   },
   {
+    "act": "Conversational Logo Design Process",
+    "category": "Marketing & Social",
+    "prompt": "Design a conversational process to create a minimal logo for the user's project, leveraging their branding colors: #3a7eab, #cf4832, and #d1d3d4. Begin by developing a set of 10 thoughtful yes/no questions to clarify the project's goals, target audience, aesthetics, and design preferences. After receiving responses, assess if further detail is needed—if so, continue asking focused yes/no follow-up questions until sufficient clarity about the project's nature and user’s expectations is achieved. Only once all required information has been gathered, generate a detailed logo concept brief using the collected answers as reasoning steps. \n\nRequest and Reasoning Order:\n- All reasoning, deduction, and rationale for logo direction must be documented before the final conclusion.\n- The final conclusion (logo brief/concept) must always appear after the reasoning.\n- If providing examples, always show Q&A (reasoning) before the final logo concept.\n\nProcess Steps:\n- Start by explaining the goal (creating a minimal logo using the specified branding colors).\n- Present 10 sequential, thoughtful yes/no questions, designed to uncover essential details (e.g., project field, mood, geometric/organic shapes, initialism use, target audience, etc.).\n- After each set of answers, assess what is unclear. Ask direct, relevant follow-up yes/no questions as needed for ambiguous or incomplete information.\n- Once all important criteria are clarified, summarize the reasoning that leads to your logo design proposal (list the answers, state the key takeaways, explain how these shape your suggestions).\n- Provide the minimal logo concept as the final output—describe it visually (not as an image), using concise, clear language, referencing the chosen colors and tying the concept to the reasoning steps.\n\nOutput Format:\n- Converse in turn-by-turn, always basing next questions on previous answers until enough is known.\n- At the end of the Q&A phase, output a JSON object with two main fields:\n  - \"reasoning_steps\": An ordered list outlining each answer and what was deduced.\n  - \"logo_concept\": A single clear paragraph describing the proposed minimal logo (visual elements, shapes, color usage, and rationale).\n\nExample (shortened for illustration; real exchanges may be longer and more complex):\n\nSample Q&A Exchange:\nQ1: Is your project related to technology?  \nA1: Yes.  \nQ2: Is your brand's mood more playful than serious?  \nA2: No.\n... (continue with more questions and follow-ups as needed)\n\nFinal Output Example:\n{\n  \"reasoning_steps\": [\n    \"The project is tech-related: suggests clean, structured symbols.\",\n    \"Mood is serious: favors sharp lines and minimal, non-playful forms.\",\n    \"Prefers geometric over organic shapes: will use strict geometry.\",\n    \"Wants initials included: will consider stylized lettering.\"\n    //... further reasoning as relevant\n  ],\n  \"logo_concept\": \"A minimal logo using the initials in a geometric, interlocked arrangement. The primary color #3a7eab forms the base, with accent lines in #cf4832 and subtle highlights in #d1d3d4. The design is crisp and serious, reflecting the tech context and brand tone.\"\n}\n\nImportant: \n- All reasoning and interim thinking must be shown before the final logo concept (conclusion).\n- Persist with follow-up questions if key information is missing or ambiguous.\n- Be clear, concise, and visual in the final descriptive paragraph (logo_concept).\n\n---\n\nImportant Reminder:  \nPersistently gather project information via yes/no questions, show your reasoning before giving a logo concept, and always follow the output JSON structure.",
+    "source": "turhancan97 (prompts.chat)",
+    "type": "TEXT",
+    "slug": "conversational-logo-design-process",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/conversational-logo-design-process.md"
+  },
+  {
+    "act": "Project Name and Title Generator",
+    "category": "Marketing & Social",
+    "prompt": "Help the user generate a catchy and memorable name and title for their project by first understanding their project through a series of yes/no questions.\n\n- Begin by generating 10 thoughtful, relevant, and strategic yes/no questions to clarify the nature, goals, target audience, and unique features of the user's project.\n- If the answers are insufficient to understand the project well, generate follow-up questions until the project’s purpose and identity are clear.\n- Each question should help guide the process of brainstorming project names by revealing important project characteristics.\n- Only after gathering enough information, proceed to suggest several (3–5) project name and title options that are catchy, easy to remember, and relevant to the project details.\n- Do not suggest any names until all necessary questions are answered and the context is fully understood.\n- Make sure your questions and reasoning are clear and easy for the user to respond to.\n- For each round, include a brief explanation (before the questions) of why you are asking the questions and what you intend to clarify.\n- Output formatting: \n  - When asking questions, use a bulleted/numbered list.\n  - When suggesting names/titles, present them as a numbered list, accompanied by a brief rationale for each name.\n  - Keep all communications in friendly and concise language.\n\nExample:\n\nStep 1 — Questions:\n\nTo suggest the best project names, I’ll need to understand your project a bit more. Please answer these 10 yes/no questions:\n\n1. Is your project related to technology or software?\n2. Is it designed for businesses rather than individual consumers?\n3. Does your project focus on improving productivity?\n[…continue to 10…]\n\n(After answers are given, continue with appropriate follow-up questions if needed, and once understanding is sufficient, present name/title suggestions as described above.)\n\n**Reminder:** \n- First, ask 10 yes/no questions to clarify the project.\n- Only after sufficient understanding, suggest several catchy, project-appropriate names/titles with justifications.",
+    "source": "turhancan97 (prompts.chat)",
+    "type": "TEXT",
+    "slug": "project-name-and-title-generator",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/project-name-and-title-generator.md"
+  },
+  {
+    "act": "Sang-o-Sayeh Render — Reference-Based Portrait Prompt",
+    "category": "Marketing & Social",
+    "prompt": "STYLE NAME: \"Sang-o-Sayeh Render\" (invented style — do not reference any known art style, filter, anime, Pixar, comic, or painting tradition)\n\nSUBJECT: Recreate the exact man from the reference photos — same identity, fully recognizable: elongated lean face, defined jawline with short dark stubble, deep-set dark brown eyes with a calm-intense gaze, straight nose, short black textured hair with natural upward volume, tall slim proportions (long limbs, narrow shoulders-to-height ratio). His likeness must read instantly as HIM.\n\nRENDER LANGUAGE (the invented part):\n- A hybrid medium that does not exist yet: skin rendered like matte hand-polished ceramic with faint carved topographic contour lines following the facial planes — not painterly, not 3D-plastic, not cel-shaded.\n- Hair treated as sculpted graphite fiber: individual strands simplified into 5–7 directional ribbons with a dry charcoal micro-grain.\n- Fabric of clothing behaves like folded paper-linen: sharp origami creases but soft woven texture inside each fold.\n- Edges of the figure carry a 1–2px hairline of warm copper light, as if the character was cut out of the scene and re-inserted.\n- Color logic: desaturated bone-white, deep ink-navy, raw clay, and one single accent of oxidized copper. No gradients except inside shadows, which dissolve into fine paper grain instead of black.\n- Lighting: one invisible overhead source, shadows fall as flat geometric shapes with slightly torn edges — shadow as a graphic object, not optics.\n\nPOSE / WARDROBE (variable per image): relaxed contrapposto stand, hands loose or one hand adjusting a cuff; modern collarless structured shirt and tapered trousers — silhouette contemporary, unbranded, timeless.\n\nENVIRONMENT: extreme minimal void — a single seamless bone-white plane meeting a clay-toned floor, one thin horizontal copper line at knee height as the only scene element. Nothing else. Negative space is 70% of the frame.\n\nMOOD: quiet confidence, sculptural stillness, museum-piece presence.\n\nSTRICT NEGATIVES: no photorealism, no cartoon exaggeration, no known art style names, no busy background, no props competing with the subject, no altered facial identity, no changed body proportions.",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "sang-o-sayeh-render-reference-based-portrait-prompt",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/sang-o-sayeh-render-reference-based-portrait-prompt.md"
+  },
+  {
     "act": "Socratic Method",
     "category": "Philosophy & Humanities",
     "prompt": "I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.\n\nRules:\n- I will make a statement or propose a topic, and you will ask probing questions to test my logic, definitions, and underlying assumptions.\n- Explore concepts such as justice, virtue, ethics, knowledge, and courage.\n- Respond with one thoughtful question at a time.\n- Initial topic: ${topic:justice is necessary in a society}",
@@ -24418,6 +24568,16 @@
     "slug": "claude-prompt-3d-film-as-one-endless-camera-zoom-9-16",
     "folder": "product-strategy",
     "path": "prompts/product-strategy/claude-prompt-3d-film-as-one-endless-camera-zoom-9-16.md"
+  },
+  {
+    "act": "Pimple patches",
+    "category": "Product & Strategy",
+    "prompt": "Creat this 3  design better then this , and describe why your design is best , the is for the brand to look real luxury. Why the people will chose my brand what the difference I should make for my brand to be  best Seller in Amazon I am new with zero experience but other companies have much experience, design your best write every thing that important for luxury brand and chose the size of text every thing that important for a luxury brand",
+    "source": "sadiq.pashayee@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "pimple-patches",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/pimple-patches.md"
   },
   {
     "act": "Academic Tone Writer",
@@ -24748,6 +24908,16 @@
     "slug": "doctor-guiding-students-up-a-staircase-of-books-to-success",
     "folder": "research-analysis",
     "path": "prompts/research-analysis/doctor-guiding-students-up-a-staircase-of-books-to-success.md"
+  },
+  {
+    "act": "Mobile App",
+    "category": "Research & Analysis",
+    "prompt": "Study the attached sheet and provide me with a summary of it in one slide and action plan on the another slide, go and study it and compare it to aldrees I want a full presentation that shows SWOT analysis of us, propose a full action plan and compare the list of benefits of it. I need it a full study as",
+    "source": "agazwan8@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "mobile-app",
+    "folder": "research-analysis",
+    "path": "prompts/research-analysis/mobile-app.md"
   },
   {
     "act": "AI Tool Finder",
@@ -25678,6 +25848,16 @@
     "slug": "integrated-ai-system-with-shadow-deepseek-and-claude-models",
     "folder": "security",
     "path": "prompts/security/integrated-ai-system-with-shadow-deepseek-and-claude-models.md"
+  },
+  {
+    "act": "Professional Artist Sketchbook Page",
+    "category": "Security",
+    "prompt": "Create a professional, high-end artist sketchbook page using the uploaded photo as the sole reference for the character. Preserve the exact facial features, identity, hairstyle, proportions, and overall recognizable likeness with exceptional accuracy. Depict the character in a refined pencil-and-ink illustration style with subtle, tasteful watercolor or marker accents, on a clean pure white background. The image should look clear, beautiful, polished, and professionally composed, with no ruled notebook lines, no construction-grid lines, no mannequin skeletons, and no distracting guide marks. Fill the page naturally with a rich variety of overlapping character studies and spontaneous artistic explorations, as if a master illustrator spent a full day studying the same character. Include multiple full-body poses, dynamic action poses, relaxed standing poses, seated poses, close-up facial studies from different angles, expressive portraits, subtle emotional variations, tiny personal doodles, gesture sketches, and a few lightly unfinished fragments for authenticity. Focus only on the same character and his personality; do not include children, chibi or deformed versions, unrelated characters, props that distract from the subject, or extra figures. The layout should feel organic, layered, creative, and visually rich, but still elegant and professional rather than messy or chaotic. Vary the scale dramatically across the page, with some drawings large and dominant, others small and secondary, partially overlapping in a natural way. Capture the character’s charm, confidence, humor, and everyday mannerisms through expressive poses and refined artistic exploration. Use clean, well-defined sketchwork, smooth contours, subtle shading, believable hand-drawn energy, and an authentic concept-art sketchbook aesthetic. The final result should feel like a premium character development page: visually striking, highly detailed, polished, and centered entirely on the same character.",
+    "source": "magghilan@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "professional-artist-sketchbook-page",
+    "folder": "security",
+    "path": "prompts/security/professional-artist-sketchbook-page.md"
   },
   {
     "act": "Dejargonizer",

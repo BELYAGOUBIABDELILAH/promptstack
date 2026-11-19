@@ -1,12 +1,137 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 21,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_04c4257a6a1b",
+      "slug": "product-planner-agent-role",
+      "title": "Product Planner Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04c4257a6a1b.json"
+    },
+    {
+      "id": "opl_0531d6bcc978",
+      "slug": "product-promotion-expert",
+      "title": "Product Promotion Expert",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0531d6bcc978.json"
+    },
+    {
+      "id": "opl_6f64f72405c4",
+      "slug": "production-grade-posthog-integration-for-next-js-15-app-rout",
+      "title": "Production-Grade PostHog Integration for Next.js 15 (App Router)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6f64f72405c4.json"
+    },
+    {
+      "id": "opl_003ea1e1c2d3",
+      "slug": "productive-peer-mentor-friendly-tech-savvy-thinking-partner",
+      "title": "Productive Peer Mentor (Friendly Tech-Savvy Thinking Partner)",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_003ea1e1c2d3.json"
+    },
+    {
+      "id": "opl_de8c032672a2",
+      "slug": "productivity-stack-streamliner",
+      "title": "Productivity Stack Streamliner",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de8c032672a2.json"
+    },
+    {
+      "id": "opl_2d121c6feeb2",
+      "slug": "professional-artist-sketchbook-page",
+      "title": "Professional Artist Sketchbook Page",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2d121c6feeb2.json"
+    },
+    {
+      "id": "opl_b2d3bb6b2236",
+      "slug": "professional-associations-explorer",
+      "title": "Professional Associations Explorer",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2d3bb6b2236.json"
+    },
+    {
+      "id": "opl_bf2073b81864",
+      "slug": "professional-badge-photo-ready-to-use",
+      "title": "Professional Badge Photo, Ready to Use",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf2073b81864.json"
+    },
+    {
+      "id": "opl_ccd48e1dc1f5",
+      "slug": "professional-betting-predictions",
+      "title": "Professional Betting Predictions",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ccd48e1dc1f5.json"
+    },
+    {
+      "id": "opl_b7bc54633845",
+      "slug": "professional-development-navigator",
+      "title": "Professional Development Navigator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7bc54633845.json"
+    },
+    {
+      "id": "opl_9599f2fd627e",
+      "slug": "professional-email-writer-for-any-occasion",
+      "title": "Professional Email Writer for Any Occasion",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "customized_email_based_on_variables",
+          "default": null
+        },
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "length",
+          "default": "short"
+        },
+        {
+          "name": "tone",
+          "default": "formal"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9599f2fd627e.json"
+    },
+    {
+      "id": "opl_0e9dcbbaf183",
+      "slug": "professional-full-stack-developer-for-network-mapping-monito",
+      "title": "Professional Full-Stack Developer for Network Mapping & Monitoring Application",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e9dcbbaf183.json"
+    },
     {
       "id": "opl_ccf3be71d6f7",
       "slug": "professional-github-dashboard-for-portfolio-enhancement",
@@ -268,6 +393,24 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_89ba0d2aef85.json"
+    },
+    {
+      "id": "opl_5723ca04a8a4",
+      "slug": "project-marketing",
+      "title": "project marketing",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5723ca04a8a4.json"
+    },
+    {
+      "id": "opl_830a807b1bbd",
+      "slug": "project-name-and-title-generator",
+      "title": "Project Name and Title Generator",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_830a807b1bbd.json"
     },
     {
       "id": "opl_4ad9a427ef30",
@@ -994,146 +1137,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b4c2ad2ac23.json"
-    },
-    {
-      "id": "opl_f951d8d6f0af",
-      "slug": "python-unit-test-generator-comprehensive-coverage-mapped-production-ready",
-      "title": "Python Unit Test Generator — Comprehensive, Coverage-Mapped & Production-Ready",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f951d8d6f0af.json"
-    },
-    {
-      "id": "opl_4bd7e617e524",
-      "slug": "quality-engineering-agent-role",
-      "title": "Quality Engineering Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4bd7e617e524.json"
-    },
-    {
-      "id": "opl_1d35cee58a22",
-      "slug": "quantitative-factor-research-engineer",
-      "title": "Quantitative Factor Research Engineer",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d35cee58a22.json"
-    },
-    {
-      "id": "opl_882a19f67b15",
-      "slug": "question-list-for-reaserch",
-      "title": "question list for reaserch",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "community",
-          "default": null
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_882a19f67b15.json"
-    },
-    {
-      "id": "opl_298fe192c92e",
-      "slug": "question-quality-lab-game",
-      "title": "Question Quality Lab Game",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_298fe192c92e.json"
-    },
-    {
-      "id": "opl_ed7ecf6b765e",
-      "slug": "quiet-glow",
-      "title": "Quiet Glow",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed7ecf6b765e.json"
-    },
-    {
-      "id": "opl_788ce3359555",
-      "slug": "quizflix-app-development",
-      "title": "Quizflix App Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_788ce3359555.json"
-    },
-    {
-      "id": "opl_25ed4ed275e8",
-      "slug": "quizflix-mobile-app-design-for-university-students",
-      "title": "QuizFlix Mobile App Design for University Students",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25ed4ed275e8.json"
-    },
-    {
-      "id": "opl_226f87d1647d",
-      "slug": "r-programming-interpreter",
-      "title": "R Programming Interpreter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_226f87d1647d.json"
-    },
-    {
-      "id": "opl_c8d1e2d16c6d",
-      "slug": "radical-responsibility-mirror-shadow-work",
-      "title": "Radical Responsibility Mirror (Shadow Work)",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "area_of_life",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8d1e2d16c6d.json"
-    },
-    {
-      "id": "opl_bb372e063446",
-      "slug": "rag-and-vector-storage-consultant",
-      "title": "RAG And Vector Storage Consultant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb372e063446.json"
-    },
-    {
-      "id": "opl_32df1a87c7a7",
-      "slug": "rag-embedding-advisor",
-      "title": "RAG Embedding Advisor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32df1a87c7a7.json"
-    },
-    {
-      "id": "opl_1ecf3335433f",
-      "slug": "rags-to-riches-motivational-short-video",
-      "title": "Rags to Riches Motivational Short Video",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ecf3335433f.json"
-    },
-    {
-      "id": "opl_fcf931986ad2",
-      "slug": "rainy-umbrella-street-full-body",
-      "title": "Rainy Umbrella Street (full-body)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcf931986ad2.json"
     }
   ]
 }

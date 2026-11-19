@@ -1,8 +1,8 @@
 {
   "folder": "business-career",
   "name": "Business & Career",
-  "last_updated": "2026-11-18T20:20:47.101Z",
-  "total": 66,
+  "last_updated": "2026-11-19T14:57:00.876Z",
+  "total": 67,
   "prompts": [
     {
       "id": "opl_9051647e5ce0",
@@ -294,6 +294,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34677c85871b.json"
+    },
+    {
+      "id": "opl_881c9ab24a21",
+      "slug": "business-plan",
+      "title": "Business plan",
+      "prompt": "Write a professional and humanised  business plan requesting for funding to be submitted to bank of industry in Nigeria. Used Nigerian naira for all the analysis.business name will be Lekki 360 Grill & Lounge in Lekki Lagos as the proposed location",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_263ba0a372a6"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_881c9ab24a21.json"
     },
     {
       "id": "opl_bd7d81204755",

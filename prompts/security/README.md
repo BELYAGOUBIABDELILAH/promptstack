@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**72 prompts in this category**
+**73 prompts in this category**
 
 ## Table of Contents
 
@@ -63,6 +63,7 @@
 - [Olympic Games Events Weekly Listings Prompt](olympic-games-events-weekly-listings-prompt.md)
 - [OPNSense Assistant](opnsense-assistant.md)
 - [Opus-Driven Deep Thinking System](opus-driven-deep-thinking-system.md)
+- [Professional Artist Sketchbook Page](professional-artist-sketchbook-page.md)
 - [Proxmox Virtualization Expert](proxmox-virtualization-expert.md)
 - [Python Environment Explainer](python-environment-explainer.md)
 - [Resume To Side Hustle](resume-to-side-hustle.md)

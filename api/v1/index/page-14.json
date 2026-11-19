@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 14,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_c1496125634c",
+      "slug": "http-benchmarking-tool-cli",
+      "title": "HTTP Benchmarking Tool CLI",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1496125634c.json"
+    },
+    {
+      "id": "opl_506c1ac97c3f",
+      "slug": "htwind-widget-creator",
+      "title": "HTWind-Widget-Creator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_506c1ac97c3f.json"
+    },
+    {
+      "id": "opl_aaed85e0bd0a",
+      "slug": "human",
+      "title": "human",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aaed85e0bd0a.json"
+    },
+    {
+      "id": "opl_0ab25d077bb5",
+      "slug": "human-in-the-loop",
+      "title": "Human In The Loop",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ab25d077bb5.json"
+    },
+    {
+      "id": "opl_a4f793c62790",
+      "slug": "human-like-creative-writing-challenge",
+      "title": "Human-Like Creative Writing Challenge",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "genre",
+          "default": "fantasy"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a4f793c62790.json"
+    },
+    {
+      "id": "opl_a842ec877751",
+      "slug": "humblebrag-drafter",
+      "title": "Humblebrag Drafter",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a842ec877751.json"
+    },
+    {
+      "id": "opl_add7a10c45da",
+      "slug": "hyper-realistic-3d-isometric-ottoman-masterpiece",
+      "title": "Hyper-Realistic 3D Isometric Ottoman Masterpiece",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "event",
+          "default": "the Conquest of Constantinople (1453)"
+        },
+        {
+          "name": "name",
+          "default": "Fatih Sultan Mehmet"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_add7a10c45da.json"
+    },
     {
       "id": "opl_bc0bf6f6118c",
       "slug": "hyper-realistic-cinematic-pre-dawn-scene-in-ancient-mecca",
@@ -1024,113 +1101,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3d2c9c3a7eb.json"
-    },
-    {
-      "id": "opl_6b276a1fb983",
-      "slug": "investigative-research-assistant-for-uncovering-non-mainstre",
-      "title": "Investigative Research Assistant for Uncovering Non-Mainstream Information",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b276a1fb983.json"
-    },
-    {
-      "id": "opl_4a60f7216f27",
-      "slug": "investment-manager",
-      "title": "Investment Manager",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4a60f7216f27.json"
-    },
-    {
-      "id": "opl_f61ad302dc68",
-      "slug": "investment-tracking-dashboard",
-      "title": "Investment Tracking Dashboard",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "framework",
-          "default": "React"
-        },
-        {
-          "name": "language",
-          "default": "JavaScript"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f61ad302dc68.json"
-    },
-    {
-      "id": "opl_ec2f9b97481b",
-      "slug": "investor-pitch-coach",
-      "title": "Investor Pitch Coach",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec2f9b97481b.json"
-    },
-    {
-      "id": "opl_df05817abd42",
-      "slug": "investor-pitch-presentation",
-      "title": "Investor Pitch Presentation",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "investmentAmount",
-          "default": null
-        },
-        {
-          "name": "keySlide",
-          "default": null
-        },
-        {
-          "name": "startupName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df05817abd42.json"
-    },
-    {
-      "id": "opl_0a88c8966dba",
-      "slug": "ios-localization-file-translation",
-      "title": "iOS Localization File Translation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "APP_NAME",
-          "default": null
-        },
-        {
-          "name": "TARGET_LANGUAGE",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a88c8966dba.json"
-    },
-    {
-      "id": "opl_68de381b1454",
-      "slug": "ios-recipe-generator-create-recipes-from-available-ingredien",
-      "title": "iOS Recipe Generator: Create Recipes from Available Ingredients",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "dietaryPreference",
-          "default": null
-        },
-        {
-          "name": "ingredients",
-          "default": null
-        },
-        {
-          "name": "servings",
-          "default": "2"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68de381b1454.json"
     }
   ]
 }

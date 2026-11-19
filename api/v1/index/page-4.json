@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 4,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prompts": [
+    {
+      "id": "opl_d3c57f240853",
+      "slug": "assistant-ideator-automation",
+      "title": "Assistant Ideator - Automation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3c57f240853.json"
+    },
+    {
+      "id": "opl_ffa4ad5fe4df",
+      "slug": "assistant-ideator-data",
+      "title": "Assistant Ideator - Data",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ffa4ad5fe4df.json"
+    },
     {
       "id": "opl_b7abbca83b6b",
       "slug": "assistant-ideator-geopol",
@@ -1163,37 +1181,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_427077f27d57.json"
-    },
-    {
-      "id": "opl_f57c8ec549a1",
-      "slug": "borrow-skill",
-      "title": "Borrow Skill",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "method",
-          "default": null
-        },
-        {
-          "name": "sizeLimit",
-          "default": null
-        },
-        {
-          "name": "targetAgent",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f57c8ec549a1.json"
-    },
-    {
-      "id": "opl_563dc6016c17",
-      "slug": "boss-update-batcher",
-      "title": "Boss Update Batcher",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_563dc6016c17.json"
     }
   ]
 }

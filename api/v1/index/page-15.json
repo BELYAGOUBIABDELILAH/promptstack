@@ -1,12 +1,119 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 15,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_6b276a1fb983",
+      "slug": "investigative-research-assistant-for-uncovering-non-mainstre",
+      "title": "Investigative Research Assistant for Uncovering Non-Mainstream Information",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b276a1fb983.json"
+    },
+    {
+      "id": "opl_4a60f7216f27",
+      "slug": "investment-manager",
+      "title": "Investment Manager",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4a60f7216f27.json"
+    },
+    {
+      "id": "opl_f61ad302dc68",
+      "slug": "investment-tracking-dashboard",
+      "title": "Investment Tracking Dashboard",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "framework",
+          "default": "React"
+        },
+        {
+          "name": "language",
+          "default": "JavaScript"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f61ad302dc68.json"
+    },
+    {
+      "id": "opl_ec2f9b97481b",
+      "slug": "investor-pitch-coach",
+      "title": "Investor Pitch Coach",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec2f9b97481b.json"
+    },
+    {
+      "id": "opl_df05817abd42",
+      "slug": "investor-pitch-presentation",
+      "title": "Investor Pitch Presentation",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "investmentAmount",
+          "default": null
+        },
+        {
+          "name": "keySlide",
+          "default": null
+        },
+        {
+          "name": "startupName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df05817abd42.json"
+    },
+    {
+      "id": "opl_0a88c8966dba",
+      "slug": "ios-localization-file-translation",
+      "title": "iOS Localization File Translation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "APP_NAME",
+          "default": null
+        },
+        {
+          "name": "TARGET_LANGUAGE",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a88c8966dba.json"
+    },
+    {
+      "id": "opl_68de381b1454",
+      "slug": "ios-recipe-generator-create-recipes-from-available-ingredien",
+      "title": "iOS Recipe Generator: Create Recipes from Available Ingredients",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "dietaryPreference",
+          "default": null
+        },
+        {
+          "name": "ingredients",
+          "default": null
+        },
+        {
+          "name": "servings",
+          "default": "2"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68de381b1454.json"
+    },
     {
       "id": "opl_c71c1ce69510",
       "slug": "ipo-analysis",
@@ -941,224 +1048,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1987b1b77ed.json"
-    },
-    {
-      "id": "opl_2ce865540b16",
-      "slug": "leadership-coach",
-      "title": "Leadership Coach",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce865540b16.json"
-    },
-    {
-      "id": "opl_a1979b6bc098",
-      "slug": "league-of-legends-player",
-      "title": "League of Legends Player",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1979b6bc098.json"
-    },
-    {
-      "id": "opl_0cff1260e068",
-      "slug": "learn-any-technical-coding-topic",
-      "title": "Learn Any Technical/Coding Topic",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0cff1260e068.json"
-    },
-    {
-      "id": "opl_76282a411ae8",
-      "slug": "learn-quiz-session",
-      "title": "Learn quiz session",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76282a411ae8.json"
-    },
-    {
-      "id": "opl_4b3475f89c51",
-      "slug": "learn-rust-programming",
-      "title": "Learn Rust Programming",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b3475f89c51.json"
-    },
-    {
-      "id": "opl_7e7cd7dd1735",
-      "slug": "learn-to-speak-spanish",
-      "title": "Learn to Speak Spanish",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "level",
-          "default": "beginner"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e7cd7dd1735.json"
-    },
-    {
-      "id": "opl_ebe06e5f4728",
-      "slug": "learning-from-zero",
-      "title": "learning from zero",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "application_scenarios",
-          "default": null
-        },
-        {
-          "name": "available_time",
-          "default": null
-        },
-        {
-          "name": "blog_drafts",
-          "default": null
-        },
-        {
-          "name": "completed_modules",
-          "default": null
-        },
-        {
-          "name": "completed_practice",
-          "default": null
-        },
-        {
-          "name": "core_learning_purpose",
-          "default": null
-        },
-        {
-          "name": "current_level",
-          "default": null
-        },
-        {
-          "name": "current_module",
-          "default": null
-        },
-        {
-          "name": "current_stage",
-          "default": null
-        },
-        {
-          "name": "excluded_topics",
-          "default": null
-        },
-        {
-          "name": "existing_experience",
-          "default": null
-        },
-        {
-          "name": "final_goal",
-          "default": null
-        },
-        {
-          "name": "formal_learning_definition",
-          "default": null
-        },
-        {
-          "name": "learning_preferences",
-          "default": null
-        },
-        {
-          "name": "learning_progress_record",
-          "default": null
-        },
-        {
-          "name": "learning_topic",
-          "default": null
-        },
-        {
-          "name": "main_resource",
-          "default": null
-        },
-        {
-          "name": "mastered_knowledge",
-          "default": null
-        },
-        {
-          "name": "missing_prerequisites",
-          "default": null
-        },
-        {
-          "name": "module_teaching_structure",
-          "default": null
-        },
-        {
-          "name": "my_learning_profile",
-          "default": null
-        },
-        {
-          "name": "next_task",
-          "default": null
-        },
-        {
-          "name": "note_title",
-          "default": null
-        },
-        {
-          "name": "notion_notes",
-          "default": null
-        },
-        {
-          "name": "open_questions",
-          "default": null
-        },
-        {
-          "name": "other_requirements",
-          "default": null
-        },
-        {
-          "name": "practice_resources",
-          "default": null
-        },
-        {
-          "name": "reference_resources",
-          "default": null
-        },
-        {
-          "name": "required_topics",
-          "default": null
-        },
-        {
-          "name": "resources_and_external_materials",
-          "default": null
-        },
-        {
-          "name": "response_rules",
-          "default": null
-        },
-        {
-          "name": "supplementary_resources",
-          "default": null
-        },
-        {
-          "name": "target_blog_audience",
-          "default": null
-        },
-        {
-          "name": "target_depth",
-          "default": null
-        },
-        {
-          "name": "weak_areas",
-          "default": null
-        },
-        {
-          "name": "your_main_responsibilities",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebe06e5f4728.json"
     }
   ]
 }

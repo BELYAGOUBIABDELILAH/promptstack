@@ -1,12 +1,235 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 24,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_7244b440f22d",
+      "slug": "seo-strategy-for-container-tracking-keywords",
+      "title": "SEO Strategy for Container Tracking Keywords",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "keyword",
+          "default": "container tracking"
+        },
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "length",
+          "default": "2000"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7244b440f22d.json"
+    },
+    {
+      "id": "opl_7c71912e619f",
+      "slug": "seo-tooling-advisor",
+      "title": "SEO Tooling Advisor",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c71912e619f.json"
+    },
+    {
+      "id": "opl_6dbb693084a7",
+      "slug": "seo-fundamentals",
+      "title": "seo-fundamentals",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dbb693084a7.json"
+    },
+    {
+      "id": "opl_3fa4ec3a2422",
+      "slug": "serene-autumn-lakeside-illustration",
+      "title": "Serene Autumn Lakeside Illustration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fa4ec3a2422.json"
+    },
+    {
+      "id": "opl_b3f7c6705433",
+      "slug": "serene-evening-rowboat-scene-in-illustrative-realism",
+      "title": "Serene Evening Rowboat Scene in Illustrative Realism",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3f7c6705433.json"
+    },
+    {
+      "id": "opl_0593010aecc7",
+      "slug": "serene-mirror-selfie-portrait-in-sunlit-bedroom",
+      "title": "Serene Mirror-Selfie Portrait in Sunlit Bedroom",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0593010aecc7.json"
+    },
+    {
+      "id": "opl_f90a3143523e",
+      "slug": "serene-moonlit-street-illustration",
+      "title": "Serene Moonlit Street Illustration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f90a3143523e.json"
+    },
+    {
+      "id": "opl_4f22b03fbff1",
+      "slug": "serene-yoga-mindfulness-lifestyle-photography",
+      "title": "Serene Yoga & Mindfulness Lifestyle Photography",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f22b03fbff1.json"
+    },
+    {
+      "id": "opl_4c4a8fd16e77",
+      "slug": "serious-man-in-urban-setting",
+      "title": "Serious Man in Urban Setting",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c4a8fd16e77.json"
+    },
+    {
+      "id": "opl_956475ccccf3",
+      "slug": "session-continuity-engine",
+      "title": "Session Continuity Engine",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_956475ccccf3.json"
+    },
+    {
+      "id": "opl_be44c32c5d80",
+      "slug": "set-up-w-b-and-run-pod-during-training",
+      "title": "Set Up W&B and Run Pod During Training",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "namespace",
+          "default": null
+        },
+        {
+          "name": "projectName",
+          "default": null
+        },
+        {
+          "name": "sshKey",
+          "default": null
+        },
+        {
+          "name": "trainingScript",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be44c32c5d80.json"
+    },
+    {
+      "id": "opl_06b4588734e8",
+      "slug": "setting-up-a-new-ios-app-in-xcode",
+      "title": "Setting Up a New iOS App in Xcode",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b4588734e8.json"
+    },
+    {
+      "id": "opl_ae8e9aab7202",
+      "slug": "setup-and-bootstrap-a-flutter-development-environment",
+      "title": "Setup and Bootstrap a Flutter Development Environment",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae8e9aab7202.json"
+    },
+    {
+      "id": "opl_ff51ef39935d",
+      "slug": "shabbat-times-fetcher",
+      "title": "Shabbat Times Fetcher",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff51ef39935d.json"
+    },
+    {
+      "id": "opl_a24124bf633c",
+      "slug": "shadcn-component-adapter-for-cursor",
+      "title": "shadcn Component Adapter for Cursor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "color_theme",
+          "default": "zinc"
+        },
+        {
+          "name": "component_file_path",
+          "default": null
+        },
+        {
+          "name": "component_name",
+          "default": null
+        },
+        {
+          "name": "components_dir",
+          "default": "components/ui"
+        },
+        {
+          "name": "framework",
+          "default": "Next.js 14+ App Router"
+        },
+        {
+          "name": "hooks_dir",
+          "default": "hooks/"
+        },
+        {
+          "name": "install_command",
+          "default": "bunx --bun shadcn@latest add accordion"
+        },
+        {
+          "name": "provider_file",
+          "default": "app/layout.tsx"
+        },
+        {
+          "name": "reference_url",
+          "default": ""
+        },
+        {
+          "name": "responsive_breakpoints",
+          "default": "sm md lg"
+        },
+        {
+          "name": "shadcn_component_slug",
+          "default": null
+        },
+        {
+          "name": "tailwind_version",
+          "default": "3"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a24124bf633c.json"
+    },
+    {
+      "id": "opl_f979cd849797",
+      "slug": "shadows-of-the-blue-note",
+      "title": "Shadows of the Blue Note",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f979cd849797.json"
+    },
     {
       "id": "opl_bc07016e9f26",
       "slug": "shadows-of-the-cold-war-the-1962-exchange",
@@ -900,172 +1123,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd61d3b9bd8d.json"
-    },
-    {
-      "id": "opl_a2ddde78a719",
-      "slug": "split-word-rejoin",
-      "title": "Split Word Rejoin",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2ddde78a719.json"
-    },
-    {
-      "id": "opl_856be45cf0a7",
-      "slug": "spoken-english-teacher-and-improver",
-      "title": "Spoken English Teacher and Improver",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_856be45cf0a7.json"
-    },
-    {
-      "id": "opl_d82a75859f55",
-      "slug": "spoken-word-artist-persona",
-      "title": "Spoken Word Artist Persona",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d82a75859f55.json"
-    },
-    {
-      "id": "opl_53d0ffbce7e6",
-      "slug": "spongebob-s-magic-conch-shell",
-      "title": "Spongebob's Magic Conch Shell",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53d0ffbce7e6.json"
-    },
-    {
-      "id": "opl_0aeb28ba80f9",
-      "slug": "sponsor-hall-of-fame",
-      "title": "Sponsor Hall of Fame",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0aeb28ba80f9.json"
-    },
-    {
-      "id": "opl_59a72110b787",
-      "slug": "sports-events-weekly-listings-prompt",
-      "title": "Sports Events Weekly Listings Prompt",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59a72110b787.json"
-    },
-    {
-      "id": "opl_d0cecdd5bfcc",
-      "slug": "sports-research-assistant",
-      "title": "Sports Research Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0cecdd5bfcc.json"
-    },
-    {
-      "id": "opl_383b13944508",
-      "slug": "spotify-playlist-cover-generator",
-      "title": "Spotify Playlist Cover Generator",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "category",
-          "default": null
-        },
-        {
-          "name": "playlistName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_383b13944508.json"
-    },
-    {
-      "id": "opl_3ae27700ebc3",
-      "slug": "spotify-room-cinematic",
-      "title": "Spotify room cinematic",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ae27700ebc3.json"
-    },
-    {
-      "id": "opl_f9e76b2408c2",
-      "slug": "sprezzatura",
-      "title": "Sprezzatura",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9e76b2408c2.json"
-    },
-    {
-      "id": "opl_c6ca31099d90",
-      "slug": "spring-boot-solid-specialist",
-      "title": "Spring Boot + SOLID Specialist",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6ca31099d90.json"
-    },
-    {
-      "id": "opl_a055d0735baf",
-      "slug": "sprint-prioritizer",
-      "title": "Sprint Prioritizer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a055d0735baf.json"
-    },
-    {
-      "id": "opl_cddfcd9642dc",
-      "slug": "sql-query-generator-from-natural-language",
-      "title": "SQL Query Generator from Natural Language",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cddfcd9642dc.json"
-    },
-    {
-      "id": "opl_02d65d0b5ea1",
-      "slug": "sql-terminal",
-      "title": "SQL Terminal",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02d65d0b5ea1.json"
-    },
-    {
-      "id": "opl_6ae6b401f5e7",
-      "slug": "sql-to-natural-language",
-      "title": "SQL To Natural Language",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae6b401f5e7.json"
-    },
-    {
-      "id": "opl_b4d7da0d505b",
-      "slug": "squid-game-red-light-green-light-challenge",
-      "title": "Squid Game - Red Light, Green Light Challenge",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "difficulty",
-          "default": "medium"
-        },
-        {
-          "name": "environment",
-          "default": "urban"
-        },
-        {
-          "name": "playerCount",
-          "default": "10"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d7da0d505b.json"
     }
   ]
 }

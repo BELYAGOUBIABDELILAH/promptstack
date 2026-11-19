@@ -1,12 +1,230 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 16,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_2ce865540b16",
+      "slug": "leadership-coach",
+      "title": "Leadership Coach",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce865540b16.json"
+    },
+    {
+      "id": "opl_a1979b6bc098",
+      "slug": "league-of-legends-player",
+      "title": "League of Legends Player",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1979b6bc098.json"
+    },
+    {
+      "id": "opl_0cff1260e068",
+      "slug": "learn-any-technical-coding-topic",
+      "title": "Learn Any Technical/Coding Topic",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0cff1260e068.json"
+    },
+    {
+      "id": "opl_76282a411ae8",
+      "slug": "learn-quiz-session",
+      "title": "Learn quiz session",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76282a411ae8.json"
+    },
+    {
+      "id": "opl_4b3475f89c51",
+      "slug": "learn-rust-programming",
+      "title": "Learn Rust Programming",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b3475f89c51.json"
+    },
+    {
+      "id": "opl_7e7cd7dd1735",
+      "slug": "learn-to-speak-spanish",
+      "title": "Learn to Speak Spanish",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "level",
+          "default": "beginner"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e7cd7dd1735.json"
+    },
+    {
+      "id": "opl_ebe06e5f4728",
+      "slug": "learning-from-zero",
+      "title": "learning from zero",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "application_scenarios",
+          "default": null
+        },
+        {
+          "name": "available_time",
+          "default": null
+        },
+        {
+          "name": "blog_drafts",
+          "default": null
+        },
+        {
+          "name": "completed_modules",
+          "default": null
+        },
+        {
+          "name": "completed_practice",
+          "default": null
+        },
+        {
+          "name": "core_learning_purpose",
+          "default": null
+        },
+        {
+          "name": "current_level",
+          "default": null
+        },
+        {
+          "name": "current_module",
+          "default": null
+        },
+        {
+          "name": "current_stage",
+          "default": null
+        },
+        {
+          "name": "excluded_topics",
+          "default": null
+        },
+        {
+          "name": "existing_experience",
+          "default": null
+        },
+        {
+          "name": "final_goal",
+          "default": null
+        },
+        {
+          "name": "formal_learning_definition",
+          "default": null
+        },
+        {
+          "name": "learning_preferences",
+          "default": null
+        },
+        {
+          "name": "learning_progress_record",
+          "default": null
+        },
+        {
+          "name": "learning_topic",
+          "default": null
+        },
+        {
+          "name": "main_resource",
+          "default": null
+        },
+        {
+          "name": "mastered_knowledge",
+          "default": null
+        },
+        {
+          "name": "missing_prerequisites",
+          "default": null
+        },
+        {
+          "name": "module_teaching_structure",
+          "default": null
+        },
+        {
+          "name": "my_learning_profile",
+          "default": null
+        },
+        {
+          "name": "next_task",
+          "default": null
+        },
+        {
+          "name": "note_title",
+          "default": null
+        },
+        {
+          "name": "notion_notes",
+          "default": null
+        },
+        {
+          "name": "open_questions",
+          "default": null
+        },
+        {
+          "name": "other_requirements",
+          "default": null
+        },
+        {
+          "name": "practice_resources",
+          "default": null
+        },
+        {
+          "name": "reference_resources",
+          "default": null
+        },
+        {
+          "name": "required_topics",
+          "default": null
+        },
+        {
+          "name": "resources_and_external_materials",
+          "default": null
+        },
+        {
+          "name": "response_rules",
+          "default": null
+        },
+        {
+          "name": "supplementary_resources",
+          "default": null
+        },
+        {
+          "name": "target_blog_audience",
+          "default": null
+        },
+        {
+          "name": "target_depth",
+          "default": null
+        },
+        {
+          "name": "weak_areas",
+          "default": null
+        },
+        {
+          "name": "your_main_responsibilities",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ebe06e5f4728.json"
+    },
     {
       "id": "opl_d645484c1f81",
       "slug": "learning-style-guide",
@@ -999,91 +1217,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f32b7526ffa1.json"
-    },
-    {
-      "id": "opl_bc18b8e6736c",
-      "slug": "make-ai-responses-sound-more-human-like",
-      "title": "Make AI responses sound more Human-like",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc18b8e6736c.json"
-    },
-    {
-      "id": "opl_7f029d4cb708",
-      "slug": "make-ai-write-naturally",
-      "title": "Make AI write naturally",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f029d4cb708.json"
-    },
-    {
-      "id": "opl_529aa447df01",
-      "slug": "make-flowers-bloom-in-an-image",
-      "title": "Make Flowers Bloom in an Image",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "bloomIntensity",
-          "default": "medium"
-        },
-        {
-          "name": "colorEnhancement",
-          "default": "high"
-        },
-        {
-          "name": "image",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_529aa447df01.json"
-    },
-    {
-      "id": "opl_d202aa44153e",
-      "slug": "make-ui-ux-better-of-an-already-created-application",
-      "title": "Make UI/UX better of an already Created Application",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "INSERT_APP_TYPE",
-          "default": " e.g., SaaS dashboard / e-commerce / portfolio / social app"
-        },
-        {
-          "name": "INSERT_USER_TYPE",
-          "default": " e.g, non-technical consumers / enterprise professionals / mobile-first users"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d202aa44153e.json"
-    },
-    {
-      "id": "opl_fecd014a3328",
-      "slug": "makeup-artist",
-      "title": "Makeup Artist",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fecd014a3328.json"
-    },
-    {
-      "id": "opl_d0be14533a2f",
-      "slug": "making-basic-mcq-questions-for-entrance",
-      "title": "Making basic MCQ questions for entrance",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0be14533a2f.json"
-    },
-    {
-      "id": "opl_11184cd8a973",
-      "slug": "making-ppt",
-      "title": "making ppt",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11184cd8a973.json"
     }
   ]
 }

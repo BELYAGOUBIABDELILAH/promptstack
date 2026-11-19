@@ -1,12 +1,62 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 8,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_8c37384ed591",
+      "slug": "create-content-from-discord-blog-for-hazel-s-website",
+      "title": "Create Content from Discord Blog for Hazel's Website",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "sourceUrl",
+          "default": null
+        },
+        {
+          "name": "targetSiteUrl",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c37384ed591.json"
+    },
+    {
+      "id": "opl_e6644880f9bd",
+      "slug": "create-design-system-documentation",
+      "title": "Create Design System Documentation",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6644880f9bd.json"
+    },
+    {
+      "id": "opl_d01612656f89",
+      "slug": "create-disaster-recovery-plan",
+      "title": "Create Disaster Recovery Plan",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d01612656f89.json"
+    },
+    {
+      "id": "opl_78112c79bf28",
+      "slug": "create-high-demand-ai-images-for-stock",
+      "title": "Create High-Demand AI Images for Stock",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "category",
+          "default": "landscape"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_78112c79bf28.json"
+    },
     {
       "id": "opl_3ab526aeae2a",
       "slug": "create-icons",
@@ -1217,42 +1267,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c89622745f01.json"
-    },
-    {
-      "id": "opl_f06632cbf070",
-      "slug": "data-validator-agent-role",
-      "title": "Data Validator Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f06632cbf070.json"
-    },
-    {
-      "id": "opl_17784e38dc2d",
-      "slug": "data-visualization-and-storytelling",
-      "title": "Data Visualization and Storytelling",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_17784e38dc2d.json"
-    },
-    {
-      "id": "opl_55e747af78b9",
-      "slug": "data-visualization-ideator",
-      "title": "Data Visualization Ideator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_55e747af78b9.json"
-    },
-    {
-      "id": "opl_679aa4555bc8",
-      "slug": "database-architect-agent-role",
-      "title": "Database Architect Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_679aa4555bc8.json"
     }
   ]
 }

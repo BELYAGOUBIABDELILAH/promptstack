@@ -1,12 +1,189 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 23,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_236a63502e08",
+      "slug": "review-test-coverage-gaps",
+      "title": "Review Test Coverage Gaps",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_236a63502e08.json"
+    },
+    {
+      "id": "opl_b19d00293443",
+      "slug": "review-the-social-media-content",
+      "title": "Review the social media content",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19d00293443.json"
+    },
+    {
+      "id": "opl_fc15aa6ab3ff",
+      "slug": "reviewgod",
+      "title": "reviewgod",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc15aa6ab3ff.json"
+    },
+    {
+      "id": "opl_97d4a7bbd971",
+      "slug": "reviews",
+      "title": "reviews",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97d4a7bbd971.json"
+    },
+    {
+      "id": "opl_872a6625c5f6",
+      "slug": "rewrite-in-third-person",
+      "title": "Rewrite In Third Person",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_872a6625c5f6.json"
+    },
+    {
+      "id": "opl_92eb899c7b8d",
+      "slug": "rfq",
+      "title": "RFQ",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92eb899c7b8d.json"
+    },
+    {
+      "id": "opl_f9726b9a2f65",
+      "slug": "rick-and-morty",
+      "title": "Rick And Morty",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9726b9a2f65.json"
+    },
+    {
+      "id": "opl_94e1b305e346",
+      "slug": "ridiculous-conspiracy-theory",
+      "title": "Ridiculous Conspiracy Theory",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94e1b305e346.json"
+    },
+    {
+      "id": "opl_f6145e29ee64",
+      "slug": "rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine",
+      "title": "RIP McKinsey: Here are 10 prompts to replace expensive business consultants",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "company",
+          "default": null
+        },
+        {
+          "name": "describe_funnel",
+          "default": null
+        },
+        {
+          "name": "describe_operations",
+          "default": null
+        },
+        {
+          "name": "insert_data",
+          "default": null
+        },
+        {
+          "name": "insert_primary_goal",
+          "default": null
+        },
+        {
+          "name": "product",
+          "default": null
+        },
+        {
+          "name": "target_market",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f6145e29ee64.json"
+    },
+    {
+      "id": "opl_31dd1cda63c5",
+      "slug": "risk-ready-disaster-scenario-prepper",
+      "title": "Risk Ready - Disaster Scenario Prepper",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31dd1cda63c5.json"
+    },
+    {
+      "id": "opl_bd11f8259270",
+      "slug": "riverside-boardwalk-and-restaurants-view",
+      "title": "Riverside Boardwalk and Restaurants View",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd11f8259270.json"
+    },
+    {
+      "id": "opl_ecf0fabf5012",
+      "slug": "rna-seq-analysis-and-differential-gene-expression",
+      "title": "RNA-Seq Analysis and Differential Gene Expression",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "dataQuality",
+          "default": "high"
+        },
+        {
+          "name": "normalizationMethod",
+          "default": "DESeq2"
+        },
+        {
+          "name": "visualizationTools",
+          "default": "heatmap"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecf0fabf5012.json"
+    },
+    {
+      "id": "opl_b9a7f7afdb3c",
+      "slug": "rocket-launcher",
+      "title": "Rocket launcher",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9a7f7afdb3c.json"
+    },
+    {
+      "id": "opl_db038361a788",
+      "slug": "romantic-rainy-scene-video",
+      "title": "Romantic Rainy Scene Video",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db038361a788.json"
+    },
+    {
+      "id": "opl_04ab3bc83fc4",
+      "slug": "rooftop-sunset-lookback-half-body",
+      "title": "Rooftop Sunset Lookback (half-body)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04ab3bc83fc4.json"
+    },
     {
       "id": "opl_3db69b9d2bfb",
       "slug": "root-cause-analysis-agent-role",
@@ -208,6 +385,15 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0fe31b8ce3b.json"
+    },
+    {
+      "id": "opl_2bbe23b54b95",
+      "slug": "sang-o-sayeh-render-reference-based-portrait-prompt",
+      "title": "Sang-o-Sayeh Render — Reference-Based Portrait Prompt",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2bbe23b54b95.json"
     },
     {
       "id": "opl_ad2cdcfefc62",
@@ -1034,229 +1220,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6cac2c506e8.json"
-    },
-    {
-      "id": "opl_7244b440f22d",
-      "slug": "seo-strategy-for-container-tracking-keywords",
-      "title": "SEO Strategy for Container Tracking Keywords",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "keyword",
-          "default": "container tracking"
-        },
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "length",
-          "default": "2000"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7244b440f22d.json"
-    },
-    {
-      "id": "opl_7c71912e619f",
-      "slug": "seo-tooling-advisor",
-      "title": "SEO Tooling Advisor",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c71912e619f.json"
-    },
-    {
-      "id": "opl_6dbb693084a7",
-      "slug": "seo-fundamentals",
-      "title": "seo-fundamentals",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dbb693084a7.json"
-    },
-    {
-      "id": "opl_3fa4ec3a2422",
-      "slug": "serene-autumn-lakeside-illustration",
-      "title": "Serene Autumn Lakeside Illustration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fa4ec3a2422.json"
-    },
-    {
-      "id": "opl_b3f7c6705433",
-      "slug": "serene-evening-rowboat-scene-in-illustrative-realism",
-      "title": "Serene Evening Rowboat Scene in Illustrative Realism",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3f7c6705433.json"
-    },
-    {
-      "id": "opl_0593010aecc7",
-      "slug": "serene-mirror-selfie-portrait-in-sunlit-bedroom",
-      "title": "Serene Mirror-Selfie Portrait in Sunlit Bedroom",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0593010aecc7.json"
-    },
-    {
-      "id": "opl_f90a3143523e",
-      "slug": "serene-moonlit-street-illustration",
-      "title": "Serene Moonlit Street Illustration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f90a3143523e.json"
-    },
-    {
-      "id": "opl_4f22b03fbff1",
-      "slug": "serene-yoga-mindfulness-lifestyle-photography",
-      "title": "Serene Yoga & Mindfulness Lifestyle Photography",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f22b03fbff1.json"
-    },
-    {
-      "id": "opl_4c4a8fd16e77",
-      "slug": "serious-man-in-urban-setting",
-      "title": "Serious Man in Urban Setting",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c4a8fd16e77.json"
-    },
-    {
-      "id": "opl_956475ccccf3",
-      "slug": "session-continuity-engine",
-      "title": "Session Continuity Engine",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_956475ccccf3.json"
-    },
-    {
-      "id": "opl_be44c32c5d80",
-      "slug": "set-up-w-b-and-run-pod-during-training",
-      "title": "Set Up W&B and Run Pod During Training",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "namespace",
-          "default": null
-        },
-        {
-          "name": "projectName",
-          "default": null
-        },
-        {
-          "name": "sshKey",
-          "default": null
-        },
-        {
-          "name": "trainingScript",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be44c32c5d80.json"
-    },
-    {
-      "id": "opl_06b4588734e8",
-      "slug": "setting-up-a-new-ios-app-in-xcode",
-      "title": "Setting Up a New iOS App in Xcode",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b4588734e8.json"
-    },
-    {
-      "id": "opl_ae8e9aab7202",
-      "slug": "setup-and-bootstrap-a-flutter-development-environment",
-      "title": "Setup and Bootstrap a Flutter Development Environment",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae8e9aab7202.json"
-    },
-    {
-      "id": "opl_ff51ef39935d",
-      "slug": "shabbat-times-fetcher",
-      "title": "Shabbat Times Fetcher",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff51ef39935d.json"
-    },
-    {
-      "id": "opl_a24124bf633c",
-      "slug": "shadcn-component-adapter-for-cursor",
-      "title": "shadcn Component Adapter for Cursor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "color_theme",
-          "default": "zinc"
-        },
-        {
-          "name": "component_file_path",
-          "default": null
-        },
-        {
-          "name": "component_name",
-          "default": null
-        },
-        {
-          "name": "components_dir",
-          "default": "components/ui"
-        },
-        {
-          "name": "framework",
-          "default": "Next.js 14+ App Router"
-        },
-        {
-          "name": "hooks_dir",
-          "default": "hooks/"
-        },
-        {
-          "name": "install_command",
-          "default": "bunx --bun shadcn@latest add accordion"
-        },
-        {
-          "name": "provider_file",
-          "default": "app/layout.tsx"
-        },
-        {
-          "name": "reference_url",
-          "default": ""
-        },
-        {
-          "name": "responsive_breakpoints",
-          "default": "sm md lg"
-        },
-        {
-          "name": "shadcn_component_slug",
-          "default": null
-        },
-        {
-          "name": "tailwind_version",
-          "default": "3"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a24124bf633c.json"
-    },
-    {
-      "id": "opl_f979cd849797",
-      "slug": "shadows-of-the-blue-note",
-      "title": "Shadows of the Blue Note",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f979cd849797.json"
     }
   ]
 }

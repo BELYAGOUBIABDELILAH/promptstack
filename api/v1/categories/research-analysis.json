@@ -1,8 +1,8 @@
 {
   "folder": "research-analysis",
   "name": "Research & Analysis",
-  "last_updated": "2026-11-18T20:20:47.101Z",
-  "total": 33,
+  "last_updated": "2026-11-19T14:57:00.876Z",
+  "total": 34,
   "prompts": [
     {
       "id": "opl_345bb5f7b9a2",
@@ -259,6 +259,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e1ba2f98c5ce.json"
+    },
+    {
+      "id": "opl_76530a4b588b",
+      "slug": "mobile-app",
+      "title": "Mobile App",
+      "prompt": "Study the attached sheet and provide me with a summary of it in one slide and action plan on the another slide, go and study it and compare it to aldrees I want a full presentation that shows SWOT analysis of us, propose a full action plan and compare the list of benefits of it. I need it a full study as",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_7f7d62a9b267"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76530a4b588b.json"
     },
     {
       "id": "opl_5e4f80538906",

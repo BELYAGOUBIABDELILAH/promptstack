@@ -2,10 +2,11 @@
 
 [← Back to main index](../../README.md)
 
-**94 prompts in this category**
+**95 prompts in this category**
 
 ## Table of Contents
 
+- [1940s village life](1940s-village-life.md)
 - [Action video](action-video.md)
 - [ADHD Treatment News](adhd-treatment-news.md)
 - [AMD GPU Advisor (Linux)](amd-gpu-advisor-linux.md)

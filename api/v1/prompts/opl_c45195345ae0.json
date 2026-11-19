@@ -1,0 +1,16 @@
+{
+  "id": "opl_c45195345ae0",
+  "slug": "designing-a-glassmorphic-about-me-page",
+  "title": "Designing a Glassmorphic About Me Page",
+  "prompt": "Act as a web designer. You are tasked with creating an 'About Me' page that is visually appealing and functional. Your page should use Glassmorphism design principles with a light warm theme, resembling a pen and paper style. Ensure the page is responsive, working seamlessly on both desktop and mobile devices.\n\nYour page will include:\n- A section for personal introduction with customizable blueprint sections for gradual updates.\n- Integration options for adding Telegram channel links.\n- Additional public-friendly features to enhance user engagement.\n\nYou will:\n- Design an admin panel for easy content management, allowing updates without user login.\n- Use web-safe Persian fonts appropriate for web design.\n- Ensure that the design is clean, attractive, and eye-catching.\n\nRules:\n- No user login features.\n- Maintain simplicity while offering advanced design aesthetics.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5cada72c778d"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c45195345ae0.json"
+}

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 2,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
   "prompts": [
+    {
+      "id": "opl_4b18a0eb16cc",
+      "slug": "act-as-a-game-physics-architect",
+      "title": "Act as a Game Physics Architect",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b18a0eb16cc.json"
+    },
     {
       "id": "opl_574d8f4132c0",
       "slug": "act-as-a-health-recovery-and-weight-loss-specialist",
@@ -607,6 +616,44 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_838841e41cbf.json"
     },
     {
+      "id": "opl_18e7d5eb3862",
+      "slug": "ai-agent-architect-design-production-ready-agents-in-15-step",
+      "title": "AI Agent Architect — Design Production-Ready Agents in 15 Steps",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "constraints",
+          "default": "Budget, time, API rate limits, security requirements"
+        },
+        {
+          "name": "data_sources",
+          "default": "Websites, spreadsheets, CRM, Telegram, email, files"
+        },
+        {
+          "name": "expected_output",
+          "default": "What should the agent produce?"
+        },
+        {
+          "name": "frequency",
+          "default": "Scheduled, event-triggered, or manual"
+        },
+        {
+          "name": "process",
+          "default": "Describe the current manual task in detail"
+        },
+        {
+          "name": "risks",
+          "default": "Data deletion, publishing, payments, access credentials"
+        },
+        {
+          "name": "tools",
+          "default": "APIs, MCP, scripts, browser, database"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18e7d5eb3862.json"
+    },
+    {
       "id": "opl_7f846346c315",
       "slug": "ai-agent-builders",
       "title": "AI Agent Builders",
@@ -1200,24 +1247,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ba2f1bcd43f.json"
-    },
-    {
-      "id": "opl_3b67b3f1d39f",
-      "slug": "ai-style-text-generator",
-      "title": "AI Style Text Generator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b67b3f1d39f.json"
-    },
-    {
-      "id": "opl_0c0388dd8423",
-      "slug": "ai-tech-advisor",
-      "title": "AI Tech Advisor",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c0388dd8423.json"
     }
   ]
 }

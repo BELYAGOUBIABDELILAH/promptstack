@@ -1,12 +1,71 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 10,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_f45a7cd42d06",
+      "slug": "discover-gitlab-features",
+      "title": "Discover GitLab Features",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f45a7cd42d06.json"
+    },
+    {
+      "id": "opl_fc8568c9c554",
+      "slug": "distill",
+      "title": "distill",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc8568c9c554.json"
+    },
+    {
+      "id": "opl_6879d352ad13",
+      "slug": "diy-expert",
+      "title": "DIY Expert",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6879d352ad13.json"
+    },
+    {
+      "id": "opl_6cd82fa1997c",
+      "slug": "dizi-ve-film-zeti-eviri-asistan",
+      "title": "Dizi ve Film Özeti Çeviri Asistanı",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "sourceLanguage",
+          "default": "English"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6cd82fa1997c.json"
+    },
+    {
+      "id": "opl_5631d820ac5a",
+      "slug": "django-unit-test-generator-for-viewsets",
+      "title": "Django Unit Test Generator for Viewsets",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5631d820ac5a.json"
+    },
+    {
+      "id": "opl_6c2cea354555",
+      "slug": "docker-compose-autogenerator",
+      "title": "Docker Compose Autogenerator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c2cea354555.json"
+    },
     {
       "id": "opl_942650657c03",
       "slug": "docker-compose-debugger",
@@ -1174,83 +1233,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_69eac67b22f0.json"
-    },
-    {
-      "id": "opl_a79f5102bebf",
-      "slug": "english-and-foreign-language-name-splitter",
-      "title": "English And Foreign Language Name Splitter",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a79f5102bebf.json"
-    },
-    {
-      "id": "opl_6ff0f076fcf3",
-      "slug": "english-grammar-and-style-corrector",
-      "title": "English Grammar and Style Corrector",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "text",
-          "default": null
-        },
-        {
-          "name": "tone",
-          "default": "formal"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ff0f076fcf3.json"
-    },
-    {
-      "id": "opl_239f841fbab7",
-      "slug": "english-language-tutor-for-turkish-speakers",
-      "title": "English Language Tutor for Turkish Speakers",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_239f841fbab7.json"
-    },
-    {
-      "id": "opl_d171ed54b8fb",
-      "slug": "english-practice-app-guide",
-      "title": "English Practice App Guide",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d171ed54b8fb.json"
-    },
-    {
-      "id": "opl_833b6149eef8",
-      "slug": "english-pronunciation-helper",
-      "title": "English Pronunciation Helper",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "Mother Language",
-          "default": "Turkish"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_833b6149eef8.json"
-    },
-    {
-      "id": "opl_746e630b2ec4",
-      "slug": "english-teacher-for-translation-and-cultural-explanation",
-      "title": "English Teacher for Translation and Cultural Explanation",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "englishLevel",
-          "default": "intermediate"
-        },
-        {
-          "name": "sentence",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_746e630b2ec4.json"
     }
   ]
 }

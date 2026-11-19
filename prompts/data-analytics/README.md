@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**180 prompts in this category**
+**181 prompts in this category**
 
 ## Table of Contents
 
@@ -177,6 +177,7 @@
 - [Sustainable Living Advisor](sustainable-living-advisor.md)
 - [System Prompt Editor - Add RAG](system-prompt-editor-add-rag.md)
 - [System Prompt Parameter Calculator](system-prompt-parameter-calculator.md)
+- [Team Proposal for Conference Event](team-proposal-for-conference-event.md)
 - [Tech Desk “Builder” (half-body, cozy monitor glow)](tech-desk-builder-half-body-cozy-monitor-glow.md)
 - [Template Document Generation (Context)](template-document-generation-context.md)
 - [TGscrape](tgscrape.md)

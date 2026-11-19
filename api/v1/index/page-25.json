@@ -1,12 +1,178 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 25,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_a2ddde78a719",
+      "slug": "split-word-rejoin",
+      "title": "Split Word Rejoin",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2ddde78a719.json"
+    },
+    {
+      "id": "opl_856be45cf0a7",
+      "slug": "spoken-english-teacher-and-improver",
+      "title": "Spoken English Teacher and Improver",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_856be45cf0a7.json"
+    },
+    {
+      "id": "opl_d82a75859f55",
+      "slug": "spoken-word-artist-persona",
+      "title": "Spoken Word Artist Persona",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d82a75859f55.json"
+    },
+    {
+      "id": "opl_53d0ffbce7e6",
+      "slug": "spongebob-s-magic-conch-shell",
+      "title": "Spongebob's Magic Conch Shell",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53d0ffbce7e6.json"
+    },
+    {
+      "id": "opl_0aeb28ba80f9",
+      "slug": "sponsor-hall-of-fame",
+      "title": "Sponsor Hall of Fame",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0aeb28ba80f9.json"
+    },
+    {
+      "id": "opl_59a72110b787",
+      "slug": "sports-events-weekly-listings-prompt",
+      "title": "Sports Events Weekly Listings Prompt",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59a72110b787.json"
+    },
+    {
+      "id": "opl_d0cecdd5bfcc",
+      "slug": "sports-research-assistant",
+      "title": "Sports Research Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0cecdd5bfcc.json"
+    },
+    {
+      "id": "opl_383b13944508",
+      "slug": "spotify-playlist-cover-generator",
+      "title": "Spotify Playlist Cover Generator",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "category",
+          "default": null
+        },
+        {
+          "name": "playlistName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_383b13944508.json"
+    },
+    {
+      "id": "opl_3ae27700ebc3",
+      "slug": "spotify-room-cinematic",
+      "title": "Spotify room cinematic",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ae27700ebc3.json"
+    },
+    {
+      "id": "opl_f9e76b2408c2",
+      "slug": "sprezzatura",
+      "title": "Sprezzatura",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9e76b2408c2.json"
+    },
+    {
+      "id": "opl_c6ca31099d90",
+      "slug": "spring-boot-solid-specialist",
+      "title": "Spring Boot + SOLID Specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6ca31099d90.json"
+    },
+    {
+      "id": "opl_a055d0735baf",
+      "slug": "sprint-prioritizer",
+      "title": "Sprint Prioritizer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a055d0735baf.json"
+    },
+    {
+      "id": "opl_cddfcd9642dc",
+      "slug": "sql-query-generator-from-natural-language",
+      "title": "SQL Query Generator from Natural Language",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cddfcd9642dc.json"
+    },
+    {
+      "id": "opl_02d65d0b5ea1",
+      "slug": "sql-terminal",
+      "title": "SQL Terminal",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02d65d0b5ea1.json"
+    },
+    {
+      "id": "opl_6ae6b401f5e7",
+      "slug": "sql-to-natural-language",
+      "title": "SQL To Natural Language",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae6b401f5e7.json"
+    },
+    {
+      "id": "opl_b4d7da0d505b",
+      "slug": "squid-game-red-light-green-light-challenge",
+      "title": "Squid Game - Red Light, Green Light Challenge",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "difficulty",
+          "default": "medium"
+        },
+        {
+          "name": "environment",
+          "default": "urban"
+        },
+        {
+          "name": "playerCount",
+          "default": "10"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d7da0d505b.json"
+    },
     {
       "id": "opl_dc4d0ecb6b68",
       "slug": "ssml-support",
@@ -900,211 +1066,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7496aa40382.json"
-    },
-    {
-      "id": "opl_3ecd413aaca1",
-      "slug": "sunny-beach",
-      "title": "Sunny Beach",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ecd413aaca1.json"
-    },
-    {
-      "id": "opl_e621f9e842a6",
-      "slug": "super-trader-model-for-stock-analysis",
-      "title": "Super Trader Model for Stock Analysis",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "investmentAmount",
-          "default": null
-        },
-        {
-          "name": "riskLevel",
-          "default": "medium"
-        },
-        {
-          "name": "stockSymbol",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e621f9e842a6.json"
-    },
-    {
-      "id": "opl_ad500f7a67f7",
-      "slug": "surprise-point-and-click-game-generator",
-      "title": "Surprise Point-and-Click Game Generator",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad500f7a67f7.json"
-    },
-    {
-      "id": "opl_2c429d029678",
-      "slug": "surreal-cgi-photography-hybrid-portrait",
-      "title": "Surreal CGI-Photography Hybrid Portrait",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c429d029678.json"
-    },
-    {
-      "id": "opl_affc9ec672ff",
-      "slug": "surreal-city-scene",
-      "title": "Surreal City Scene",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "city_name",
-          "default": null
-        },
-        {
-          "name": "current_weather",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_affc9ec672ff.json"
-    },
-    {
-      "id": "opl_84bb7e5d24a3",
-      "slug": "surreal-miniature-cityscape-with-giant-observer",
-      "title": "Surreal Miniature Cityscape with Giant Observer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84bb7e5d24a3.json"
-    },
-    {
-      "id": "opl_7ed28427c87d",
-      "slug": "surreal-portrait",
-      "title": "Surreal Portrait — دو دلم",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ed28427c87d.json"
-    },
-    {
-      "id": "opl_73b6f1f14d13",
-      "slug": "surrealist-painting-description-a-study-of-ren-magritte-s-st",
-      "title": "Surrealist Painting Description: A Study of René Magritte's Style",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_73b6f1f14d13.json"
-    },
-    {
-      "id": "opl_6d36eaf3a584",
-      "slug": "sustainable-living-advisor",
-      "title": "Sustainable Living Advisor",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d36eaf3a584.json"
-    },
-    {
-      "id": "opl_435cf270347e",
-      "slug": "svg-designer",
-      "title": "SVG designer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_435cf270347e.json"
-    },
-    {
-      "id": "opl_c93e40eee684",
-      "slug": "swagger-docs",
-      "title": "Swagger Docs",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c93e40eee684.json"
-    },
-    {
-      "id": "opl_692fd2378be0",
-      "slug": "swap-menu-external-c",
-      "title": "SWAP MENU EXTERNAL C++",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_692fd2378be0.json"
-    },
-    {
-      "id": "opl_24c39a277224",
-      "slug": "swiftui-ios-app-development-guide",
-      "title": "SwiftUI iOS App Development Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_24c39a277224.json"
-    },
-    {
-      "id": "opl_dee61f047436",
-      "slug": "swot-analysis-for-political-risk-and-international-relations",
-      "title": "SWOT Analysis for Political Risk and International Relations",
-      "category": "General",
-      "folder": "general",
-      "variables": [
-        {
-          "name": "region",
-          "default": null
-        },
-        {
-          "name": "scenario",
-          "default": null
-        },
-        {
-          "name": "timeline",
-          "default": "current"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dee61f047436.json"
-    },
-    {
-      "id": "opl_8c23d1f1eaf1",
-      "slug": "symphony-event-interviewer",
-      "title": "Symphony Event Interviewer",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "date",
-          "default": null
-        },
-        {
-          "name": "eventName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c23d1f1eaf1.json"
-    },
-    {
-      "id": "opl_31b38364e3c2",
-      "slug": "symphony-event-invitation-and-guide",
-      "title": "Symphony Event Invitation and Guide",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [
-        {
-          "name": "eventDate",
-          "default": null
-        },
-        {
-          "name": "eventTime",
-          "default": null
-        },
-        {
-          "name": "featuredPerformances",
-          "default": null
-        },
-        {
-          "name": "venue",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31b38364e3c2.json"
     }
   ]
 }

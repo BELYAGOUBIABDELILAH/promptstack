@@ -1,12 +1,179 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 28,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-29.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_c3134ffd47ac",
+      "slug": "ultra-high-resolution-portrait-restoration",
+      "title": "Ultra-High-Resolution Portrait Restoration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c3134ffd47ac.json"
+    },
+    {
+      "id": "opl_e303b2c11f1c",
+      "slug": "ultra-micro-functional-analyst-prompt",
+      "title": "Ultra-micro Functional Analyst Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e303b2c11f1c.json"
+    },
+    {
+      "id": "opl_75c059b4950c",
+      "slug": "ultra-photorealistic-infographics",
+      "title": "Ultra-photorealistic Infographics",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "object_name",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75c059b4950c.json"
+    },
+    {
+      "id": "opl_8d2691bf68e8",
+      "slug": "ultra-photorealistic-romantic-cinematic-scene-in-the-rain",
+      "title": "Ultra-Photorealistic Romantic Cinematic Scene in the Rain",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d2691bf68e8.json"
+    },
+    {
+      "id": "opl_f4dd48a7d280",
+      "slug": "ultra-realistic-3d-character-avatar-creation",
+      "title": "Ultra-Realistic 3D Character Avatar Creation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4dd48a7d280.json"
+    },
+    {
+      "id": "opl_a6e00054319e",
+      "slug": "ultra-realistic-amateur-street-photo-of-ankara-scene",
+      "title": "Ultra-Realistic Amateur Street Photo of Ankara Scene",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e00054319e.json"
+    },
+    {
+      "id": "opl_2fc33f50ca7f",
+      "slug": "ultra-realistic-ankara-apartment-night-scene",
+      "title": "Ultra-Realistic Ankara Apartment Night Scene",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2fc33f50ca7f.json"
+    },
+    {
+      "id": "opl_65aca7113a6b",
+      "slug": "ultra-realistic-ankara-indie-bar-scene-description",
+      "title": "Ultra-Realistic Ankara Indie Bar Scene Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65aca7113a6b.json"
+    },
+    {
+      "id": "opl_03e984fb1cbb",
+      "slug": "ultra-realistic-ankara-street-photo-with-surreal-element",
+      "title": "Ultra-Realistic Ankara Street Photo with Surreal Element",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e984fb1cbb.json"
+    },
+    {
+      "id": "opl_96fb5f51dcb8",
+      "slug": "ultra-realistic-comedic-slice-of-life-in-an-ankara-bus",
+      "title": "Ultra-Realistic Comedic Slice-of-Life in an Ankara Bus",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96fb5f51dcb8.json"
+    },
+    {
+      "id": "opl_4f2e0f7af3e7",
+      "slug": "ultra-realistic-handwritten-hospital-note-image",
+      "title": "Ultra-Realistic Handwritten Hospital Note Image",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f2e0f7af3e7.json"
+    },
+    {
+      "id": "opl_ce9613a16d53",
+      "slug": "ultra-realistic-night-scene-in-a-turkish-kitchen",
+      "title": "Ultra-Realistic Night Scene in a Turkish Kitchen",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce9613a16d53.json"
+    },
+    {
+      "id": "opl_037cbb3af3c5",
+      "slug": "ultra-realistic-street-photo-prompt-turkish-woman-in-ankara",
+      "title": "Ultra-Realistic Street Photo Prompt: Turkish Woman in Ankara",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_037cbb3af3c5.json"
+    },
+    {
+      "id": "opl_635372a02b21",
+      "slug": "ultra-realistic-turkish-living-room-scene-during-football-ma",
+      "title": "Ultra-Realistic Turkish Living Room Scene During Football Match",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_635372a02b21.json"
+    },
+    {
+      "id": "opl_177026a7d19e",
+      "slug": "ultra-realistic-winter-cinematography-series",
+      "title": "Ultra-Realistic Winter Cinematography Series",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_177026a7d19e.json"
+    },
+    {
+      "id": "opl_eaa80c412019",
+      "slug": "ultra-realistic-young-woman-portrait-generation",
+      "title": "Ultra-Realistic Young Woman Portrait Generation",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eaa80c412019.json"
+    },
+    {
+      "id": "opl_f9c137f76e03",
+      "slug": "ultrathinker",
+      "title": "Ultrathinker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9c137f76e03.json"
+    },
+    {
+      "id": "opl_03e5b9d98091",
+      "slug": "unconstrained-ai-model-dan",
+      "title": "Unconstrained AI model DAN",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e5b9d98091.json"
+    },
     {
       "id": "opl_c81741911356",
       "slug": "understand-async-operations-and-concurrency",
@@ -1036,200 +1203,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dac95f59c8cc.json"
-    },
-    {
-      "id": "opl_0ec7b94e3618",
-      "slug": "when-to-clear-the-snow-generic",
-      "title": "When to clear the snow (generic)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ec7b94e3618.json"
-    },
-    {
-      "id": "opl_b19864285531",
-      "slug": "where-the-kami-still-walk",
-      "title": "Where the Kami Still Walk",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19864285531.json"
-    },
-    {
-      "id": "opl_7529aaa56475",
-      "slug": "whimsical-3d-brand-miniatures",
-      "title": "Whimsical 3D Brand Miniatures",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "Brand Name",
-          "default": "Mc Donalds"
-        },
-        {
-          "name": "Brand's core product",
-          "default": "chicken bucket, hamburger, donut, roast duck"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7529aaa56475.json"
-    },
-    {
-      "id": "opl_eb35abf6f3ad",
-      "slug": "whispers-in-light-trails",
-      "title": "Whispers in Light Trails",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb35abf6f3ad.json"
-    },
-    {
-      "id": "opl_79afe3f0ced4",
-      "slug": "whispers-of-noir",
-      "title": "Whispers of Noir",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_79afe3f0ced4.json"
-    },
-    {
-      "id": "opl_3faf75996469",
-      "slug": "white-box-web-application-security-audit-penetration-testing",
-      "title": "White-Box Web Application Security Audit & Penetration Testing Prompt for AI Code Editors (Cursor, Windsurf, Antigravity)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3faf75996469.json"
-    },
-    {
-      "id": "opl_111ef25485cb",
-      "slug": "why-an-online-pdf-editor-is-essential-for-modern-workflows",
-      "title": "Why an Online PDF Editor Is Essential for Modern Workflows",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_111ef25485cb.json"
-    },
-    {
-      "id": "opl_0b8597d871e9",
-      "slug": "why-do-we-have-trouble-making-simple-decisions",
-      "title": "Why Do We Have Trouble Making Simple Decisions?",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b8597d871e9.json"
-    },
-    {
-      "id": "opl_611c77c098de",
-      "slug": "wicked",
-      "title": "Wicked",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_611c77c098de.json"
-    },
-    {
-      "id": "opl_4c38d3273535",
-      "slug": "wickedsmaht-fun",
-      "title": "Wickedsmaht.fun",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c38d3273535.json"
-    },
-    {
-      "id": "opl_bd09b7603549",
-      "slug": "wikipedia-page",
-      "title": "Wikipedia Page",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd09b7603549.json"
-    },
-    {
-      "id": "opl_910f7699eb4e",
-      "slug": "wings-of-the-dust-bowl",
-      "title": "Wings of the Dust Bowl",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_910f7699eb4e.json"
-    },
-    {
-      "id": "opl_8021e5732b82",
-      "slug": "wisdom-generator",
-      "title": "Wisdom Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8021e5732b82.json"
-    },
-    {
-      "id": "opl_e4d31054ee84",
-      "slug": "womanized",
-      "title": "Womanized",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4d31054ee84.json"
-    },
-    {
-      "id": "opl_aeb205d7cbf2",
-      "slug": "wonder-land-adventure",
-      "title": "Wonder Land Adventure",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "adventureType",
-          "default": null
-        },
-        {
-          "name": "protagonistName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aeb205d7cbf2.json"
-    },
-    {
-      "id": "opl_2be25502bcb4",
-      "slug": "work-on-linear-issue",
-      "title": "Work on Linear Issue",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2be25502bcb4.json"
-    },
-    {
-      "id": "opl_76d47118a9c8",
-      "slug": "workplace-english-speaking-coach",
-      "title": "Workplace English Speaking Coach",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "industry",
-          "default": "general"
-        },
-        {
-          "name": "languageLevel",
-          "default": "intermediate"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76d47118a9c8.json"
-    },
-    {
-      "id": "opl_ef9360abf756",
-      "slug": "world-landmarks-hyper-realistic-3d-dioramas",
-      "title": "World Landmarks: Hyper-Realistic 3D Dioramas",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "Landmark Name",
-          "default": "EIFFEL TOWER"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef9360abf756.json"
     }
   ]
 }

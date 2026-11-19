@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**219 prompts in this category**
+**222 prompts in this category**
 
 ## Table of Contents
 
@@ -53,6 +53,7 @@
 - [Comprehensive Car Specifications and Upgrade Guide](comprehensive-car-specifications-and-upgrade-guide.md)
 - [Conference Invitation Email](conference-invitation-email.md)
 - [Context-Aware Email Assistant](context-aware-email-assistant.md)
+- [Conversational Logo Design Process](conversational-logo-design-process.md)
 - [Copy Script Style](copy-script-style.md)
 - [Corporate Studio Portrait (Auto Outfit for Men/Women)](corporate-studio-portrait-auto-outfit-for-men-women.md)
 - [Cowboy](cowboy.md)
@@ -162,6 +163,7 @@
 - [Product Marketing Narrative Builder](product-marketing-narrative-builder.md)
 - [Professional Image Creation for Printable Sales Materials](professional-image-creation-for-printable-sales-materials.md)
 - [Profile pic rebuild](profile-pic-rebuild.md)
+- [Project Name and Title Generator](project-name-and-title-generator.md)
 - [Project Skill & Resource Interviewer](project-skill-resource-interviewer.md)
 - [Prompt Architect Pro](prompt-architect-pro.md)
 - [prompt for powerpoint slides generation](prompt-for-powerpoint-slides-generation.md)
@@ -180,6 +182,7 @@
 - [Sacrifice in obedience](sacrifice-in-obedience.md)
 - [Sales Funnel Builder from URL](sales-funnel-builder-from-url.md)
 - [Salesperson](salesperson.md)
+- [Sang-o-Sayeh Render — Reference-Based Portrait Prompt](sang-o-sayeh-render-reference-based-portrait-prompt.md)
 - [Sarcastic AI Personality](sarcastic-ai-personality.md)
 - [Scan Email Thread For Action Requests](scan-email-thread-for-action-requests.md)
 - [Screw Identifier](screw-identifier.md)

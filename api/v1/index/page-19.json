@@ -1,12 +1,127 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 19,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_1472379e8395",
+      "slug": "note",
+      "title": "Note",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1472379e8395.json"
+    },
+    {
+      "id": "opl_dbfe5a9befed",
+      "slug": "note-guru",
+      "title": "Note Guru",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "archive_folder",
+          "default": "old"
+        },
+        {
+          "name": "main_folder",
+          "default": null
+        },
+        {
+          "name": "path_to_folder",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": "#"
+        },
+        {
+          "name": "topic_max",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbfe5a9befed.json"
+    },
+    {
+      "id": "opl_f5e599ff3733",
+      "slug": "note-taking-assistant",
+      "title": "Note-Taking assistant",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f5e599ff3733.json"
+    },
+    {
+      "id": "opl_f0542746a92c",
+      "slug": "notebooklm-lecture-notes",
+      "title": "notebooklm_lecture_notes",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0542746a92c.json"
+    },
+    {
+      "id": "opl_04491defe0ec",
+      "slug": "notion-transcript-designer-prompt",
+      "title": "Notion Transcript Designer Prompt",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04491defe0ec.json"
+    },
+    {
+      "id": "opl_c6f52e30e8b4",
+      "slug": "novelist",
+      "title": "Novelist",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6f52e30e8b4.json"
+    },
+    {
+      "id": "opl_c9ce63cb5594",
+      "slug": "numerology-expert-guidance",
+      "title": "Numerology Expert Guidance",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "birthDate",
+          "default": null
+        },
+        {
+          "name": "fullName",
+          "default": null
+        },
+        {
+          "name": "language",
+          "default": "Russia"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9ce63cb5594.json"
+    },
+    {
+      "id": "opl_25b782b4a993",
+      "slug": "nurse",
+      "title": "Nurse",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25b782b4a993.json"
+    },
+    {
+      "id": "opl_1c54153e4699",
+      "slug": "nutritionist",
+      "title": "Nutritionist",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c54153e4699.json"
+    },
     {
       "id": "opl_a03d001fd94c",
       "slug": "objection-handling",
@@ -209,6 +324,20 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ed82d7b2172.json"
+    },
+    {
+      "id": "opl_da232d04fc7b",
+      "slug": "open-source-product-analysis-and-duplication",
+      "title": "Open-Source Product Analysis and Duplication",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "productName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_da232d04fc7b.json"
     },
     {
       "id": "opl_61f9bb84d1cb",
@@ -895,138 +1024,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cc8f966f5a7.json"
-    },
-    {
-      "id": "opl_649563b73533",
-      "slug": "personal-learning-guide",
-      "title": "Personal Learning Guide",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_649563b73533.json"
-    },
-    {
-      "id": "opl_2b850d0dc0f1",
-      "slug": "personal-shopper",
-      "title": "Personal Shopper",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b850d0dc0f1.json"
-    },
-    {
-      "id": "opl_716e5f075e80",
-      "slug": "personal-stylist",
-      "title": "Personal Stylist",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_716e5f075e80.json"
-    },
-    {
-      "id": "opl_dbac5719f280",
-      "slug": "personal-trainer",
-      "title": "Personal Trainer",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbac5719f280.json"
-    },
-    {
-      "id": "opl_7aaa44b903db",
-      "slug": "personality-analyst",
-      "title": "Personality Analyst",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7aaa44b903db.json"
-    },
-    {
-      "id": "opl_113c6b8e2f03",
-      "slug": "personality-sketcher",
-      "title": "Personality Sketcher",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_113c6b8e2f03.json"
-    },
-    {
-      "id": "opl_d97491f33a37",
-      "slug": "personalized-ai",
-      "title": "Personalized AI",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d97491f33a37.json"
-    },
-    {
-      "id": "opl_158857fdb1c4",
-      "slug": "personalized-exam-preparation-tutor",
-      "title": "Personalized Exam Preparation Tutor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "date",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": null
-        },
-        {
-          "name": "module_name",
-          "default": null
-        },
-        {
-          "name": "number",
-          "default": null
-        },
-        {
-          "name": "topic_name",
-          "default": null
-        },
-        {
-          "name": "topics",
-          "default": null
-        },
-        {
-          "name": "weak_topics",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_158857fdb1c4.json"
-    },
-    {
-      "id": "opl_201d71f2bec8",
-      "slug": "personalized-gpt-assistant-prompt",
-      "title": "Personalized GPT Assistant Prompt",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "tone",
-          "default": "professional"
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_201d71f2bec8.json"
-    },
-    {
-      "id": "opl_0157fe07616d",
-      "slug": "personalized-numerology-reading",
-      "title": "Personalized Numerology Reading",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0157fe07616d.json"
     }
   ]
 }

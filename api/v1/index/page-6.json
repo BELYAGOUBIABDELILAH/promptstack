@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-11-18T20:20:47.101Z",
+  "last_updated": "2026-11-19T14:57:00.876Z",
   "page": 6,
   "per_page": 100,
-  "total": 2832,
+  "total": 2850,
   "total_pages": 29,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_63396887f0b7",
+      "slug": "children-s-book-creator",
+      "title": "Children's Book Creator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_63396887f0b7.json"
+    },
+    {
+      "id": "opl_a41ece0186f6",
+      "slug": "children-s-story-about-apples",
+      "title": "Children's Story about Apples",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a41ece0186f6.json"
+    },
+    {
+      "id": "opl_ed3119e45905",
+      "slug": "childs-coloring-style",
+      "title": "Childs Coloring Style",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "detail1",
+          "default": null
+        },
+        {
+          "name": "detail2",
+          "default": null
+        },
+        {
+          "name": "detail3",
+          "default": null
+        },
+        {
+          "name": "setting",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed3119e45905.json"
+    },
     {
       "id": "opl_aa933cb6ca52",
       "slug": "asistente-de-recetas-de-cocina-chilena",
@@ -1117,33 +1161,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e87bc26a20b5.json"
-    },
-    {
-      "id": "opl_67916d2513a7",
-      "slug": "communicate-in-rhymes",
-      "title": "Communicate In Rhymes",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67916d2513a7.json"
-    },
-    {
-      "id": "opl_4958c76337f0",
-      "slug": "communications-plan-generator",
-      "title": "Communications Plan Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4958c76337f0.json"
-    },
-    {
-      "id": "opl_854734d7130d",
-      "slug": "communications-strategist-on-call",
-      "title": "Communications Strategist On Call",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_854734d7130d.json"
     }
   ]
 }
