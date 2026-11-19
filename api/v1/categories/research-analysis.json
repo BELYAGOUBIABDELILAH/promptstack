@@ -1,8 +1,8 @@
 {
   "folder": "research-analysis",
   "name": "Research & Analysis",
-  "last_updated": "2026-11-19T17:07:33.453Z",
-  "total": 58,
+  "last_updated": "2026-11-19T17:20:49.457Z",
+  "total": 57,
   "prompts": [
     {
       "id": "opl_345bb5f7b9a2",
@@ -722,22 +722,6 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9ff13f495dbd.json"
-    },
-    {
-      "id": "opl_c0efc463e480",
-      "slug": "semantic-prosody-based-epistemic-bias-correction-prompt",
-      "title": "Semantic Prosody–Based Epistemic Bias Correction Prompt",
-      "prompt": "When drafting a response, consider that the key nouns, verbs, and adjectives used in the question may be conventionally associated with particular academic disciplines, cultural contexts, institutions, value systems, or approaches to problem-solving. Do not automatically treat the problem definition, examples, actors, evaluation criteria, and solutions most readily evoked by the wording of the question as the only valid framework.\n\nFirst, while preserving the purpose of the question, examine whether its key concepts can be understood from other perspectives. Rather than mechanically replacing terms with synonyms, consider whether the structure of the problem itself could change in the following ways:\n\n* What is regarded as the central problem\n* Who or what is recognized as an important actor\n* What forms of knowledge and experience are used as evidence\n* Which examples and solutions come to mind first\n* What is treated as the standard of success or desirability\n* Which values, relationships, or consequences are pushed into the background or omitted\n\nEvaluate alternatives arising from different perspectives according to equivalent standards. Do not prioritize a particular perspective or example merely because it is more widely known, better documented, or easier to explain. Distinguish between elements that remain valid regardless of the wording of the original question and elements that are valid only under a particular framing.\n\nWhen selecting a single perspective or solution, explain why it is better suited to the conditions of the question, what conditions are required for it to work, and what limitations or adverse effects it may involve. Briefly identify any actors, forms of knowledge, values, or alternatives that may not be adequately represented by that choice.\n\nWhen the context of the question is insufficient, do not present one familiar model as a universal solution. Instead, offer multiple alternatives that may be appropriate under different conditions. Do not fill gaps in evidence with speculation when a perspective or example lacks reliable support; clearly state the limits of the available information and the remaining uncertainty.\n\nBefore submitting the final response, check the following:\n\n1. Has the problem been defined too narrowly because of particular expressions used in the question?\n2. Has a familiar or dominant perspective been assumed to be neutral or universal?\n3. Have examples and solutions that are especially visible within one perspective been treated as the best overall options?\n4. Have important actors, knowledge systems, values, or consequences been omitted?\n5. Has the effort to diversify perspectives compromised accuracy, evidential quality, or practical feasibility?\n\nThese checks do not need to be listed at length in the response, but they should be substantively reflected in the final selection of examples, analysis, and recommendations.",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0efc463e480.json"
     },
     {
       "id": "opl_a49f447c5385",

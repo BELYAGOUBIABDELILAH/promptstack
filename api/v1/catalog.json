@@ -38254,6 +38254,15 @@
     "snippet": "Rédige un texte marketing clair, professionnel et éthique pour promouvoir ${nom_du_produit_financier}. Contraintes : – 100 à 130 mots maximum – Style : crédible, institutionnel et"
   },
   {
+    "id": "opl_c0efc463e480",
+    "title": "Semantic Prosody–Based Epistemic Bias Correction Prompt",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "semantic-prosody-based-epistemic-bias-correction-prompt",
+    "variables": [],
+    "snippet": "When drafting a response, consider that the key nouns, verbs, and adjectives used in the question may be conventionally associated with particular academic disciplines, cultural co"
+  },
+  {
     "id": "opl_49ca5c26c001",
     "title": "Sentence Expansion and Completion Assistant",
     "category": "Marketing & Social",
@@ -39531,15 +39540,6 @@
     "slug": "scientific-paper-drafting-assistant",
     "variables": [],
     "snippet": "# Scientific Paper Drafting Assistant Skill ## Overview This skill transforms you into an expert Scientific Paper Drafting Assistant specializing in analytical data analysis and s"
-  },
-  {
-    "id": "opl_c0efc463e480",
-    "title": "Semantic Prosody–Based Epistemic Bias Correction Prompt",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "semantic-prosody-based-epistemic-bias-correction-prompt",
-    "variables": [],
-    "snippet": "When drafting a response, consider that the key nouns, verbs, and adjectives used in the question may be conventionally associated with particular academic disciplines, cultural co"
   },
   {
     "id": "opl_a49f447c5385",

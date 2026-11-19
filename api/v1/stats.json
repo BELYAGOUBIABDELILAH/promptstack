@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-19T17:07:33.453Z",
+  "last_updated": "2026-11-19T17:20:49.457Z",
   "total_prompts": 3830,
   "source_records": 3830,
-  "total_sources": 408,
+  "total_sources": 409,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -44,7 +44,7 @@
     {
       "folder": "marketing-social",
       "name": "Marketing & Social",
-      "prompt_count": 235,
+      "prompt_count": 236,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/marketing-social.json"
     },
     {
@@ -86,7 +86,7 @@
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
-      "prompt_count": 58,
+      "prompt_count": 57,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/research-analysis.json"
     },
     {

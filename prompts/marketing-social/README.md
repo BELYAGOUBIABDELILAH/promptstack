@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**235 prompts in this category**
+**236 prompts in this category**
 
 ## Table of Contents
 
@@ -195,6 +195,7 @@
 - [Scan Email Thread For Action Requests](scan-email-thread-for-action-requests.md)
 - [Screw Identifier](screw-identifier.md)
 - [Secteur Bancaire - Création d’un texte marketing simple](secteur-bancaire-cr-ation-d-un-texte-marketing-simple.md)
+- [Semantic Prosody–Based Epistemic Bias Correction Prompt](semantic-prosody-based-epistemic-bias-correction-prompt.md)
 - [Sentence Expansion and Completion Assistant](sentence-expansion-and-completion-assistant.md)
 - [SEO Advice](seo-advice.md)
 - [SEO specialist](seo-specialist.md)

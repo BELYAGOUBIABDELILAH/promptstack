@@ -1,7 +1,7 @@
 # Semantic Prosody–Based Epistemic Bias Correction Prompt
 
-**Category:** Research & Analysis  
-**Source:** prompts.chat
+**Category:** Marketing & Social  
+**Source:** 2410218@dtg.hs.kr (prompts.chat)
 
 ## Prompt
 
@@ -33,4 +33,4 @@
 > These checks do not need to be listed at length in the response, but they should be substantively reflected in the final selection of examples, analysis, and recommendations.
 
 ---
-[← Back to Research & Analysis](README.md) · [Main index](../../README.md)
+[← Back to Marketing & Social](README.md) · [Main index](../../README.md)

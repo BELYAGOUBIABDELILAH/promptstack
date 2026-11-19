@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**58 prompts in this category**
+**57 prompts in this category**
 
 ## Table of Contents
 
@@ -50,7 +50,6 @@
 - [Revise a Research Proposal Based on Supervisor Feedback](revise-a-research-proposal-based-on-supervisor-feedback.md)
 - [Sarcasm](sarcasm.md)
 - [Scientific Paper Drafting Assistant](scientific-paper-drafting-assistant.md)
-- [Semantic Prosody–Based Epistemic Bias Correction Prompt](semantic-prosody-based-epistemic-bias-correction-prompt.md)
 - [Simple Voice Note Transcriber](simple-voice-note-transcriber.md)
 - [Software Alternative Finder](software-alternative-finder.md)
 - [Source Finder](source-finder.md)
