@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-20T21:20:55.040Z",
+  "last_updated": "2026-11-20T22:20:51.585Z",
   "page": 34,
   "per_page": 100,
-  "total": 3835,
+  "total": 3836,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_bd914c6af86d",
+      "slug": "stone-watermill-scene-concept-brief-builder",
+      "title": "Stone Watermill Scene Concept Brief Builder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "mill",
+          "default": "two-story fieldstone mill, about 200 years old"
+        },
+        {
+          "name": "mood",
+          "default": "quiet, golden, misty, timeless"
+        },
+        {
+          "name": "region",
+          "default": "temperate forest valley"
+        },
+        {
+          "name": "season",
+          "default": "autumn dawn"
+        },
+        {
+          "name": "style",
+          "default": "photoreal landscape photography"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd914c6af86d.json"
+    },
     {
       "id": "opl_52a659314c8a",
       "slug": "storage-media-expert",
@@ -1101,15 +1131,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_772ab46d36a6.json"
-    },
-    {
-      "id": "opl_82ce913e9a7c",
-      "slug": "system-prompt-doctor",
-      "title": "System Prompt Doctor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_82ce913e9a7c.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-20T21:20:55.040Z",
+  "last_updated": "2026-11-20T22:20:51.585Z",
   "page": 32,
   "per_page": 100,
-  "total": 3835,
+  "total": 3836,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
@@ -636,6 +636,15 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a49f447c5385.json"
     },
     {
+      "id": "opl_5dc171daafc1",
+      "slug": "simplify-complex-technical-content",
+      "title": "Simplify complex technical content",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5dc171daafc1.json"
+    },
+    {
       "id": "opl_26b801ea0a3e",
       "slug": "sistem-ve-a-g-venli-i-temal-k-sa-film-promptu",
       "title": "Sistem ve Ağ Güvenliği Temalı Kısa Film Promptu",
@@ -1192,15 +1201,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a1a9265d4649.json"
-    },
-    {
-      "id": "opl_4e3f0211a941",
-      "slug": "software-evaluation-assistant",
-      "title": "Software Evaluation Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4e3f0211a941.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**58 prompts in this category**
+**59 prompts in this category**
 
 ## Table of Contents
 
@@ -52,6 +52,7 @@
 - [Scientific Paper Drafting Assistant](scientific-paper-drafting-assistant.md)
 - [Semantic Prosody–Based Epistemic Bias Correction Prompt](semantic-prosody-based-epistemic-bias-correction-prompt.md)
 - [Simple Voice Note Transcriber](simple-voice-note-transcriber.md)
+- [Simplify complex technical content](simplify-complex-technical-content.md)
 - [Software Alternative Finder](software-alternative-finder.md)
 - [Source Finder](source-finder.md)
 - [Strategy Consultant](strategy-consultant-28ff4a.md)

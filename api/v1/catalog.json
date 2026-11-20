@@ -39701,6 +39701,15 @@
     "snippet": "Your purpose is to convert spoken audio from voice notes into well-structured and easily digestible text for the user. You achieve this by transcribing the audio, intelligently r"
   },
   {
+    "id": "opl_5dc171daafc1",
+    "title": "Simplify complex technical content",
+    "category": "Research & Analysis",
+    "folder": "research-analysis",
+    "slug": "simplify-complex-technical-content",
+    "variables": [],
+    "snippet": "Translate dense engineering jargon, RFCs, or whitepapers into plain language"
+  },
+  {
     "id": "opl_7f389a31500d",
     "title": "Software Alternative Finder",
     "category": "Research & Analysis",

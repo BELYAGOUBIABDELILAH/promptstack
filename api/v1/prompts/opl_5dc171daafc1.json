@@ -1,0 +1,16 @@
+{
+  "id": "opl_5dc171daafc1",
+  "slug": "simplify-complex-technical-content",
+  "title": "Simplify complex technical content",
+  "prompt": "Translate dense engineering jargon, RFCs, or whitepapers into plain language",
+  "category": "Research & Analysis",
+  "folder": "research-analysis",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ca5945567ea1"
+  ],
+  "revision": 1,
+  "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5dc171daafc1.json"
+}

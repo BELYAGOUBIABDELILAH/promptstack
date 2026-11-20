@@ -1,8 +1,8 @@
 {
   "folder": "research-analysis",
   "name": "Research & Analysis",
-  "last_updated": "2026-11-20T21:20:55.040Z",
-  "total": 57,
+  "last_updated": "2026-11-20T22:20:51.585Z",
+  "total": 58,
   "prompts": [
     {
       "id": "opl_345bb5f7b9a2",
@@ -739,6 +739,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a49f447c5385.json"
+    },
+    {
+      "id": "opl_5dc171daafc1",
+      "slug": "simplify-complex-technical-content",
+      "title": "Simplify complex technical content",
+      "prompt": "Translate dense engineering jargon, RFCs, or whitepapers into plain language",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_ca5945567ea1"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5dc171daafc1.json"
     },
     {
       "id": "opl_7f389a31500d",

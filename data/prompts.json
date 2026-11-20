@@ -34140,6 +34140,16 @@
     "path": "prompts/research-analysis/loose-watercolor-of-venetian-gondolas-on-the-grand-canal-at-.md"
   },
   {
+    "act": "Simplify complex technical content",
+    "category": "Research & Analysis",
+    "prompt": "Translate dense engineering jargon, RFCs, or whitepapers into plain language",
+    "source": "manjunath.vr@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "simplify-complex-technical-content",
+    "folder": "research-analysis",
+    "path": "prompts/research-analysis/simplify-complex-technical-content.md"
+  },
+  {
     "act": "Act as a Business Coach",
     "category": "Sales & Business",
     "prompt": "Act as a business coach. Ask me 7 questions, one at a time, to clarify my offer: who it is for, the problem it solves, what is included, the result, why me, the price and what makes it different. Wait for each answer. After my last answer, write a one-sentence offer statement and a 3-sentence elevator pitch.\n\nFollow-up: Write 3 shorter versions of the one-sentence offer.",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T21:20:55.040Z",
+  "last_updated": "2026-11-20T22:20:51.585Z",
   "page": 33,
   "per_page": 100,
-  "total": 3835,
+  "total": 3836,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_4e3f0211a941",
+      "slug": "software-evaluation-assistant",
+      "title": "Software Evaluation Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4e3f0211a941.json"
+    },
     {
       "id": "opl_89815fe43684",
       "slug": "software-implementor-ai-agent-for-data-entry-and-testing",
@@ -1003,36 +1012,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c329b1eb15f3.json"
-    },
-    {
-      "id": "opl_bd914c6af86d",
-      "slug": "stone-watermill-scene-concept-brief-builder",
-      "title": "Stone Watermill Scene Concept Brief Builder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "mill",
-          "default": "two-story fieldstone mill, about 200 years old"
-        },
-        {
-          "name": "mood",
-          "default": "quiet, golden, misty, timeless"
-        },
-        {
-          "name": "region",
-          "default": "temperate forest valley"
-        },
-        {
-          "name": "season",
-          "default": "autumn dawn"
-        },
-        {
-          "name": "style",
-          "default": "photoreal landscape photography"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd914c6af86d.json"
     }
   ]
 }

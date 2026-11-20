@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T21:20:55.040Z",
+  "last_updated": "2026-11-20T22:20:51.585Z",
   "page": 36,
   "per_page": 100,
-  "total": 3835,
+  "total": 3836,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_9d03f9660c82",
+      "slug": "the-digital-frontier-pixelated-pioneers",
+      "title": "The Digital Frontier: Pixelated Pioneers",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9d03f9660c82.json"
+    },
     {
       "id": "opl_203bba3cd7af",
       "slug": "the-elite-seo-blog-architect-ghostwriter",
@@ -1125,15 +1134,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e3ad4ae9d318.json"
-    },
-    {
-      "id": "opl_0d4d97f34e62",
-      "slug": "typical-90-s-teen-boy",
-      "title": "Typical 90's TEEN Boy",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0d4d97f34e62.json"
     }
   ]
 }

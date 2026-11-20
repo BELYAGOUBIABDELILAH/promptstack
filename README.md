@@ -58,7 +58,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Security](prompts/security) | 86 | Code auditing, threat modeling, and security policy |
 | [Business & Career](prompts/business-career) | 67 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 60 | Technical specs, README files, and API docs |
-| [Research & Analysis](prompts/research-analysis) | 58 | Literature review, synthesis, and comparative analysis |
+| [Research & Analysis](prompts/research-analysis) | 59 | Literature review, synthesis, and comparative analysis |
 | [Health & Wellness](prompts/health-wellness) | 45 | Fitness planning, nutrition ideas, and habit tracking |
 | [Sales & Business](prompts/sales-business) | 33 | Outreach emails, pitch decks, and discovery questions |
 | [Games & Fun](prompts/games-fun) | 30 | Interactive games, roleplay, and trivia |

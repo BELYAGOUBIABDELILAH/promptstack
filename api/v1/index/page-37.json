@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T21:20:55.040Z",
+  "last_updated": "2026-11-20T22:20:51.585Z",
   "page": 37,
   "per_page": 100,
-  "total": 3835,
+  "total": 3836,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_0d4d97f34e62",
+      "slug": "typical-90-s-teen-boy",
+      "title": "Typical 90's TEEN Boy",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0d4d97f34e62.json"
+    },
     {
       "id": "opl_127f6a1164a8",
       "slug": "typing-speed-test",
@@ -1176,15 +1185,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_19f51199bf22.json"
-    },
-    {
-      "id": "opl_4d50b1071283",
-      "slug": "vintage-copper-engraving-portrait-with-glasses-in-front-of-y",
-      "title": "Vintage copper engraving portrait with glasses in front of yellow circle",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4d50b1071283.json"
     }
   ]
 }
