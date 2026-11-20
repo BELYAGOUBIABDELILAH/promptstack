@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 37,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_127f6a1164a8",
+      "slug": "typing-speed-test",
+      "title": "Typing Speed Test",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_127f6a1164a8.json"
+    },
     {
       "id": "opl_b114fefe45a6",
       "slug": "typographic-portrait-artwork-creation",
@@ -1176,20 +1185,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4d50b1071283.json"
-    },
-    {
-      "id": "opl_ef3d91cb790c",
-      "slug": "vintage-country-souvenir-box-travel-poster-universal-template",
-      "title": "Vintage Country Souvenir Box Travel Poster (Universal Template)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "country",
-          "default": "Japan"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ef3d91cb790c.json"
     }
   ]
 }

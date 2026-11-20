@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 28,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_b00e5b071996",
+      "slug": "presentation-making",
+      "title": "presentation making",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b00e5b071996.json"
+    },
     {
       "id": "opl_3b60a5ed7770",
       "slug": "preventive-health-report-clinical-evaluation-prompt",
@@ -1202,20 +1211,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0e84fea10d58.json"
-    },
-    {
-      "id": "opl_301b7ea753a9",
-      "slug": "provence-lavender-farmhouse-at-sunrise-image-to-video-animation",
-      "title": "Provence Lavender Farmhouse at Sunrise (Image-to-Video Animation)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "duration",
-          "default": "6"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_301b7ea753a9.json"
     }
   ]
 }

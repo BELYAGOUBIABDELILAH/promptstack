@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 18,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_74fd9c1da0ac",
+      "slug": "hide-and-seek",
+      "title": "Hide and seek",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_74fd9c1da0ac.json"
+    },
     {
       "id": "opl_b51d47701394",
       "slug": "high-conversion-cold-email",
@@ -1201,15 +1210,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f070f85e3987.json"
-    },
-    {
-      "id": "opl_eea1cf8384af",
-      "slug": "if-you-liked-this",
-      "title": "If You Liked This",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_eea1cf8384af.json"
     }
   ]
 }

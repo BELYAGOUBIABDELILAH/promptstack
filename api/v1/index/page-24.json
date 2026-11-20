@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 24,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_554b82a69074",
+      "slug": "monthly-updates",
+      "title": "Monthly Updates",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_554b82a69074.json"
+    },
     {
       "id": "opl_864d57213ccd",
       "slug": "moody-chiaroscuro-urban-portrait",
@@ -1043,15 +1052,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f3553b7a95a7.json"
-    },
-    {
-      "id": "opl_695542f1f541",
-      "slug": "nix-dev-environment-taste",
-      "title": "Nix Dev Environment taste",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_695542f1f541.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 31,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_6d889206e6d3",
+      "slug": "roster",
+      "title": "roster",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6d889206e6d3.json"
+    },
     {
       "id": "opl_f41ae2e85f9a",
       "slug": "rough-anime-crayon-doodle-turn-any-character-into-a-scribbly-japanese-style-sketch",
@@ -1211,20 +1220,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fa0ca5ec5478.json"
-    },
-    {
-      "id": "opl_49ca5c26c001",
-      "slug": "sentence-expansion-and-completion-assistant",
-      "title": "Sentence Expansion and Completion Assistant",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "inputSentence",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_49ca5c26c001.json"
     }
   ]
 }

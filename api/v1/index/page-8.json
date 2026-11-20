@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 8,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-9.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_3f197ee0ef24",
+      "slug": "chinese-english-translator",
+      "title": "Chinese-English Translator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3f197ee0ef24.json"
+    },
     {
       "id": "opl_b2a37128ef00",
       "slug": "chore-documentation-generator",
@@ -1210,28 +1219,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0df7e07fd4d4.json"
-    },
-    {
-      "id": "opl_db93ca82e033",
-      "slug": "code-review-professional",
-      "title": "Code Review Professional",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "codeSnippet",
-          "default": null
-        },
-        {
-          "name": "focusArea",
-          "default": "efficiency"
-        },
-        {
-          "name": "language",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_db93ca82e033.json"
     }
   ]
 }

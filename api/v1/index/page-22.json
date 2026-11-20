@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 22,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_cc89bf239a7f",
+      "slug": "llm-expert",
+      "title": "LLM Expert",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cc89bf239a7f.json"
+    },
     {
       "id": "opl_c5da927ca878",
       "slug": "llm-fine-tune-guide",
@@ -1187,15 +1196,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c4960bd00b76.json"
-    },
-    {
-      "id": "opl_910f3548492d",
-      "slug": "matrix-paradise-seraph",
-      "title": "Matrix Paradise Seraph",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_910f3548492d.json"
     }
   ]
 }

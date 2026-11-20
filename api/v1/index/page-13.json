@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 13,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_1f796d691973",
+      "slug": "diff",
+      "title": "diff",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1f796d691973.json"
+    },
     {
       "id": "opl_f1e95ab5750b",
       "slug": "diff-security-auditor-agent-role",
@@ -1121,15 +1130,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d09075db4a6e.json"
-    },
-    {
-      "id": "opl_66f9259293d9",
-      "slug": "educative-video",
-      "title": "Educative video",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_66f9259293d9.json"
     }
   ]
 }

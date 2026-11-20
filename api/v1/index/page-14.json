@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 14,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_66f9259293d9",
+      "slug": "educative-video",
+      "title": "Educative video",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_66f9259293d9.json"
+    },
     {
       "id": "opl_df4e6990c4b4",
       "slug": "eerie-broken-doll-portrait",
@@ -1248,15 +1257,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8107251e8391.json"
-    },
-    {
-      "id": "opl_9bf1d8d0ff95",
-      "slug": "explain-a-concept-via-allegorical-story",
-      "title": "explain a Concept via Allegorical Story",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9bf1d8d0ff95.json"
     }
   ]
 }

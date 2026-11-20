@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 32,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_49ca5c26c001",
+      "slug": "sentence-expansion-and-completion-assistant",
+      "title": "Sentence Expansion and Completion Assistant",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "inputSentence",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_49ca5c26c001.json"
+    },
     {
       "id": "opl_590411d9f6e4",
       "slug": "sentry-bug-fixer",
@@ -1187,15 +1201,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4e3f0211a941.json"
-    },
-    {
-      "id": "opl_89815fe43684",
-      "slug": "software-implementor-ai-agent-for-data-entry-and-testing",
-      "title": "Software Implementor AI Agent for Data Entry and Testing",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_89815fe43684.json"
     }
   ]
 }

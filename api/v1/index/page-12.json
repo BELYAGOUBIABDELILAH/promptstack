@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 12,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_459a06d70f77",
+      "slug": "databricks",
+      "title": "Databricks",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_459a06d70f77.json"
+    },
     {
       "id": "opl_75b5d57e13c6",
       "slug": "dating-profile-optimization-suite",
@@ -1197,15 +1206,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_16208b2a3d4c.json"
-    },
-    {
-      "id": "opl_1f796d691973",
-      "slug": "diff",
-      "title": "diff",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1f796d691973.json"
     }
   ]
 }

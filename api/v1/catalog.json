@@ -5628,6 +5628,24 @@
     "snippet": "Develop a feature-rich chess game using HTML5, CSS3, and JavaScript. Create a realistic chessboard with proper piece rendering. Implement standard chess rules with move validation."
   },
   {
+    "id": "opl_57aa7c3cf8a0",
+    "title": "chess-strategy-skill",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "chess-strategy-skill",
+    "variables": [
+      {
+        "name": "currentBoardState",
+        "default": null
+      },
+      {
+        "name": "opponentStrategy",
+        "default": null
+      }
+    ],
+    "snippet": "--- name: chess-strategy-skill description: A skill to guide AI agents in analyzing and suggesting chess strategies, understanding positions, and making optimal moves. --- # Chess"
+  },
+  {
     "id": "opl_84732564e35c",
     "title": "Chimera AI-Powered Prompt Optimization System",
     "category": "Coding & Development",

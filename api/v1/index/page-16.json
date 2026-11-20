@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 16,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_e54857c54624",
+      "slug": "for-and-against-debate-mapper",
+      "title": "For and Against - Debate Mapper",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e54857c54624.json"
+    },
     {
       "id": "opl_c4e90ceaf2e3",
       "slug": "for-rally",
@@ -1006,15 +1015,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_556b445b472c.json"
-    },
-    {
-      "id": "opl_d19f55d28501",
-      "slug": "glass-igloos-glowing-under-a-green-and-violet-aurora-in-snowy-lapland",
-      "title": "Glass Igloos Glowing Under a Green and Violet Aurora in Snowy Lapland",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d19f55d28501.json"
     }
   ]
 }

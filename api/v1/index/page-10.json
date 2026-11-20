@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 10,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-11.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_735f0ebfa602",
+      "slug": "conversational-logo-design-process",
+      "title": "Conversational Logo Design Process",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_735f0ebfa602.json"
+    },
     {
       "id": "opl_0dbb3be5f4a5",
       "slug": "convert-documentation-to-code-comments",
@@ -1261,15 +1270,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7dba1a94c3f7.json"
-    },
-    {
-      "id": "opl_ba48ded42bd4",
-      "slug": "crm-software-finder",
-      "title": "CRM Software Finder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ba48ded42bd4.json"
     }
   ]
 }

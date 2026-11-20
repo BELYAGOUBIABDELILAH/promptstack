@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 29,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_301b7ea753a9",
+      "slug": "provence-lavender-farmhouse-at-sunrise-image-to-video-animation",
+      "title": "Provence Lavender Farmhouse at Sunrise (Image-to-Video Animation)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "duration",
+          "default": "6"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_301b7ea753a9.json"
+    },
     {
       "id": "opl_b0fb6476a31f",
       "slug": "provence-lavender-farmhouse-scene-concept-brief-builder",
@@ -1029,15 +1043,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_095582c166c0.json"
-    },
-    {
-      "id": "opl_1ce643d2c5bc",
-      "slug": "recipe-muse",
-      "title": "Recipe Muse",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1ce643d2c5bc.json"
     }
   ]
 }

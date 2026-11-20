@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 20,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_343f2861413e",
+      "slug": "is-that-a-job",
+      "title": "Is That A Job?",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_343f2861413e.json"
+    },
     {
       "id": "opl_d6e351a105f5",
       "slug": "is-there-a-better-way",
@@ -1048,15 +1057,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_326149fa0fa2.json"
-    },
-    {
-      "id": "opl_0e1c3c2c0c9a",
-      "slug": "landing-page-copy-architect-conversion-framework-prompt",
-      "title": "Landing Page Copy Architect – Conversion Framework Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0e1c3c2c0c9a.json"
     }
   ]
 }

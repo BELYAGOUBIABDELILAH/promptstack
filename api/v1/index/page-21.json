@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 21,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_0e1c3c2c0c9a",
+      "slug": "landing-page-copy-architect-conversion-framework-prompt",
+      "title": "Landing Page Copy Architect – Conversion Framework Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0e1c3c2c0c9a.json"
+    },
     {
       "id": "opl_544a06ada0c9",
       "slug": "landing-page-copywriting",
@@ -1230,15 +1239,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_298abae57027.json"
-    },
-    {
-      "id": "opl_cc89bf239a7f",
-      "slug": "llm-expert",
-      "title": "LLM Expert",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cc89bf239a7f.json"
     }
   ]
 }

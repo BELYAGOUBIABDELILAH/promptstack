@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 27,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_e56ca29468f5",
+      "slug": "photoreal-sunbeam-falling-into-a-sandstone-slot-canyon",
+      "title": "Photoreal Sunbeam Falling into a Sandstone Slot Canyon",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e56ca29468f5.json"
+    },
     {
       "id": "opl_047e30f16c9f",
       "slug": "photoreal-tiny-greenhouse-on-a-city-balcony-at-golden-hour",
@@ -1245,15 +1254,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_10e752d241f4.json"
-    },
-    {
-      "id": "opl_b00e5b071996",
-      "slug": "presentation-making",
-      "title": "presentation making",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b00e5b071996.json"
     }
   ]
 }

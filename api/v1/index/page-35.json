@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 35,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_15b6edda3c3b",
+      "slug": "system-prompt-editor-add-rag",
+      "title": "System Prompt Editor - Add RAG",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_15b6edda3c3b.json"
+    },
     {
       "id": "opl_e37da1dd32ea",
       "slug": "system-prompt-editor-output-format-instructions",
@@ -981,28 +990,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9d03f9660c82.json"
-    },
-    {
-      "id": "opl_203bba3cd7af",
-      "slug": "the-elite-seo-blog-architect-ghostwriter",
-      "title": "The Elite SEO Blog Architect & Ghostwriter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "Core_Topic",
-          "default": null
-        },
-        {
-          "name": "Primary_Keyword",
-          "default": null
-        },
-        {
-          "name": "Target_Audience",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_203bba3cd7af.json"
     }
   ]
 }

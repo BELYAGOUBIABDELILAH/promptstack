@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 7,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-8.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-6.json",
@@ -975,6 +975,24 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_85468cbec47a.json"
     },
     {
+      "id": "opl_57aa7c3cf8a0",
+      "slug": "chess-strategy-skill",
+      "title": "chess-strategy-skill",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "currentBoardState",
+          "default": null
+        },
+        {
+          "name": "opponentStrategy",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_57aa7c3cf8a0.json"
+    },
+    {
       "id": "opl_6c59601e8c0f",
       "slug": "chiaroscuro-fine-art-portrait-collage",
       "title": "Chiaroscuro Fine Art Portrait Collage",
@@ -1156,15 +1174,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fd4c648dbe64.json"
-    },
-    {
-      "id": "opl_3f197ee0ef24",
-      "slug": "chinese-english-translator",
-      "title": "Chinese-English Translator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3f197ee0ef24.json"
     }
   ]
 }

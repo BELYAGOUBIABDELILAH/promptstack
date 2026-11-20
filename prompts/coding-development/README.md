@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1304 prompts in this category**
+**1305 prompts in this category**
 
 ## Table of Contents
 
@@ -231,6 +231,7 @@
 - [Chat Summary and Export Instructions](chat-summary-and-export-instructions.md)
 - [Check MR Against Coding Standards](check-mr-against-coding-standards.md)
 - [Chess Game](chess-game.md)
+- [chess-strategy-skill](chess-strategy-skill.md)
 - [Chimera AI-Powered Prompt Optimization System](chimera-ai-powered-prompt-optimization-system.md)
 - [Chinese Hookah Training Program](chinese-hookah-training-program.md)
 - [Chinese-English Translator](chinese-english-translator.md)

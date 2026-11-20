@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 33,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_89815fe43684",
+      "slug": "software-implementor-ai-agent-for-data-entry-and-testing",
+      "title": "Software Implementor AI Agent for Data Entry and Testing",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_89815fe43684.json"
+    },
     {
       "id": "opl_82e88a725438",
       "slug": "software-quality-assurance-tester",
@@ -1024,15 +1033,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd914c6af86d.json"
-    },
-    {
-      "id": "opl_52a659314c8a",
-      "slug": "storage-media-expert",
-      "title": "Storage Media Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_52a659314c8a.json"
     }
   ]
 }

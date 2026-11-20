@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 17,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-18.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_d19f55d28501",
+      "slug": "glass-igloos-glowing-under-a-green-and-violet-aurora-in-snowy-lapland",
+      "title": "Glass Igloos Glowing Under a Green and Violet Aurora in Snowy Lapland",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d19f55d28501.json"
+    },
     {
       "id": "opl_c416b512b02f",
       "slug": "glass-igloos-under-the-northern-lights-image-to-video-animation",
@@ -1017,15 +1026,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_587d8744362b.json"
-    },
-    {
-      "id": "opl_74fd9c1da0ac",
-      "slug": "hide-and-seek",
-      "title": "Hide and seek",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_74fd9c1da0ac.json"
     }
   ]
 }

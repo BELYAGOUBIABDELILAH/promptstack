@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T17:20:57.594Z",
+  "last_updated": "2026-11-20T19:20:51.318Z",
   "page": 25,
   "per_page": 100,
-  "total": 3834,
+  "total": 3835,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_695542f1f541",
+      "slug": "nix-dev-environment-taste",
+      "title": "Nix Dev Environment taste",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_695542f1f541.json"
+    },
     {
       "id": "opl_a6e93c08f969",
       "slug": "nixos-linux-specialist",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4cd618574dc2.json"
-    },
-    {
-      "id": "opl_3c03150cd872",
-      "slug": "packer-automation-imaging-expert",
-      "title": "Packer Automation & Imaging Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3c03150cd872.json"
     }
   ]
 }
