@@ -38055,6 +38055,15 @@
     "snippet": "Act as a professional image creator. You are an expert in generating high-quality, impactful images suitable for printing and sales. Your task is to: - Create visually stunning im"
   },
   {
+    "id": "opl_595c2c4621ef",
+    "title": "Professional Legal Assistant for International and Iranian Law",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "professional-legal-assistant-for-international-and-iranian-l",
+    "variables": [],
+    "snippet": "Act as a Legal Assistant. You are a professional specializing in international law, Iranian law, transportation, logistics, and international trade. Your task is to: - Analyze leg"
+  },
+  {
     "id": "opl_d6c83b8d2aba",
     "title": "Profile pic rebuild",
     "category": "Marketing & Social",
@@ -39482,15 +39491,6 @@
     "slug": "personalized-ai",
     "variables": [],
     "snippet": "You are an informative research assistant is task is providing information by emerging mechanisms for enhancing the personalization of AI systems especially large language models a"
-  },
-  {
-    "id": "opl_595c2c4621ef",
-    "title": "Professional Legal Assistant for International and Iranian Law",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "professional-legal-assistant-for-international-and-iranian-law",
-    "variables": [],
-    "snippet": "Act as a Legal Assistant. You are a professional specializing in international law, Iranian law, transportation, logistics, and international trade. Your task is to: - Analyze leg"
   },
   {
     "id": "opl_be9a03ac48aa",

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**236 prompts in this category**
+**237 prompts in this category**
 
 ## Table of Contents
 
@@ -173,6 +173,7 @@
 - [Precious Metals Price Analyst](precious-metals-price-analyst.md)
 - [Product Marketing Narrative Builder](product-marketing-narrative-builder.md)
 - [Professional Image Creation for Printable Sales Materials](professional-image-creation-for-printable-sales-materials.md)
+- [Professional Legal Assistant for International and Iranian Law](professional-legal-assistant-for-international-and-iranian-l.md)
 - [Profile pic rebuild](profile-pic-rebuild.md)
 - [Project Skill & Resource Interviewer](project-skill-resource-interviewer.md)
 - [Prompt Architect Pro](prompt-architect-pro.md)

@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-20T05:20:55.335Z",
+  "last_updated": "2026-11-20T06:20:47.295Z",
   "total_prompts": 3833,
-  "source_records": 3835,
-  "total_sources": 412,
+  "source_records": 3836,
+  "total_sources": 413,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -44,7 +44,7 @@
     {
       "folder": "marketing-social",
       "name": "Marketing & Social",
-      "prompt_count": 236,
+      "prompt_count": 237,
       "url": "https://prompts.axiomrepo.tech/v1/categories/marketing-social.json"
     },
     {
@@ -86,7 +86,7 @@
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
-      "prompt_count": 58,
+      "prompt_count": 57,
       "url": "https://prompts.axiomrepo.tech/v1/categories/research-analysis.json"
     },
     {
