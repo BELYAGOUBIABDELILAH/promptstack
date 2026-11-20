@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 15,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_5d863694b4ef",
+      "slug": "explain-complex-code-or-patterns",
+      "title": "Explain Complex Code or Patterns",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5d863694b4ef.json"
+    },
     {
       "id": "opl_8e6df8bc570f",
       "slug": "explain-funding-impact",
@@ -1258,20 +1267,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e54857c54624.json"
-    },
-    {
-      "id": "opl_c4e90ceaf2e3",
-      "slug": "for-rally",
-      "title": "for Rally",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "paste_mission_details_here",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c4e90ceaf2e3.json"
     }
   ]
 }

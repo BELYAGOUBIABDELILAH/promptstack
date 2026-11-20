@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 14,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_df4e6990c4b4",
+      "slug": "eerie-broken-doll-portrait",
+      "title": "Eerie Broken Doll Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_df4e6990c4b4.json"
+    },
     {
       "id": "opl_ce363ecb3360",
       "slug": "eerie-shadows-a-creepy-horror-rpg-adventure",
@@ -1248,15 +1257,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9bf1d8d0ff95.json"
-    },
-    {
-      "id": "opl_5d863694b4ef",
-      "slug": "explain-complex-code-or-patterns",
-      "title": "Explain Complex Code or Patterns",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5d863694b4ef.json"
     }
   ]
 }

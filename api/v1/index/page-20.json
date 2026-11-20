@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 20,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_d6e351a105f5",
+      "slug": "is-there-a-better-way",
+      "title": "Is There A Better Way?",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d6e351a105f5.json"
+    },
     {
       "id": "opl_c359b31250c9",
       "slug": "is-there-a-better-way-tech",
@@ -1048,15 +1057,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0e1c3c2c0c9a.json"
-    },
-    {
-      "id": "opl_544a06ada0c9",
-      "slug": "landing-page-copywriting",
-      "title": "Landing page copywriting",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_544a06ada0c9.json"
     }
   ]
 }

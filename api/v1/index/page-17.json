@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 17,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-18.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_c416b512b02f",
+      "slug": "glass-igloos-under-the-northern-lights-image-to-video-animation",
+      "title": "Glass Igloos Under the Northern Lights (Image-to-Video Animation)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "duration",
+          "default": "6"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c416b512b02f.json"
+    },
     {
       "id": "opl_f1495734846d",
       "slug": "glassblower-shaping-a-cobalt-vase-at-golden-hour",
@@ -1012,20 +1026,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_74fd9c1da0ac.json"
-    },
-    {
-      "id": "opl_b51d47701394",
-      "slug": "high-conversion-cold-email",
-      "title": "High Conversion Cold Email",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "describe_pain",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b51d47701394.json"
     }
   ]
 }

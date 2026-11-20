@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 27,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_047e30f16c9f",
+      "slug": "photoreal-tiny-greenhouse-on-a-city-balcony-at-golden-hour",
+      "title": "Photoreal Tiny Greenhouse on a City Balcony at Golden Hour",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_047e30f16c9f.json"
+    },
     {
       "id": "opl_d8bd297cd053",
       "slug": "photoreal-underwater-kelp-forest-with-a-sea-otter-holding-a-sea-urchin",
@@ -1245,15 +1254,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b00e5b071996.json"
-    },
-    {
-      "id": "opl_3b60a5ed7770",
-      "slug": "preventive-health-report-clinical-evaluation-prompt",
-      "title": "Preventive Health Report Clinical Evaluation Prompt",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3b60a5ed7770.json"
     }
   ]
 }

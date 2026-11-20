@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 34,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_f5e20b0cf4e7",
+      "slug": "storage-recs-from-photos",
+      "title": "Storage Recs (From Photos)",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f5e20b0cf4e7.json"
+    },
     {
       "id": "opl_67203d55ebb7",
       "slug": "storage-solution-ideator",
@@ -1101,15 +1110,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_15b6edda3c3b.json"
-    },
-    {
-      "id": "opl_e37da1dd32ea",
-      "slug": "system-prompt-editor-output-format-instructions",
-      "title": "System Prompt Editor - Output Format Instructions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e37da1dd32ea.json"
     }
   ]
 }

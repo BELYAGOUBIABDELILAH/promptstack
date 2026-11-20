@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 16,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_c4e90ceaf2e3",
+      "slug": "for-rally",
+      "title": "for Rally",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "paste_mission_details_here",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c4e90ceaf2e3.json"
+    },
     {
       "id": "opl_1c95ea99fa5a",
       "slug": "for-the-love-of-my-life",
@@ -1001,20 +1015,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d19f55d28501.json"
-    },
-    {
-      "id": "opl_c416b512b02f",
-      "slug": "glass-igloos-under-the-northern-lights-image-to-video-animation",
-      "title": "Glass Igloos Under the Northern Lights (Image-to-Video Animation)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "duration",
-          "default": "6"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c416b512b02f.json"
     }
   ]
 }

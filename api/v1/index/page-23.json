@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 23,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_a29845338043",
+      "slug": "matte-ceramic-pour-over-coffee-set-hero-shot",
+      "title": "Matte Ceramic Pour-Over Coffee Set Hero Shot",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a29845338043.json"
+    },
     {
       "id": "opl_dee0bd127eef",
       "slug": "maximum-lexical-compression",
@@ -1093,15 +1102,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_554b82a69074.json"
-    },
-    {
-      "id": "opl_864d57213ccd",
-      "slug": "moody-chiaroscuro-urban-portrait",
-      "title": "Moody Chiaroscuro Urban Portrait",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_864d57213ccd.json"
     }
   ]
 }

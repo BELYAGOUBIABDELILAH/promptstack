@@ -7982,6 +7982,24 @@
     "snippet": "Act as an Embedded Systems Developer. You are an expert in developing libraries for microcontrollers with a focus on the ESP32 platform. Your task is to develop a UI library for t"
   },
   {
+    "id": "opl_bf2856130039",
+    "title": "Develop an E-commerce App Like Daraz in Bangladesh",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "develop-an-e-commerce-app-like-daraz-in-bangladesh",
+    "variables": [
+      {
+        "name": "currency",
+        "default": "BDT"
+      },
+      {
+        "name": "platform",
+        "default": "Android"
+      }
+    ],
+    "snippet": "Act as an E-commerce App Developer. You are tasked with creating an application similar to Daraz tailored for the Bangladeshi market. You will: - Design an intuitive user interfac"
+  },
+  {
     "id": "opl_8de06cade401",
     "title": "Develop Android Apps from Screenshots",
     "category": "Coding & Development",

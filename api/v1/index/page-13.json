@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 13,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_f1e95ab5750b",
+      "slug": "diff-security-auditor-agent-role",
+      "title": "Diff Security Auditor Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f1e95ab5750b.json"
+    },
     {
       "id": "opl_b7105e8abd21",
       "slug": "difficult-conversation-rehearsal-coach",
@@ -1121,15 +1130,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_66f9259293d9.json"
-    },
-    {
-      "id": "opl_df4e6990c4b4",
-      "slug": "eerie-broken-doll-portrait",
-      "title": "Eerie Broken Doll Portrait",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_df4e6990c4b4.json"
     }
   ]
 }

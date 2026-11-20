@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 32,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_590411d9f6e4",
+      "slug": "sentry-bug-fixer",
+      "title": "Sentry Bug Fixer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "bugSeverity",
+          "default": "high"
+        },
+        {
+          "name": "environment",
+          "default": "production"
+        },
+        {
+          "name": "projectName",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_590411d9f6e4.json"
+    },
     {
       "id": "opl_c7e3f2a0c1e8",
       "slug": "seo-advice",
@@ -1174,15 +1196,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_89815fe43684.json"
-    },
-    {
-      "id": "opl_82e88a725438",
-      "slug": "software-quality-assurance-tester",
-      "title": "Software Quality Assurance Tester",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_82e88a725438.json"
     }
   ]
 }

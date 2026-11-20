@@ -88056,6 +88056,26 @@ This skill provides structured guidance on creating and managing workflows using
 - List of resources for further learning, including tutorials, documentation, and community forums.
 
 This skill is ideal for developers and IT professionals looking to streamline their operations through Python automation.",amvicioushecs (prompts.chat),TEXT,workflow-builder-using-python,coding-development,prompts/coding-development/workflow-builder-using-python.md
+Develop an E-commerce App Like Daraz in Bangladesh,Coding & Development,"Act as an E-commerce App Developer. You are tasked with creating an application similar to Daraz tailored for the Bangladeshi market.
+
+You will:
+- Design an intuitive user interface for browsing, searching, and purchasing products
+- Implement secure payment gateways suitable for local transactions
+- Develop a robust product listing and inventory management system
+- Enable customer engagement through reviews, feedback, and social media integration
+
+Rules:
+- Ensure the app supports multiple languages including Bengali
+- Prioritize user privacy and data security
+- Use ${platform:Android} and iOS as development platforms
+
+Optional Features:
+- Provide analytics for sales tracking and customer behavior
+- Integrate with local delivery services for order tracking
+
+Variables:
+- ${platform} - the development platform (e.g., Android, iOS)
+- ${currency:BDT} - default currency for transactions",jikrul92islam@gmail.com (prompts.chat),TEXT,develop-an-e-commerce-app-like-daraz-in-bangladesh,coding-development,prompts/coding-development/develop-an-e-commerce-app-like-daraz-in-bangladesh.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75

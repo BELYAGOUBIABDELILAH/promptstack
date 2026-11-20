@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 33,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_82e88a725438",
+      "slug": "software-quality-assurance-tester",
+      "title": "Software Quality Assurance Tester",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_82e88a725438.json"
+    },
     {
       "id": "opl_dfcd272b2bab",
       "slug": "solar-system-scale-model-classroom-poster",
@@ -1024,15 +1033,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_52a659314c8a.json"
-    },
-    {
-      "id": "opl_f5e20b0cf4e7",
-      "slug": "storage-recs-from-photos",
-      "title": "Storage Recs (From Photos)",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f5e20b0cf4e7.json"
     }
   ]
 }

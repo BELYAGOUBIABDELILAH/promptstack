@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 12,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-11.json",
@@ -880,6 +880,24 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_28b1e064445f.json"
     },
     {
+      "id": "opl_bf2856130039",
+      "slug": "develop-an-e-commerce-app-like-daraz-in-bangladesh",
+      "title": "Develop an E-commerce App Like Daraz in Bangladesh",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "currency",
+          "default": "BDT"
+        },
+        {
+          "name": "platform",
+          "default": "Android"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bf2856130039.json"
+    },
+    {
       "id": "opl_8de06cade401",
       "slug": "develop-android-apps-from-screenshots",
       "title": "Develop Android Apps from Screenshots",
@@ -1188,15 +1206,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1f796d691973.json"
-    },
-    {
-      "id": "opl_f1e95ab5750b",
-      "slug": "diff-security-auditor-agent-role",
-      "title": "Diff Security Auditor Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f1e95ab5750b.json"
     }
   ]
 }

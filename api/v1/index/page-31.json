@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 31,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_f41ae2e85f9a",
+      "slug": "rough-anime-crayon-doodle-turn-any-character-into-a-scribbly-japanese-style-sketch",
+      "title": "Rough Anime Crayon Doodle: Turn Any Character into a Scribbly Japanese-Style Sketch",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f41ae2e85f9a.json"
+    },
     {
       "id": "opl_9fb5ad97d986",
       "slug": "rpa-guide",
@@ -1216,28 +1225,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_49ca5c26c001.json"
-    },
-    {
-      "id": "opl_590411d9f6e4",
-      "slug": "sentry-bug-fixer",
-      "title": "Sentry Bug Fixer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "bugSeverity",
-          "default": "high"
-        },
-        {
-          "name": "environment",
-          "default": "production"
-        },
-        {
-          "name": "projectName",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_590411d9f6e4.json"
     }
   ]
 }

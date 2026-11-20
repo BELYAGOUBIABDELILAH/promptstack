@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 35,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_e37da1dd32ea",
+      "slug": "system-prompt-editor-output-format-instructions",
+      "title": "System Prompt Editor - Output Format Instructions",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e37da1dd32ea.json"
+    },
     {
       "id": "opl_27eda67c6b0c",
       "slug": "system-prompt-editor-general",
@@ -994,15 +1003,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_203bba3cd7af.json"
-    },
-    {
-      "id": "opl_7dbddbad2559",
-      "slug": "the-fighter",
-      "title": "The Fighter",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7dbddbad2559.json"
     }
   ]
 }

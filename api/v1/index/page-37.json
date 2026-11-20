@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 37,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_b114fefe45a6",
+      "slug": "typographic-portrait-artwork-creation",
+      "title": "Typographic Portrait Artwork Creation",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b114fefe45a6.json"
+    },
     {
       "id": "opl_535fce2327ed",
       "slug": "ubuntu-audio-input-output-loop-virtual-connection-specialist",
@@ -1181,15 +1190,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ef3d91cb790c.json"
-    },
-    {
-      "id": "opl_847a62984de2",
-      "slug": "vintage-cutaway-illustration-of-a-deep-sea-research-submarine",
-      "title": "Vintage Cutaway Illustration of a Deep-Sea Research Submarine",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_847a62984de2.json"
     }
   ]
 }

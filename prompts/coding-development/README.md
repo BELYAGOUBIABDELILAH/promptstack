@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1303 prompts in this category**
+**1304 prompts in this category**
 
 ## Table of Contents
 
@@ -416,6 +416,7 @@
 - [Develop a Modern Website for Sporsmaç Using React Native](develop-a-modern-website-for-sporsma-using-react-native.md)
 - [Develop a Notion Clone Application](develop-a-notion-clone-application.md)
 - [Develop a UI Library for ESP32](develop-a-ui-library-for-esp32.md)
+- [Develop an E-commerce App Like Daraz in Bangladesh](develop-an-e-commerce-app-like-daraz-in-bangladesh.md)
 - [Develop Android Apps from Screenshots](develop-android-apps-from-screenshots.md)
 - [Developer Daily Report Generator](developer-daily-report-generator.md)
 - [Developer Relations Consultant](developer-relations-consultant.md)

@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 29,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_b0fb6476a31f",
+      "slug": "provence-lavender-farmhouse-scene-concept-brief-builder",
+      "title": "Provence Lavender Farmhouse Scene Concept Brief Builder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "farmhouse",
+          "default": "a two-story old stone farmhouse with a terracotta tile roof and pale blue shutters"
+        },
+        {
+          "name": "field",
+          "default": "long straight rows of purple lavender with dirt paths between them, converging toward the house"
+        },
+        {
+          "name": "landscape",
+          "default": "gentle rolling hills fading to blue in the distance"
+        },
+        {
+          "name": "mood",
+          "default": "peaceful, warm, fragrant, timeless"
+        },
+        {
+          "name": "style",
+          "default": "photoreal landscape photography, natural colors"
+        },
+        {
+          "name": "time",
+          "default": "sunrise with the sun just above the hills, warm golden light, long shadows, light haze"
+        },
+        {
+          "name": "trees",
+          "default": "one tall dark cypress right beside the house and a lone round oak tree on a grassy rise"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b0fb6476a31f.json"
+    },
     {
       "id": "opl_11b1d98b803d",
       "slug": "proxmox-virtualization-expert",
@@ -1000,15 +1038,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1ce643d2c5bc.json"
-    },
-    {
-      "id": "opl_e6bec92474a8",
-      "slug": "recognize-sponsors",
-      "title": "Recognize Sponsors",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e6bec92474a8.json"
     }
   ]
 }

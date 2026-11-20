@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 25,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_a6e93c08f969",
+      "slug": "nixos-linux-specialist",
+      "title": "NixOS Linux Specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a6e93c08f969.json"
+    },
     {
       "id": "opl_d5d052551582",
       "slug": "no-bs-marketing-strategist",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3c03150cd872.json"
-    },
-    {
-      "id": "opl_573a3fcbc6f7",
-      "slug": "packling-list-checker",
-      "title": "Packling List Checker",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_573a3fcbc6f7.json"
     }
   ]
 }

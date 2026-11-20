@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T16:20:50.614Z",
+  "last_updated": "2026-11-20T17:20:57.594Z",
   "page": 36,
   "per_page": 100,
-  "total": 3833,
+  "total": 3834,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_7dbddbad2559",
+      "slug": "the-fighter",
+      "title": "The Fighter",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7dbddbad2559.json"
+    },
     {
       "id": "opl_68fe08e3cb9d",
       "slug": "the-glass-doppelg-nger",
@@ -1112,15 +1121,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_127f6a1164a8.json"
-    },
-    {
-      "id": "opl_b114fefe45a6",
-      "slug": "typographic-portrait-artwork-creation",
-      "title": "Typographic Portrait Artwork Creation",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b114fefe45a6.json"
     }
   ]
 }
