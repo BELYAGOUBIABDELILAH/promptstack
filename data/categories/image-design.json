@@ -8338,5 +8338,15 @@
     "slug": "untitled-b65067",
     "folder": "image-design",
     "path": "prompts/image-design/untitled-b65067.md"
+  },
+  {
+    "act": "Maximum Lexical Compression",
+    "category": "Image & Design",
+    "prompt": "Rewrite my text with maximal lexicalization (maximum lexical compression):\nFor every phrase, sentence, or paragraph that has an established equivalent term,\nterm of art, or single word, remove it and replace it with just that word/term.\nDo not keep any explanation in long form if it can be expressed with a single word.\n\nINPUT:\n${paste_your_text_here}",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "maximum-lexical-compression",
+    "folder": "image-design",
+    "path": "prompts/image-design/maximum-lexical-compression.md"
   }
 ]
