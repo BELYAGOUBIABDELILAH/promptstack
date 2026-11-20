@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**158 prompts in this category**
+**159 prompts in this category**
 
 ## Table of Contents
 
@@ -28,6 +28,7 @@
 - [Assistant Ideator - User-Defined Topic](assistant-ideator-user-defined-topic.md)
 - [Assistant to Agent System Prompt Converter](assistant-to-agent-system-prompt-converter.md)
 - [Atari](atari.md)
+- [Attract Deer with Jangling Sounds](attract-deer-with-jangling-sounds.md)
 - [Automate Repetitive Development Tasks](automate-repetitive-development-tasks.md)
 - [Autoresponse Spoofer](autoresponse-spoofer.md)
 - [B2B Market Research](b2b-market-research.md)

@@ -229,6 +229,15 @@
     "snippet": "{ \"prompt\": \"You will perform an image edit using the person from the provided photo as the main subject. The face must remain clear and unaltered. Transform the subject into a c"
   },
   {
+    "id": "opl_244621b9b60f",
+    "title": "Attract Deer with Jangling Sounds",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "attract-deer-with-jangling-sounds",
+    "variables": [],
+    "snippet": "Act as a Wildlife Enthusiast. You have expertise in attracting deer using sound techniques. Your task is to provide a guide on using jangling sounds to attract deer. You will: - E"
+  },
+  {
     "id": "opl_c78a93eb69b2",
     "title": "Automate Repetitive Development Tasks",
     "category": "AI & Automation",
@@ -24240,15 +24249,6 @@
     "slug": "api-cost-calculator",
     "variables": [],
     "snippet": "Your task is to calculate approximate cost for API usage based upon the use described by the user. You will do this by computing the API charges and converting them to real money v"
-  },
-  {
-    "id": "opl_244621b9b60f",
-    "title": "Attract Deer with Jangling Sounds",
-    "category": "General",
-    "folder": "general",
-    "slug": "attract-deer-with-jangling-sounds",
-    "variables": [],
-    "snippet": "Act as a Wildlife Enthusiast. You have expertise in attracting deer using sound techniques. Your task is to provide a guide on using jangling sounds to attract deer. You will: - E"
   },
   {
     "id": "opl_014c18f244c7",

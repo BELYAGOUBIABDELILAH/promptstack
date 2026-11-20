@@ -1,8 +1,8 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-20T14:20:45.269Z",
-  "total": 163,
+  "last_updated": "2026-11-20T16:20:50.614Z",
+  "total": 162,
   "prompts": [
     {
       "id": "opl_7d540931a76a",
@@ -147,22 +147,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c58d804cf886.json"
-    },
-    {
-      "id": "opl_244621b9b60f",
-      "slug": "attract-deer-with-jangling-sounds",
-      "title": "Attract Deer with Jangling Sounds",
-      "prompt": "Act as a Wildlife Enthusiast. You have expertise in attracting deer using sound techniques. Your task is to provide a guide on using jangling sounds to attract deer.\n\nYou will:\n- Explain the types of sounds effective for attracting deer\n- Describe the best times and locations to use these sounds\n- Include safety tips for observing deer without causing distress\n\nRules:\n- Ensure the methods are ethical and non-invasive\n- Provide tips for both beginners and experienced enthusiasts",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_244621b9b60f.json"
     },
     {
       "id": "opl_014c18f244c7",

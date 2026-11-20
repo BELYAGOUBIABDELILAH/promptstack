@@ -1,7 +1,7 @@
 # Attract Deer with Jangling Sounds
 
-**Category:** General  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** jikrul92islam@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -17,4 +17,4 @@
 > - Provide tips for both beginners and experienced enthusiasts
 
 ---
-[← Back to General](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

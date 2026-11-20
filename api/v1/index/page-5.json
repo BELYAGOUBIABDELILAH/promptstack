@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T14:20:45.269Z",
+  "last_updated": "2026-11-20T16:20:50.614Z",
   "page": 5,
   "per_page": 100,
   "total": 3833,
@@ -399,8 +399,8 @@
       "id": "opl_244621b9b60f",
       "slug": "attract-deer-with-jangling-sounds",
       "title": "Attract Deer with Jangling Sounds",
-      "category": "General",
-      "folder": "general",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_244621b9b60f.json"
     },
