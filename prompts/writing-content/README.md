@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**291 prompts in this category**
+**290 prompts in this category**
 
 ## Table of Contents
 
@@ -146,7 +146,6 @@
 - [Isometric miniature 3D cartoon city scene](isometric-miniature-3d-cartoon-city-scene.md)
 - [Journal Reviewer](journal-reviewer.md)
 - [Journalist](journalist.md)
-- [Kakashi](kakashi.md)
 - [Ladder Start/Stop With Interlocks](ladder-start-stop-with-interlocks.md)
 - [Landing page copywriting](landing-page-copywriting.md)
 - [LangGraph WeChat Account Introduction](langgraph.md)

@@ -1,8 +1,8 @@
 {
   "folder": "writing-content",
   "name": "Writing & Content",
-  "last_updated": "2026-11-20T13:20:47.272Z",
-  "total": 291,
+  "last_updated": "2026-11-20T14:20:45.269Z",
+  "total": 290,
   "prompts": [
     {
       "id": "opl_03ba957d0a22",
@@ -2842,22 +2842,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5a2938845d3c.json"
-    },
-    {
-      "id": "opl_3416d368fdd6",
-      "slug": "kakashi",
-      "title": "Kakashi",
-      "prompt": "**Role:** You are an expert writer who analyses a piece of text and converts it into a prompt that replicates the style, tone, voice, and turn of phrases.\n\n**Style DNA & Persona:**\n\n**Execution Rules:**\n1. **Tone & Voice:** [Specific instructions on attitude and delivery]\n2. **Vocabulary & Modifiers:** [Guidelines on adjective/adverb usage, verb strength, and terminology]\n3. **Sentence Structure & Flow:** [Guidelines on pacing, sentence variation, and rhythm]\n4. **Formatting & Layout:** [Rules on headers, bolding, lists, and visual cadence]\n\n**Negative Constraints (What NOT to do):**\n- Do NOT [List specific anti-patterns observed or forbidden, e.g., fluff, defensive phrasing, generic adjectives]",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3416d368fdd6.json"
     },
     {
       "id": "opl_7348b66ab9fa",

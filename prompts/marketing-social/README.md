@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**238 prompts in this category**
+**239 prompts in this category**
 
 ## Table of Contents
 
@@ -127,6 +127,7 @@
 - [Investment Manager](investment-manager.md)
 - [Investor Pitch Presentation](investor-pitch-presentation.md)
 - [Juicestain’s art breakthrough](juicestain-s-art-breakthrough.md)
+- [Kakashi](kakashi.md)
 - [Landing Page Vibe Coding](landing-page-vibe-coding.md)
 - [Lead Gen Platform Advice](lead-gen-platform-advice.md)
 - [Legal AI Amplifier](legal-ai-amplifier.md)

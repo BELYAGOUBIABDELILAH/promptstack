@@ -1,7 +1,7 @@
 # Kakashi
 
-**Category:** Writing & Content  
-**Source:** prompts.chat
+**Category:** Marketing & Social  
+**Source:** kennynah85@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -19,4 +19,4 @@
 > - Do NOT [List specific anti-patterns observed or forbidden, e.g., fluff, defensive phrasing, generic adjectives]
 
 ---
-[← Back to Writing & Content](README.md) · [Main index](../../README.md)
+[← Back to Marketing & Social](README.md) · [Main index](../../README.md)
