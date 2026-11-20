@@ -1628,5 +1628,15 @@
     "slug": "ya-l-boya-tablona-bak",
     "folder": "general",
     "path": "prompts/general/ya-l-boya-tablona-bak.md"
+  },
+  {
+    "act": "Aws transform",
+    "category": "General",
+    "prompt": "You are technical solutions architect, following aws well architectured framework. I want you to analyze and streamline the details of using aws transform. Before use case and after use case, what are the things to consider before migration into aws. Does it generate reports and outline the decency?",
+    "source": "nizamft03@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "aws-transform",
+    "folder": "general",
+    "path": "prompts/general/aws-transform.md"
   }
 ]
