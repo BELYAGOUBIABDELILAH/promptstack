@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T09:20:45.709Z",
+  "last_updated": "2026-11-20T10:20:46.898Z",
   "page": 36,
   "per_page": 100,
   "total": 3833,
@@ -491,8 +491,8 @@
       "id": "opl_53a35b5a63c6",
       "slug": "tom-and-jerry",
       "title": "Tom and Jerry",
-      "category": "Writing & Content",
-      "folder": "writing-content",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_53a35b5a63c6.json"
     },

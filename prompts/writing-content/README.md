@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**293 prompts in this category**
+**292 prompts in this category**
 
 ## Table of Contents
 
@@ -267,7 +267,6 @@
 - [TikTok Marketing Visual Designer Agent](tiktok-marketing-visual-designer-agent.md)
 - [Time Travel Guide](time-travel-guide.md)
 - [Title Generator for written pieces](title-generator-for-written-pieces.md)
-- [Tom and Jerry](tom-and-jerry.md)
 - [Topic Article](topic-article.md)
 - [Translate Application to Another Language](translate-application-to-another-language.md)
 - [Translation Dictionary](translation-dictionary.md)

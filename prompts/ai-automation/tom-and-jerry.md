@@ -1,7 +1,7 @@
 # Tom and Jerry
 
-**Category:** Writing & Content  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** raphaeldaniel244@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -51,4 +51,4 @@
 > Text fades in: `Even rivals can be friends sometimes ❤️`
 
 ---
-[← Back to Writing & Content](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

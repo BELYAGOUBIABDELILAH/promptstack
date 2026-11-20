@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**157 prompts in this category**
+**158 prompts in this category**
 
 ## Table of Contents
 
@@ -150,6 +150,7 @@
 - [The Colorful Fish Learning Emotions](the-colorful-fish-learning-emotions.md)
 - [TikTok Video Style Prompt Generator](tiktok-video-style-prompt-generator.md)
 - [Time Commitment](time-commitment.md)
+- [Tom and Jerry](tom-and-jerry.md)
 - [Transform the provided clothing product image.](transform-the-provided-clothing-product-image.md)
 - [trello-integration-skill](trello-integration-skill.md)
 - [Ultimate Stake.us Dice Wagering Strategy Builder — Rollover & Playthrough Completion](ultimate-stake-us-dice-wagering-strategy-builder-rollover-playthrough-completion.md)

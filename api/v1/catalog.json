@@ -1696,6 +1696,15 @@
     "snippet": "Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time."
   },
   {
+    "id": "opl_53a35b5a63c6",
+    "title": "Tom and Jerry",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "tom-and-jerry",
+    "variables": [],
+    "snippet": "*STORYLINE: \"The House Sitter’s Big Day\"* _7 scenes, about 45-60 seconds total if you make it as a series_ *Scene 1: The Calm Before Chaos* It’s a quiet Sunday morning. The hum"
+  },
+  {
     "id": "opl_7f9226b534cc",
     "title": "Transform the provided clothing product image.",
     "category": "AI & Automation",
@@ -44622,15 +44631,6 @@
     "slug": "title-generator-for-written-pieces",
     "variables": [],
     "snippet": "I want you to act as a title generator for written pieces. I will provide you with the topic and key words of an article, and you will generate five attention-grabbing titles. Plea"
-  },
-  {
-    "id": "opl_53a35b5a63c6",
-    "title": "Tom and Jerry",
-    "category": "Writing & Content",
-    "folder": "writing-content",
-    "slug": "tom-and-jerry",
-    "variables": [],
-    "snippet": "*STORYLINE: \"The House Sitter’s Big Day\"* _7 scenes, about 45-60 seconds total if you make it as a series_ *Scene 1: The Calm Before Chaos* It’s a quiet Sunday morning. The hum"
   },
   {
     "id": "opl_3d2a55d1ab3f",
