@@ -24196,6 +24196,15 @@
     "snippet": "Read the email from my gmail account which gets regular email from linkedIn for job recommendations. read the email, if it is for any suitable job match, apply for it, you may need"
   },
   {
+    "id": "opl_b8a37e21104e",
+    "title": "Aws transform",
+    "category": "General",
+    "folder": "general",
+    "slug": "aws-transform",
+    "variables": [],
+    "snippet": "You are technical solutions architect, following aws well architectured framework. I want you to analyze and streamline the details of using aws transform. Before use case and afte"
+  },
+  {
     "id": "opl_c61a66d228d1",
     "title": "Azulejo Blue-and-White Tile Mural of a Sardine Fishing Boat at Dawn",
     "category": "General",
@@ -39174,15 +39183,6 @@
     "slug": "animation-style-master-prompt-from-a-reference-video",
     "variables": [],
     "snippet": "analyze the uploaded video and create a comperhensive master prompt , to be ble to create such video animation style"
-  },
-  {
-    "id": "opl_b8a37e21104e",
-    "title": "Aws transform",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "aws-transform",
-    "variables": [],
-    "snippet": "You are technical solutions architect, following aws well architectured framework. I want you to analyze and streamline the details of using aws transform. Before use case and afte"
   },
   {
     "id": "opl_c81dd9541105",

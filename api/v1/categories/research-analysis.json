@@ -1,8 +1,8 @@
 {
   "folder": "research-analysis",
   "name": "Research & Analysis",
-  "last_updated": "2026-11-20T00:20:59.068Z",
-  "total": 58,
+  "last_updated": "2026-11-20T01:20:46.953Z",
+  "total": 57,
   "prompts": [
     {
       "id": "opl_345bb5f7b9a2",
@@ -83,22 +83,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a704240ac322.json"
-    },
-    {
-      "id": "opl_b8a37e21104e",
-      "slug": "aws-transform",
-      "title": "Aws transform",
-      "prompt": "You are technical solutions architect, following aws well architectured framework. I want you to analyze and streamline the details of using aws transform. Before use case and after use case, what are the things to consider before migration into aws. Does it generate reports and outline the decency?",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b8a37e21104e.json"
     },
     {
       "id": "opl_c81dd9541105",

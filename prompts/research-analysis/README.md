@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**58 prompts in this category**
+**57 prompts in this category**
 
 ## Table of Contents
 
@@ -11,7 +11,6 @@
 - [AI Research Tools](ai-research-tools.md)
 - [Airtable Assistant](airtable-assistant.md)
 - [Animation Style Master Prompt from a Reference Video](animation-style-master-prompt-from-a-reference-video.md)
-- [Aws transform](aws-transform.md)
 - [Business Risk & Scenario Analyzer](business-risk-scenario-analyzer.md)
 - [Claim Autopsy - Evidence Analysis Assistant](claim-autopsy-evidence-analysis-assistant.md)
 - [Competitive Intelligence Analyst](competitive-intelligence-analyst.md)

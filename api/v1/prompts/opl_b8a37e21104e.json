@@ -3,13 +3,13 @@
   "slug": "aws-transform",
   "title": "Aws transform",
   "prompt": "You are technical solutions architect, following aws well architectured framework. I want you to analyze and streamline the details of using aws transform. Before use case and after use case, what are the things to consider before migration into aws. Does it generate reports and outline the decency?",
-  "category": "Research & Analysis",
-  "folder": "research-analysis",
+  "category": "General",
+  "folder": "general",
   "variables": [],
   "provenance_status": "needs-review",
   "lifecycle_status": "draft",
   "source_ids": [
-    "src_c7372fdd4131"
+    "src_19ba4592368e"
   ],
   "revision": 1,
   "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b8a37e21104e.json"
