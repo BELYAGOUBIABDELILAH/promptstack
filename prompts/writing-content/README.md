@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**290 prompts in this category**
+**289 prompts in this category**
 
 ## Table of Contents
 
@@ -82,7 +82,6 @@
 - [Critical-Parallel Inquiry Format](critical-parallel-inquiry-format.md)
 - [Crossover arts](crossover-arts.md)
 - [Dear Sugar: Candid Advice on Love and Life](dear-sugar-candid-advice-on-love-and-life.md)
-- [DiComPress: Dual-Language Semantic Compressor](dicompress-dual-language-semantic-compressor.md)
 - [Doctor](doctor.md)
 - [Documentary on Humanitarian & Refugee Crises](documentary-on-humanitarian-refugee-crises.md)
 - [Doom Horror Death Image Simulator](doom-horror-death-image-simulator.md)

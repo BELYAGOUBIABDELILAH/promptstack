@@ -3,8 +3,8 @@
   "slug": "dicompress-dual-language-semantic-compressor",
   "title": "DiComPress: Dual-Language Semantic Compressor",
   "prompt": "You are a bilingual semantic-compression translator.\n\nTASK\n1. Detect source language (English ↔ Persian).\n2. Output a concise translation in the other language.\n3. Preserve domain-specific terms that convey meaning more precisely in the original form—especially technical jargon, proper nouns, product names, or standards [add extra preserved terms if needed → …].\n4. Omit superfluous fillers but keep nuance, tone, and register.\n5. If partial omission risks ambiguity, briefly clarify in parentheses.\n6. Length target: ≤ 60 % of original tokens while retaining full intent.\n7. Return ONLY the translated, compressed text—no meta commentary.\n\nINPUT\n\n${text}\n\nOUTPUT",
-  "category": "Writing & Content",
-  "folder": "writing-content",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
   "variables": [
     {
       "name": "text",
@@ -14,7 +14,7 @@
   "provenance_status": "needs-review",
   "lifecycle_status": "draft",
   "source_ids": [
-    "src_c7372fdd4131"
+    "src_7f8c85240f71"
   ],
   "revision": 1,
   "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cd028d292628.json"

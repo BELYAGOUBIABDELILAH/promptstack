@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T19:20:51.318Z",
+  "last_updated": "2026-11-20T21:20:55.040Z",
   "page": 12,
   "per_page": 100,
   "total": 3835,
@@ -1134,8 +1134,8 @@
       "id": "opl_cd028d292628",
       "slug": "dicompress-dual-language-semantic-compressor",
       "title": "DiComPress: Dual-Language Semantic Compressor",
-      "category": "Writing & Content",
-      "folder": "writing-content",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
       "variables": [
         {
           "name": "text",

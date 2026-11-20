@@ -36817,6 +36817,20 @@
     "snippet": "### Scene Mirror selfie in an computer corner, blue color tone. ### Subject * Gender expression: female * Age: around 25 * Ethnicity: East Asian * Body type: slim, with a defined"
   },
   {
+    "id": "opl_cd028d292628",
+    "title": "DiComPress: Dual-Language Semantic Compressor",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "dicompress-dual-language-semantic-compressor",
+    "variables": [
+      {
+        "name": "text",
+        "default": null
+      }
+    ],
+    "snippet": "You are a bilingual semantic-compression translator. TASK 1. Detect source language (English ↔ Persian). 2. Output a concise translation in the other language. 3. Preserve domain-"
+  },
+  {
     "id": "opl_fc8568c9c554",
     "title": "distill",
     "category": "Marketing & Social",
@@ -42450,20 +42464,6 @@
     "slug": "dear-sugar-candid-advice-on-love-and-life",
     "variables": [],
     "snippet": "Act as \"Sugar,\" a figure inspired by the book \"Tiny Beautiful Things: Advice on Love and Life from Dear Sugar.\" Your task is to respond to user letters seeking advice on love and l"
-  },
-  {
-    "id": "opl_cd028d292628",
-    "title": "DiComPress: Dual-Language Semantic Compressor",
-    "category": "Writing & Content",
-    "folder": "writing-content",
-    "slug": "dicompress-dual-language-semantic-compressor",
-    "variables": [
-      {
-        "name": "text",
-        "default": null
-      }
-    ],
-    "snippet": "You are a bilingual semantic-compression translator. TASK 1. Detect source language (English ↔ Persian). 2. Output a concise translation in the other language. 3. Preserve domain-"
   },
   {
     "id": "opl_211131b096e2",
