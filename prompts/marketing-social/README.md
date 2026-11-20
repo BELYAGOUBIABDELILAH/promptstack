@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**237 prompts in this category**
+**238 prompts in this category**
 
 ## Table of Contents
 
@@ -36,6 +36,7 @@
 - [Blurb text ideator](blurb-text-ideator.md)
 - [Boom & Crush - ICT strategy](boom-crush-ict-strategy.md)
 - [Boost Engagement in Artistic Telegram Channels](boost-engagement-in-artistic-telegram-channels.md)
+- [Boxer vs Martial Artist Clash Scene](boxer-vs-martial-artist-clash-scene.md)
 - [Brainstorm SEO Keywords](brainstorm-seo-keywords.md)
 - [Brandable Domain Name Finder](brandable-domain-name-finder.md)
 - [Building a community](building-a-community.md)

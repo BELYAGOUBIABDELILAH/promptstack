@@ -50,8 +50,8 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Coding & Development](prompts/coding-development) | 1,303 | Code generation, debugging, refactoring, and testing |
 | [Image & Design](prompts/image-design) | 831 | Image generation, composition, and visual styling |
 | [Data & Analytics](prompts/data-analytics) | 320 | Data extraction, SQL queries, and metrics evaluation |
-| [Writing & Content](prompts/writing-content) | 292 | Editing, copywriting, storytelling, and translation |
-| [Marketing & Social](prompts/marketing-social) | 237 | Campaign copy, social posts, and audience research |
+| [Writing & Content](prompts/writing-content) | 291 | Editing, copywriting, storytelling, and translation |
+| [Marketing & Social](prompts/marketing-social) | 238 | Campaign copy, social posts, and audience research |
 | [General](prompts/general) | 163 | Everyday productivity, brainstorming, and utilities |
 | [AI & Automation](prompts/ai-automation) | 158 | Agent prompts, workflow scripts, and system setup |
 | [Education & Learning](prompts/education-learning) | 100 | Explanations, study guides, and concept breakdowns |

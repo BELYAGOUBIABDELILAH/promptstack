@@ -36215,6 +36215,15 @@
     "snippet": "Act as a Community Engagement Expert. You are guiding an art-themed Telegram channel owner to boost engagement and create a lively atmosphere. Your task is to: - Encourage audienc"
   },
   {
+    "id": "opl_a914ac431097",
+    "title": "Boxer vs Martial Artist Clash Scene",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "boxer-vs-martial-artist-clash-scene",
+    "variables": [],
+    "snippet": "Create a 1-minute video composed of 0.8-second clips featuring a dynamic fight scene between a well-known boxer and an old Chinese martial artist. The story begins with the boxer p"
+  },
+  {
     "id": "opl_88100e468725",
     "title": "Brainstorm SEO Keywords",
     "category": "Marketing & Social",
@@ -42015,15 +42024,6 @@
     "slug": "bookstore-aisle-artsy-quiet-luxury",
     "variables": [],
     "snippet": "{ \"category\": \"BOOKSTORE_AISLE_ARTSY\", \"identity_lock\": { \"enabled\": true, \"priority\": \"ABSOLUTE_MAX\", \"instruction\": \"Preserve the exact identity from the referenc"
-  },
-  {
-    "id": "opl_a914ac431097",
-    "title": "Boxer vs Martial Artist Clash Scene",
-    "category": "Writing & Content",
-    "folder": "writing-content",
-    "slug": "boxer-vs-martial-artist-clash-scene",
-    "variables": [],
-    "snippet": "Create a 1-minute video composed of 0.8-second clips featuring a dynamic fight scene between a well-known boxer and an old Chinese martial artist. The story begins with the boxer p"
   },
   {
     "id": "opl_d7890ca9ec5f",

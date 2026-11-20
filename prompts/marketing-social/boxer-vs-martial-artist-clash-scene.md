@@ -1,11 +1,11 @@
 # Boxer vs Martial Artist Clash Scene
 
-**Category:** Writing & Content  
-**Source:** prompts.chat
+**Category:** Marketing & Social  
+**Source:** james08139704679@gmail.com (prompts.chat)
 
 ## Prompt
 
 > Create a 1-minute video composed of 0.8-second clips featuring a dynamic fight scene between a well-known boxer and an old Chinese martial artist. The story begins with the boxer pushing the martial artist from his begging spot, leading to a chaotic and intense clash. Ensure continuity in character portrayal and storyline throughout the video.
 
 ---
-[← Back to Writing & Content](README.md) · [Main index](../../README.md)
+[← Back to Marketing & Social](README.md) · [Main index](../../README.md)

@@ -33210,6 +33210,16 @@
     "path": "prompts/marketing-social/professional-legal-assistant-for-international-and-iranian-l.md"
   },
   {
+    "act": "Boxer vs Martial Artist Clash Scene",
+    "category": "Marketing & Social",
+    "prompt": "Create a 1-minute video composed of 0.8-second clips featuring a dynamic fight scene between a well-known boxer and an old Chinese martial artist. The story begins with the boxer pushing the martial artist from his begging spot, leading to a chaotic and intense clash. Ensure continuity in character portrayal and storyline throughout the video.",
+    "source": "james08139704679@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "boxer-vs-martial-artist-clash-scene",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/boxer-vs-martial-artist-clash-scene.md"
+  },
+  {
     "act": "Socratic Method",
     "category": "Philosophy & Humanities",
     "prompt": "I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.\n\nRules:\n- I will make a statement or propose a topic, and you will ask probing questions to test my logic, definitions, and underlying assumptions.\n- Explore concepts such as justice, virtue, ethics, knowledge, and courage.\n- Respond with one thoughtful question at a time.\n- Initial topic: ${topic:justice is necessary in a society}",
@@ -35868,16 +35878,6 @@
     "slug": "bookstore-aisle-artsy-quiet-luxury",
     "folder": "writing-content",
     "path": "prompts/writing-content/bookstore-aisle-artsy-quiet-luxury.md"
-  },
-  {
-    "act": "Boxer vs Martial Artist Clash Scene",
-    "category": "Writing & Content",
-    "prompt": "Create a 1-minute video composed of 0.8-second clips featuring a dynamic fight scene between a well-known boxer and an old Chinese martial artist. The story begins with the boxer pushing the martial artist from his begging spot, leading to a chaotic and intense clash. Ensure continuity in character portrayal and storyline throughout the video.",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "boxer-vs-martial-artist-clash-scene",
-    "folder": "writing-content",
-    "path": "prompts/writing-content/boxer-vs-martial-artist-clash-scene.md"
   },
   {
     "act": "Campus life",
