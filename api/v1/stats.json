@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-20T02:20:49.781Z",
+  "last_updated": "2026-11-20T03:20:47.567Z",
   "total_prompts": 3832,
-  "source_records": 3833,
+  "source_records": 3834,
   "total_sources": 412,
   "total_categories": 19,
   "total_pages": 39,
@@ -86,7 +86,7 @@
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
-      "prompt_count": 57,
+      "prompt_count": 58,
       "url": "https://prompts.axiomrepo.tech/v1/categories/research-analysis.json"
     },
     {
@@ -116,7 +116,7 @@
     {
       "folder": "travel-places",
       "name": "Travel & Places",
-      "prompt_count": 16,
+      "prompt_count": 15,
       "url": "https://prompts.axiomrepo.tech/v1/categories/travel-places.json"
     },
     {

@@ -34050,6 +34050,16 @@
     "path": "prompts/research-analysis/weekly-updates-for-1-1.md"
   },
   {
+    "act": "Loose Watercolor of Venetian Gondolas on the Grand Canal at Dawn",
+    "category": "Research & Analysis",
+    "prompt": "A loose, atmospheric watercolor painting of covered gondolas moored on the Grand Canal in Venice at dawn, in a landscape 4:3 frame on textured cold-press watercolor paper. In the lower left, three long black gondolas rest side by side, wrapped in dark blue-grey covers, one with a pale tan tarp, the front gondola's curved prow and metal prow ornament rising at the far left edge. Tall wooden mooring poles with red-and-white spiral stripes and small pointed caps stand in the water across the middle and right of the frame, some linked to the gondolas by sagging ropes and chains. Across the canal, a hazy, softly painted skyline of old palazzos stretches to the right, with a slender bell tower, and on the left a large domed baroque basilica with smaller domes and lanterns, in the spirit of Santa Maria della Salute, silhouetted against the light. The sky glows in soft peach, apricot, and lavender washes with drifting clouds. The calm water reflects the poles, gondolas, and sky in broken vertical strokes of violet, pink, and white. Visible brushstrokes, wet-in-wet blooms, granulating pigments, soft edges, and white paper showing through. Peaceful, romantic early-morning mood. No people, no text, no signature.",
+    "source": "f (prompts.chat)",
+    "type": "TEXT",
+    "slug": "loose-watercolor-of-venetian-gondolas-on-the-grand-canal-at-",
+    "folder": "research-analysis",
+    "path": "prompts/research-analysis/loose-watercolor-of-venetian-gondolas-on-the-grand-canal-at-.md"
+  },
+  {
     "act": "Act as a Business Coach",
     "category": "Sales & Business",
     "prompt": "Act as a business coach. Ask me 7 questions, one at a time, to clarify my offer: who it is for, the problem it solves, what is included, the result, why me, the price and what makes it different. Wait for each answer. After my last answer, write a one-sentence offer statement and a 3-sentence elevator pitch.\n\nFollow-up: Write 3 shorter versions of the one-sentence offer.",

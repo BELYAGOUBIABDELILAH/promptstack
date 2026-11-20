@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**57 prompts in this category**
+**58 prompts in this category**
 
 ## Table of Contents
 
@@ -26,6 +26,7 @@
 - [Isometric Voxel Game Scene of a Mountain Hot Spring Inn](isometric-voxel-game-scene-of-a-mountain-hot-spring-inn.md)
 - [Leadership Coach](leadership-coach.md)
 - [Linocut Print of a Red Fox Crossing Snowy Railway Tracks at Dusk](linocut-print-of-a-red-fox-crossing-snowy-railway-tracks-at.md)
+- [Loose Watercolor of Venetian Gondolas on the Grand Canal at Dawn](loose-watercolor-of-venetian-gondolas-on-the-grand-canal-at-.md)
 - [Market Entry Strategy Engine](market-entry-strategy-engine.md)
 - [Master's Assessment Question Helper](master-s-assessment-question-helper.md)
 - [Medical Report Interpreter](medical-report-interpreter.md)

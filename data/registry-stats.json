@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 3833,
+  "source_records": 3834,
   "canonical_records": 3832,
   "quarantined_records": 0,
-  "exact_duplicate_groups": 1,
-  "duplicates_beyond_canonical": 1,
+  "exact_duplicate_groups": 2,
+  "duplicates_beyond_canonical": 2,
   "sources": 412,
   "categories": {
     "AI & Automation": 156,
@@ -21,10 +21,10 @@
     "Marketing & Social": 236,
     "Philosophy & Humanities": 1,
     "Product & Strategy": 29,
-    "Research & Analysis": 57,
+    "Research & Analysis": 58,
     "Sales & Business": 33,
     "Security": 86,
-    "Travel & Places": 16,
+    "Travel & Places": 15,
     "Writing & Content": 293
   }
 }
