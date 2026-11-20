@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1300 prompts in this category**
+**1301 prompts in this category**
 
 ## Table of Contents
 
@@ -931,6 +931,7 @@
 - [Prompt Generator](prompt-generator.md)
 - [Prompt Generator for claude code](prompt-generator-for-claude-code.md)
 - [Prompt Refiner](prompt-refiner.md)
+- [Prompt to learn free AI website which will be most useful for me to use for free](prompt-to-learn-free-ai-website-which-will-be-most-useful-fo.md)
 - [Prompt Writer for Specific Project](prompt-writer-for-specific-project.md)
 - [prompts.chat Promotional Video using Remotion](prompts-chat-promotional-video-using-remotion.md)
 - [prompts.chat taste](prompts-chat-taste.md)

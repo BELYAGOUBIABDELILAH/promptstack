@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-19T23:20:52.620Z",
+  "last_updated": "2026-11-20T00:20:59.068Z",
   "total_categories": 19,
   "categories": [
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1300,
+      "prompt_count": 1301,
       "url": "https://prompts.axiomrepo.tech/v1/categories/coding-development.json"
     },
     {
@@ -41,7 +41,7 @@
     {
       "folder": "ai-automation",
       "name": "AI & Automation",
-      "prompt_count": 157,
+      "prompt_count": 156,
       "url": "https://prompts.axiomrepo.tech/v1/categories/ai-automation.json"
     },
     {

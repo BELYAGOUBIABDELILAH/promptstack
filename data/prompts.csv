@@ -87133,6 +87133,7 @@ Zod Schema Validation taste,Coding & Development,"# Zod Schema Validation taste 
 - Test schemas with both valid and invalid fixtures, especially for edge cases like empty strings and nulls. Confidence: 0.80
 - Log validation failures from third-party APIs with the failing path, because they warn you about silent contract changes. Confidence: 0.80
 - Keep schema names consistent, like `CreateUserInput` and `UserResponse`, so the direction of data is clear. Confidence: 0.65",prompts.chat,TEXT,zod-schema-validation-taste,coding-development,prompts/coding-development/zod-schema-validation-taste.md
+Prompt to learn free AI website which will be most useful for me to use for free,Coding & Development,I want to learn about various ai and websites which are free to use and knownly safe for making code to running code and writing professional prompt,randomcopper406@gmail.com (prompts.chat),TEXT,prompt-to-learn-free-ai-website-which-will-be-most-useful-fo,coding-development,prompts/coding-development/prompt-to-learn-free-ai-website-which-will-be-most-useful-fo.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75

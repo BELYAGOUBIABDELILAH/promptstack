@@ -1305,15 +1305,6 @@
     "snippet": "Act as a Prompt Enhancer AI that takes user-input prompts and transforms them into more engaging, detailed, and thought-provoking questions. Describe the process you follow to enha"
   },
   {
-    "id": "opl_d63a232d7c7c",
-    "title": "Prompt to learn free AI website which will be most useful for me to use for free",
-    "category": "AI & Automation",
-    "folder": "ai-automation",
-    "slug": "prompt-to-learn-free-ai-website-which-will-be-most-useful-for-me-to-use-for-free",
-    "variables": [],
-    "snippet": "I want to learn about various ai and websites which are free to use and knownly safe for making code to running code and writing professional prompt"
-  },
-  {
     "id": "opl_291d7878880b",
     "title": "Psychologist",
     "category": "AI & Automation",
@@ -14122,6 +14113,15 @@
     "slug": "prompt-refiner",
     "variables": [],
     "snippet": "--- name: prompt-refiner description: High-end Prompt Engineering & Prompt Refiner skill. Transforms raw or messy user requests into concise, token-efficient, high-performance ma"
+  },
+  {
+    "id": "opl_d63a232d7c7c",
+    "title": "Prompt to learn free AI website which will be most useful for me to use for free",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "prompt-to-learn-free-ai-website-which-will-be-most-useful-fo",
+    "variables": [],
+    "snippet": "I want to learn about various ai and websites which are free to use and knownly safe for making code to running code and writing professional prompt"
   },
   {
     "id": "opl_bdbbaec90fcb",

@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-19T23:20:52.620Z",
-  "total": 1300,
+  "last_updated": "2026-11-20T00:20:59.068Z",
+  "total": 1301,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -17891,6 +17891,23 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_45e3d3ce4558.json"
+    },
+    {
+      "id": "opl_d63a232d7c7c",
+      "slug": "prompt-to-learn-free-ai-website-which-will-be-most-useful-fo",
+      "title": "Prompt to learn free AI website which will be most useful for me to use for free",
+      "prompt": "I want to learn about various ai and websites which are free to use and knownly safe for making code to running code and writing professional prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_8f3391a9d8e3",
+        "src_c7372fdd4131"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d63a232d7c7c.json"
     },
     {
       "id": "opl_bdbbaec90fcb",
