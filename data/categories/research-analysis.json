@@ -598,5 +598,15 @@
     "slug": "loose-watercolor-of-venetian-gondolas-on-the-grand-canal-at-",
     "folder": "research-analysis",
     "path": "prompts/research-analysis/loose-watercolor-of-venetian-gondolas-on-the-grand-canal-at-.md"
+  },
+  {
+    "act": "Simplify complex technical content",
+    "category": "Research & Analysis",
+    "prompt": "Translate dense engineering jargon, RFCs, or whitepapers into plain language",
+    "source": "manjunath.vr@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "simplify-complex-technical-content",
+    "folder": "research-analysis",
+    "path": "prompts/research-analysis/simplify-complex-technical-content.md"
   }
 ]
