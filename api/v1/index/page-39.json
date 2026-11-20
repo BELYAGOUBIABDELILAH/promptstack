@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-20T01:20:46.953Z",
+  "last_updated": "2026-11-20T02:20:49.781Z",
   "page": 39,
   "per_page": 100,
-  "total": 3831,
+  "total": 3832,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_a1cce478a1c7",
+      "slug": "xcode-mcp",
+      "title": "xcode-mcp",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a1cce478a1c7.json"
+    },
     {
       "id": "opl_24e5d2894a53",
       "slug": "xcode-mcp-for-pi-agent",

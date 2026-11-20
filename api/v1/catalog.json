@@ -17525,6 +17525,52 @@
     "snippet": "# Optimized Universal Context Document Generator Prompt **v1.1** 2026-01-20 Initial comprehensive version focused on zero-loss portable context capture ## Role/Persona Act as a"
   },
   {
+    "id": "opl_87adec94e8dc",
+    "title": "Universal Instructions for React / Next.js Projects",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "universal-instructions-for-react-next-js-projects",
+    "variables": [
+      {
+        "name": "backgroundcolor",
+        "default": "\"#151a21\",\n    boxShadow: \"0 24px 70px rgb(0 0 0 / 78%)\",\n    isolation: \"isolate\",\n    zIndex: 1000,"
+      },
+      {
+        "name": "color",
+        "default": null
+      },
+      {
+        "name": "div_onclick",
+        "default": null
+      },
+      {
+        "name": "firstName",
+        "default": null
+      },
+      {
+        "name": "largepropertiescard",
+        "default": null
+      },
+      {
+        "name": "lastName",
+        "default": null
+      },
+      {
+        "name": "title",
+        "default": null
+      },
+      {
+        "name": "titlerow",
+        "default": null
+      },
+      {
+        "name": "variant",
+        "default": null
+      }
+    ],
+    "snippet": "# Universal Instructions for React / Next.js Projects > Purpose: General rules for developing various projects with React + TypeScript, Next.js + TypeScript, and Tailwind CSS. > U"
+  },
+  {
     "id": "opl_bccfb0b4e33a",
     "title": "Universal LLM Operating Guidelines",
     "category": "Coding & Development",

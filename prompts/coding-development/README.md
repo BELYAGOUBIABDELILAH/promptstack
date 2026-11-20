@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1301 prompts in this category**
+**1302 prompts in this category**
 
 ## Table of Contents
 
@@ -1251,6 +1251,7 @@
 - [Unity Architecture Specialist](unity-architecture-specialist.md)
 - [Unity Game Project taste](unity-game-project-taste.md)
 - [Universal Context Document (UCD) Generator](universal-context-document-ucd-generator.md)
+- [Universal Instructions for React / Next.js Projects](universal-instructions-for-react-next-js-projects.md)
 - [Universal LLM Operating Guidelines](universal-llm-operating-guidelines.md)
 - [Update Agent Permissions](update-agent-permissions.md)
 - [Update checker](update-checker.md)
