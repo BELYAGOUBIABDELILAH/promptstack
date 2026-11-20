@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-20T03:20:47.567Z",
-  "total": 1302,
+  "last_updated": "2026-11-20T05:20:55.335Z",
+  "total": 1303,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -24432,6 +24432,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2be25502bcb4.json"
+    },
+    {
+      "id": "opl_b76187b47f3c",
+      "slug": "workflow-builder-using-python",
+      "title": "workflow_builder_using_python",
+      "prompt": "---\nname: workflow_builder_using_python\ndescription: A skill for building and managing workflows using Python. Useful for automating tasks and creating efficient processes.\n---\n\n# Workflow Builder Using Python\n\nThis skill provides structured guidance on creating and managing workflows using Python. It's designed to help automate repetitive tasks and enhance productivity through efficient process management.\n\n## Sections\n\n### 1. Setup\n- Install necessary Python libraries: `pip install automate libray`\n- Set up your development environment with a preferred IDE or text editor.\n\n### 2. Basic Workflow Concepts\n- Define what a workflow is and its importance in automation.\n- Discuss common Python libraries for workflow automation (e.g., `Airflow`, `Luigi`).\n\n### 3. Creating a Simple Workflow\n- Step-by-step guide to creating a basic Python script for automation.\n- Example code snippets and explanations.\n\n### 4. Advanced Features\n- Introduce more complex features such as error handling, logging, and notifications.\n- Example implementations with code.\n\n### 5. Testing and Deployment\n- How to test your Python workflow scripts.\n- Best practices for deploying workflows in a production environment.\n\n## Examples\n- Provide example workflows for common tasks like data processing and report generation.\n\n## Resources\n- List of resources for further learning, including tutorials, documentation, and community forums.\n\nThis skill is ideal for developers and IT professionals looking to streamline their operations through Python automation.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_24086717f080"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b76187b47f3c.json"
     },
     {
       "id": "opl_9299dc67f4d0",

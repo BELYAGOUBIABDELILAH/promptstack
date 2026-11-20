@@ -18072,6 +18072,15 @@
     "snippet": "--- name: work-on-linear-issue description: You will receive a Linear issue id usually on the the form of LLL-XX... where Ls are letters and Xs are digits. Your job is to resolve i"
   },
   {
+    "id": "opl_b76187b47f3c",
+    "title": "workflow_builder_using_python",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "workflow-builder-using-python",
+    "variables": [],
+    "snippet": "--- name: workflow_builder_using_python description: A skill for building and managing workflows using Python. Useful for automating tasks and creating efficient processes. --- #"
+  },
+  {
     "id": "opl_9299dc67f4d0",
     "title": "Write Tier Descriptions",
     "category": "Coding & Development",

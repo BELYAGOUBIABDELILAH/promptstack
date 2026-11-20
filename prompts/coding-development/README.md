@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1302 prompts in this category**
+**1303 prompts in this category**
 
 ## Table of Contents
 
@@ -1300,6 +1300,7 @@
 - [Wings of the Dust Bowl](wings-of-the-dust-bowl.md)
 - [Womanized](womanized.md)
 - [Work on Linear Issue](work-on-linear-issue.md)
+- [workflow_builder_using_python](workflow-builder-using-python.md)
 - [Write Tier Descriptions](write-tier-descriptions.md)
 - [X Twitter Scraper](x-twitter-scraper.md)
 - [xcode-mcp](xcode-mcp.md)

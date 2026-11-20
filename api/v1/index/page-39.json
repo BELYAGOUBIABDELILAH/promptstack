@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-20T03:20:47.567Z",
+  "last_updated": "2026-11-20T05:20:55.335Z",
   "page": 39,
   "per_page": 100,
-  "total": 3832,
+  "total": 3833,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_5590be0c530d",
+      "slug": "x-twitter-scraper",
+      "title": "X Twitter Scraper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "userid",
+          "default": null
+        },
+        {
+          "name": "username",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5590be0c530d.json"
+    },
     {
       "id": "opl_a1cce478a1c7",
       "slug": "xcode-mcp",
