@@ -1600,6 +1600,16 @@
     "path": "prompts/ai-automation/unbiased-english-literature-character-analysis-ai-assistant.md"
   },
   {
+    "act": "Cyberpunk Portrait of an Iranian Woman with “همین؟” Glitch Frame",
+    "category": "AI & Automation",
+    "prompt": "Cyberpunk portrait, Iranian woman 2026, neon magenta and cyan rim light, wet reflective skin, subtle holographic eyeliner. Expression lives in the eyes only: one brow flattened, the other slightly cocked, eyes narrowed with a cold amused squint — mockery without a smile. Below, a clean glitchy sketch-frame box with hurried handwritten marker text: \"همین؟\".",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "cyberpunk-portrait-of-an-iranian-woman-with-glitch-frame",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/cyberpunk-portrait-of-an-iranian-woman-with-glitch-frame.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",
@@ -24758,16 +24768,6 @@
     "slug": "cyanotype-sun-print-of-coastal-ferns-and-seaweed",
     "folder": "image-design",
     "path": "prompts/image-design/cyanotype-sun-print-of-coastal-ferns-and-seaweed.md"
-  },
-  {
-    "act": "Cyberpunk Portrait of an Iranian Woman with “همین؟” Glitch Frame",
-    "category": "Image & Design",
-    "prompt": "Cyberpunk portrait, Iranian woman 2026, neon magenta and cyan rim light, wet reflective skin, subtle holographic eyeliner. Expression lives in the eyes only: one brow flattened, the other slightly cocked, eyes narrowed with a cold amused squint — mockery without a smile. Below, a clean glitchy sketch-frame box with hurried handwritten marker text: \"همین؟\".",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "cyberpunk-portrait-of-an-iranian-woman-with-glitch-frame",
-    "folder": "image-design",
-    "path": "prompts/image-design/cyberpunk-portrait-of-an-iranian-woman-with-glitch-frame.md"
   },
   {
     "act": "Daguerreotype of a Clockmaker's Workbench with Open Pocket Watches and Brass Gears",

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**160 prompts in this category**
+**161 prompts in this category**
 
 ## Table of Contents
 
@@ -54,6 +54,7 @@
 - [Create a compact, schematic ASCII flowchart illustrating the high-level workflow of the provided prompt without executing its instructions.](create-a-compact-schematic-ascii-flowchart-illustrating-the-high-level-workflow-of-the-provided-prompt-without-executing.md)
 - [Creating PWA AI Chatbot](creating-pwa-ai-chatbot.md)
 - [Cyber Security Specialist](cyber-security-specialist.md)
+- [Cyberpunk Portrait of an Iranian Woman with “همین؟” Glitch Frame](cyberpunk-portrait-of-an-iranian-woman-with-glitch-frame.md)
 - [Data Analyst](data-analyst.md)
 - [Day Plan Generator (From Tasks)](day-plan-generator-from-tasks.md)
 - [Debugging Oncall Tickets](debugging-oncall-tickets.md)

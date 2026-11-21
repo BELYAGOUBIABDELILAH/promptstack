@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**830 prompts in this category**
+**829 prompts in this category**
 
 ## Table of Contents
 
@@ -225,7 +225,6 @@
 - [Cutaway Illustration of a Cozy Three-Level Treehouse Library at Dusk](cutaway-illustration-of-a-cozy-three-level-treehouse-library-at-dusk.md)
 - [Cutaway Illustration of a Vintage Mobile Library Bus Under Autumn Trees at Dusk](cutaway-illustration-of-a-vintage-mobile-library-bus-under-autumn-trees-at-dusk.md)
 - [Cyanotype Sun Print of Coastal Ferns and Seaweed](cyanotype-sun-print-of-coastal-ferns-and-seaweed.md)
-- [Cyberpunk Portrait of an Iranian Woman with “همین؟” Glitch Frame](cyberpunk-portrait-of-an-iranian-woman-with-glitch-frame.md)
 - [Daguerreotype of a Clockmaker's Workbench with Open Pocket Watches and Brass Gears](daguerreotype-of-a-clockmaker-s-workbench-with-open-pocket-watches-and-brass-gears.md)
 - [Daiquiri Cocktail Cinematic Video](daiquiri-cocktail-cinematic-video.md)
 - [Dandelion Seed Head Scattering in a Summer Breeze](dandelion-seed-head-scattering-in-a-summer-breeze.md)
