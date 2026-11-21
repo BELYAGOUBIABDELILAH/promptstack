@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1305 prompts in this category**
+**1306 prompts in this category**
 
 ## Table of Contents
 
@@ -136,6 +136,7 @@
 - [Architecture & UI/UX Audit](architecture-ui-ux-audit.md)
 - [Architecture Design Discussion](architecture-design-discussion.md)
 - [Arista Network Configuration Expert](arista-network-configuration-expert.md)
+- [ART DIBUJO](art-dibujo.md)
 - [Article Body Text Extractor](article-body-text-extractor.md)
 - [Ascii Artist](ascii-artist.md)
 - [Assert But Don't Offend](assert-but-don-t-offend.md)

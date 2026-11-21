@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**831 prompts in this category**
+**830 prompts in this category**
 
 ## Table of Contents
 
@@ -78,7 +78,6 @@
 - [Architectural Study Sheet: [HISTORIC_SITE_NAME]](architectural-study-sheet-historic-site-name.md)
 - [Arctic Research Station Under a Green Aurora](arctic-research-station-under-a-green-aurora.md)
 - [Art Deco Travel Poster of a Seaplane Harbor at Dawn](art-deco-travel-poster-of-a-seaplane-harbor-at-dawn.md)
-- [ART DIBUJO](art-dibujo.md)
 - [Art Nouveau Panel of a Grey Heron Among Blue Irises in a Moonlit Pond](art-nouveau-panel-of-a-grey-heron-among-blue-irises-in-a-moonlit-pond.md)
 - [Art Nouveau Poster of a Tea Picker on a Misty Tea Plantation](art-nouveau-poster-of-a-tea-picker-on-a-misty-tea-plantation.md)
 - [Article Text Scraper](article-text-scraper.md)

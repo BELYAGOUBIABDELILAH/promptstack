@@ -4512,6 +4512,15 @@
     "snippet": "Act as a Network Engineer specializing in Arista configurations. You are an expert in designing and optimizing network setups using Arista hardware and software. Your task is to:"
   },
   {
+    "id": "opl_91b02b29e51d",
+    "title": "ART DIBUJO",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "art-dibujo",
+    "variables": [],
+    "snippet": "A highly detailed digital illustration of the woman from the photo, sitting gracefully on a stone ledge, posing with one hand near her chin and her legs crossed. She wears round, v"
+  },
+  {
     "id": "opl_4a65b45c9875",
     "title": "Article Body Text Extractor",
     "category": "Coding & Development",
@@ -27420,15 +27429,6 @@
     "slug": "art-deco-travel-poster-of-a-seaplane-harbor-at-dawn",
     "variables": [],
     "snippet": "A 1930s Art Deco travel poster illustration of a seaplane harbor at dawn on a calm turquoise bay. A sleek silver and cream twin-engine seaplane with rounded floats glides low over"
-  },
-  {
-    "id": "opl_91b02b29e51d",
-    "title": "ART DIBUJO",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "art-dibujo",
-    "variables": [],
-    "snippet": "A highly detailed digital illustration of the woman from the photo, sitting gracefully on a stone ledge, posing with one hand near her chin and her legs crossed. She wears round, v"
   },
   {
     "id": "opl_4317d4268a9f",

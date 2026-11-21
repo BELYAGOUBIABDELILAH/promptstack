@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-20T22:20:51.585Z",
-  "total": 831,
+  "last_updated": "2026-11-21T00:20:48.360Z",
+  "total": 830,
   "prompts": [
     {
       "id": "opl_f888230d8788",
@@ -1385,22 +1385,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_353a49094ccf.json"
-    },
-    {
-      "id": "opl_91b02b29e51d",
-      "slug": "art-dibujo",
-      "title": "ART DIBUJO",
-      "prompt": "A highly detailed digital illustration of the woman from the photo, sitting gracefully on a stone ledge, posing with one hand near her chin and her legs crossed. She wears round, vintage-inspired sunglasses, a white blouse with rolled-up sleeves, denim overalls, and sturdy lace-up combat boots. The subject is rendered in a desaturated, monochromatic pencil-sketch style featuring soft cross-hatching and charcoal textures. In the background, a large, vibrant, solid orange circl",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_91b02b29e51d.json"
     },
     {
       "id": "opl_4317d4268a9f",
