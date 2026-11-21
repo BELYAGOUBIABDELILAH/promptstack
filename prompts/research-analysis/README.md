@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**59 prompts in this category**
+**58 prompts in this category**
 
 ## Table of Contents
 
@@ -62,6 +62,5 @@
 - [Tech Stack Optimiser](tech-stack-optimiser.md)
 - [technical-whitepaper-writer](technical-whitepaper-writer.md)
 - [Transmute](transmute.md)
-- [Unbiased English Literature Character Analysis AI Assistant](unbiased-english-literature-character-analysis-ai-assistant.md)
 - [UX Conversion Deconstruction Engine](ux-conversion-deconstruction-engine.md)
 - [Weekly Updates for 1:1](weekly-updates-for-1-1.md)

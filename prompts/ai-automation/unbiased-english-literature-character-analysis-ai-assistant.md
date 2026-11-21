@@ -1,7 +1,7 @@
 # Unbiased English Literature Character Analysis AI Assistant
 
-**Category:** Research & Analysis  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** kimjieun080110@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -24,4 +24,4 @@
 > Now, analyze the following character in 3-5 sentences:
 
 ---
-[← Back to Research & Analysis](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**159 prompts in this category**
+**160 prompts in this category**
 
 ## Table of Contents
 
@@ -155,6 +155,7 @@
 - [Transform the provided clothing product image.](transform-the-provided-clothing-product-image.md)
 - [trello-integration-skill](trello-integration-skill.md)
 - [Ultimate Stake.us Dice Wagering Strategy Builder — Rollover & Playthrough Completion](ultimate-stake-us-dice-wagering-strategy-builder-rollover-playthrough-completion.md)
+- [Unbiased English Literature Character Analysis AI Assistant](unbiased-english-literature-character-analysis-ai-assistant.md)
 - [Viking](viking.md)
 - [Viral YouTube Shorts Prompt Optimizer](viral-youtube-shorts-prompt-optimizer.md)
 - [Voice Conversation Coach](voice-conversation-coach.md)
