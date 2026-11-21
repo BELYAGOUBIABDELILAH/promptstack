@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**58 prompts in this category**
+**57 prompts in this category**
 
 ## Table of Contents
 
@@ -12,7 +12,6 @@
 - [Airtable Assistant](airtable-assistant.md)
 - [Animation Style Master Prompt from a Reference Video](animation-style-master-prompt-from-a-reference-video.md)
 - [Business Risk & Scenario Analyzer](business-risk-scenario-analyzer.md)
-- [Claim Autopsy - Evidence Analysis Assistant](claim-autopsy-evidence-analysis-assistant.md)
 - [Competitive Intelligence Analyst](competitive-intelligence-analyst.md)
 - [Customer Feedback Analysis](customer-feedback-analysis.md)
 - [Doctor Guiding Students Up a Staircase of Books to Success](doctor-guiding-students-up-a-staircase-of-books-to-success.md)

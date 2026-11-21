@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**318 prompts in this category**
+**319 prompts in this category**
 
 ## Table of Contents
 
@@ -66,6 +66,7 @@
 - [CIS COntrols](cis-controls.md)
 - [Civil Engineering Bridge Mentor](civil-engineering-bridge-mentor.md)
 - [CKEditor 5 Plugin](ckeditor-5-plugin.md)
+- [Claim Autopsy - Evidence Analysis Assistant](claim-autopsy-evidence-analysis-assistant.md)
 - [Claude prompt: 12-second SaaS product film in 16:9](claude-prompt-12-second-saas-product-film-in-16-9.md)
 - [Clinical Research Presentation Guidance](clinical-research-presentation-guidance.md)
 - [Cloudflare Worker taste](cloudflare-worker-taste.md)

@@ -1,7 +1,7 @@
 # Claim Autopsy - Evidence Analysis Assistant
 
-**Category:** Research & Analysis  
-**Source:** prompts.chat
+**Category:** Data & Analytics  
+**Source:** tealmcsteel@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -149,4 +149,4 @@
 > **Dissect first. Verdict last.**
 
 ---
-[← Back to Research & Analysis](README.md) · [Main index](../../README.md)
+[← Back to Data & Analytics](README.md) · [Main index](../../README.md)

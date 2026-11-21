@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-21T11:20:49.799Z",
+  "last_updated": "2026-11-21T13:20:55.251Z",
   "total_prompts": 3836,
   "source_records": 3839,
-  "total_sources": 417,
+  "total_sources": 418,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -32,7 +32,7 @@
     {
       "folder": "data-analytics",
       "name": "Data & Analytics",
-      "prompt_count": 318,
+      "prompt_count": 319,
       "url": "https://prompts.axiomrepo.tech/v1/categories/data-analytics.json"
     },
     {
@@ -86,7 +86,7 @@
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
-      "prompt_count": 57,
+      "prompt_count": 56,
       "url": "https://prompts.axiomrepo.tech/v1/categories/research-analysis.json"
     },
     {

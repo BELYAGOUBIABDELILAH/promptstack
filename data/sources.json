@@ -2012,7 +2012,7 @@
     "id": "src_c7372fdd4131",
     "name": "prompts.chat",
     "status": "needs-review",
-    "record_count": 974,
+    "record_count": 973,
     "note": "Preserved from the legacy export; review before claiming provenance."
   },
   {
@@ -2557,6 +2557,13 @@
   {
     "id": "src_2cbd4de6df9f",
     "name": "tcyjg (prompts.chat)",
+    "status": "needs-review",
+    "record_count": 1,
+    "note": "Preserved from the legacy export; review before claiming provenance."
+  },
+  {
+    "id": "src_67dda8289189",
+    "name": "tealmcsteel@gmail.com (prompts.chat)",
     "status": "needs-review",
     "record_count": 1,
     "note": "Preserved from the legacy export; review before claiming provenance."

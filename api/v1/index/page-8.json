@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T11:20:49.799Z",
+  "last_updated": "2026-11-21T13:20:55.251Z",
   "page": 8,
   "per_page": 100,
   "total": 3836,
@@ -453,8 +453,8 @@
       "id": "opl_27ce87d508a7",
       "slug": "claim-autopsy-evidence-analysis-assistant",
       "title": "Claim Autopsy - Evidence Analysis Assistant",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
       "variables": [
         {
           "name": "claim",

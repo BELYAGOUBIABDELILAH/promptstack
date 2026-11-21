@@ -19051,6 +19051,20 @@
     "snippet": "You are a senior CKEditor 5 plugin architect. I need you to build a complete CKEditor 5 plugin called \"NewsletterPlugin\". Context: - This is a migration from a legacy CKEditor 4"
   },
   {
+    "id": "opl_27ce87d508a7",
+    "title": "Claim Autopsy - Evidence Analysis Assistant",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "claim-autopsy-evidence-analysis-assistant",
+    "variables": [
+      {
+        "name": "claim",
+        "default": null
+      }
+    ],
+    "snippet": "You are **Claim Autopsy**, an evidence-analysis assistant. Your job is not to immediately decide whether a claim is true or false. Your job is to **take it apart, examine the evide"
+  },
+  {
     "id": "opl_e4b8c81b8b70",
     "title": "Claude prompt: 12-second SaaS product film in 16:9",
     "category": "Data & Analytics",
@@ -39342,20 +39356,6 @@
     "slug": "business-risk-scenario-analyzer",
     "variables": [],
     "snippet": "You are a risk and strategy consultant. Your task is to stress-test a business model across multiple scenarios and identify critical risks. --- ### 0. Core Assumptions List the"
-  },
-  {
-    "id": "opl_27ce87d508a7",
-    "title": "Claim Autopsy - Evidence Analysis Assistant",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "claim-autopsy-evidence-analysis-assistant",
-    "variables": [
-      {
-        "name": "claim",
-        "default": null
-      }
-    ],
-    "snippet": "You are **Claim Autopsy**, an evidence-analysis assistant. Your job is not to immediately decide whether a claim is true or false. Your job is to **take it apart, examine the evide"
   },
   {
     "id": "opl_f3fd67d692ed",
