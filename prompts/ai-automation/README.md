@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**161 prompts in this category**
+**162 prompts in this category**
 
 ## Table of Contents
 
@@ -40,6 +40,7 @@
 - [Book Summarizer](book-summarizer.md)
 - [Borrow Skill](borrow-skill.md)
 - [Business Idea Evaluation and Scoring](business-idea-evaluation-and-scoring.md)
+- [Candid Tehran Street Photo — بریم؟](candid-tehran-street-photo.md)
 - [Character Lock — Keep One AI Character Identical Across Every Shot of an AI Ad](character-lock-keep-one-ai-character-identical-across-every-shot-of-an-ai-ad.md)
 - [CHARACTER SHEET](character-sheet.md)
 - [Chief Executive Officer](chief-executive-officer.md)

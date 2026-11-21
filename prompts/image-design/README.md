@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**829 prompts in this category**
+**828 prompts in this category**
 
 ## Table of Contents
 
@@ -132,7 +132,6 @@
 - [Calendar Apps Finder](calendar-apps-finder.md)
 - [Calendar Description Generator](calendar-description-generator.md)
 - [Camera Shot](camera-shot.md)
-- [Candid Tehran Street Photo — بریم؟](candid-tehran-street-photo.md)
 - [Cappadocia Hot Air Balloons at Sunrise (Image-to-Video Animation)](cappadocia-hot-air-balloons-at-sunrise-image-to-video-animation.md)
 - [Cappadocia Hot Air Balloons at Sunrise Scene Concept Brief Builder](cappadocia-hot-air-balloons-at-sunrise-scene-concept-brief-builder.md)
 - [Car Maintenance Advisor.](car-maintenance-advisor.md)

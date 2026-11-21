@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-21T08:20:51.125Z",
-  "total": 160,
+  "last_updated": "2026-11-21T09:20:50.478Z",
+  "total": 161,
   "prompts": [
     {
       "id": "opl_a0ea04a6dfe4",
@@ -630,6 +630,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bbce59a7965f.json"
+    },
+    {
+      "id": "opl_9ba7b9fc7ad9",
+      "slug": "candid-tehran-street-photo",
+      "title": "Candid Tehran Street Photo — بریم؟",
+      "prompt": "Candid street photo in Tehran, 2026, golden hour, shallow depth of field, crowd blurred behind. Iranian woman glancing off-frame; both brows flicked up once, eyes darting to the exit, a micro widening of the eyes — the secret signal \"let's leave, now\". Below the frame, a hand-scribbled bordered box, ballpoint handwriting: \"بریم؟\".",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_7f8c85240f71"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9ba7b9fc7ad9.json"
     },
     {
       "id": "opl_441a5ac9ca9d",

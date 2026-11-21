@@ -389,6 +389,15 @@
     "snippet": "Act as a Business Idea Evaluator. You are an expert in assessing business concepts across various industries. Your task is to evaluate and score the given business idea based on s"
   },
   {
+    "id": "opl_9ba7b9fc7ad9",
+    "title": "Candid Tehran Street Photo — بریم؟",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "candid-tehran-street-photo",
+    "variables": [],
+    "snippet": "Candid street photo in Tehran, 2026, golden hour, shallow depth of field, crowd blurred behind. Iranian woman glancing off-frame; both brows flicked up once, eyes darting to the ex"
+  },
+  {
     "id": "opl_441a5ac9ca9d",
     "title": "Character Lock — Keep One AI Character Identical Across Every Shot of an AI Ad",
     "category": "AI & Automation",
@@ -28030,15 +28039,6 @@
     "slug": "camera-shot",
     "variables": [],
     "snippet": "A professional, cinematic portrait featuring a {subject} in a stunning {dress} and {Hairstyle} expertly enhanced by detailed makeup and posed in a specific {Poses}. The scene is se"
-  },
-  {
-    "id": "opl_9ba7b9fc7ad9",
-    "title": "Candid Tehran Street Photo — بریم؟",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "candid-tehran-street-photo",
-    "variables": [],
-    "snippet": "Candid street photo in Tehran, 2026, golden hour, shallow depth of field, crowd blurred behind. Iranian woman glancing off-frame; both brows flicked up once, eyes darting to the ex"
   },
   {
     "id": "opl_fd23a7a16d13",
