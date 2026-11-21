@@ -2478,5 +2478,15 @@
     "slug": "iranian-noir-suspicion-close-up",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/iranian-noir-suspicion-close-up.md"
+  },
+  {
+    "act": "Charcoal Portrait — الهی بمیرم",
+    "category": "Marketing & Social",
+    "prompt": "Charcoal and graphite drawing on textured paper, Iranian woman in her early thirties, heavy shading, visible smudges. The whole emotion is in the brows: inner ends pulled up and together, eyes soft, wet, slightly narrowed with tenderness — the maternal \"elahi bemiram\" look. Below the drawing, a rough hand-sketched border box with smudged handwritten pencil script: \"الهی بمیرم\".",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "charcoal-portrait",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/charcoal-portrait.md"
   }
 ]
