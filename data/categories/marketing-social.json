@@ -2468,5 +2468,15 @@
     "slug": "personaje-art",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/personaje-art.md"
+  },
+  {
+    "act": "Iranian Noir Suspicion Close-Up",
+    "category": "Marketing & Social",
+    "prompt": "High-contrast black and white noir close-up of an Iranian woman's face, hard side light through blinds, deep shadows across half the face. Only one eye lit; brow furrowed inward, pupil shifted to the corner in a sideways suspicious glance, other brow completely still. Cigarette smoke haze. Beneath the image, a hand-sketched box with scratchy charcoal lines and handwritten script: \"شک\" / \"suspicion\".",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "iranian-noir-suspicion-close-up",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/iranian-noir-suspicion-close-up.md"
   }
 ]
