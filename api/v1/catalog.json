@@ -10102,6 +10102,15 @@
     "snippet": "--- name: hiking-route-time-and-water-planner description: Plans a day hike leg by leg. Estimates time with Naismith's rule and Langmuir's descent corrections, adjusted for terrain"
   },
   {
+    "id": "opl_ad42d241a4d3",
+    "title": "Hiperrealista",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "hiperrealista",
+    "variables": [],
+    "snippet": "A hyper-realistic close-up portrait (8K resolution) of a person's head and upper neck, captured from a slightly low angle. Use the uploaded image as the facial reference: the face"
+  },
+  {
     "id": "opl_72c4d90efcdb",
     "title": "Home Assistant - Scene & Automation Builder",
     "category": "Coding & Development",
@@ -19879,15 +19888,6 @@
     "slug": "hallucination-investigator",
     "variables": [],
     "snippet": "name = \"hallucination-investigator\" description = \"Use when a task needs root-cause analysis for factuality failures, unsupported claims, or context breakdowns in AI outputs.\" mode"
-  },
-  {
-    "id": "opl_ad42d241a4d3",
-    "title": "Hiperrealista",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "hiperrealista",
-    "variables": [],
-    "snippet": "A hyper-realistic close-up portrait (8K resolution) of a person's head and upper neck, captured from a slightly low angle. Use the uploaded image as the facial reference: the face"
   },
   {
     "id": "opl_b888432e6227",

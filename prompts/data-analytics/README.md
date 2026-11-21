@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**320 prompts in this category**
+**319 prompts in this category**
 
 ## Table of Contents
 
@@ -152,7 +152,6 @@
 - [Grok Research Agent](grok-research-agent.md)
 - [gRPC Service taste](grpc-service-taste.md)
 - [Hallucination Investigator](hallucination-investigator.md)
-- [Hiperrealista](hiperrealista.md)
 - [Hostile-Consumer Maturity Audit for a Website + MCP Server](hostile-consumer-maturity-audit-for-a-website-mcp-server.md)
 - [Household Chore Rotation Planner](household-chore-rotation-planner.md)
 - [How To Back This Up?](how-to-back-this-up.md)

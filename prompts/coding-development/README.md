@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1306 prompts in this category**
+**1307 prompts in this category**
 
 ## Table of Contents
 
@@ -601,6 +601,7 @@
 - [High-Stakes Decision Support System](high-stakes-decision-support-system.md)
 - [High-Velocity Dogfight](high-velocity-dogfight.md)
 - [Hiking Route Time and Water Planner](hiking-route-time-and-water-planner.md)
+- [Hiperrealista](hiperrealista.md)
 - [Home Assistant - Scene & Automation Builder](home-assistant-scene-automation-builder.md)
 - [Home Assistant Code Redactor](home-assistant-code-redactor.md)
 - [Home Assistant Copilot](home-assistant-copilot.md)
