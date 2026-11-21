@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-21T14:20:56.036Z",
+  "last_updated": "2026-11-21T17:20:50.932Z",
   "total_prompts": 3836,
   "source_records": 3839,
-  "total_sources": 419,
+  "total_sources": 420,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -20,13 +20,13 @@
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1308,
+      "prompt_count": 1309,
       "url": "https://prompts.axiomrepo.tech/v1/categories/coding-development.json"
     },
     {
       "folder": "image-design",
       "name": "Image & Design",
-      "prompt_count": 828,
+      "prompt_count": 827,
       "url": "https://prompts.axiomrepo.tech/v1/categories/image-design.json"
     },
     {

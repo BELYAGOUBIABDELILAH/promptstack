@@ -1,7 +1,7 @@
 # Cross-Platform 3D App Development Master
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** yaman0786 (prompts.chat)
 
 ## Prompt
 
@@ -33,4 +33,4 @@
 > - ${deploymentMethod:AppStore} - Preferred deployment method
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

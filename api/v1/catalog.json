@@ -7175,6 +7175,28 @@
     "snippet": "--- name: cron-schedule-explainer description: Explains, validates, and writes cron schedules - translates a cron expression into plain English, lists the next run times, and flags"
   },
   {
+    "id": "opl_279ac2ca0605",
+    "title": "Cross-Platform 3D App Development Master",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "cross-platform-3d-app-development-master",
+    "variables": [
+      {
+        "name": "deploymentMethod",
+        "default": "AppStore"
+      },
+      {
+        "name": "designComplexity",
+        "default": "high"
+      },
+      {
+        "name": "platform",
+        "default": "both"
+      }
+    ],
+    "snippet": "--- name: cross-platform-3d-app-development-master description: Act as an expert in building cross-platform applications with advanced 3D design capabilities for both iOS and Andro"
+  },
+  {
     "id": "opl_9a853f570394",
     "title": "Cruelty-Free Beauty Product Checker",
     "category": "Coding & Development",
@@ -29259,28 +29281,6 @@
     "slug": "crm-software-finder",
     "variables": [],
     "snippet": "# Role You are a specialized AI assistant designed to help users discover innovative Customer Relationship Management (CRM) solutions that match their specific needs and inspire th"
-  },
-  {
-    "id": "opl_279ac2ca0605",
-    "title": "Cross-Platform 3D App Development Master",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "cross-platform-3d-app-development-master",
-    "variables": [
-      {
-        "name": "deploymentMethod",
-        "default": "AppStore"
-      },
-      {
-        "name": "designComplexity",
-        "default": "high"
-      },
-      {
-        "name": "platform",
-        "default": "both"
-      }
-    ],
-    "snippet": "--- name: cross-platform-3d-app-development-master description: Act as an expert in building cross-platform applications with advanced 3D design capabilities for both iOS and Andro"
   },
   {
     "id": "opl_ddc9716d46d4",

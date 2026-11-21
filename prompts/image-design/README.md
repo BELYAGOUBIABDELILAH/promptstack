@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**828 prompts in this category**
+**827 prompts in this category**
 
 ## Table of Contents
 
@@ -217,7 +217,6 @@
 - [Crewelwork Embroidery of a Sleeping Red Fox Among Bluebells in a Hoop](crewelwork-embroidery-of-a-sleeping-red-fox-among-bluebells-in-a-hoop.md)
 - [Crimson Waltz in the Rain](crimson-waltz-in-the-rain.md)
 - [CRM Software Finder](crm-software-finder.md)
-- [Cross-Platform 3D App Development Master](cross-platform-3d-app-development-master.md)
 - [Custom AI Image Creation](custom-ai-image-creation.md)
 - [Customizable Avatar Style Generator](customizable-avatar-style-generator.md)
 - [Cut-Paper Shadow Box of a Coral Reef Aquarium](cut-paper-shadow-box-of-a-coral-reef-aquarium.md)

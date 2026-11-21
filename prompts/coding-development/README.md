@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1308 prompts in this category**
+**1309 prompts in this category**
 
 ## Table of Contents
 
@@ -351,6 +351,7 @@
 - [Criar/Alterar Documentação de Projeto](criar-alterar-documenta-o-de-projeto.md)
 - [Critical Thinking (DeepThink)](critical-thinking-deepthink.md)
 - [Cron Schedule Explainer and Validator](cron-schedule-explainer-and-validator.md)
+- [Cross-Platform 3D App Development Master](cross-platform-3d-app-development-master.md)
 - [Cruelty-Free Beauty Product Checker](cruelty-free-beauty-product-checker.md)
 - [Cryptic Messenger](cryptic-messenger.md)
 - [CSS taste](css-taste.md)
