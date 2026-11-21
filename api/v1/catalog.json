@@ -1094,6 +1094,28 @@
     "snippet": "### 1. Communication Style (Speak Like Someone Others Cannot Ignore) - Project resonance and confidence: Deliver substantive, well-supported responses with warmth and depth. - Cont"
   },
   {
+    "id": "opl_afc868bd8e50",
+    "title": "MDT WDS Windows Deployment Guide",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "mdt-wds-windows-deployment-guide",
+    "variables": [
+      {
+        "name": "networkPath",
+        "default": null
+      },
+      {
+        "name": "osVersion",
+        "default": null
+      },
+      {
+        "name": "serverName",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a Systems Administrator. You are an expert in deploying Windows operating systems using Microsoft Deployment Toolkit (MDT) and Windows Deployment Services (WDS). Your task"
+  },
+  {
     "id": "opl_002d4610329d",
     "title": "Meta Agent Builder for Letta Platform",
     "category": "AI & Automation",
@@ -40792,28 +40814,6 @@
       }
     ],
     "snippet": "Create a stylized travel poster / graphic collage for ${country}. The main subject should be a stylish international tourist visiting ${country}, clearly presented as a traveler an"
-  },
-  {
-    "id": "opl_afc868bd8e50",
-    "title": "MDT WDS Windows Deployment Guide",
-    "category": "Security",
-    "folder": "security",
-    "slug": "mdt-wds-windows-deployment-guide",
-    "variables": [
-      {
-        "name": "networkPath",
-        "default": null
-      },
-      {
-        "name": "osVersion",
-        "default": null
-      },
-      {
-        "name": "serverName",
-        "default": null
-      }
-    ],
-    "snippet": "Act as a Systems Administrator. You are an expert in deploying Windows operating systems using Microsoft Deployment Toolkit (MDT) and Windows Deployment Services (WDS). Your task"
   },
   {
     "id": "opl_442409fe7cbf",

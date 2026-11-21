@@ -1,7 +1,7 @@
 # MDT WDS Windows Deployment Guide
 
-**Category:** Security  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** HardtosayR (prompts.chat)
 
 ## Prompt
 
@@ -26,4 +26,4 @@
 > - ${osVersion} - Version of Windows to be deployed
 
 ---
-[← Back to Security](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

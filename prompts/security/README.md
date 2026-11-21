@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**86 prompts in this category**
+**85 prompts in this category**
 
 ## Table of Contents
 
@@ -65,7 +65,6 @@
 - [LLM Configuration Tuner](llm-configuration-tuner.md)
 - [LLM Security](llm-security.md)
 - [Lost in [Country] with ChatGPT Image 2](lost-in-country-with-chatgpt-image-2.md)
-- [MDT WDS Windows Deployment Guide](mdt-wds-windows-deployment-guide.md)
 - [Odalisque](odalisque.md)
 - [Olympic Games Events Weekly Listings Prompt](olympic-games-events-weekly-listings-prompt.md)
 - [OPNSense Assistant](opnsense-assistant.md)

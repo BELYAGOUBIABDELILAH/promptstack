@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**162 prompts in this category**
+**163 prompts in this category**
 
 ## Table of Contents
 
@@ -102,6 +102,7 @@
 - [Magician](magician.md)
 - [Master Prompt Engineer](master-prompt-engineer.md)
 - [Mastering Leadership:](mastering-leadership.md)
+- [MDT WDS Windows Deployment Guide](mdt-wds-windows-deployment-guide.md)
 - [Meta Agent Builder for Letta Platform](meta-agent-builder-for-letta-platform.md)
 - [Meta-Prompt Engineer](meta-prompt-engineer.md)
 - [Morning coffee](morning-coffee.md)
