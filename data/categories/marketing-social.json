@@ -2458,5 +2458,15 @@
     "slug": "dicompress-dual-language-semantic-compressor",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/dicompress-dual-language-semantic-compressor.md"
+  },
+  {
+    "act": "Personaje ART",
+    "category": "Marketing & Social",
+    "prompt": "Draw the character from the image—(Your name)—in a free, spontaneous sketching style. Against a bright white background, freely arrange full-body drawings, close-ups of the face, small doodles, full-body sketches, and chibi or stylized versions, so that the page conveys the character's humor and personality. Do not create an organized character sheet; instead, make it look like a sketchbook page filled with spontaneously drawn details.",
+    "source": "issac.ron@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "personaje-art",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/personaje-art.md"
   }
 ]
