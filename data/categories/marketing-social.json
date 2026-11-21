@@ -2498,5 +2498,15 @@
     "slug": "automatic-job-apply",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/automatic-job-apply.md"
+  },
+  {
+    "act": "The curriculum mapping prompt.",
+    "category": "Marketing & Social",
+    "prompt": "Prompt:\n​\"Task: Based exclusively on the uploaded materials, engineer a comprehensive [Insert Number]-week curriculum map. \nConstraints: Structure the learning journey using Bloom's Taxonomy, moving learners from basic recall to complex creation. \nOutput Format: For each week, provide: \nA) The core competency to be mastered. \nB) The specific source document that introduces the concept (include exact citations). \nC) The source that deepens or challenges it. \nD) A real-world application or business scenario where this theory must be applied. Ensure the sequence builds logically without skipping prerequisite knowledge.\"",
+    "source": "islam.ataul@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "the-curriculum-mapping-prompt",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/the-curriculum-mapping-prompt.md"
   }
 ]
