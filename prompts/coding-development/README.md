@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1307 prompts in this category**
+**1308 prompts in this category**
 
 ## Table of Contents
 
@@ -1040,6 +1040,7 @@
 - [security fixes](security-fixes.md)
 - [Sell a dream as an underground tailors but need partnership for capital. With no or just 20% less leverage, how to get partners interested and involved to buy the dream](sell-a-dream-as-an-underground-tailors-but-need-partnership.md)
 - [SemVer Bump Advisor](semver-bump-advisor.md)
+- [Senior AI & Data Engineering Meta-Prompt Generator](senior-ai-data-engineering-meta-prompt-generator.md)
 - [Senior Backend Engineer](senior-backend-engineer.md)
 - [Senior Crypto Yapper & Community Strategist](senior-crypto-yapper-community-strategist.md)
 - [Senior Frontend Debugger for SPA Websites (Angular, React, Vite)](senior-frontend-debugger-for-spa-websites-angular-react-vite.md)

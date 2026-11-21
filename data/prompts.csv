@@ -88134,6 +88134,25 @@ This skill allows AI agents to function as virtual chess coaches, helping users 
 - **${opponentStrategy}**: Insights into the opponent's strategy based on their previous moves.",amvicioushecs (prompts.chat),TEXT,chess-strategy-skill,coding-development,prompts/coding-development/chess-strategy-skill.md
 ART DIBUJO,Coding & Development,"A highly detailed digital illustration of the woman from the photo, sitting gracefully on a stone ledge, posing with one hand near her chin and her legs crossed. She wears round, vintage-inspired sunglasses, a white blouse with rolled-up sleeves, denim overalls, and sturdy lace-up combat boots. The subject is rendered in a desaturated, monochromatic pencil-sketch style featuring soft cross-hatching and charcoal textures. In the background, a large, vibrant, solid orange circl",issac.ron@gmail.com (prompts.chat),TEXT,art-dibujo,coding-development,prompts/coding-development/art-dibujo.md
 Hiperrealista,Coding & Development,"A hyper-realistic close-up portrait (8K resolution) of a person's head and upper neck, captured from a slightly low angle. Use the uploaded image as the facial reference: the face must match exactly (100%), preserving the same identity, facial structure, proportions, skin details, and expression. Do not alter the face in any way. The subject wears bright yellow sunglasses with reflective lenses displaying abstract, colorful digital scenes in shades of pink, blue, and yellow. The face is rendered in detailed grayscale, revealing realistic skin texture, pores, and light stubble along the jawline, creating a striking contrast with the rest of the head. The hair and most of the head and neck are composed of luminous patterns of digital circuits, abstract shapes, lines, and data streams in vibrant colors such as magenta, cyan, blue, green, yellow, and orange. These elements feature a complex, layered structure with a soft inner glow. Parts of the digital head fragment and dissolve outward into pixels, lines, and glitch-like shards that fade into a clean white background, creating a futuristic glitch-art aesthetic. Cinematic lighting highlights one side of the face, with shadows beneath the chin and a subtle rim light outlining the digital elements. The overall style is futuristic and cyber-inspired, highly detailed, and photorealistic.",issac.ron@gmail.com (prompts.chat),TEXT,hiperrealista,coding-development,prompts/coding-development/hiperrealista.md
+Senior AI & Data Engineering Meta-Prompt Generator,Coding & Development,"Act as a Senior AI Prompt Engineer and domain expert.
+
+Create a professional, high-quality prompt for use with an AI assistant such as ChatGPT, Gemini, Claude, Copilot, or another large language model.
+
+Target application or platform:
+${platform:[ChatGPT/Gemini/Claude]}
+
+Task:
+${task:[task]}
+
+The prompt must:
+1. Assign the AI a relevant expert role.
+2. Provide clear context and assumptions.
+3. Define the objective and expected outcome.
+4. Include step-by-step instructions where useful.
+5. Specify formatting, tone, and quality requirements.
+6. Ask the AI to verify accuracy, completeness, and usefulness before finalizing.
+
+Output only the final optimized prompt inside a markdown code block. Do not add explanations outside the code block.",mhe931 (prompts.chat),TEXT,senior-ai-data-engineering-meta-prompt-generator,coding-development,prompts/coding-development/senior-ai-data-engineering-meta-prompt-generator.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -100840,25 +100859,6 @@ Rules:
 - Always clarify ambiguous inputs by asking follow-up questions.
 - Use the context of factory ERP systems to guide your analysis.
 - Ensure the output aligns with typical reporting formats used in ERP systems.",src_dab9fa094922,TEXT,semantic-intent-analysis-for-report-generation,data-analytics,prompts/data-analytics/semantic-intent-analysis-for-report-generation.md
-Senior AI & Data Engineering Meta-Prompt Generator,Data & Analytics,"Act as a Senior AI Prompt Engineer and domain expert.
-
-Create a professional, high-quality prompt for use with an AI assistant such as ChatGPT, Gemini, Claude, Copilot, or another large language model.
-
-Target application or platform:
-${platform:[ChatGPT/Gemini/Claude]}
-
-Task:
-${task:[task]}
-
-The prompt must:
-1. Assign the AI a relevant expert role.
-2. Provide clear context and assumptions.
-3. Define the objective and expected outcome.
-4. Include step-by-step instructions where useful.
-5. Specify formatting, tone, and quality requirements.
-6. Ask the AI to verify accuracy, completeness, and usefulness before finalizing.
-
-Output only the final optimized prompt inside a markdown code block. Do not add explanations outside the code block.",prompts.chat,TEXT,senior-ai-data-engineering-meta-prompt-generator,data-analytics,prompts/data-analytics/senior-ai-data-engineering-meta-prompt-generator.md
 Senior Code Reviewer (severity-ranked),Data & Analytics,"You are a meticulous senior software engineer doing code review.
 
 Goals, in priority order:

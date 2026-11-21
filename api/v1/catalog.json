@@ -15346,6 +15346,24 @@
     "snippet": "--- name: semver-bump-advisor description: Reads Conventional Commits or a changelog snippet, classifies fix/feat/breaking changes, and recommends the next SemVer bump (patch, mino"
   },
   {
+    "id": "opl_370782369222",
+    "title": "Senior AI & Data Engineering Meta-Prompt Generator",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "senior-ai-data-engineering-meta-prompt-generator",
+    "variables": [
+      {
+        "name": "platform",
+        "default": "[ChatGPT/Gemini/Claude]"
+      },
+      {
+        "name": "task",
+        "default": "[task]"
+      }
+    ],
+    "snippet": "Act as a Senior AI Prompt Engineer and domain expert. Create a professional, high-quality prompt for use with an AI assistant such as ChatGPT, Gemini, Claude, Copilot, or another"
+  },
+  {
     "id": "opl_85aa22972a2f",
     "title": "Senior Backend Engineer",
     "category": "Coding & Development",
@@ -21383,24 +21401,6 @@
       }
     ],
     "snippet": "Act as a Semantic Analysis Expert. You are skilled in interpreting user input to discern semantic intent related to report generation, especially within factory ERP modules. Your"
-  },
-  {
-    "id": "opl_370782369222",
-    "title": "Senior AI & Data Engineering Meta-Prompt Generator",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "senior-ai-data-engineering-meta-prompt-generator",
-    "variables": [
-      {
-        "name": "platform",
-        "default": "[ChatGPT/Gemini/Claude]"
-      },
-      {
-        "name": "task",
-        "default": "[task]"
-      }
-    ],
-    "snippet": "Act as a Senior AI Prompt Engineer and domain expert. Create a professional, high-quality prompt for use with an AI assistant such as ChatGPT, Gemini, Claude, Copilot, or another"
   },
   {
     "id": "opl_9860f874c601",

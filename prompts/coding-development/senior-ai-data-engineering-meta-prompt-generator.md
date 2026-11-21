@@ -1,7 +1,7 @@
 # Senior AI & Data Engineering Meta-Prompt Generator
 
-**Category:** Data & Analytics  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** mhe931 (prompts.chat)
 
 ## Prompt
 
@@ -26,4 +26,4 @@
 > Output only the final optimized prompt inside a markdown code block. Do not add explanations outside the code block.
 
 ---
-[← Back to Data & Analytics](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

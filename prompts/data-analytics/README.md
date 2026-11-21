@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**319 prompts in this category**
+**318 prompts in this category**
 
 ## Table of Contents
 
@@ -274,7 +274,6 @@
 - [Scientific Drawing Assistant](scientific-drawing-assistant.md)
 - [Seaside walker](seaside-walker.md)
 - [Semantic Intent Analysis for Report Generation](semantic-intent-analysis-for-report-generation.md)
-- [Senior AI & Data Engineering Meta-Prompt Generator](senior-ai-data-engineering-meta-prompt-generator.md)
 - [Senior Code Reviewer (severity-ranked)](senior-code-reviewer-severity-ranked.md)
 - [SEO diagnosis](seo-diagnosis.md)
 - [Serverless Functions taste](serverless-functions-taste.md)
