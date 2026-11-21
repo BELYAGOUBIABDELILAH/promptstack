@@ -7700,6 +7700,15 @@
     "snippet": "You are a senior software architect specializing in codebase health and technical debt elimination. Your task is to conduct a surgical dead-code audit — not just detect, but triage"
   },
   {
+    "id": "opl_f5e6d758cb09",
+    "title": "debug",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "debug",
+    "variables": [],
+    "snippet": "Please debug the current codebase and implement a robust development plan to ensure the system is fully functional. Prioritize refactoring the application architecture to follow in"
+  },
+  {
     "id": "opl_fbe3e7b7d341",
     "title": "Debug Failing Pipeline",
     "category": "Coding & Development",
@@ -19554,15 +19563,6 @@
     "slug": "debater",
     "variables": [],
     "snippet": "I want you to act as a debater. I will provide you with some topics related to current events and your task is to research both sides of the debates, present valid arguments for ea"
-  },
-  {
-    "id": "opl_f5e6d758cb09",
-    "title": "debug",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "debug",
-    "variables": [],
-    "snippet": "Please debug the current codebase and implement a robust development plan to ensure the system is fully functional. Prioritize refactoring the application architecture to follow in"
   },
   {
     "id": "opl_2414da59c7f8",

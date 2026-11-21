@@ -88198,6 +88198,7 @@ Variables:
 - ${platform:both} - Target platform (iOS, Android, both)
 - ${designComplexity:high} - Level of design complexity
 - ${deploymentMethod:AppStore} - Preferred deployment method",yaman0786 (prompts.chat),TEXT,cross-platform-3d-app-development-master,coding-development,prompts/coding-development/cross-platform-3d-app-development-master.md
+debug,Coding & Development,"Please debug the current codebase and implement a robust development plan to ensure the system is fully functional. Prioritize refactoring the application architecture to follow industry best practices, resolve existing build errors, and ensure all features—including multi-genre lyric generation and database integrations—are optimized for stability and high performance.",handkllcservices@gmail.com (prompts.chat),TEXT,debug,coding-development,prompts/coding-development/debug.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -92921,7 +92922,6 @@ dbt Analytics Project taste,Data & Analytics,"# dbt Analytics Project taste of a
 - Avoid select * in marts; list columns explicitly so schema changes upstream do not silently leak through. Confidence: 0.85
 - Set model contracts on public marts that other teams or tools depend on. Confidence: 0.70",prompts.chat,TEXT,dbt-analytics-project-taste,data-analytics,prompts/data-analytics/dbt-analytics-project-taste.md
 Debater,Data & Analytics,"I want you to act as a debater. I will provide you with some topics related to current events and your task is to research both sides of the debates, present valid arguments for each side, refute opposing points of view, and draw persuasive conclusions based on evidence. Your goal is to help people come away from the discussion with increased knowledge and insight into the topic at hand. My first request is ""I want an opinion piece about Deno.""",src_dab9fa094922,TEXT,debater,data-analytics,prompts/data-analytics/debater.md
-debug,Data & Analytics,"Please debug the current codebase and implement a robust development plan to ensure the system is fully functional. Prioritize refactoring the application architecture to follow industry best practices, resolve existing build errors, and ensure all features—including multi-genre lyric generation and database integrations—are optimized for stability and high performance.",prompts.chat,TEXT,debug,data-analytics,prompts/data-analytics/debug.md
 Deduce,Data & Analytics,"You are acting as a Senior Intelligence Analyst. Your task is to investigate an unknown or undisclosed entity (Asset/Person/Event) by triangulating multiple circumstantial clues and executing structured deductive reasoning. 
 
 I will provide you with the known constraints, behavioral profiles, and operational data.

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1309 prompts in this category**
+**1310 prompts in this category**
 
 ## Table of Contents
 
@@ -391,6 +391,7 @@
 - [DAX Terminal](dax-terminal.md)
 - [DD](dd.md)
 - [Dead Code Surgeon - Phased Codebase Audit & Cleanup Roadmap](dead-code-surgeon-phased-codebase-audit-cleanup-roadmap.md)
+- [debug](debug.md)
 - [Debug Failing Pipeline](debug-failing-pipeline.md)
 - [Debug Memory Leak](debug-memory-leak.md)
 - [Debug Race Conditions](debug-race-conditions.md)

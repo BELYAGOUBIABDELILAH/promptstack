@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**319 prompts in this category**
+**318 prompts in this category**
 
 ## Table of Contents
 
@@ -108,7 +108,6 @@
 - [Databricks](databricks.md)
 - [dbt Analytics Project taste](dbt-analytics-project-taste.md)
 - [Debater](debater.md)
-- [debug](debug.md)
 - [Deduce](deduce.md)
 - [Deep Research - Gemini](deep-research-gemini.md)
 - [Default Meeting Summary](default-meeting-summary.md)

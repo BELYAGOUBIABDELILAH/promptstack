@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-21T17:20:50.932Z",
-  "total": 1309,
+  "last_updated": "2026-11-21T18:20:51.557Z",
+  "total": 1310,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -7629,6 +7629,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b5d42656fb6e.json"
+    },
+    {
+      "id": "opl_f5e6d758cb09",
+      "slug": "debug",
+      "title": "debug",
+      "prompt": "Please debug the current codebase and implement a robust development plan to ensure the system is fully functional. Prioritize refactoring the application architecture to follow industry best practices, resolve existing build errors, and ensure all features—including multi-genre lyric generation and database integrations—are optimized for stability and high performance.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_888b0b3cb664"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f5e6d758cb09.json"
     },
     {
       "id": "opl_fbe3e7b7d341",

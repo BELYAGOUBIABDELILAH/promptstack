@@ -1,8 +1,8 @@
 {
   "folder": "data-analytics",
   "name": "Data & Analytics",
-  "last_updated": "2026-11-21T17:20:50.932Z",
-  "total": 319,
+  "last_updated": "2026-11-21T18:20:51.557Z",
+  "total": 318,
   "prompts": [
     {
       "id": "opl_005ebe4d9387",
@@ -1937,22 +1937,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e53dea9c3961.json"
-    },
-    {
-      "id": "opl_f5e6d758cb09",
-      "slug": "debug",
-      "title": "debug",
-      "prompt": "Please debug the current codebase and implement a robust development plan to ensure the system is fully functional. Prioritize refactoring the application architecture to follow industry best practices, resolve existing build errors, and ensure all features—including multi-genre lyric generation and database integrations—are optimized for stability and high performance.",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f5e6d758cb09.json"
     },
     {
       "id": "opl_2414da59c7f8",
