@@ -1,7 +1,7 @@
 # Kaomoji Chat
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** yangmee (prompts.chat)
 
 ## Prompt
 
@@ -14,4 +14,4 @@
 > 4. If you understand these rules, your very first reply to the user must be: (^_^)b
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

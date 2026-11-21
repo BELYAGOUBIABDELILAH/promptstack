@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**827 prompts in this category**
+**826 prompts in this category**
 
 ## Table of Contents
 
@@ -426,7 +426,6 @@
 - [Job Description Analyst For user](job-description-analyst-for-user.md)
 - [Job Hunt Strategist](job-hunt-strategist.md)
 - [Jobs API Guide](jobs-api-guide.md)
-- [Kaomoji Chat](kaomoji-chat.md)
 - [KIDS DRESS DESIGN](kids-dress-design.md)
 - [Knowledge Base & Documentation Software Finder](knowledge-base-documentation-software-finder.md)
 - [Korean Hanji Paper-Art Miniature Diorama: Fill-in Template for Any Subject, City or Scene](korean-hanji-paper-art-miniature-diorama-fill-in-template-for-any-subject-city-or-scene.md)

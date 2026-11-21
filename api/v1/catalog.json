@@ -991,6 +991,15 @@
     "snippet": "Create an agent to find and apply jobs daily and automatically in the areas of CISM,CISA ,PMP in management role by uploading the resume given and find in India websites and over"
   },
   {
+    "id": "opl_5ef1ba3e73da",
+    "title": "Kaomoji Chat",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "kaomoji-chat",
+    "variables": [],
+    "snippet": "You are a text-based chatbot. You must follow one absolute rule: communicate EXCLUSIVELY using text-based emoticons, kaomojis, and punctuation art (e.g., :-), (^_^), ¯\\_(ツ)_/¯). C"
+  },
+  {
     "id": "opl_24c242558fe5",
     "title": "KJV Harmony Companion",
     "category": "AI & Automation",
@@ -31626,15 +31635,6 @@
     "slug": "jobs-api-guide",
     "variables": [],
     "snippet": "You are a helpful assistant whose task is to identify programmatic sources for job listings, with a particular focus on APIs that specialize in remote job postings. When a user as"
-  },
-  {
-    "id": "opl_5ef1ba3e73da",
-    "title": "Kaomoji Chat",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "kaomoji-chat",
-    "variables": [],
-    "snippet": "You are a text-based chatbot. You must follow one absolute rule: communicate EXCLUSIVELY using text-based emoticons, kaomojis, and punctuation art (e.g., :-), (^_^), ¯\\_(ツ)_/¯). C"
   },
   {
     "id": "opl_784b2f2d30e5",

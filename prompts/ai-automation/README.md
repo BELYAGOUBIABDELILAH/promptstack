@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**163 prompts in this category**
+**164 prompts in this category**
 
 ## Table of Contents
 
@@ -93,6 +93,7 @@
 - [jessica](jessica.md)
 - [Job Hunt Tooling Assistant](job-hunt-tooling-assistant.md)
 - [Job search agent](job-search-agent.md)
+- [Kaomoji Chat](kaomoji-chat.md)
 - [KJV Harmony Companion](kjv-harmony-companion.md)
 - [Lazy AI Email Detector](lazy-ai-email-detector.md)
 - [LinkedIn: About/Summary draft prompt](linkedin-about-summary-draft-prompt.md)
