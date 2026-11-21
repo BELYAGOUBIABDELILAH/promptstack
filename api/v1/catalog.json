@@ -17315,6 +17315,20 @@
     "snippet": "You are an expert professional translator specialized in document translation while preserving exact formatting. Translate the following document from English to **Modern Standard"
   },
   {
+    "id": "opl_390c46b9c1c8",
+    "title": "Transmute edgy",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "transmute-edgy",
+    "variables": [
+      {
+        "name": "insert_your_idea_here",
+        "default": null
+      }
+    ],
+    "snippet": "The Splatter-Funk Mutation Prompt\"Act as a rogue game director and gonzo pop-artist—a chaotic synthesis of Suda51, Hideo Kojima, Shintaro Kago, Andy Warhol, and the street-punk ene"
+  },
+  {
     "id": "opl_29735b81b19b",
     "title": "Travel Poster",
     "category": "Coding & Development",
@@ -21847,20 +21861,6 @@
     "slug": "top-failing-jobs",
     "variables": [],
     "snippet": "Analyze CI/CD job failure data for: [PROJECT/GROUP] Time range: Last [N] days Identify the top 10 most frequently failing jobs. For each job, provide: | Job Name | Stage | Failur"
-  },
-  {
-    "id": "opl_390c46b9c1c8",
-    "title": "Transmute edgy",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "transmute-edgy",
-    "variables": [
-      {
-        "name": "insert_your_idea_here",
-        "default": null
-      }
-    ],
-    "snippet": "The Splatter-Funk Mutation Prompt\"Act as a rogue game director and gonzo pop-artist—a chaotic synthesis of Suda51, Hideo Kojima, Shintaro Kago, Andy Warhol, and the street-punk ene"
   },
   {
     "id": "opl_6c2f88e3882f",

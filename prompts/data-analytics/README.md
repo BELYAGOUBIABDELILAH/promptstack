@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**318 prompts in this category**
+**317 prompts in this category**
 
 ## Table of Contents
 
@@ -309,7 +309,6 @@
 - [Time Series Gap and Anomaly Checker](time-series-gap-and-anomaly-checker.md)
 - [Tokio Async Rust taste](tokio-async-rust-taste.md)
 - [Top Failing Jobs](top-failing-jobs.md)
-- [Transmute edgy](transmute-edgy.md)
 - [TrustShield](trustshield.md)
 - [Ultimate Inpainting / Reference Prompt](ultimate-inpainting-reference-prompt.md)
 - [URL Shortening Service — Full-Stack Application](url-shortening-service-full-stack-application.md)

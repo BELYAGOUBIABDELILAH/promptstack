@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1310 prompts in this category**
+**1311 prompts in this category**
 
 ## Table of Contents
 
@@ -1218,6 +1218,7 @@
 - [transcript_to_notes](transcript-to-notes.md)
 - [Transforming a Photo into a Post-Apocalyptic Scene](transforming-a-photo-into-a-post-apocalyptic-scene.md)
 - [Translate Document to Arabic](translate-document-to-arabic.md)
+- [Transmute edgy](transmute-edgy.md)
 - [Travel Poster](travel-poster.md)
 - [Trend Researcher](trend-researcher.md)
 - [Troubleshoot Production Issue](troubleshoot-production-issue.md)
