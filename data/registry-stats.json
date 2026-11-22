@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 3841,
+  "source_records": 3842,
   "canonical_records": 3838,
-  "quarantined_records": 0,
+  "quarantined_records": 1,
   "exact_duplicate_groups": 3,
   "duplicates_beyond_canonical": 3,
-  "sources": 426,
+  "sources": 427,
   "categories": {
     "AI & Automation": 165,
     "Business & Career": 67,

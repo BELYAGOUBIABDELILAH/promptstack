@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1315 prompts in this category**
+**1316 prompts in this category**
 
 ## Table of Contents
 
@@ -492,6 +492,7 @@
 - [Evaluation Prompts - Text To Image](evaluation-prompts-text-to-image.md)
 - [Evaluation Prompts - Text To Video](evaluation-prompts-text-to-video.md)
 - [Expert Discovery Interviewer Guide](expert-discovery-interviewer-guide.md)
+- [ExpertLens-Lite](expertlens-lite.md)
 - [Explain Complex Code or Patterns](explain-complex-code-or-patterns.md)
 - [Explain MR Impact on Performance](explain-mr-impact-on-performance.md)
 - [Explain Test Failures](explain-test-failures.md)

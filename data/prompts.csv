@@ -88856,6 +88856,7 @@ DO NOT START CODING.
 DO NOT DESIGN THE ARCHITECTURE.
 
 FIRST COMPLETE PHASE 0 ONLY.""",sharanshakthii5@gmail.com (prompts.chat),TEXT,master-one-prompt,coding-development,prompts/coding-development/master-one-prompt.md
+ExpertLens-Lite,Coding & Development,,ashutosh02m.pro@gmail.com (prompts.chat),TEXT,expertlens-lite,coding-development,prompts/coding-development/expertlens-lite.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
