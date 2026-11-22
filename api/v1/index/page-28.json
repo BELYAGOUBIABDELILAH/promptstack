@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 28,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_10e752d241f4",
+      "slug": "present",
+      "title": "Present",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "desired_behavior",
+          "default": null
+        },
+        {
+          "name": "files_to_be_modified",
+          "default": null
+        },
+        {
+          "name": "symbol_and_action",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_10e752d241f4.json"
+    },
     {
       "id": "opl_b00e5b071996",
       "slug": "presentation-making",
@@ -1197,20 +1219,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_659c863825f6.json"
-    },
-    {
-      "id": "opl_0e84fea10d58",
-      "slug": "protocol-2084-the-alleyway-hack",
-      "title": "Protocol 2084: The Alleyway Hack",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "year",
-          "default": "2084"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0e84fea10d58.json"
     }
   ]
 }

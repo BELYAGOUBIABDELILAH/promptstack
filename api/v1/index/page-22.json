@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 22,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
@@ -1032,6 +1032,15 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6db64574ad34.json"
     },
     {
+      "id": "opl_e78413734845",
+      "slug": "master-one-prompt",
+      "title": "master one prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e78413734845.json"
+    },
+    {
       "id": "opl_93f7d1dac9e1",
       "slug": "master-pitch-deck-creation",
       "title": "Master Pitch Deck Creation",
@@ -1187,15 +1196,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bb788a74e1fc.json"
-    },
-    {
-      "id": "opl_c4960bd00b76",
-      "slug": "maths-reviewer",
-      "title": "Maths reviewer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c4960bd00b76.json"
     }
   ]
 }

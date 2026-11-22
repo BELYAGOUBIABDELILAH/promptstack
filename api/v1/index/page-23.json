@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 23,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_c4960bd00b76",
+      "slug": "maths-reviewer",
+      "title": "Maths reviewer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c4960bd00b76.json"
+    },
     {
       "id": "opl_910f3548492d",
       "slug": "matrix-paradise-seraph",
@@ -1093,15 +1102,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d723cf8c0776.json"
-    },
-    {
-      "id": "opl_f650a97fcba5",
-      "slug": "monotonous-newsletter-maker",
-      "title": "Monotonous Newsletter Maker",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f650a97fcba5.json"
     }
   ]
 }

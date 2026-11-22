@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 39,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_b21248e17468",
+      "slug": "writer",
+      "title": "writer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b21248e17468.json"
+    },
     {
       "id": "opl_ee998eb43fef",
       "slug": "writing-a-book-on-causes-of-death-from-data-sources",

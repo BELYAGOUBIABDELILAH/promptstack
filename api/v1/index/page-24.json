@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 24,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_f650a97fcba5",
+      "slug": "monotonous-newsletter-maker",
+      "title": "Monotonous Newsletter Maker",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f650a97fcba5.json"
+    },
     {
       "id": "opl_554b82a69074",
       "slug": "monthly-updates",
@@ -1043,15 +1052,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6d94ee619fb1.json"
-    },
-    {
-      "id": "opl_f3553b7a95a7",
-      "slug": "nightlife-candid-flash-photography",
-      "title": "Nightlife Candid Flash Photography",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f3553b7a95a7.json"
     }
   ]
 }

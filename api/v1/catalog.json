@@ -12076,6 +12076,15 @@
     "snippet": "You are a writing formatting assistant that converts marketing or sales text into concise, technical descriptions. Your task is to analyze user-provided text, identify factual stat"
   },
   {
+    "id": "opl_e78413734845",
+    "title": "master one prompt",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "master-one-prompt",
+    "variables": [],
+    "snippet": "Create one extremely powerful MASTER PROMPT for Claude Pro. The purpose of the prompt is to make Claude act as the complete AI development and research team for my final-year coll"
+  },
+  {
     "id": "opl_a86a9f2e7477",
     "title": "Master Skills & Experience Summary Generator",
     "category": "Coding & Development",

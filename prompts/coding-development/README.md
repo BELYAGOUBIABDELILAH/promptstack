@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1314 prompts in this category**
+**1315 prompts in this category**
 
 ## Table of Contents
 
@@ -759,6 +759,7 @@
 - [Markdown Notes](markdown-notes.md)
 - [Markdown Table Generator](markdown-table-generator.md)
 - [Marketing Speak Filter](marketing-speak-filter.md)
+- [master one prompt](master-one-prompt.md)
 - [Master Skills & Experience Summary Generator](master-skills-experience-summary-generator.md)
 - [Mastermind](mastermind.md)
 - [Maths reviewer](maths-reviewer.md)

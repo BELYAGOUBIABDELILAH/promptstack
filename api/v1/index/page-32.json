@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 32,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_fa0ca5ec5478",
+      "slug": "sensory-processing-support",
+      "title": "Sensory Processing Support",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fa0ca5ec5478.json"
+    },
     {
       "id": "opl_49ca5c26c001",
       "slug": "sentence-expansion-and-completion-assistant",
@@ -1192,15 +1201,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2283ab04fdf0.json"
-    },
-    {
-      "id": "opl_a1a9265d4649",
-      "slug": "software-engineer",
-      "title": "Software Engineer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a1a9265d4649.json"
     }
   ]
 }

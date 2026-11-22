@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 36,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_2839f8542ad2",
+      "slug": "the-data-detective",
+      "title": "The Data Detective",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2839f8542ad2.json"
+    },
     {
       "id": "opl_9d03f9660c82",
       "slug": "the-digital-frontier-pixelated-pioneers",
@@ -1125,15 +1134,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd5f7f631474.json"
-    },
-    {
-      "id": "opl_e3ad4ae9d318",
-      "slug": "typescript-unit-testing-with-vitest",
-      "title": "TypeScript Unit Testing with Vitest",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e3ad4ae9d318.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 26,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_4cd618574dc2",
+      "slug": "package-json-scripts-auditor",
+      "title": "package.json Scripts Auditor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4cd618574dc2.json"
+    },
     {
       "id": "opl_3c03150cd872",
       "slug": "packer-automation-imaging-expert",
@@ -1135,15 +1144,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1256b910cc4a.json"
-    },
-    {
-      "id": "opl_d1a59dabc21f",
-      "slug": "photoreal-snowy-owl-on-a-frosted-fence-post-at-dawn",
-      "title": "Photoreal Snowy Owl on a Frosted Fence Post at Dawn",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d1a59dabc21f.json"
     }
   ]
 }

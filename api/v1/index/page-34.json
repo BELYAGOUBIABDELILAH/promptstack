@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 34,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_c329b1eb15f3",
+      "slug": "stone-watermill-on-a-forest-stream-at-autumn-dawn",
+      "title": "Stone Watermill on a Forest Stream at Autumn Dawn",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c329b1eb15f3.json"
+    },
     {
       "id": "opl_bd914c6af86d",
       "slug": "stone-watermill-scene-concept-brief-builder",
@@ -1122,15 +1131,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5b60ad5a52a1.json"
-    },
-    {
-      "id": "opl_772ab46d36a6",
-      "slug": "system-prompt-depersonaliser",
-      "title": "System Prompt Depersonaliser",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_772ab46d36a6.json"
     }
   ]
 }

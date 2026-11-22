@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 38,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_5ac7ce92f9c7",
+      "slug": "vintage-botanical-illustration-generator",
+      "title": "Vintage Botanical Illustration Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "subject",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5ac7ce92f9c7.json"
+    },
     {
       "id": "opl_19f51199bf22",
       "slug": "vintage-chromolithograph-plate-of-forest-mushrooms-and-mosses",
@@ -1109,15 +1123,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9299dc67f4d0.json"
-    },
-    {
-      "id": "opl_b21248e17468",
-      "slug": "writer",
-      "title": "writer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b21248e17468.json"
     }
   ]
 }

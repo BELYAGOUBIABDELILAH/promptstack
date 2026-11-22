@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 33,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_a1a9265d4649",
+      "slug": "software-engineer",
+      "title": "Software Engineer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a1a9265d4649.json"
+    },
     {
       "id": "opl_4e3f0211a941",
       "slug": "software-evaluation-assistant",
@@ -1003,15 +1012,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e6f812e202f5.json"
-    },
-    {
-      "id": "opl_c329b1eb15f3",
-      "slug": "stone-watermill-on-a-forest-stream-at-autumn-dawn",
-      "title": "Stone Watermill on a Forest Stream at Autumn Dawn",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c329b1eb15f3.json"
     }
   ]
 }

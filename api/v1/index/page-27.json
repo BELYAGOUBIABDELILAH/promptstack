@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 27,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_d1a59dabc21f",
+      "slug": "photoreal-snowy-owl-on-a-frosted-fence-post-at-dawn",
+      "title": "Photoreal Snowy Owl on a Frosted Fence Post at Dawn",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d1a59dabc21f.json"
+    },
     {
       "id": "opl_e56ca29468f5",
       "slug": "photoreal-sunbeam-falling-into-a-sandstone-slot-canyon",
@@ -1232,28 +1241,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_483c970d834d.json"
-    },
-    {
-      "id": "opl_10e752d241f4",
-      "slug": "present",
-      "title": "Present",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "desired_behavior",
-          "default": null
-        },
-        {
-          "name": "files_to_be_modified",
-          "default": null
-        },
-        {
-          "name": "symbol_and_action",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_10e752d241f4.json"
     }
   ]
 }

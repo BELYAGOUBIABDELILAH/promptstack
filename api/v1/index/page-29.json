@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 29,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_0e84fea10d58",
+      "slug": "protocol-2084-the-alleyway-hack",
+      "title": "Protocol 2084: The Alleyway Hack",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "year",
+          "default": "2084"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0e84fea10d58.json"
+    },
     {
       "id": "opl_301b7ea753a9",
       "slug": "provence-lavender-farmhouse-at-sunrise-image-to-video-animation",
@@ -1034,15 +1048,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8df43b5479b4.json"
-    },
-    {
-      "id": "opl_095582c166c0",
-      "slug": "recipe-finder",
-      "title": "Recipe Finder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_095582c166c0.json"
     }
   ]
 }

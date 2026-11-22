@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 35,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_772ab46d36a6",
+      "slug": "system-prompt-depersonaliser",
+      "title": "System Prompt Depersonaliser",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_772ab46d36a6.json"
+    },
     {
       "id": "opl_82ce913e9a7c",
       "slug": "system-prompt-doctor",
@@ -981,15 +990,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d9cc593cf6dd.json"
-    },
-    {
-      "id": "opl_2839f8542ad2",
-      "slug": "the-data-detective",
-      "title": "The Data Detective",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2839f8542ad2.json"
     }
   ]
 }

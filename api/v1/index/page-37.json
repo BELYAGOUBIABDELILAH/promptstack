@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T10:20:56.252Z",
+  "last_updated": "2026-11-22T11:21:00.494Z",
   "page": 37,
   "per_page": 100,
-  "total": 3837,
+  "total": 3838,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_e3ad4ae9d318",
+      "slug": "typescript-unit-testing-with-vitest",
+      "title": "TypeScript Unit Testing with Vitest",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e3ad4ae9d318.json"
+    },
     {
       "id": "opl_0d4d97f34e62",
       "slug": "typical-90-s-teen-boy",
@@ -1171,20 +1180,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_85737be60963.json"
-    },
-    {
-      "id": "opl_5ac7ce92f9c7",
-      "slug": "vintage-botanical-illustration-generator",
-      "title": "Vintage Botanical Illustration Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "subject",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5ac7ce92f9c7.json"
     }
   ]
 }
