@@ -13188,5 +13188,15 @@
     "slug": "praetor-v7-1-privacy-first-cv-self-assessment-system-prompt",
     "folder": "coding-development",
     "path": "prompts/coding-development/praetor-v7-1-privacy-first-cv-self-assessment-system-prompt.md"
+  },
+  {
+    "act": "School managment erp",
+    "category": "Coding & Development",
+    "prompt": "I want to build full school erp in Shell      | Electron (latest stable)            |\n| Frontend   | React + Vite + TypeScript           |\n| UI         | Ant Design v5                       |\n| State      | Zustand                             |\n| Database   | better-sqlite3, WAL mode            |\n| PDF/Print  | pdfmake + webContents.print         |\n| Excel      | exceljs                             |\n| Packaging  | electron-builder (NSIS, Windows x64)| FOR INDIA IN MULLTY LANGUAGE LIKE  ENGLISH & GUJARATI SO GIVE ME MASTER GOOD PLAN FOR AI AGENT  IN SCHOOL.MD ,AGENT SKILL.MS,ETC... FROM FRUNT TO BECKEND ETC... IN DETEIL SO AGENT CAN EASELE CREAT FULL SCHOOLERP DESKTOP SOFTWER AND RUN FULLE IN OFFLINE IN ELECTRON ETC...",
+    "source": "harichaudhary79900@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "school-managment-erp",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/school-managment-erp.md"
   }
 ]
