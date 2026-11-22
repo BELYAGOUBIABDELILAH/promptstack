@@ -1,7 +1,7 @@
 # Idea Reality Check - Am I Actually Onto Something?
 
-**Category:** Research & Analysis  
-**Source:** prompts.chat
+**Category:** Data & Analytics  
+**Source:** tealmcsteel@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -246,4 +246,4 @@
 > **Don't flatter the idea. Find out what's actually there.**
 
 ---
-[← Back to Research & Analysis](README.md) · [Main index](../../README.md)
+[← Back to Data & Analytics](README.md) · [Main index](../../README.md)

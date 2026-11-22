@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**56 prompts in this category**
+**55 prompts in this category**
 
 ## Table of Contents
 
@@ -20,7 +20,6 @@
 - [Expert Discrete Mathematics Exam Answering](expert-discrete-mathematics-exam-answering.md)
 - [Hiring Manager Interview Prep](hiring-manager-interview-prep.md)
 - [Humanize AI Text](humanize-ai-text.md)
-- [Idea Reality Check - Am I Actually Onto Something?](idea-reality-check-am-i-actually-onto-something.md)
 - [Incoming Message Decipherer](incoming-message-decipherer.md)
 - [Isometric Voxel Game Scene of a Mountain Hot Spring Inn](isometric-voxel-game-scene-of-a-mountain-hot-spring-inn.md)
 - [Leadership Coach](leadership-coach.md)

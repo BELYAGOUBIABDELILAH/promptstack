@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T03:20:52.007Z",
+  "last_updated": "2026-11-22T04:20:50.117Z",
   "total_categories": 19,
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "folder": "data-analytics",
       "name": "Data & Analytics",
-      "prompt_count": 317,
+      "prompt_count": 318,
       "url": "https://prompts.axiomrepo.tech/v1/categories/data-analytics.json"
     },
     {
@@ -71,7 +71,7 @@
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
-      "prompt_count": 55,
+      "prompt_count": 54,
       "url": "https://prompts.axiomrepo.tech/v1/categories/research-analysis.json"
     },
     {

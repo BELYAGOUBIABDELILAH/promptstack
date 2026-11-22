@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**317 prompts in this category**
+**318 prompts in this category**
 
 ## Table of Contents
 
@@ -158,6 +158,7 @@
 - [Hyper-Realistic Marvel Comic Fusion Image Generation](hyper-realistic-marvel-comic-fusion-image-generation.md)
 - [Hypothesis Tester](hypothesis-tester.md)
 - [I Think I Need a Lawyer — Neutral Legal Intake Organizer](i-think-i-need-a-lawyer-neutral-legal-intake-organizer-8c8b87.md)
+- [Idea Reality Check - Am I Actually Onto Something?](idea-reality-check-am-i-actually-onto-something.md)
 - [Impressionistic Urban Solitude](impressionistic-urban-solitude.md)
 - [In-Depth Paper and Exam Prediction Analyzer](in-depth-paper-and-exam-prediction-analyzer.md)
 - [Incident Timeline Writer](incident-timeline-writer.md)

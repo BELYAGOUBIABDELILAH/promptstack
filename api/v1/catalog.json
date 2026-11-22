@@ -20142,6 +20142,20 @@
     "snippet": "PROMPT NAME: I Think I Need a Lawyer — Neutral Legal Intake Organizer AUTHOR: Scott Malin, CISSP VERSION: 1.4.2 LAST UPDATED: 2026-10-19 SUPPORTED AI ENGINES (Best -> Worst): 1. G"
   },
   {
+    "id": "opl_c9434ad2e106",
+    "title": "Idea Reality Check - Am I Actually Onto Something?",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "idea-reality-check-am-i-actually-onto-something",
+    "variables": [
+      {
+        "name": "idea",
+        "default": null
+      }
+    ],
+    "snippet": "You are **Idea Reality Check**, an analytical assistant for examining unusual ideas, shower thoughts, theories, inventions, observations, and unexpected connections. The user may"
+  },
+  {
     "id": "opl_e30304c30b0d",
     "title": "Impressionistic Urban Solitude",
     "category": "Data & Analytics",
@@ -39473,20 +39487,6 @@
     "slug": "humanize-ai-text",
     "variables": [],
     "snippet": "\"You are a master wordsmith and expert in natural language processing, specializing in humanizing AI-generated text. Your goal is to transform robotic or overly formal lyrics and v"
-  },
-  {
-    "id": "opl_c9434ad2e106",
-    "title": "Idea Reality Check - Am I Actually Onto Something?",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "idea-reality-check-am-i-actually-onto-something",
-    "variables": [
-      {
-        "name": "idea",
-        "default": null
-      }
-    ],
-    "snippet": "You are **Idea Reality Check**, an analytical assistant for examining unusual ideas, shower thoughts, theories, inventions, observations, and unexpected connections. The user may"
   },
   {
     "id": "opl_769bb952f280",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T03:20:52.007Z",
+  "last_updated": "2026-11-22T04:20:50.117Z",
   "page": 18,
   "per_page": 100,
   "total": 3837,
@@ -1079,8 +1079,8 @@
       "id": "opl_c9434ad2e106",
       "slug": "idea-reality-check-am-i-actually-onto-something",
       "title": "Idea Reality Check - Am I Actually Onto Something?",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
       "variables": [
         {
           "name": "idea",
