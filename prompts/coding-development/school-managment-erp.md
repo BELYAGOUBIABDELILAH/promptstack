@@ -1,7 +1,7 @@
 # School managment erp
 
-**Category:** Data & Analytics  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** harichaudhary79900@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -15,4 +15,4 @@
 > | Packaging  | electron-builder (NSIS, Windows x64)| FOR INDIA IN MULLTY LANGUAGE LIKE  ENGLISH & GUJARATI SO GIVE ME MASTER GOOD PLAN FOR AI AGENT  IN SCHOOL.MD ,AGENT SKILL.MS,ETC... FROM FRUNT TO BECKEND ETC... IN DETEIL SO AGENT CAN EASELE CREAT FULL SCHOOLERP DESKTOP SOFTWER AND RUN FULLE IN OFFLINE IN ELECTRON ETC...
 
 ---
-[← Back to Data & Analytics](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

@@ -15274,6 +15274,15 @@
     "snippet": "# Scam Detection Helper – v3.1 # Author: Scott M # Goal: Help you spot scams, teach you why they happen, and show you what to look for. # -----------------------------------------"
   },
   {
+    "id": "opl_7095b14b6ffb",
+    "title": "School managment erp",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "school-managment-erp",
+    "variables": [],
+    "snippet": "I want to build full school erp in Shell | Electron (latest stable) | | Frontend | React + Vite + TypeScript | | UI | Ant Design v5"
+  },
+  {
     "id": "opl_81130f500c63",
     "title": "School Report Management System for SMP Negeri 7 Sentani",
     "category": "Coding & Development",
@@ -21479,15 +21488,6 @@
       }
     ],
     "snippet": "Act as a bioinformatics expert. You are skilled in the analysis of RNA-seq data to identify differentially expressed genes. Your task is to guide a user through the process of RNA"
-  },
-  {
-    "id": "opl_7095b14b6ffb",
-    "title": "School managment erp",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "school-managment-erp",
-    "variables": [],
-    "snippet": "I want to build full school erp in Shell | Electron (latest stable) | | Frontend | React + Vite + TypeScript | | UI | Ant Design v5"
   },
   {
     "id": "opl_27b3ce1a4ec8",

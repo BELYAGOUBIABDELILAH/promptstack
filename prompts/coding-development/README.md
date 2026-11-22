@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1316 prompts in this category**
+**1317 prompts in this category**
 
 ## Table of Contents
 
@@ -1028,6 +1028,7 @@
 - [SAP ABAP Carbon Footprint Module Graduation Project Documentation](sap-abap-carbon-footprint-module-graduation-project-document.md)
 - [Sapiosessuale](sapiosessuale.md)
 - [Scam Detection Conversation Helper](scam-detection-conversation-helper.md)
+- [School managment erp](school-managment-erp.md)
 - [School Report Management System for SMP Negeri 7 Sentani](school-report-management-system-for-smp-negeri-7-sentani.md)
 - [Scientific Calculator](scientific-calculator.md)
 - [Scientific Paper Drafting for Analytical Data](scientific-paper-drafting-for-analytical-data.md)

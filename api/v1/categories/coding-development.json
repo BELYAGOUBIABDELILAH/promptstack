@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-22T15:20:55.252Z",
-  "total": 1315,
+  "last_updated": "2026-11-22T16:20:54.680Z",
+  "total": 1316,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -19629,6 +19629,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e234d26fa7fe.json"
+    },
+    {
+      "id": "opl_7095b14b6ffb",
+      "slug": "school-managment-erp",
+      "title": "School managment erp",
+      "prompt": "I want to build full school erp in Shell      | Electron (latest stable)            |\n| Frontend   | React + Vite + TypeScript           |\n| UI         | Ant Design v5                       |\n| State      | Zustand                             |\n| Database   | better-sqlite3, WAL mode            |\n| PDF/Print  | pdfmake + webContents.print         |\n| Excel      | exceljs                             |\n| Packaging  | electron-builder (NSIS, Windows x64)| FOR INDIA IN MULLTY LANGUAGE LIKE  ENGLISH & GUJARATI SO GIVE ME MASTER GOOD PLAN FOR AI AGENT  IN SCHOOL.MD ,AGENT SKILL.MS,ETC... FROM FRUNT TO BECKEND ETC... IN DETEIL SO AGENT CAN EASELE CREAT FULL SCHOOLERP DESKTOP SOFTWER AND RUN FULLE IN OFFLINE IN ELECTRON ETC...",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_8ba665575068"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7095b14b6ffb.json"
     },
     {
       "id": "opl_81130f500c63",

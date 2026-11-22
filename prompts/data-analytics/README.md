@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**317 prompts in this category**
+**316 prompts in this category**
 
 ## Table of Contents
 
@@ -269,7 +269,6 @@
 - [Result](result.md)
 - [Resume To JSON](resume-to-json.md)
 - [RNA-Seq Analysis and Differential Gene Expression](rna-seq-analysis-and-differential-gene-expression.md)
-- [School managment erp](school-managment-erp.md)
 - [Scientific Data Visualizer](scientific-data-visualizer.md)
 - [Scientific Drawing Assistant](scientific-drawing-assistant.md)
 - [Seaside walker](seaside-walker.md)
