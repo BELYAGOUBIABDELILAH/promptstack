@@ -1,7 +1,7 @@
 # Reactivating Suspended Amazon Seller Account
 
-**Category:** Research & Analysis  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** eemreyasar@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -17,4 +17,4 @@
 > - Maintain professionalism and confidentiality throughout the process.
 
 ---
-[← Back to Research & Analysis](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

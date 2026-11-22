@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1312 prompts in this category**
+**1313 prompts in this category**
 
 ## Table of Contents
 
@@ -977,6 +977,7 @@
 - [Rate This Toilet](rate-this-toilet.md)
 - [React / Next.js Frontend Architect](react-next-js-frontend-architect.md)
 - [React Native App taste](react-native-app-taste.md)
+- [Reactivating Suspended Amazon Seller Account](reactivating-suspended-amazon-seller-account.md)
 - [Readability Logic Simulator](readability-logic-simulator.md)
 - [README Page Generator](readme-page-generator.md)
 - [Real-Time Geological Disaster Information Query](real-time-geological-disaster-information-query.md)

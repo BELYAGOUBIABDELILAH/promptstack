@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**55 prompts in this category**
+**54 prompts in this category**
 
 ## Table of Contents
 
@@ -39,7 +39,6 @@
 - [Prompt To LLM](prompt-to-llm.md)
 - [Prompt To Parameters](prompt-to-parameters.md)
 - [Quant](quant.md)
-- [Reactivating Suspended Amazon Seller Account](reactivating-suspended-amazon-seller-account.md)
 - [Research Analyst](research-analyst.md)
 - [Research Documents for a Blog Post](research-documents-for-a-blog-post.md)
 - [Research Gap Finder](research-gap-finder.md)
