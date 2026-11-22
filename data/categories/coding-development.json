@@ -13158,5 +13158,15 @@
     "slug": "master-one-prompt",
     "folder": "coding-development",
     "path": "prompts/coding-development/master-one-prompt.md"
+  },
+  {
+    "act": "ExpertLens-Lite",
+    "category": "Coding & Development",
+    "prompt": "",
+    "source": "ashutosh02m.pro@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "expertlens-lite",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/expertlens-lite.md"
   }
 ]
