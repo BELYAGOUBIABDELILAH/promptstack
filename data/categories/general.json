@@ -1638,5 +1638,15 @@
     "slug": "aws-transform",
     "folder": "general",
     "path": "prompts/general/aws-transform.md"
+  },
+  {
+    "act": "TikTok Video Style Prompt Generator",
+    "category": "General",
+    "prompt": "https://vt.tiktok.com/ZSbQrYHAw/ generate a prompt i can use to make such vidoes",
+    "source": "kibuuka.rogers96@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "tiktok-video-style-prompt-generator",
+    "folder": "general",
+    "path": "prompts/general/tiktok-video-style-prompt-generator.md"
   }
 ]
