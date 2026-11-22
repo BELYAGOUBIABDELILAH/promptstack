@@ -1,6 +1,6 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-22T00:20:53.581Z",
+  "last_updated": "2026-11-22T01:20:51.322Z",
   "total_prompts": 3837,
   "source_records": 3840,
   "total_sources": 423,
@@ -20,7 +20,7 @@
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1311,
+      "prompt_count": 1312,
       "url": "https://prompts.axiomrepo.tech/v1/categories/coding-development.json"
     },
     {
@@ -86,7 +86,7 @@
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
-      "prompt_count": 56,
+      "prompt_count": 55,
       "url": "https://prompts.axiomrepo.tech/v1/categories/research-analysis.json"
     },
     {

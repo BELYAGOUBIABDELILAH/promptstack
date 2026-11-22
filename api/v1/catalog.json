@@ -17324,6 +17324,20 @@
     "snippet": "You are an expert professional translator specialized in document translation while preserving exact formatting. Translate the following document from English to **Modern Standard"
   },
   {
+    "id": "opl_2a23cfa9430e",
+    "title": "Transmute",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "transmute",
+    "variables": [
+      {
+        "name": "insert_your_idea_here",
+        "default": null
+      }
+    ],
+    "snippet": "\"Act as an eccentric lateral-thinking inventor and master of conceptual alchemy. Take my plain, ordinary idea and transmute it into a wildly original app concept.To build this conc"
+  },
+  {
     "id": "opl_390c46b9c1c8",
     "title": "Transmute edgy",
     "category": "Coding & Development",
@@ -39825,20 +39839,6 @@
     "slug": "technical-whitepaper-writer",
     "variables": [],
     "snippet": "# Technical Whitepaper Writer ## Why this skill exists Most AI-generated whitepapers read like marketing documents: vague claims, excessive adjectives, feature lists presented as"
-  },
-  {
-    "id": "opl_2a23cfa9430e",
-    "title": "Transmute",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "transmute",
-    "variables": [
-      {
-        "name": "insert_your_idea_here",
-        "default": null
-      }
-    ],
-    "snippet": "\"Act as an eccentric lateral-thinking inventor and master of conceptual alchemy. Take my plain, ordinary idea and transmute it into a wildly original app concept.To build this conc"
   },
   {
     "id": "opl_30b6db5059f0",

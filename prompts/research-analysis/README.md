@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**57 prompts in this category**
+**56 prompts in this category**
 
 ## Table of Contents
 
@@ -60,6 +60,5 @@
 - [Teach me module 2](teach-me-module-2.md)
 - [Tech Stack Optimiser](tech-stack-optimiser.md)
 - [technical-whitepaper-writer](technical-whitepaper-writer.md)
-- [Transmute](transmute.md)
 - [UX Conversion Deconstruction Engine](ux-conversion-deconstruction-engine.md)
 - [Weekly Updates for 1:1](weekly-updates-for-1-1.md)

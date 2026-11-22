@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T00:20:53.581Z",
+  "last_updated": "2026-11-22T01:20:51.322Z",
   "page": 36,
   "per_page": 100,
   "total": 3837,
@@ -716,8 +716,8 @@
       "id": "opl_2a23cfa9430e",
       "slug": "transmute",
       "title": "Transmute",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [
         {
           "name": "insert_your_idea_here",
