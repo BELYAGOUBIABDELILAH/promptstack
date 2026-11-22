@@ -1,7 +1,7 @@
 # Code Review by CodeRabit
 
-**Category:** Data & Analytics  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** faisalbhuiyan30389@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -35,4 +35,4 @@
 > Provide your review in a clear, actionable format with specific line references and code suggestions where applicable.
 
 ---
-[← Back to Data & Analytics](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

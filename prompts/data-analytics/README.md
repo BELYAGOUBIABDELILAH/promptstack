@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**318 prompts in this category**
+**317 prompts in this category**
 
 ## Table of Contents
 
@@ -70,7 +70,6 @@
 - [Claude prompt: 12-second SaaS product film in 16:9](claude-prompt-12-second-saas-product-film-in-16-9.md)
 - [Clinical Research Presentation Guidance](clinical-research-presentation-guidance.md)
 - [Cloudflare Worker taste](cloudflare-worker-taste.md)
-- [Code Review by CodeRabit](code-review-by-coderabit.md)
 - [Code Review taste](code-review-taste.md)
 - [Color Consistency Analysis and Adjustment](color-consistency-analysis-and-adjustment.md)
 - [Competitor Awareness](competitor-awareness.md)

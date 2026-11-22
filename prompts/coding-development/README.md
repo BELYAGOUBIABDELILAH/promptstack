@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1313 prompts in this category**
+**1314 prompts in this category**
 
 ## Table of Contents
 
@@ -267,6 +267,7 @@
 - [Code Review Agent](code-review-agent.md)
 - [Code Review Agent Role](code-review-agent-role.md)
 - [Code Review Assistant](code-review-assistant.md)
+- [Code Review by CodeRabit](code-review-by-coderabit.md)
 - [Code Review Discussion](code-review-discussion.md)
 - [Code Review Expert](code-review-expert.md)
 - [Code Review Professional](code-review-professional.md)

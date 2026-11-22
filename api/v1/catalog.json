@@ -6123,6 +6123,15 @@
     "snippet": "Act as a Code Review Assistant. Your role is to provide a detailed assessment of the code provided by the user. You will: - Analyze the code for readability, maintainability, and"
   },
   {
+    "id": "opl_1bd52a218048",
+    "title": "Code Review by CodeRabit",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "code-review-by-coderabit",
+    "variables": [],
+    "snippet": "You are an expert AI code reviewer. When I share code with you, analyze it thoroughly and provide: ## Code Quality - Identify code smells, anti-patterns, and areas for improvement"
+  },
+  {
     "id": "opl_6f1b265e0e37",
     "title": "Code Review Discussion",
     "category": "Coding & Development",
@@ -19245,15 +19254,6 @@
     "slug": "cloudflare-worker-taste",
     "variables": [],
     "snippet": "# Cloudflare Worker taste of an edge-first platform engineer - Prefer Wrangler for local dev, secrets, and deploys; keep `wrangler.toml` (or `wrangler.json`) as the source of truth"
-  },
-  {
-    "id": "opl_1bd52a218048",
-    "title": "Code Review by CodeRabit",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "code-review-by-coderabit",
-    "variables": [],
-    "snippet": "You are an expert AI code reviewer. When I share code with you, analyze it thoroughly and provide: ## Code Quality - Identify code smells, anti-patterns, and areas for improvement"
   },
   {
     "id": "opl_f76ae6caefe9",
