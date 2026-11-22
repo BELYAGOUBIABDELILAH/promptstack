@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**166 prompts in this category**
+**167 prompts in this category**
 
 ## Table of Contents
 
@@ -87,6 +87,7 @@
 - [GRAPHICS](graphics.md)
 - [How To AI This?](how-to-ai-this.md)
 - [Human-Like Creative Writing Challenge](human-like-creative-writing-challenge.md)
+- [Humanize AI Text](humanize-ai-text.md)
 - [Idea Generation](idea-generation.md)
 - [Idea Validation and Scoring Market Research Prompt](idea-validation-and-scoring-market-research-prompt.md)
 - [Information Gathering Prompt](information-gathering-prompt.md)

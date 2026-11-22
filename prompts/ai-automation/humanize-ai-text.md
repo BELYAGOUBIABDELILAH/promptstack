@@ -1,7 +1,7 @@
 # Humanize AI Text
 
-**Category:** Research & Analysis  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** samsungeindia@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -37,4 +37,4 @@
 > "
 
 ---
-[← Back to Research & Analysis](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

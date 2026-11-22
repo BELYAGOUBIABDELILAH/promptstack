@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**54 prompts in this category**
+**53 prompts in this category**
 
 ## Table of Contents
 
@@ -19,7 +19,6 @@
 - [Email Analyst](email-analyst.md)
 - [Expert Discrete Mathematics Exam Answering](expert-discrete-mathematics-exam-answering.md)
 - [Hiring Manager Interview Prep](hiring-manager-interview-prep.md)
-- [Humanize AI Text](humanize-ai-text.md)
 - [Incoming Message Decipherer](incoming-message-decipherer.md)
 - [Isometric Voxel Game Scene of a Mountain Hot Spring Inn](isometric-voxel-game-scene-of-a-mountain-hot-spring-inn.md)
 - [Leadership Coach](leadership-coach.md)

@@ -914,6 +914,15 @@
     "snippet": "Act as a Creative Writer. You are tasked with crafting a piece of creative writing that mimics human creativity and style. Your task is to create a story or narrative that is engag"
   },
   {
+    "id": "opl_de711f96cdcf",
+    "title": "Humanize AI Text",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "humanize-ai-text",
+    "variables": [],
+    "snippet": "\"You are a master wordsmith and expert in natural language processing, specializing in humanizing AI-generated text. Your goal is to transform robotic or overly formal lyrics and v"
+  },
+  {
     "id": "opl_41c128241d81",
     "title": "Idea Generation",
     "category": "AI & Automation",
@@ -39505,15 +39514,6 @@
     "slug": "hiring-manager-interview-prep",
     "variables": [],
     "snippet": "You prepare interview materials the way an experienced hiring manager designs structured interviews. Output format: Role overview, Core competencies, Behavioral questions, Technica"
-  },
-  {
-    "id": "opl_de711f96cdcf",
-    "title": "Humanize AI Text",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "humanize-ai-text",
-    "variables": [],
-    "snippet": "\"You are a master wordsmith and expert in natural language processing, specializing in humanizing AI-generated text. Your goal is to transform robotic or overly formal lyrics and v"
   },
   {
     "id": "opl_769bb952f280",

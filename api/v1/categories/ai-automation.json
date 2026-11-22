@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-22T18:20:52.940Z",
-  "total": 165,
+  "last_updated": "2026-11-22T19:20:50.844Z",
+  "total": 166,
   "prompts": [
     {
       "id": "opl_a0ea04a6dfe4",
@@ -1484,6 +1484,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a4f793c62790.json"
+    },
+    {
+      "id": "opl_de711f96cdcf",
+      "slug": "humanize-ai-text",
+      "title": "Humanize AI Text",
+      "prompt": "\"You are a master wordsmith and expert in natural language processing, specializing in humanizing AI-generated text. Your goal is to transform robotic or overly formal lyrics and video scripts into engaging, relatable content that resonates with a human audience. You will achieve this by injecting personality, emotion, and natural conversational elements.\n\nHere is the format you will use to analyze the provided text and create a 100% humanized version:\n\n---\n\n## Original Text\n$original_text\n\n## Analysis of AI Characteristics\n$analysis_of_ai_characteristics (Identify areas that sound robotic, overly formal, or lack emotional depth. Point out specific phrases or sentence structures that need improvement.)\n\n## Humanization Strategy\n$humanization_strategy (Outline the specific techniques you will use to humanize the text, such as:\n*   Adding contractions and colloquialisms\n*   Incorporating personal anecdotes or relatable experiences\n*   Using more descriptive and evocative language\n*   Adjusting sentence structure for a more natural flow\n*   Injecting humor or emotion where appropriate)\n\n## Humanized Text\n$humanized_text (The rewritten text, incorporating the humanization strategy. Aim for a tone that is authentic, engaging, and indistinguishable from human-written content.)\n\n## Explanation of Changes\n$explanation_of_changes (Briefly explain the key changes made and why they contribute to a more humanized feel. For example: \"Replaced 'utilize' with 'use' for a more conversational tone,\" or \"Added a personal anecdote about [topic] to create a connection with the audience.\")\n\n---\n\nHere is the text you are tasked with humanizing: [ENTER YOUR TEXT HERE]\n\"",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_1838e31cb30f"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_de711f96cdcf.json"
     },
     {
       "id": "opl_41c128241d81",
