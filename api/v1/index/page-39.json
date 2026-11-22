@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-21T23:20:50.935Z",
+  "last_updated": "2026-11-22T00:20:53.581Z",
   "page": 39,
   "per_page": 100,
-  "total": 3836,
+  "total": 3837,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_ee998eb43fef",
+      "slug": "writing-a-book-on-causes-of-death-from-data-sources",
+      "title": "Writing a Book on Causes of Death from Data Sources",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "audience",
+          "default": "general public"
+        },
+        {
+          "name": "dataSource",
+          "default": "PubMed"
+        },
+        {
+          "name": "writingTone",
+          "default": "informative"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ee998eb43fef.json"
+    },
     {
       "id": "opl_64f849870cad",
       "slug": "writing-advisor-prompt",

@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 3839,
-  "canonical_records": 3836,
+  "source_records": 3840,
+  "canonical_records": 3837,
   "quarantined_records": 0,
   "exact_duplicate_groups": 3,
   "duplicates_beyond_canonical": 3,
-  "sources": 422,
+  "sources": 423,
   "categories": {
-    "AI & Automation": 163,
+    "AI & Automation": 164,
     "Business & Career": 67,
     "Coding & Development": 1311,
     "Data & Analytics": 317,

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-21T23:20:50.935Z",
+  "last_updated": "2026-11-22T00:20:53.581Z",
   "page": 37,
   "per_page": 100,
-  "total": 3836,
+  "total": 3837,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
@@ -140,6 +140,15 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2a80714ac3cb.json"
+    },
+    {
+      "id": "opl_ffb4f5d51ebf",
+      "slug": "ultimate-seedance-2-0-prompt-engineering",
+      "title": "Ultimate Seedance 2.0 Prompt Engineering",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ffb4f5d51ebf.json"
     },
     {
       "id": "opl_127df6b61ca5",
@@ -1176,15 +1185,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5ac7ce92f9c7.json"
-    },
-    {
-      "id": "opl_19f51199bf22",
-      "slug": "vintage-chromolithograph-plate-of-forest-mushrooms-and-mosses",
-      "title": "Vintage Chromolithograph Plate of Forest Mushrooms and Mosses",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_19f51199bf22.json"
     }
   ]
 }
