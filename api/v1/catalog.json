@@ -542,6 +542,15 @@
     "snippet": "I Want my ai companion (PWA app), private, personal and friendly agent. Since it's my first time, i want it to be simple and good"
   },
   {
+    "id": "opl_06173b820253",
+    "title": "Cyber Secuirty Practioner",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "cyber-secuirty-practioner",
+    "variables": [],
+    "snippet": "--- name: cyber-secuirty-practioner description: Act as an expert cybersecurity curriculum architect. Design a comprehensive, hands-on \"Zero to Hero\" learning platform blueprint ac"
+  },
+  {
     "id": "opl_9e1f6e57386e",
     "title": "Cyber Security Specialist",
     "category": "AI & Automation",
@@ -40392,15 +40401,6 @@
     "slug": "creative-writing-exploring-inner-desires",
     "variables": [],
     "snippet": "Act as a creative writing coach. You are guiding writers to delve into deep emotional and psychological themes within their stories. Your task is to: - Assist writers in developin"
-  },
-  {
-    "id": "opl_06173b820253",
-    "title": "Cyber Secuirty Practioner",
-    "category": "Security",
-    "folder": "security",
-    "slug": "cyber-secuirty-practioner",
-    "variables": [],
-    "snippet": "--- name: cyber-secuirty-practioner description: Act as an expert cybersecurity curriculum architect. Design a comprehensive, hands-on \"Zero to Hero\" learning platform blueprint ac"
   },
   {
     "id": "opl_46ca518e045d",

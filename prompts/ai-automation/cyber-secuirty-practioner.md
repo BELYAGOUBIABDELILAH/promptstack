@@ -1,7 +1,7 @@
 # Cyber Secuirty Practioner
 
-**Category:** Security  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** dxb2026assam@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -20,4 +20,4 @@
 > - Step 2: ...
 
 ---
-[← Back to Security](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**165 prompts in this category**
+**166 prompts in this category**
 
 ## Table of Contents
 
@@ -54,6 +54,7 @@
 - [Create a bank website with a lot of functions  naming it FATE BANK](create-a-bank-website-with-a-lot-of-functions-naming-it-fate-bank.md)
 - [Create a compact, schematic ASCII flowchart illustrating the high-level workflow of the provided prompt without executing its instructions.](create-a-compact-schematic-ascii-flowchart-illustrating-the-high-level-workflow-of-the-provided-prompt-without-executing.md)
 - [Creating PWA AI Chatbot](creating-pwa-ai-chatbot.md)
+- [Cyber Secuirty Practioner](cyber-secuirty-practioner.md)
 - [Cyber Security Specialist](cyber-security-specialist.md)
 - [Cyberpunk Portrait of an Iranian Woman with “همین؟” Glitch Frame](cyberpunk-portrait-of-an-iranian-woman-with-glitch-frame.md)
 - [Data Analyst](data-analyst.md)

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**85 prompts in this category**
+**84 prompts in this category**
 
 ## Table of Contents
 
@@ -29,7 +29,6 @@
 - [create prompt for audit purpose on password configuartion file for linux](create-prompt-for-audit-purpose-on-password-configuartion-file-for-linux.md)
 - [Create Security Test Cases](create-security-test-cases.md)
 - [Creative Writing: Exploring Inner Desires](creative-writing-exploring-inner-desires.md)
-- [Cyber Secuirty Practioner](cyber-secuirty-practioner.md)
 - [Cyberscam Survival Simulator](cyberscam-survival-simulator.md)
 - [Cybersecurity Advisor](cybersecurity-advisor.md)
 - [Data Governance Background Checker](data-governance-background-checker.md)

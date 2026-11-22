@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T04:20:50.117Z",
+  "last_updated": "2026-11-22T05:20:48.347Z",
   "total_categories": 19,
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "folder": "ai-automation",
       "name": "AI & Automation",
-      "prompt_count": 164,
+      "prompt_count": 165,
       "url": "https://prompts.axiomrepo.tech/v1/categories/ai-automation.json"
     },
     {
@@ -53,7 +53,7 @@
     {
       "folder": "security",
       "name": "Security",
-      "prompt_count": 85,
+      "prompt_count": 84,
       "url": "https://prompts.axiomrepo.tech/v1/categories/security.json"
     },
     {

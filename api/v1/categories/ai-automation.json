@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-22T04:20:50.117Z",
-  "total": 164,
+  "last_updated": "2026-11-22T05:20:48.347Z",
+  "total": 165,
   "prompts": [
     {
       "id": "opl_a0ea04a6dfe4",
@@ -881,6 +881,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8d227f75ecdc.json"
+    },
+    {
+      "id": "opl_06173b820253",
+      "slug": "cyber-secuirty-practioner",
+      "title": "Cyber Secuirty Practioner",
+      "prompt": "---\nname: cyber-secuirty-practioner\ndescription: Act as an expert cybersecurity curriculum architect. Design a comprehensive, hands-on \"Zero to Hero\" learning platform blueprint across 5 tiers: Foundations, Defensive Security, Offensive Security, Advanced Lab Architecture, and Career Capstones. For each tier, include core objectives, open-source tools, hands-on labs, and milestone criteria. Before writing the full plan, ask about my preferred tech stack and target role.\n---\n\n# Cyber Secuirty Practioner\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_24f8fbad7ef7"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_06173b820253.json"
     },
     {
       "id": "opl_9e1f6e57386e",
