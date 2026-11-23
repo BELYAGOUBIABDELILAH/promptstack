@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-23T10:20:48.218Z",
-  "total": 1320,
+  "last_updated": "2026-11-23T11:21:01.665Z",
+  "total": 1321,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -5466,6 +5466,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d31f300773e7.json"
+    },
+    {
+      "id": "opl_0d379aec3b08",
+      "slug": "cold-drink-can-html5-animation-website",
+      "title": "Cold Drink Can HTML5 Animation Website",
+      "prompt": "Make me a professional html5 website of cold drink can animation, which roams to different and different positions when we scroll and then add text of a website named coca cola",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_e0dcb8dd2315"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0d379aec3b08.json"
     },
     {
       "id": "opl_acd96440abae",

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**161 prompts in this category**
+**160 prompts in this category**
 
 ## Table of Contents
 
@@ -36,7 +36,6 @@
 - [Classical Music Composer](classical-music-composer.md)
 - [Clone](clone.md)
 - [Cocktail videos](cocktail-videos.md)
-- [Cold Drink Can HTML5 Animation Website](cold-drink-can-html5-animation-website.md)
 - [Comment Text Isolator](comment-text-isolator.md)
 - [Comments Summariser](comments-summariser.md)
 - [Commercial Kitchen Pre Fabrication](commercial-kitchen-pre-fabrication.md)

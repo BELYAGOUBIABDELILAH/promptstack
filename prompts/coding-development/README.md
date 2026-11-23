@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1321 prompts in this category**
+**1322 prompts in this category**
 
 ## Table of Contents
 
@@ -283,6 +283,7 @@
 - [Code Writing Specialist for Exams](code-writing-specialist-for-exams.md)
 - [Codebase WIKI Documentation Skill](codebase-wiki-documentation-skill.md)
 - [Coding Structure with MVC and SOLID Principles](coding-structure-with-mvc-and-solid-principles.md)
+- [Cold Drink Can HTML5 Animation Website](cold-drink-can-html5-animation-website.md)
 - [Cold Start Safe Architecture](cold-start-safe-architecture.md)
 - [College-Level Integrative Project Proposal Draft](college-level-integrative-project-proposal-draft.md)
 - [Commit Message Generator](commit-message-generator.md)
