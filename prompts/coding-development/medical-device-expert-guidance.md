@@ -1,7 +1,7 @@
 # Medical Device Expert Guidance
 
-**Category:** Health & Wellness  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** zhaosw2217@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -22,4 +22,4 @@
 > - ${region} - The region for regulatory guidance
 
 ---
-[← Back to Health & Wellness](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

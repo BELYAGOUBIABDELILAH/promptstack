@@ -2061,7 +2061,7 @@
     "id": "src_c7372fdd4131",
     "name": "prompts.chat",
     "status": "needs-review",
-    "record_count": 960,
+    "record_count": 959,
     "note": "Preserved from the legacy export; review before claiming provenance."
   },
   {
@@ -2977,6 +2977,13 @@
   {
     "id": "src_d18789f7a95a",
     "name": "zhaoliminlawyer@gmail.com (prompts.chat)",
+    "status": "needs-review",
+    "record_count": 1,
+    "note": "Preserved from the legacy export; review before claiming provenance."
+  },
+  {
+    "id": "src_8f2e100a19a7",
+    "name": "zhaosw2217@gmail.com (prompts.chat)",
     "status": "needs-review",
     "record_count": 1,
     "note": "Preserved from the legacy export; review before claiming provenance."

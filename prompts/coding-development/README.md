@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1319 prompts in this category**
+**1320 prompts in this category**
 
 ## Table of Contents
 
@@ -768,6 +768,7 @@
 - [MCP Resource Locator](mcp-resource-locator.md)
 - [MCP Server Finder](mcp-server-finder.md)
 - [Medical Appointment Notes Prepper](medical-appointment-notes-prepper.md)
+- [Medical Device Expert Guidance](medical-device-expert-guidance.md)
 - [Medieval Illuminated Manuscript Page of a Beekeeper Tending Straw Skeps](medieval-illuminated-manuscript-page-of-a-beekeeper-tending-straw-skeps.md)
 - [Meditation Timer](meditation-timer.md)
 - [Meeting Agenda Generator](meeting-agenda-generator.md)

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**45 prompts in this category**
+**44 prompts in this category**
 
 ## Table of Contents
 
@@ -37,7 +37,6 @@
 - [Letter from Lisa: A Heartfelt Plea to Her Father](letter-from-lisa-a-heartfelt-plea-to-her-father.md)
 - [Life Coach](life-coach.md)
 - [Making basic MCQ questions for entrance](making-basic-mcq-questions-for-entrance.md)
-- [Medical Device Expert Guidance](medical-device-expert-guidance.md)
 - [Medication Name Translator](medication-name-translator.md)
 - [Mental Health Adviser](mental-health-adviser.md)
 - [Nutritionist](nutritionist.md)

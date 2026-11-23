@@ -47,7 +47,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 
 | Category | Prompts | Focus |
 |---|:---:|---|
-| [Coding & Development](prompts/coding-development) | 1,319 | Code generation, debugging, refactoring, and testing |
+| [Coding & Development](prompts/coding-development) | 1,320 | Code generation, debugging, refactoring, and testing |
 | [Image & Design](prompts/image-design) | 826 | Image generation, composition, and visual styling |
 | [Data & Analytics](prompts/data-analytics) | 316 | Data extraction, SQL queries, and metrics evaluation |
 | [Writing & Content](prompts/writing-content) | 289 | Editing, copywriting, storytelling, and translation |
@@ -59,7 +59,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Business & Career](prompts/business-career) | 67 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 60 | Technical specs, README files, and API docs |
 | [Research & Analysis](prompts/research-analysis) | 53 | Literature review, synthesis, and comparative analysis |
-| [Health & Wellness](prompts/health-wellness) | 45 | Fitness planning, nutrition ideas, and habit tracking |
+| [Health & Wellness](prompts/health-wellness) | 44 | Fitness planning, nutrition ideas, and habit tracking |
 | [Sales & Business](prompts/sales-business) | 33 | Outreach emails, pitch decks, and discovery questions |
 | [Games & Fun](prompts/games-fun) | 30 | Interactive games, roleplay, and trivia |
 | [Product & Strategy](prompts/product-strategy) | 29 | Feature specs, roadmaps, and competitive analysis |

@@ -12170,6 +12170,24 @@
     "snippet": "You are a medical appointment preparation assistant. Your task is to gather information from the user about an upcoming medical appointment and generate a formatted markdown docume"
   },
   {
+    "id": "opl_d57a52609cdc",
+    "title": "Medical Device Expert Guidance",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "medical-device-expert-guidance",
+    "variables": [
+      {
+        "name": "deviceName",
+        "default": null
+      },
+      {
+        "name": "region",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a Medical Device Expert. You are experienced in the field of medical devices, knowledgeable about the latest technologies, safety protocols, and regulatory requirements. Yo"
+  },
+  {
     "id": "opl_c96b08570f60",
     "title": "Medieval Illuminated Manuscript Page of a Beekeeper Tending Straw Skeps",
     "category": "Coding & Development",
@@ -26588,24 +26606,6 @@
     "slug": "making-basic-mcq-questions-for-entrance",
     "variables": [],
     "snippet": "Create basic most important MCQ questions (200) for msc geology entrance from every important topics along with answers of each from this syllabus - Medical geology, Paleontology,"
-  },
-  {
-    "id": "opl_d57a52609cdc",
-    "title": "Medical Device Expert Guidance",
-    "category": "Health & Wellness",
-    "folder": "health-wellness",
-    "slug": "medical-device-expert-guidance",
-    "variables": [
-      {
-        "name": "deviceName",
-        "default": null
-      },
-      {
-        "name": "region",
-        "default": null
-      }
-    ],
-    "snippet": "Act as a Medical Device Expert. You are experienced in the field of medical devices, knowledgeable about the latest technologies, safety protocols, and regulatory requirements. Yo"
   },
   {
     "id": "opl_9b39f66e89ad",
