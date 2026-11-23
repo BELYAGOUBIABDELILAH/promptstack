@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 24,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_d723cf8c0776",
+      "slug": "monorepo-taste",
+      "title": "Monorepo taste",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d723cf8c0776.json"
+    },
     {
       "id": "opl_f650a97fcba5",
       "slug": "monotonous-newsletter-maker",
@@ -1043,15 +1052,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a1ea772ae7a0.json"
-    },
-    {
-      "id": "opl_6d94ee619fb1",
-      "slug": "nightclub-mirror-selfie",
-      "title": "Nightclub Mirror Selfie",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6d94ee619fb1.json"
     }
   ]
 }

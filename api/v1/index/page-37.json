@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 37,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_bd5f7f631474",
+      "slug": "typescript-type-expert-agent-role",
+      "title": "TypeScript Type Expert Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd5f7f631474.json"
+    },
     {
       "id": "opl_e3ad4ae9d318",
       "slug": "typescript-unit-testing-with-vitest",
@@ -1171,15 +1180,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_703fddca8ff0.json"
-    },
-    {
-      "id": "opl_85737be60963",
-      "slug": "vintage-black-and-white-photograph-of-galata-tower",
-      "title": "Vintage Black and White Photograph of Galata Tower",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_85737be60963.json"
     }
   ]
 }

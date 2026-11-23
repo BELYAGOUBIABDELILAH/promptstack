@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 32,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_8bda7cf67889",
+      "slug": "senior-system-architect-agent",
+      "title": "Senior System Architect Agent",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "businessObjective",
+          "default": null
+        },
+        {
+          "name": "projectName",
+          "default": null
+        },
+        {
+          "name": "technologyStack",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8bda7cf67889.json"
+    },
     {
       "id": "opl_fa0ca5ec5478",
       "slug": "sensory-processing-support",
@@ -1192,15 +1214,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7f389a31500d.json"
-    },
-    {
-      "id": "opl_2283ab04fdf0",
-      "slug": "software-discovery-system-prompt-generator",
-      "title": "Software Discovery System Prompt Generator",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2283ab04fdf0.json"
     }
   ]
 }

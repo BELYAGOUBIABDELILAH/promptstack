@@ -12340,6 +12340,24 @@
     "snippet": "{ \"prompt\": \"You will perform an image edit using the people from the provided photos as the main subjects. Preserve their core likeness but render them as charming, handcrafted"
   },
   {
+    "id": "opl_5b5f082dde5a",
+    "title": "Miniature Objects and Molecules",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "miniature-objects-and-molecules",
+    "variables": [
+      {
+        "name": "input_language",
+        "default": null
+      },
+      {
+        "name": "input_object",
+        "default": null
+      }
+    ],
+    "snippet": "Prompt: ${input_object}: (anything you want to be the subject) ${input_language}: English (any language you want) --- System Instruction: Generate a hyper-realistic, scientifically"
+  },
+  {
     "id": "opl_3f6de879debf",
     "title": "Minimal Web-Compatible Food Order App Development",
     "category": "Coding & Development",

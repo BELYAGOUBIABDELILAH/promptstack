@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 35,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_5b60ad5a52a1",
+      "slug": "system-prompt-creator-q-a-workflow",
+      "title": "System Prompt Creator - Q&A Workflow",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5b60ad5a52a1.json"
+    },
     {
       "id": "opl_772ab46d36a6",
       "slug": "system-prompt-depersonaliser",
@@ -981,15 +990,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dcb4a5d45c09.json"
-    },
-    {
-      "id": "opl_d9cc593cf6dd",
-      "slug": "the-curriculum-mapping-prompt",
-      "title": "The curriculum mapping prompt.",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d9cc593cf6dd.json"
     }
   ]
 }

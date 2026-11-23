@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1317 prompts in this category**
+**1318 prompts in this category**
 
 ## Table of Contents
 
@@ -784,6 +784,7 @@
 - [Mindful Mandala & Zen Geometric Patterns](mindful-mandala-zen-geometric-patterns.md)
 - [Mine](mine.md)
 - [Miniature Claymation Adventures on the Mushroom Cap](miniature-claymation-adventures-on-the-mushroom-cap.md)
+- [Miniature Objects and Molecules](miniature-objects-and-molecules.md)
 - [Minimal Web-Compatible Food Order App Development](minimal-web-compatible-food-order-app-development.md)
 - [Minimalist Fisherman Illustration](minimalist-fisherman-illustration.md)
 - [Minimalist Graphic Illustration of a Stylized Dachshund](minimalist-graphic-illustration-of-a-stylized-dachshund.md)

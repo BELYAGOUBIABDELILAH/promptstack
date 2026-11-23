@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 30,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prompts": [
+    {
+      "id": "opl_8df43b5479b4",
+      "slug": "rechargeable-battery-expert",
+      "title": "Rechargeable Battery Expert",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8df43b5479b4.json"
+    },
     {
       "id": "opl_095582c166c0",
       "slug": "recipe-finder",
@@ -1093,15 +1102,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a3dcc5427846.json"
-    },
-    {
-      "id": "opl_3db69b9d2bfb",
-      "slug": "root-cause-analysis-agent-role",
-      "title": "Root Cause Analysis Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3db69b9d2bfb.json"
     }
   ]
 }

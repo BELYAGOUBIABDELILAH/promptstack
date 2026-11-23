@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 27,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_1256b910cc4a",
+      "slug": "photoreal-snow-leopard-on-a-himalayan-ridge-above-the-clouds-at-dawn",
+      "title": "Photoreal Snow Leopard on a Himalayan Ridge Above the Clouds at Dawn",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1256b910cc4a.json"
+    },
     {
       "id": "opl_d1a59dabc21f",
       "slug": "photoreal-snowy-owl-on-a-frosted-fence-post-at-dawn",
@@ -1227,20 +1236,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_53df5ecf3e0f.json"
-    },
-    {
-      "id": "opl_483c970d834d",
-      "slug": "prepare-for-meetings-key-considerations",
-      "title": "Prepare for Meetings: Key Considerations",
-      "category": "General",
-      "folder": "general",
-      "variables": [
-        {
-          "name": "person",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_483c970d834d.json"
     }
   ]
 }

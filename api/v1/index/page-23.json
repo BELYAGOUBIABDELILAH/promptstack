@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 23,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
@@ -718,6 +718,24 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e60c9c63cf8b.json"
     },
     {
+      "id": "opl_5b5f082dde5a",
+      "slug": "miniature-objects-and-molecules",
+      "title": "Miniature Objects and Molecules",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "input_language",
+          "default": null
+        },
+        {
+          "name": "input_object",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5b5f082dde5a.json"
+    },
+    {
       "id": "opl_af2e8beee874",
       "slug": "miniature-world-inside-a-vintage-pocket-watch",
       "title": "Miniature World Inside a Vintage Pocket Watch",
@@ -1093,15 +1111,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_23af5a2a7e1f.json"
-    },
-    {
-      "id": "opl_d723cf8c0776",
-      "slug": "monorepo-taste",
-      "title": "Monorepo taste",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d723cf8c0776.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 38,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_85737be60963",
+      "slug": "vintage-black-and-white-photograph-of-galata-tower",
+      "title": "Vintage Black and White Photograph of Galata Tower",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_85737be60963.json"
+    },
     {
       "id": "opl_5ac7ce92f9c7",
       "slug": "vintage-botanical-illustration-generator",
@@ -1114,15 +1123,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c41c18c9eddf.json"
-    },
-    {
-      "id": "opl_9299dc67f4d0",
-      "slug": "write-tier-descriptions",
-      "title": "Write Tier Descriptions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9299dc67f4d0.json"
     }
   ]
 }

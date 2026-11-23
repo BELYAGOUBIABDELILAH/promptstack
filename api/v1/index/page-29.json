@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 29,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_659c863825f6",
+      "slug": "propfirm-strategy",
+      "title": "propfirm strategy",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_659c863825f6.json"
+    },
     {
       "id": "opl_0e84fea10d58",
       "slug": "protocol-2084-the-alleyway-hack",
@@ -1039,15 +1048,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4f4c4752fe89.json"
-    },
-    {
-      "id": "opl_8df43b5479b4",
-      "slug": "rechargeable-battery-expert",
-      "title": "Rechargeable Battery Expert",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8df43b5479b4.json"
     }
   ]
 }

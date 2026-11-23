@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 28,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_483c970d834d",
+      "slug": "prepare-for-meetings-key-considerations",
+      "title": "Prepare for Meetings: Key Considerations",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "person",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_483c970d834d.json"
+    },
     {
       "id": "opl_10e752d241f4",
       "slug": "present",
@@ -1210,15 +1224,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_953fb3669220.json"
-    },
-    {
-      "id": "opl_659c863825f6",
-      "slug": "propfirm-strategy",
-      "title": "propfirm strategy",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_659c863825f6.json"
     }
   ]
 }

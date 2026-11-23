@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 33,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_2283ab04fdf0",
+      "slug": "software-discovery-system-prompt-generator",
+      "title": "Software Discovery System Prompt Generator",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2283ab04fdf0.json"
+    },
     {
       "id": "opl_a1a9265d4649",
       "slug": "software-engineer",
@@ -998,20 +1007,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8e5a4ea4cfc5.json"
-    },
-    {
-      "id": "opl_e6f812e202f5",
-      "slug": "stone-watermill-at-autumn-dawn-image-to-video-animation",
-      "title": "Stone Watermill at Autumn Dawn (Image-to-Video Animation)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "duration",
-          "default": "6"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e6f812e202f5.json"
     }
   ]
 }

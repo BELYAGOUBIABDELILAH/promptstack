@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 26,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_49ad0c72a746",
+      "slug": "oxford-3000-step-by-step-vocabulary-coach",
+      "title": "Oxford 3000: Step-by-Step Vocabulary Coach",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "language",
+          "default": "Turkish"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_49ad0c72a746.json"
+    },
     {
       "id": "opl_4cd618574dc2",
       "slug": "package-json-scripts-auditor",
@@ -1135,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b1bf87427ec9.json"
-    },
-    {
-      "id": "opl_1256b910cc4a",
-      "slug": "photoreal-snow-leopard-on-a-himalayan-ridge-above-the-clouds-at-dawn",
-      "title": "Photoreal Snow Leopard on a Himalayan Ridge Above the Clouds at Dawn",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1256b910cc4a.json"
     }
   ]
 }

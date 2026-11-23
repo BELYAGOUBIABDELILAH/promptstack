@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-22T23:21:00.402Z",
+  "last_updated": "2026-11-23T00:20:51.175Z",
   "page": 36,
   "per_page": 100,
-  "total": 3838,
+  "total": 3839,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_d9cc593cf6dd",
+      "slug": "the-curriculum-mapping-prompt",
+      "title": "The curriculum mapping prompt.",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d9cc593cf6dd.json"
+    },
     {
       "id": "opl_2839f8542ad2",
       "slug": "the-data-detective",
@@ -1125,15 +1134,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dcafc9aa4939.json"
-    },
-    {
-      "id": "opl_bd5f7f631474",
-      "slug": "typescript-type-expert-agent-role",
-      "title": "TypeScript Type Expert Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd5f7f631474.json"
     }
   ]
 }
