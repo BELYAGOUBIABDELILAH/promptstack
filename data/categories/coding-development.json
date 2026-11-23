@@ -13258,5 +13258,15 @@
     "slug": "hallucination-investigator",
     "folder": "coding-development",
     "path": "prompts/coding-development/hallucination-investigator.md"
+  },
+  {
+    "act": "Claude setup test - safe to delete",
+    "category": "Coding & Development",
+    "prompt": "This is a test prompt created to verify API authentication.",
+    "source": "adan.mennoroger@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "claude-setup-test-safe-to-delete",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/claude-setup-test-safe-to-delete.md"
   }
 ]
