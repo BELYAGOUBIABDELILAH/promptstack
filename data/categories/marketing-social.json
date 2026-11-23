@@ -2528,5 +2528,15 @@
     "slug": "selfie-in-the-alps",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/selfie-in-the-alps.md"
+  },
+  {
+    "act": "Recreate the Style of Uploaded Videos and Images",
+    "category": "Marketing & Social",
+    "prompt": "“I want you to analyze the videos and images I upload and recreate the exact same style.\nGive me outputs like example voice, dialogue delivery, video style, dialogue delivery format, 4K aspect ratio exatra exatra, and all other stylistic elements",
+    "source": "samsungeindia@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "recreate-the-style-of-uploaded-videos-and-images",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/recreate-the-style-of-uploaded-videos-and-images.md"
   }
 ]
