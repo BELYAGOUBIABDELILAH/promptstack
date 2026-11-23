@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T19:21:03.513Z",
+  "last_updated": "2026-11-23T20:20:50.238Z",
   "page": 38,
   "per_page": 100,
-  "total": 3841,
+  "total": 3842,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_d4c695a6c06c",
+      "slug": "viking",
+      "title": "Viking",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d4c695a6c06c.json"
+    },
     {
       "id": "opl_f3817125f6ef",
       "slug": "vineyard-tasting-pavilion-terrace-at-sunset-downhill-vine-row-view",
@@ -1083,20 +1092,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ef9360abf756.json"
-    },
-    {
-      "id": "opl_72c6c65d1367",
-      "slug": "world-of-darkness-b-w-style",
-      "title": "World of Darkness B&W style",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "subject",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_72c6c65d1367.json"
     }
   ]
 }

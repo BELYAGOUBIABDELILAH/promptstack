@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 3845,
-  "canonical_records": 3841,
+  "source_records": 3846,
+  "canonical_records": 3842,
   "quarantined_records": 1,
   "exact_duplicate_groups": 3,
   "duplicates_beyond_canonical": 3,
-  "sources": 435,
+  "sources": 436,
   "categories": {
     "AI & Automation": 166,
     "Business & Career": 67,
@@ -18,7 +18,7 @@
     "General": 160,
     "Health & Wellness": 44,
     "Image & Design": 826,
-    "Marketing & Social": 241,
+    "Marketing & Social": 242,
     "Philosophy & Humanities": 1,
     "Product & Strategy": 29,
     "Research & Analysis": 52,

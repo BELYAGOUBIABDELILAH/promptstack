@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-23T19:21:03.513Z",
-  "total_prompts": 3841,
-  "source_records": 3845,
-  "total_sources": 435,
+  "last_updated": "2026-11-23T20:20:50.238Z",
+  "total_prompts": 3842,
+  "source_records": 3846,
+  "total_sources": 436,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -44,7 +44,7 @@
     {
       "folder": "marketing-social",
       "name": "Marketing & Social",
-      "prompt_count": 241,
+      "prompt_count": 242,
       "url": "https://prompts.axiomrepo.tech/v1/categories/marketing-social.json"
     },
     {

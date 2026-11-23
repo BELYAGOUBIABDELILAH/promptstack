@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-23T19:21:03.513Z",
+  "last_updated": "2026-11-23T20:20:50.238Z",
   "page": 37,
   "per_page": 100,
-  "total": 3841,
+  "total": 3842,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
@@ -1000,6 +1000,15 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a5903db6e80c.json"
     },
     {
+      "id": "opl_570382d7085d",
+      "slug": "vechicle-spareparts-in-sri-lanka",
+      "title": "Vechicle Spareparts In sri lanka",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_570382d7085d.json"
+    },
+    {
       "id": "opl_d6e2c5219e17",
       "slug": "vector-based-space-combat-system",
       "title": "Vector-Based Space Combat System",
@@ -1171,15 +1180,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_08294366a121.json"
-    },
-    {
-      "id": "opl_d4c695a6c06c",
-      "slug": "viking",
-      "title": "Viking",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d4c695a6c06c.json"
     }
   ]
 }
