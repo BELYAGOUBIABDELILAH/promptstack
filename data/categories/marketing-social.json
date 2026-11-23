@@ -2568,5 +2568,15 @@
     "slug": "life-solution",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/life-solution.md"
+  },
+  {
+    "act": "Vechicle Spareparts In sri lanka",
+    "category": "Marketing & Social",
+    "prompt": "give me a marketing video for spare parts slaes company",
+    "source": "nethwannajith834@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "vechicle-spareparts-in-sri-lanka",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/vechicle-spareparts-in-sri-lanka.md"
   }
 ]
