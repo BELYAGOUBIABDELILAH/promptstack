@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**240 prompts in this category**
+**241 prompts in this category**
 
 ## Table of Contents
 
@@ -222,6 +222,7 @@
 - [subvert](subvert.md)
 - [suitable sunglasses using gemini](suitable-sunglasses-using-gemini.md)
 - [Super Trader Model for Stock Analysis](super-trader-model-for-stock-analysis.md)
+- [Takeaway](takeaway.md)
 - [Tech Reviewer](tech-reviewer.md)
 - [Temperature Estimator](temperature-estimator.md)
 - [The Paradoxical Soundscape: Ancient Acoustic Mysteries Video Exploration](the-paradoxical-soundscape-ancient-acoustic-mysteries-video-exploration.md)

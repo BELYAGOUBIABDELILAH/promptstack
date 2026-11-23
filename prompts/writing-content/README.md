@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**289 prompts in this category**
+**288 prompts in this category**
 
 ## Table of Contents
 
@@ -256,7 +256,6 @@
 - [Surrealist Painting Description: A Study of René Magritte's Style](surrealist-painting-description-a-study-of-ren-magritte-s-st.md)
 - [Synonym Finder](synonym-finder.md)
 - [Taglish Technical Storytelling Editor](taglish-technical-storytelling-editor.md)
-- [Takeaway](takeaway.md)
 - [Tell Your Story](tell-your-story.md)
 - [The Last Adagio](the-last-adagio.md)
 - [The Missing Woman](the-missing-woman.md)

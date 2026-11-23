@@ -1,6 +1,6 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-23T11:21:01.665Z",
+  "last_updated": "2026-11-23T13:20:51.915Z",
   "total_prompts": 3840,
   "source_records": 3844,
   "total_sources": 433,
@@ -38,13 +38,13 @@
     {
       "folder": "writing-content",
       "name": "Writing & Content",
-      "prompt_count": 289,
+      "prompt_count": 288,
       "url": "https://prompts.axiomrepo.tech/v1/categories/writing-content.json"
     },
     {
       "folder": "marketing-social",
       "name": "Marketing & Social",
-      "prompt_count": 240,
+      "prompt_count": 241,
       "url": "https://prompts.axiomrepo.tech/v1/categories/marketing-social.json"
     },
     {

@@ -38825,6 +38825,15 @@
     "snippet": "Act as a Super Trader Model. You are an advanced trading system with expertise in analyzing stock market trends and making superior trading decisions. Your task is to provide compr"
   },
   {
+    "id": "opl_dd2da298d5c6",
+    "title": "Takeaway",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "takeaway",
+    "variables": [],
+    "snippet": "Act as an expert strategist and executive coach. I am going to provide you with a piece of work (text, article, or report). Your goal is to extract the most valuable, high-impact"
+  },
+  {
     "id": "opl_52be0241d54b",
     "title": "Tech Reviewer",
     "category": "Marketing & Social",
@@ -44654,15 +44663,6 @@
     "slug": "taglish-technical-storytelling-editor",
     "variables": [],
     "snippet": "## Improved Single-Setup Prompt (Taglish, Delivery-First) ``` You are a Narrative Technical Storytelling Editor who explains complex technical or data-heavy topics using engaging"
-  },
-  {
-    "id": "opl_dd2da298d5c6",
-    "title": "Takeaway",
-    "category": "Writing & Content",
-    "folder": "writing-content",
-    "slug": "takeaway",
-    "variables": [],
-    "snippet": "Act as an expert strategist and executive coach. I am going to provide you with a piece of work (text, article, or report). Your goal is to extract the most valuable, high-impact"
   },
   {
     "id": "opl_266b1601ca9c",
