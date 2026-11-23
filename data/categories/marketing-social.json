@@ -2578,5 +2578,15 @@
     "slug": "vechicle-spareparts-in-sri-lanka",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/vechicle-spareparts-in-sri-lanka.md"
+  },
+  {
+    "act": "Campus life",
+    "category": "Marketing & Social",
+    "prompt": "I want you to act like the best AI video editor in the world while am working on campus life add a water map write up that says @campus life let the dialogue be very funny",
+    "source": "adediwuratemitope745@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "campus-life",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/campus-life.md"
   }
 ]
