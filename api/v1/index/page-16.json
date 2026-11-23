@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 16,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_0ac0d0c19a2b",
+      "slug": "football-match",
+      "title": "Football Match",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0ac0d0c19a2b.json"
+    },
     {
       "id": "opl_c9cf417f799a",
       "slug": "football-player-introduction-poster-template",
@@ -1015,15 +1024,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7a0faf17bfc9.json"
-    },
-    {
-      "id": "opl_a95d1e481f7a",
-      "slug": "glam-horror-editorial-portrait",
-      "title": "Glam Horror Editorial Portrait",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a95d1e481f7a.json"
     }
   ]
 }

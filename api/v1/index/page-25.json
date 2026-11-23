@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 25,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_e4725ab756a4",
+      "slug": "night-shift-dessert-shop",
+      "title": "Night Shift Dessert Shop",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e4725ab756a4.json"
+    },
     {
       "id": "opl_a1ea772ae7a0",
       "slug": "nightclub-booth-flash-half-body-party-candids",
@@ -1048,15 +1057,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_01d4963f0b2b.json"
-    },
-    {
-      "id": "opl_641484c68e7f",
-      "slug": "oversharing-bot-guy",
-      "title": "Oversharing Bot Guy",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_641484c68e7f.json"
     }
   ]
 }

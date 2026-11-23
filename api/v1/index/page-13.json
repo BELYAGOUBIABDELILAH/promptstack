@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 13,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_725232a6a794",
+      "slug": "dictation-assistant-ideator",
+      "title": "Dictation Assistant Ideator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_725232a6a794.json"
+    },
     {
       "id": "opl_16208b2a3d4c",
       "slug": "dietitian",
@@ -1121,15 +1130,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d83e0abe2fed.json"
-    },
-    {
-      "id": "opl_415761c841e1",
-      "slug": "educational-content-creator",
-      "title": "Educational Content Creator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_415761c841e1.json"
     }
   ]
 }

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 39,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_ef9360abf756",
+      "slug": "world-landmarks-hyper-realistic-3d-dioramas",
+      "title": "World Landmarks: Hyper-Realistic 3D Dioramas",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "Landmark Name",
+          "default": "EIFFEL TOWER"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ef9360abf756.json"
+    },
     {
       "id": "opl_72c6c65d1367",
       "slug": "world-of-darkness-b-w-style",

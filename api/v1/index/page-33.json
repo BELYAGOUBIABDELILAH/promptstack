@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 33,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_49abe1639548",
+      "slug": "socratic-universal-tutor",
+      "title": "Socratic Universal Tutor",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "insert_topic",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_49abe1639548.json"
+    },
     {
       "id": "opl_2690b591a391",
       "slug": "soft-glam-lounge-close-up",
@@ -985,28 +999,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0f4176fff159.json"
-    },
-    {
-      "id": "opl_7eb857ebb461",
-      "slug": "stock-market-analyst-market-move-suggestions",
-      "title": "Stock Market Analyst: Market Move Suggestions",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "investmentGoal",
-          "default": "long-term"
-        },
-        {
-          "name": "marketData",
-          "default": null
-        },
-        {
-          "name": "riskTolerance",
-          "default": "medium"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7eb857ebb461.json"
     }
   ]
 }

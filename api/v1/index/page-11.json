@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 11,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-12.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-10.json",
@@ -156,6 +156,15 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f5778d97d191.json"
+    },
+    {
+      "id": "opl_3bf779917bc9",
+      "slug": "crypto-whitepaper-writer",
+      "title": "Crypto Whitepaper Writer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3bf779917bc9.json"
     },
     {
       "id": "opl_d8b6c4bc67ee",
@@ -1239,15 +1248,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7e40b05f5387.json"
-    },
-    {
-      "id": "opl_7eeb321df4c4",
-      "slug": "database-migrations-taste",
-      "title": "Database Migrations taste",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7eeb321df4c4.json"
     }
   ]
 }

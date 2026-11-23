@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 23,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_6250609e87b3",
+      "slug": "mathematical-history-teacher",
+      "title": "Mathematical History Teacher",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6250609e87b3.json"
+    },
     {
       "id": "opl_bb788a74e1fc",
       "slug": "mathematician",
@@ -1102,15 +1111,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3a57523bf999.json"
-    },
-    {
-      "id": "opl_4655c950679e",
-      "slug": "monitor-purchasing-advisor",
-      "title": "Monitor Purchasing Advisor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4655c950679e.json"
     }
   ]
 }

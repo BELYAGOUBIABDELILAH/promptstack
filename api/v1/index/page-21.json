@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 21,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_43730a8d4dc8",
+      "slug": "lakeside-pottery-studio-concept-brief-builder",
+      "title": "Lakeside Pottery Studio Concept Brief Builder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_43730a8d4dc8.json"
+    },
     {
       "id": "opl_326149fa0fa2",
       "slug": "lakeside-pottery-studio-workbench-at-blue-hour-looking-out-t",
@@ -1230,15 +1239,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_52b9f08b68ae.json"
-    },
-    {
-      "id": "opl_e056e7b5c001",
-      "slug": "llm-bias-censorship-evaulator",
-      "title": "LLM Bias & Censorship Evaulator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e056e7b5c001.json"
     }
   ]
 }

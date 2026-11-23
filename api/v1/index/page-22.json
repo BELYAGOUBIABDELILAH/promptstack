@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 22,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_e056e7b5c001",
+      "slug": "llm-bias-censorship-evaulator",
+      "title": "LLM Bias & Censorship Evaulator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e056e7b5c001.json"
+    },
     {
       "id": "opl_298abae57027",
       "slug": "llm-configuration-tuner",
@@ -1187,15 +1196,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a124ec44021c.json"
-    },
-    {
-      "id": "opl_6250609e87b3",
-      "slug": "mathematical-history-teacher",
-      "title": "Mathematical History Teacher",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6250609e87b3.json"
     }
   ]
 }

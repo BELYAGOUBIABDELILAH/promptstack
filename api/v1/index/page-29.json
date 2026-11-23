@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 29,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_ad562cf6b757",
+      "slug": "prompts-chat-taste",
+      "title": "prompts.chat taste",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ad562cf6b757.json"
+    },
     {
       "id": "opl_a614ab89d33c",
       "slug": "proofreader",
@@ -1039,15 +1048,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_df9f08228b00.json"
-    },
-    {
-      "id": "opl_1d8eb8779a65",
-      "slug": "realtime-websocket-taste",
-      "title": "Realtime WebSocket taste",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1d8eb8779a65.json"
     }
   ]
 }

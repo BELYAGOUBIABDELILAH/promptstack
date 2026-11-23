@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 31,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_04ab3bc83fc4",
+      "slug": "rooftop-sunset-lookback-half-body",
+      "title": "Rooftop Sunset Lookback (half-body)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_04ab3bc83fc4.json"
+    },
     {
       "id": "opl_7e4f9d9509f6",
       "slug": "room-makeover-concept-brief-builder",
@@ -1223,15 +1232,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4662a31a8bf9.json"
-    },
-    {
-      "id": "opl_a97d8346a36a",
-      "slug": "senior-product-engineer-data-scientist-for-turkish-car-valua",
-      "title": "Senior Product Engineer + Data Scientist for Turkish Car Valuation Platform",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a97d8346a36a.json"
     }
   ]
 }

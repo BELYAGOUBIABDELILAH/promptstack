@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 36,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_d09b0b2d3aca",
+      "slug": "the-collector-s-banquet-a-forgotten-1985-dark-fantasy-film-30s-9-shot-video",
+      "title": "The Collector's Banquet: A Forgotten 1985 Dark Fantasy Film (30s, 9-Shot Video)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d09b0b2d3aca.json"
+    },
     {
       "id": "opl_e74ed364c082",
       "slug": "the-colorful-fish-learning-emotions",
@@ -1101,44 +1110,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4dcb40a69075.json"
-    },
-    {
-      "id": "opl_f6cd6c867707",
-      "slug": "tv-wall-planner-screen-size-seating-distance-mount-height-and-materials",
-      "title": "TV Wall Planner: Screen Size, Seating Distance, Mount Height and Materials",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "below_tv",
-          "default": "media console 24 inches tall"
-        },
-        {
-          "name": "cable_run_in",
-          "default": "72"
-        },
-        {
-          "name": "eye_height_in",
-          "default": "42"
-        },
-        {
-          "name": "mount_type",
-          "default": "fixed"
-        },
-        {
-          "name": "seat_distance_in",
-          "default": "110"
-        },
-        {
-          "name": "tv_diagonal_in",
-          "default": "65"
-        },
-        {
-          "name": "wall_type",
-          "default": "wood stud drywall"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f6cd6c867707.json"
     }
   ]
 }

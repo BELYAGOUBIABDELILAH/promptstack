@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 34,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_7eb857ebb461",
+      "slug": "stock-market-analyst-market-move-suggestions",
+      "title": "Stock Market Analyst: Market Move Suggestions",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "investmentGoal",
+          "default": "long-term"
+        },
+        {
+          "name": "marketData",
+          "default": null
+        },
+        {
+          "name": "riskTolerance",
+          "default": "medium"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7eb857ebb461.json"
+    },
     {
       "id": "opl_19379276ee0c",
       "slug": "stock-phrase-suggestor",
@@ -1127,15 +1149,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7e134bd3b01a.json"
-    },
-    {
-      "id": "opl_9577f7bc7046",
-      "slug": "system-prompt-auto-calibrater",
-      "title": "System Prompt Auto-Calibrater",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9577f7bc7046.json"
     }
   ]
 }

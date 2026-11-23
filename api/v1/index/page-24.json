@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 24,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_4655c950679e",
+      "slug": "monitor-purchasing-advisor",
+      "title": "Monitor Purchasing Advisor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4655c950679e.json"
+    },
     {
       "id": "opl_23af5a2a7e1f",
       "slug": "monochrome-chiaroscuro-portrait",
@@ -1043,15 +1052,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9b7fd8ba3f8a.json"
-    },
-    {
-      "id": "opl_e4725ab756a4",
-      "slug": "night-shift-dessert-shop",
-      "title": "Night Shift Dessert Shop",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e4725ab756a4.json"
     }
   ]
 }

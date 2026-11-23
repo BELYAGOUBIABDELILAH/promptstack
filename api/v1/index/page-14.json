@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 14,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_415761c841e1",
+      "slug": "educational-content-creator",
+      "title": "Educational Content Creator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_415761c841e1.json"
+    },
     {
       "id": "opl_d09075db4a6e",
       "slug": "educational-platform-support-assistant",
@@ -1248,15 +1257,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6b5264d67c7b.json"
-    },
-    {
-      "id": "opl_04fd2c4bb56f",
-      "slug": "expert-technical-blog-writer-role",
-      "title": "Expert Technical Blog Writer Role",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_04fd2c4bb56f.json"
     }
   ]
 }

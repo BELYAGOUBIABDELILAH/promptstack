@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 37,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_f6cd6c867707",
+      "slug": "tv-wall-planner-screen-size-seating-distance-mount-height-and-materials",
+      "title": "TV Wall Planner: Screen Size, Seating Distance, Mount Height and Materials",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "below_tv",
+          "default": "media console 24 inches tall"
+        },
+        {
+          "name": "cable_run_in",
+          "default": "72"
+        },
+        {
+          "name": "eye_height_in",
+          "default": "42"
+        },
+        {
+          "name": "mount_type",
+          "default": "fixed"
+        },
+        {
+          "name": "seat_distance_in",
+          "default": "110"
+        },
+        {
+          "name": "tv_diagonal_in",
+          "default": "65"
+        },
+        {
+          "name": "wall_type",
+          "default": "wood stud drywall"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f6cd6c867707.json"
+    },
     {
       "id": "opl_2ce6409ef837",
       "slug": "tvs-raider",
@@ -1171,15 +1209,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_275be93dda80.json"
-    },
-    {
-      "id": "opl_08294366a121",
-      "slug": "video-scenario",
-      "title": "Video scenario",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_08294366a121.json"
     }
   ]
 }

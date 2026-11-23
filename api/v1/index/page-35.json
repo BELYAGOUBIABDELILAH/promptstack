@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 35,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_9577f7bc7046",
+      "slug": "system-prompt-auto-calibrater",
+      "title": "System Prompt Auto-Calibrater",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9577f7bc7046.json"
+    },
     {
       "id": "opl_1c5d259e88b9",
       "slug": "system-prompt-auto-enhancer",
@@ -976,15 +985,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_143d9d62b501.json"
-    },
-    {
-      "id": "opl_d09b0b2d3aca",
-      "slug": "the-collector-s-banquet-a-forgotten-1985-dark-fantasy-film-30s-9-shot-video",
-      "title": "The Collector's Banquet: A Forgotten 1985 Dark Fantasy Film (30s, 9-Shot Video)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d09b0b2d3aca.json"
     }
   ]
 }

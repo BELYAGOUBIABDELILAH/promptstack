@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 15,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_04fd2c4bb56f",
+      "slug": "expert-technical-blog-writer-role",
+      "title": "Expert Technical Blog Writer Role",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_04fd2c4bb56f.json"
+    },
     {
       "id": "opl_8107251e8391",
       "slug": "expert-level-insights-and-advanced-resources",
@@ -1249,15 +1258,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2179dc32c901.json"
-    },
-    {
-      "id": "opl_0ac0d0c19a2b",
-      "slug": "football-match",
-      "title": "Football Match",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0ac0d0c19a2b.json"
     }
   ]
 }

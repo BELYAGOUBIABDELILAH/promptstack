@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1324 prompts in this category**
+**1325 prompts in this category**
 
 ## Table of Contents
 
@@ -357,6 +357,7 @@
 - [Cross-Platform 3D App Development Master](cross-platform-3d-app-development-master.md)
 - [Cruelty-Free Beauty Product Checker](cruelty-free-beauty-product-checker.md)
 - [Cryptic Messenger](cryptic-messenger.md)
+- [Crypto Whitepaper Writer](crypto-whitepaper-writer.md)
 - [CSS taste](css-taste.md)
 - [CSV Sample Row Document](csv-sample-row-document.md)
 - [CSV To JSON](csv-to-json.md)

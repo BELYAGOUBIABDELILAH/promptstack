@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 38,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_08294366a121",
+      "slug": "video-scenario",
+      "title": "Video scenario",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_08294366a121.json"
+    },
     {
       "id": "opl_d4c695a6c06c",
       "slug": "viking",
@@ -1078,20 +1087,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_76d47118a9c8.json"
-    },
-    {
-      "id": "opl_ef9360abf756",
-      "slug": "world-landmarks-hyper-realistic-3d-dioramas",
-      "title": "World Landmarks: Hyper-Realistic 3D Dioramas",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "Landmark Name",
-          "default": "EIFFEL TOWER"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ef9360abf756.json"
     }
   ]
 }

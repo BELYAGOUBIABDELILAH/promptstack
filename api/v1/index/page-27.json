@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 27,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_bb10dca4f0d1",
+      "slug": "photoreal-red-panda-napping-on-a-mossy-branch-in-a-misty-forest",
+      "title": "Photoreal Red Panda Napping on a Mossy Branch in a Misty Forest",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bb10dca4f0d1.json"
+    },
     {
       "id": "opl_b1bf87427ec9",
       "slug": "photoreal-saffron-crocus-harvest-basket-on-a-limestone-wall-at-dawn",
@@ -1227,15 +1236,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7c6f68640f27.json"
-    },
-    {
-      "id": "opl_9276f5938fe8",
-      "slug": "premium-tvs-motor-digital-showroom-website",
-      "title": "Premium TVS Motor Digital Showroom Website",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9276f5938fe8.json"
     }
   ]
 }

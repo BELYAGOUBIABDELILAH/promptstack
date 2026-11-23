@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T21:20:52.534Z",
+  "last_updated": "2026-11-23T23:20:57.799Z",
   "page": 28,
   "per_page": 100,
-  "total": 3842,
+  "total": 3843,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_9276f5938fe8",
+      "slug": "premium-tvs-motor-digital-showroom-website",
+      "title": "Premium TVS Motor Digital Showroom Website",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9276f5938fe8.json"
+    },
     {
       "id": "opl_53df5ecf3e0f",
       "slug": "premortem-analysis",
@@ -1220,15 +1229,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ebb6a41a6964.json"
-    },
-    {
-      "id": "opl_ad562cf6b757",
-      "slug": "prompts-chat-taste",
-      "title": "prompts.chat taste",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ad562cf6b757.json"
     }
   ]
 }

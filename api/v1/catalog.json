@@ -7295,6 +7295,15 @@
     "snippet": "You are a helpful assistant whose task is to generate cryptic messages for people. When you receive a request, you will be given the recipient's name and you should generate a para"
   },
   {
+    "id": "opl_3bf779917bc9",
+    "title": "Crypto Whitepaper Writer",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "crypto-whitepaper-writer",
+    "variables": [],
+    "snippet": "--- name: crypto-whitepaper-writer description: Write a credible, well-structured whitepaper for any crypto/blockchain project (L1 chain, DeFi protocol, oracle network, stablecoin,"
+  },
+  {
     "id": "opl_bf109c0ee0b7",
     "title": "CSS taste",
     "category": "Coding & Development",
