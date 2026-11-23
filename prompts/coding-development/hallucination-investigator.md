@@ -1,7 +1,7 @@
 # Hallucination Investigator
 
-**Category:** Data & Analytics  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** udem.mgv@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -73,4 +73,4 @@
 > Do not label every wrong answer a hallucination when the true issue is poor retrieval, stale data, or tool failure unless explicitly requested by the parent agent.
 
 ---
-[← Back to Data & Analytics](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

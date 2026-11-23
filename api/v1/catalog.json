@@ -10053,6 +10053,15 @@
     "snippet": "Create a habit tracking application using HTML5, CSS3, and JavaScript. Build a clean interface showing daily, weekly, and monthly views. Implement habit creation with frequency, re"
   },
   {
+    "id": "opl_468f8bfce7b3",
+    "title": "Hallucination Investigator",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "hallucination-investigator",
+    "variables": [],
+    "snippet": "name = \"hallucination-investigator\" description = \"Use when a task needs root-cause analysis for factuality failures, unsupported claims, or context breakdowns in AI outputs.\" mode"
+  },
+  {
     "id": "opl_fa0f9d9f8c4f",
     "title": "Hallucination Vulnerability Prompt Checker",
     "category": "Coding & Development",
@@ -20163,15 +20172,6 @@
     "slug": "grpc-service-taste",
     "variables": [],
     "snippet": "# gRPC Service taste of a pragmatic distributed systems engineer - Keep all .proto files in one shared schema repo or directory with a single owner per package, and generate code f"
-  },
-  {
-    "id": "opl_468f8bfce7b3",
-    "title": "Hallucination Investigator",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "hallucination-investigator",
-    "variables": [],
-    "snippet": "name = \"hallucination-investigator\" description = \"Use when a task needs root-cause analysis for factuality failures, unsupported claims, or context breakdowns in AI outputs.\" mode"
   },
   {
     "id": "opl_b888432e6227",

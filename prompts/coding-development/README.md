@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1322 prompts in this category**
+**1323 prompts in this category**
 
 ## Table of Contents
 
@@ -591,6 +591,7 @@
 - [Gyroscopic Maze Run](gyroscopic-maze-run.md)
 - [HA Scene and Automation Editor](ha-scene-and-automation-editor.md)
 - [Habit Tracker](habit-tracker.md)
+- [Hallucination Investigator](hallucination-investigator.md)
 - [Hallucination Vulnerability Prompt Checker](hallucination-vulnerability-prompt-checker.md)
 - [handle bug in feature](handle-bug-in-feature.md)
 - [Handle the bug in feature](handle-the-bug-in-feature.md)

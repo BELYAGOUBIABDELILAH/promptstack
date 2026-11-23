@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**317 prompts in this category**
+**316 prompts in this category**
 
 ## Table of Contents
 
@@ -151,7 +151,6 @@
 - [Greenhouse care system](greenhouse-care-system.md)
 - [Grok Research Agent](grok-research-agent.md)
 - [gRPC Service taste](grpc-service-taste.md)
-- [Hallucination Investigator](hallucination-investigator.md)
 - [Hostile-Consumer Maturity Audit for a Website + MCP Server](hostile-consumer-maturity-audit-for-a-website-mcp-server.md)
 - [Household Chore Rotation Planner](household-chore-rotation-planner.md)
 - [How To Back This Up?](how-to-back-this-up.md)
