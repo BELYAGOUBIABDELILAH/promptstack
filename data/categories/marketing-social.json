@@ -2538,5 +2538,15 @@
     "slug": "recreate-the-style-of-uploaded-videos-and-images",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/recreate-the-style-of-uploaded-videos-and-images.md"
+  },
+  {
+    "act": "Add Black Glasses to My Photo",
+    "category": "Marketing & Social",
+    "prompt": "add black glasses on my picture that suits on me that cover my eyes also make it realistic",
+    "source": "rajputbhanupratap2007@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "add-black-glasses-to-my-photo",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/add-black-glasses-to-my-photo.md"
   }
 ]
