@@ -1,8 +1,8 @@
 {
   "folder": "marketing-social",
   "name": "Marketing & Social",
-  "last_updated": "2026-11-23T20:20:50.238Z",
-  "total": 242,
+  "last_updated": "2026-11-23T21:20:52.534Z",
+  "total": 243,
   "prompts": [
     {
       "id": "opl_40dd44cf090d",
@@ -752,6 +752,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_50c33afe0632.json"
+    },
+    {
+      "id": "opl_d7890ca9ec5f",
+      "slug": "campus-life",
+      "title": "Campus life",
+      "prompt": "I want you to act like the best AI video editor in the world while am working on campus life add a water map write up that says @campus life let the dialogue be very funny",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_bfd7b1396796"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d7890ca9ec5f.json"
     },
     {
       "id": "opl_639ba6edc2b0",

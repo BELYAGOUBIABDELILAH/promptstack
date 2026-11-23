@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**242 prompts in this category**
+**243 prompts in this category**
 
 ## Table of Contents
 
@@ -43,6 +43,7 @@
 - [Building a Comprehensive Programming Team](building-a-comprehensive-programming-team.md)
 - [Business Idea Feasibility and Technical Challenges Analysis](business-idea-feasibility-and-technical-challenges-analysis.md)
 - [Business Plan on medium scale production of soaps, disinfectants,hair cream](business-plan-on-medium-scale-production-of-soaps-disinfectants-hair-cream.md)
+- [Campus life](campus-life.md)
 - [Candle Pattern Trading Chart Generator](candle-pattern-trading-chart-generator.md)
 - [Career advisor for economic graduate](career-advisor-for-economic-graduate.md)
 - [Career Intelligence Analyst](career-intelligence-analyst.md)

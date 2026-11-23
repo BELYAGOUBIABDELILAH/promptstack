@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**288 prompts in this category**
+**287 prompts in this category**
 
 ## Table of Contents
 
@@ -49,7 +49,6 @@
 - [Biblical Translator](biblical-translator.md)
 - [Blogging prompt](blogging-prompt.md)
 - [Bookstore Aisle (artsy, quiet luxury)](bookstore-aisle-artsy-quiet-luxury.md)
-- [Campus life](campus-life.md)
 - [Car poster](car-poster.md)
 - [Car Repair Manual Writer](car-repair-manual-writer.md)
 - [Cartoon series](cartoon-series.md)

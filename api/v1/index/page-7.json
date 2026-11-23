@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T20:20:50.238Z",
+  "last_updated": "2026-11-23T21:20:52.534Z",
   "page": 7,
   "per_page": 100,
   "total": 3842,
@@ -244,8 +244,8 @@
       "id": "opl_d7890ca9ec5f",
       "slug": "campus-life",
       "title": "Campus life",
-      "category": "Writing & Content",
-      "folder": "writing-content",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d7890ca9ec5f.json"
     },

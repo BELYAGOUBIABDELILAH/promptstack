@@ -1,8 +1,8 @@
 {
   "folder": "writing-content",
   "name": "Writing & Content",
-  "last_updated": "2026-11-23T20:20:50.238Z",
-  "total": 288,
+  "last_updated": "2026-11-23T21:20:52.534Z",
+  "total": 287,
   "prompts": [
     {
       "id": "opl_03ba957d0a22",
@@ -936,22 +936,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fd2120378a06.json"
-    },
-    {
-      "id": "opl_d7890ca9ec5f",
-      "slug": "campus-life",
-      "title": "Campus life",
-      "prompt": "I want you to act like the best AI video editor in the world while am working on campus life add a water map write up that says @campus life let the dialogue be very funny",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d7890ca9ec5f.json"
     },
     {
       "id": "opl_f96894cb530b",
