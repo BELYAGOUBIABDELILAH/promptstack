@@ -13238,5 +13238,15 @@
     "slug": "project-report-and-prototype-analysis",
     "folder": "coding-development",
     "path": "prompts/coding-development/project-report-and-prototype-analysis.md"
+  },
+  {
+    "act": "Cold Drink Can HTML5 Animation Website",
+    "category": "Coding & Development",
+    "prompt": "Make me a professional html5 website of cold drink can animation, which roams to different and different positions when we scroll and then add text of a website named coca cola",
+    "source": "write2aniketsingh@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "cold-drink-can-html5-animation-website",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/cold-drink-can-html5-animation-website.md"
   }
 ]
