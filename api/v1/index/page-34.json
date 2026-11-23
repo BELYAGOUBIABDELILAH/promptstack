@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T00:20:51.175Z",
+  "last_updated": "2026-11-23T01:20:52.859Z",
   "page": 34,
   "per_page": 100,
   "total": 3839,
@@ -458,8 +458,8 @@
       "id": "opl_ffceb77f0ad2",
       "slug": "study-method-prompts",
       "title": "Study Method Prompts",
-      "category": "Education & Learning",
-      "folder": "education-learning",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [
         {
           "name": "domain",

@@ -1,7 +1,7 @@
 # Study Method Prompts
 
-**Category:** Education & Learning  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** rmfsantos@uefs.br (prompts.chat)
 
 ## Prompt
 
@@ -87,4 +87,4 @@
 > "Function as my Transfer Learning Specialist for ${domain}. Help me not just learn ${topic}, but develop the ability to apply this knowledge in new and varied contexts. Present me with problems that require adapting what I've learned to novel situations. Guide me to identify the deep structural features that remain constant across different applications, while recognizing surface features that might change."
 
 ---
-[← Back to Education & Learning](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

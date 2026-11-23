@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1318 prompts in this category**
+**1319 prompts in this category**
 
 ## Table of Contents
 
@@ -1128,6 +1128,7 @@
 - [Strict Markdown-Only Output Enforcement](strict-markdown-only-output-enforcement.md)
 - [Structured Prompt Editor](structured-prompt-editor.md)
 - [Structured System Prompt Generator](structured-system-prompt-generator.md)
+- [Study Method Prompts](study-method-prompts.md)
 - [Stylelint Plugin Author](stylelint-plugin-author.md)
 - [Stylistic Text Editor](stylistic-text-editor.md)
 - [Sudoku Game](sudoku-game.md)

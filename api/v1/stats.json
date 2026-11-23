@@ -1,6 +1,6 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-23T00:20:51.175Z",
+  "last_updated": "2026-11-23T01:20:52.859Z",
   "total_prompts": 3839,
   "source_records": 3843,
   "total_sources": 429,
@@ -20,7 +20,7 @@
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1317,
+      "prompt_count": 1318,
       "url": "https://prompts.axiomrepo.tech/v1/categories/coding-development.json"
     },
     {
@@ -62,7 +62,7 @@
     {
       "folder": "education-learning",
       "name": "Education & Learning",
-      "prompt_count": 100,
+      "prompt_count": 99,
       "url": "https://prompts.axiomrepo.tech/v1/categories/education-learning.json"
     },
     {

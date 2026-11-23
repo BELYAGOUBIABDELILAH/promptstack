@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**100 prompts in this category**
+**99 prompts in this category**
 
 ## Table of Contents
 
@@ -88,7 +88,6 @@
 - [Spoken Word Artist Persona](spoken-word-artist-persona.md)
 - [Structured and Effective Learning Prompt](structured-and-effective-learning-prompt.md)
 - [Student Tier](student-tier.md)
-- [Study Method Prompts](study-method-prompts.md)
 - [Study planner](study-planner.md)
 - [Study Review Companion](study-review-companion.md)
 - [Study Timer](study-timer.md)

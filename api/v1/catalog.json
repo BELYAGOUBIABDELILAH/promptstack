@@ -16433,6 +16433,28 @@
     "snippet": "## Name Suggestions ``` {\"Configurable JSON-Outputting AI Assistant\", \"JSON Data Generator\", \"Automated JSON Response Creator\"} ``` ## Description ``` \"A conversational AI tool th"
   },
   {
+    "id": "opl_ffceb77f0ad2",
+    "title": "Study Method Prompts",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "study-method-prompts",
+    "variables": [
+      {
+        "name": "domain",
+        "default": null
+      },
+      {
+        "name": "subject",
+        "default": null
+      },
+      {
+        "name": "topic",
+        "default": null
+      }
+    ],
+    "snippet": "1) The Feynman Technique Tutor Prompt: \"Act as my Feynman Technique tutor. I want to learn ${topic}. Break down this complex concept into simple terms that a 12-year-old could unde"
+  },
+  {
     "id": "opl_d1fe27250ac8",
     "title": "Stylelint Plugin Author",
     "category": "Coding & Development",
@@ -23782,28 +23804,6 @@
     "slug": "student-tier",
     "variables": [],
     "snippet": "Create a special $1-2 student sponsorship tier with meaningful benefits that acknowledges their support while respecting their budget."
-  },
-  {
-    "id": "opl_ffceb77f0ad2",
-    "title": "Study Method Prompts",
-    "category": "Education & Learning",
-    "folder": "education-learning",
-    "slug": "study-method-prompts",
-    "variables": [
-      {
-        "name": "domain",
-        "default": null
-      },
-      {
-        "name": "subject",
-        "default": null
-      },
-      {
-        "name": "topic",
-        "default": null
-      }
-    ],
-    "snippet": "1) The Feynman Technique Tutor Prompt: \"Act as my Feynman Technique tutor. I want to learn ${topic}. Break down this complex concept into simple terms that a 12-year-old could unde"
   },
   {
     "id": "opl_5f526d340ad0",
