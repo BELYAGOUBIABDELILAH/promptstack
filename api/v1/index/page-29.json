@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T07:20:45.404Z",
+  "last_updated": "2026-11-23T09:20:53.556Z",
   "page": 29,
   "per_page": 100,
-  "total": 3839,
+  "total": 3840,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_953fb3669220",
+      "slug": "proofreader-inconsistencies",
+      "title": "Proofreader - Inconsistencies",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_953fb3669220.json"
+    },
     {
       "id": "opl_659c863825f6",
       "slug": "propfirm-strategy",
@@ -1039,15 +1048,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7ce4390d0961.json"
-    },
-    {
-      "id": "opl_4f4c4752fe89",
-      "slug": "receipt-data-extractor",
-      "title": "Receipt Data Extractor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4f4c4752fe89.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T07:20:45.404Z",
+  "last_updated": "2026-11-23T09:20:53.556Z",
   "page": 30,
   "per_page": 100,
-  "total": 3839,
+  "total": 3840,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prompts": [
+    {
+      "id": "opl_4f4c4752fe89",
+      "slug": "receipt-data-extractor",
+      "title": "Receipt Data Extractor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4f4c4752fe89.json"
+    },
     {
       "id": "opl_8df43b5479b4",
       "slug": "rechargeable-battery-expert",
@@ -1093,15 +1102,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7e4f9d9509f6.json"
-    },
-    {
-      "id": "opl_a3dcc5427846",
-      "slug": "room-paint-quantity-estimator",
-      "title": "Room Paint Quantity Estimator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a3dcc5427846.json"
     }
   ]
 }

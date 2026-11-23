@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T07:20:45.404Z",
+  "last_updated": "2026-11-23T09:20:53.556Z",
   "page": 31,
   "per_page": 100,
-  "total": 3839,
+  "total": 3840,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_a3dcc5427846",
+      "slug": "room-paint-quantity-estimator",
+      "title": "Room Paint Quantity Estimator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a3dcc5427846.json"
+    },
     {
       "id": "opl_3db69b9d2bfb",
       "slug": "root-cause-analysis-agent-role",
@@ -1198,15 +1207,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1e7339e29cd7.json"
-    },
-    {
-      "id": "opl_1ae2ecafd5a0",
-      "slug": "senior-software-engineer-software-architect-rules",
-      "title": "Senior Software Engineer  & Software Architect Rules",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1ae2ecafd5a0.json"
     }
   ]
 }

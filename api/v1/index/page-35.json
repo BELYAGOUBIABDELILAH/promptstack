@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T07:20:45.404Z",
+  "last_updated": "2026-11-23T09:20:53.556Z",
   "page": 35,
   "per_page": 100,
-  "total": 3839,
+  "total": 3840,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_5fb1f78f9f47",
+      "slug": "system-prompt-brancher",
+      "title": "System Prompt Brancher",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5fb1f78f9f47.json"
+    },
     {
       "id": "opl_5b60ad5a52a1",
       "slug": "system-prompt-creator-q-a-workflow",
@@ -981,15 +990,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e74ed364c082.json"
-    },
-    {
-      "id": "opl_dcb4a5d45c09",
-      "slug": "the-covert-exchange-in-the-fog",
-      "title": "The Covert Exchange in the Fog",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dcb4a5d45c09.json"
     }
   ]
 }

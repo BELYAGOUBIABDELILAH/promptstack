@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T07:20:45.404Z",
+  "last_updated": "2026-11-23T09:20:53.556Z",
   "page": 34,
   "per_page": 100,
-  "total": 3839,
+  "total": 3840,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_8e5a4ea4cfc5",
+      "slug": "stone-farmhouse-at-the-end-of-lavender-rows-in-provence-at-sunrise",
+      "title": "Stone Farmhouse at the End of Lavender Rows in Provence at Sunrise",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8e5a4ea4cfc5.json"
+    },
     {
       "id": "opl_e6f812e202f5",
       "slug": "stone-watermill-at-autumn-dawn-image-to-video-animation",
@@ -1127,15 +1136,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1c5d259e88b9.json"
-    },
-    {
-      "id": "opl_5fb1f78f9f47",
-      "slug": "system-prompt-brancher",
-      "title": "System Prompt Brancher",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5fb1f78f9f47.json"
     }
   ]
 }

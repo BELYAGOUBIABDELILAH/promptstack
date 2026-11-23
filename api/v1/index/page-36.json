@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T07:20:45.404Z",
+  "last_updated": "2026-11-23T09:20:53.556Z",
   "page": 36,
   "per_page": 100,
-  "total": 3839,
+  "total": 3840,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_dcb4a5d45c09",
+      "slug": "the-covert-exchange-in-the-fog",
+      "title": "The Covert Exchange in the Fog",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dcb4a5d45c09.json"
+    },
     {
       "id": "opl_d9cc593cf6dd",
       "slug": "the-curriculum-mapping-prompt",
@@ -1125,15 +1134,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2ce6409ef837.json"
-    },
-    {
-      "id": "opl_dcafc9aa4939",
-      "slug": "typescript-library-taste",
-      "title": "TypeScript Library taste",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dcafc9aa4939.json"
     }
   ]
 }

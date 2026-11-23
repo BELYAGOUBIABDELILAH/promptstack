@@ -14285,6 +14285,20 @@
     "snippet": "Help the user generate a catchy and memorable name and title for their project by first understanding their project through a series of yes/no questions. - Begin by generating 10"
   },
   {
+    "id": "opl_2674ad3bc1a3",
+    "title": "Project Report and Prototype Analysis",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "project-report-and-prototype-analysis",
+    "variables": [
+      {
+        "name": "\"D",
+        "default": "\\de\\Document from jd.pdf\""
+      }
+    ],
+    "snippet": "Analyze the uploaded project report: ${\"D:\\de\\Document from jd.pdf\"} Analyze the existing prototype: ${\"D:\\de\\canvas\"} Use the additional project documents: ${\"D:\\de\\Document fro"
+  },
+  {
     "id": "opl_7291e2ffb88a",
     "title": "Prompt Converter - JSON To Markdown",
     "category": "Coding & Development",

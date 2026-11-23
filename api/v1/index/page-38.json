@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T07:20:45.404Z",
+  "last_updated": "2026-11-23T09:20:53.556Z",
   "page": 38,
   "per_page": 100,
-  "total": 3839,
+  "total": 3840,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_703fddca8ff0",
+      "slug": "vintage-analog-portrait",
+      "title": "Vintage Analog Portrait — ناز",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_703fddca8ff0.json"
+    },
     {
       "id": "opl_85737be60963",
       "slug": "vintage-black-and-white-photograph-of-galata-tower",
@@ -1093,36 +1102,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3890b19a2c8b.json"
-    },
-    {
-      "id": "opl_c41c18c9eddf",
-      "slug": "write-an-email",
-      "title": "Write an Email",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "length",
-          "default": "200"
-        },
-        {
-          "name": "recipient",
-          "default": null
-        },
-        {
-          "name": "tone",
-          "default": "professional|friendly"
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c41c18c9eddf.json"
     }
   ]
 }

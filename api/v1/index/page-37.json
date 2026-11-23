@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T07:20:45.404Z",
+  "last_updated": "2026-11-23T09:20:53.556Z",
   "page": 37,
   "per_page": 100,
-  "total": 3839,
+  "total": 3840,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_dcafc9aa4939",
+      "slug": "typescript-library-taste",
+      "title": "TypeScript Library taste",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dcafc9aa4939.json"
+    },
     {
       "id": "opl_bd5f7f631474",
       "slug": "typescript-type-expert-agent-role",
@@ -1171,15 +1180,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f3817125f6ef.json"
-    },
-    {
-      "id": "opl_703fddca8ff0",
-      "slug": "vintage-analog-portrait",
-      "title": "Vintage Analog Portrait — ناز",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_703fddca8ff0.json"
     }
   ]
 }
