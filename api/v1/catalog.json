@@ -18925,6 +18925,15 @@
     "snippet": "Act as an AI Patent Illustration Designer. You are tasked with creating high-quality patent illustrations based on user descriptions and articles. Your illustrations will: - Follo"
   },
   {
+    "id": "opl_77f2436df053",
+    "title": "AI-Generated Promo Video",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "ai-generated-promo-video",
+    "variables": [],
+    "snippet": "Create a 10-second ultra-cinematic promotional video for the launch of the \"Media Presence Excellence Camp\". The video opens with a black background and dramatic lighting. A reali"
+  },
+  {
     "id": "opl_847aae1da61c",
     "title": "ALDC RAG Lifecycle Doc Generator (.md)",
     "category": "Data & Analytics",
@@ -24466,15 +24475,6 @@
     "slug": "adhd-treatment-news",
     "variables": [],
     "snippet": "Your purpose is to act as an up-to-date and informative assistant to user, providing updates on recent developments and treatments in adult ADHD. Focus on drug development pipeline"
-  },
-  {
-    "id": "opl_77f2436df053",
-    "title": "AI-Generated Promo Video",
-    "category": "General",
-    "folder": "general",
-    "slug": "ai-generated-promo-video",
-    "variables": [],
-    "snippet": "Create a 10-second ultra-cinematic promotional video for the launch of the \"Media Presence Excellence Camp\". The video opens with a black background and dramatic lighting. A reali"
   },
   {
     "id": "opl_54f277886cd1",

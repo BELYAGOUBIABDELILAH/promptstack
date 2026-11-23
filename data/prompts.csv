@@ -104755,6 +104755,11 @@ Explain briefly what justifies the classification and potential rating.
 * Preserve uncertainty when the available evidence cannot settle the question.
 
 **Don't flatter the idea. Find out what's actually there.**",tealmcsteel@gmail.com (prompts.chat),TEXT,idea-reality-check-am-i-actually-onto-something,data-analytics,prompts/data-analytics/idea-reality-check-am-i-actually-onto-something.md
+AI-Generated Promo Video,Data & Analytics,"Create a 10-second ultra-cinematic promotional video for the launch of the ""Media Presence Excellence Camp"".
+
+The video opens with a black background and dramatic lighting. A realistic human hand enters the frame holding a professional microphone. Every second, the object smoothly transforms into another premium media tool: a broadcast microphone, a professional DSLR camera, a cinema camera, a camera lens, a wireless microphone, and a TV broadcast camera.
+
+Use seamless morph transitions, dynamic close-up shots, slow-motion details, and cinematic lighting. Add subtle light streaks and modern visual effects to emphasize innovation, professionalism, and media excellence.",ddosa300-arch (prompts.chat),TEXT,ai-generated-promo-video,data-analytics,prompts/data-analytics/ai-generated-promo-video.md
 1 Star Experience Tourist Guide,Documentation,"You are an assistant helping the user discover poorly-rated experiences near their identified location.
 
 ## Workflow
@@ -107840,11 +107845,6 @@ Style: Professional restaurant advertisement, high quality, mouth-watering, no v
 1980s vs Modern Café Split-Screen Video Scene,General,"A cinematic, high-quality video scene in a split-screen or retro-modern café setting. On one side, a stylish man from the 1980s wearing a vintage wide-lapel blazer, thick glasses, and sporting a classic 80s hairstyle, holding a cassette tape. On the other side, a woman from the 2000s wearing low-rise jeans, a cropped top, and modern highlights, holding an early 2000s slider mobile phone. They are engaged in a lively, animated, and intriguing conversation, smiling, gesturing, and talking to each other across time. Warm cinematic lighting, authentic retro color grading, film grain, highly detailed, 4k resolution, smooth motion.",prompts.chat,TEXT,1980s-vs-modern-cafe-split-screen-video-scene,general,prompts/general/1980s-vs-modern-cafe-split-screen-video-scene.md
 Action video,General,"Create a cinematic video length 30 sec, video that's like equaliser movie danzel Washington destroyed ship",monaemk44@gmail.com (prompts.chat),TEXT,action-video,general,prompts/general/action-video.md
 ADHD Treatment News,General,"Your purpose is to act as an up-to-date and informative assistant to user, providing updates on recent developments and treatments in adult ADHD. Focus on drug development pipelines, recently approved medications, legislative initiatives to ease access to treatment, and non-pharmaceutical resources for managing the condition.",src_4a926cf15dae,TEXT,adhd-treatment-news,general,prompts/general/adhd-treatment-news.md
-AI-Generated Promo Video,General,"Create a 10-second ultra-cinematic promotional video for the launch of the ""Media Presence Excellence Camp"".
-
-The video opens with a black background and dramatic lighting. A realistic human hand enters the frame holding a professional microphone. Every second, the object smoothly transforms into another premium media tool: a broadcast microphone, a professional DSLR camera, a cinema camera, a camera lens, a wireless microphone, and a TV broadcast camera.
-
-Use seamless morph transitions, dynamic close-up shots, slow-motion details, and cinematic lighting. Add subtle light streaks and modern visual effects to emphasize innovation, professionalism, and media excellence.",prompts.chat,TEXT,ai-generated-promo-video,general,prompts/general/ai-generated-promo-video.md
 AMD GPU Advisor (Linux),General,"The task is to provide information to the user about the AMD GPUs and ROCM, assume the context of Linux desktop, and Fedora as the operating system.",src_4a926cf15dae,TEXT,amd-gpu-advisor-linux,general,prompts/general/amd-gpu-advisor-linux.md
 Anime Comic Cartoon Character Skill Template,General,"---
 name: anime-comic-cartoon-character-skill-template

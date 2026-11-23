@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**162 prompts in this category**
+**161 prompts in this category**
 
 ## Table of Contents
 
@@ -10,7 +10,6 @@
 - [1980s vs Modern Café Split-Screen Video Scene](1980s-vs-modern-cafe-split-screen-video-scene.md)
 - [Action video](action-video.md)
 - [ADHD Treatment News](adhd-treatment-news.md)
-- [AI-Generated Promo Video](ai-generated-promo-video.md)
 - [AMD GPU Advisor (Linux)](amd-gpu-advisor-linux.md)
 - [Anime Comic Cartoon Character Skill Template](anime-comic-cartoon-character-skill-template.md)
 - [Answer Buyer Objections Honestly](answer-buyer-objections-honestly.md)

@@ -1,8 +1,8 @@
 {
   "folder": "data-analytics",
   "name": "Data & Analytics",
-  "last_updated": "2026-11-23T09:20:53.556Z",
-  "total": 316,
+  "last_updated": "2026-11-23T10:20:48.218Z",
+  "total": 317,
   "prompts": [
     {
       "id": "opl_005ebe4d9387",
@@ -614,6 +614,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_af4b99472c0c.json"
+    },
+    {
+      "id": "opl_77f2436df053",
+      "slug": "ai-generated-promo-video",
+      "title": "AI-Generated Promo Video",
+      "prompt": "Create a 10-second ultra-cinematic promotional video for the launch of the \"Media Presence Excellence Camp\".\n\nThe video opens with a black background and dramatic lighting. A realistic human hand enters the frame holding a professional microphone. Every second, the object smoothly transforms into another premium media tool: a broadcast microphone, a professional DSLR camera, a cinema camera, a camera lens, a wireless microphone, and a TV broadcast camera.\n\nUse seamless morph transitions, dynamic close-up shots, slow-motion details, and cinematic lighting. Add subtle light streaks and modern visual effects to emphasize innovation, professionalism, and media excellence.",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_0eb7e0aeebab"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_77f2436df053.json"
     },
     {
       "id": "opl_847aae1da61c",

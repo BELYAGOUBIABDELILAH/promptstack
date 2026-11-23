@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**316 prompts in this category**
+**317 prompts in this category**
 
 ## Table of Contents
 
@@ -35,6 +35,7 @@
 - [AI Around The World](ai-around-the-world.md)
 - [AI Face Swapping for E-commerce Personalization](ai-face-swapping-for-e-commerce-personalization.md)
 - [AI-Generated Patent Illustration Instructions](ai-generated-patent-illustration-instructions.md)
+- [AI-Generated Promo Video](ai-generated-promo-video.md)
 - [ALDC RAG Lifecycle Doc Generator (.md)](aldc-rag-lifecycle-doc-generator-md.md)
 - [alfa2](alfa2.md)
 - [Algorithm Analysis and Improvement Advisor](algorithm-analysis-and-improvement-advisor.md)

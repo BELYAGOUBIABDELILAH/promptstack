@@ -1,7 +1,7 @@
 # AI-Generated Promo Video
 
-**Category:** General  
-**Source:** prompts.chat
+**Category:** Data & Analytics  
+**Source:** ddosa300-arch (prompts.chat)
 
 ## Prompt
 
@@ -12,4 +12,4 @@
 > Use seamless morph transitions, dynamic close-up shots, slow-motion details, and cinematic lighting. Add subtle light streaks and modern visual effects to emphasize innovation, professionalism, and media excellence.
 
 ---
-[← Back to General](README.md) · [Main index](../../README.md)
+[← Back to Data & Analytics](README.md) · [Main index](../../README.md)

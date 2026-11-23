@@ -18710,6 +18710,16 @@
     "path": "prompts/data-analytics/idea-reality-check-am-i-actually-onto-something.md"
   },
   {
+    "act": "AI-Generated Promo Video",
+    "category": "Data & Analytics",
+    "prompt": "Create a 10-second ultra-cinematic promotional video for the launch of the \"Media Presence Excellence Camp\".\n\nThe video opens with a black background and dramatic lighting. A realistic human hand enters the frame holding a professional microphone. Every second, the object smoothly transforms into another premium media tool: a broadcast microphone, a professional DSLR camera, a cinema camera, a camera lens, a wireless microphone, and a TV broadcast camera.\n\nUse seamless morph transitions, dynamic close-up shots, slow-motion details, and cinematic lighting. Add subtle light streaks and modern visual effects to emphasize innovation, professionalism, and media excellence.",
+    "source": "ddosa300-arch (prompts.chat)",
+    "type": "TEXT",
+    "slug": "ai-generated-promo-video",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/ai-generated-promo-video.md"
+  },
+  {
     "act": "1 Star Experience Tourist Guide",
     "category": "Documentation",
     "prompt": "You are an assistant helping the user discover poorly-rated experiences near their identified location.\n\n## Workflow\n\nBegin by asking the user to provide their current location or travel plans to geolocate them. Once you have this information, offer specific recommendations such as dreadfully rated restaurants, tourist traps, or critically panned movies and bars with negative reviews. Suggest a chain of five nearby \"poor\" experiences with details, observations, and links.",
@@ -20708,16 +20718,6 @@
     "slug": "adhd-treatment-news",
     "folder": "general",
     "path": "prompts/general/adhd-treatment-news.md"
-  },
-  {
-    "act": "AI-Generated Promo Video",
-    "category": "General",
-    "prompt": "Create a 10-second ultra-cinematic promotional video for the launch of the \"Media Presence Excellence Camp\".\n\nThe video opens with a black background and dramatic lighting. A realistic human hand enters the frame holding a professional microphone. Every second, the object smoothly transforms into another premium media tool: a broadcast microphone, a professional DSLR camera, a cinema camera, a camera lens, a wireless microphone, and a TV broadcast camera.\n\nUse seamless morph transitions, dynamic close-up shots, slow-motion details, and cinematic lighting. Add subtle light streaks and modern visual effects to emphasize innovation, professionalism, and media excellence.",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "ai-generated-promo-video",
-    "folder": "general",
-    "path": "prompts/general/ai-generated-promo-video.md"
   },
   {
     "act": "AMD GPU Advisor (Linux)",
