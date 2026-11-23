@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 30,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prompts": [
+    {
+      "id": "opl_7ce4390d0961",
+      "slug": "rebuttal",
+      "title": "rebuttal",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7ce4390d0961.json"
+    },
     {
       "id": "opl_4f4c4752fe89",
       "slug": "receipt-data-extractor",
@@ -1068,40 +1077,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_04ab3bc83fc4.json"
-    },
-    {
-      "id": "opl_7e4f9d9509f6",
-      "slug": "room-makeover-concept-brief-builder",
-      "title": "Room Makeover Concept Brief Builder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "budget",
-          "default": "mid-range, mostly new furniture, no structural work"
-        },
-        {
-          "name": "keep",
-          "default": "the small wood-burning stove and the wide-plank floor"
-        },
-        {
-          "name": "room",
-          "default": "small living room in a timber cabin, about 3.5 x 4.5 meters, vaulted ceiling, one large window facing a pine forest"
-        },
-        {
-          "name": "second_view",
-          "default": "the reverse angle at dusk, looking from the window back toward the entry door, with the stove lit"
-        },
-        {
-          "name": "style",
-          "default": "warm Nordic cabin, calm and natural, a few bold earthy accents"
-        },
-        {
-          "name": "use",
-          "default": "a couple who read, work on a laptop now and then, and host two friends for board games"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7e4f9d9509f6.json"
     }
   ]
 }

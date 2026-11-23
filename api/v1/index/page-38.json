@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 38,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_f3817125f6ef",
+      "slug": "vineyard-tasting-pavilion-terrace-at-sunset-downhill-vine-row-view",
+      "title": "Vineyard Tasting Pavilion Terrace at Sunset (Downhill Vine Row View)",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f3817125f6ef.json"
+    },
     {
       "id": "opl_703fddca8ff0",
       "slug": "vintage-analog-portrait",
@@ -1088,20 +1097,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_72c6c65d1367.json"
-    },
-    {
-      "id": "opl_3890b19a2c8b",
-      "slug": "world-of-darkness-colored-comic-style",
-      "title": "World of Darkness Colored Comic style",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "subject",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3890b19a2c8b.json"
     }
   ]
 }

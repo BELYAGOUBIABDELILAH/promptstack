@@ -1,12 +1,46 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 31,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_7e4f9d9509f6",
+      "slug": "room-makeover-concept-brief-builder",
+      "title": "Room Makeover Concept Brief Builder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "mid-range, mostly new furniture, no structural work"
+        },
+        {
+          "name": "keep",
+          "default": "the small wood-burning stove and the wide-plank floor"
+        },
+        {
+          "name": "room",
+          "default": "small living room in a timber cabin, about 3.5 x 4.5 meters, vaulted ceiling, one large window facing a pine forest"
+        },
+        {
+          "name": "second_view",
+          "default": "the reverse angle at dusk, looking from the window back toward the entry door, with the stove lit"
+        },
+        {
+          "name": "style",
+          "default": "warm Nordic cabin, calm and natural, a few bold earthy accents"
+        },
+        {
+          "name": "use",
+          "default": "a couple who read, work on a laptop now and then, and host two friends for board games"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7e4f9d9509f6.json"
+    },
     {
       "id": "opl_a3dcc5427846",
       "slug": "room-paint-quantity-estimator",
@@ -1198,15 +1232,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a97d8346a36a.json"
-    },
-    {
-      "id": "opl_1e7339e29cd7",
-      "slug": "senior-prompt-engineer-role-guide",
-      "title": "Senior Prompt Engineer Role Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1e7339e29cd7.json"
     }
   ]
 }

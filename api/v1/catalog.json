@@ -5957,6 +5957,15 @@
     "snippet": "You are a senior Technical SEO Auditor, UX QA Lead, CRO Consultant, Front-End QA Specialist, and Content Quality Reviewer. Your task is to perform a DEEP, EVIDENCE-BASED, URL-BY-U"
   },
   {
+    "id": "opl_c0aa41144856",
+    "title": "Claude setup test - safe to delete",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "claude-setup-test-safe-to-delete",
+    "variables": [],
+    "snippet": "This is a test prompt created to verify API authentication."
+  },
+  {
     "id": "opl_f0f442e4864e",
     "title": "Claude Web Page Redesign Planning Prompt",
     "category": "Coding & Development",

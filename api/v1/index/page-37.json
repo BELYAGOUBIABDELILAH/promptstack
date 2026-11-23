@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 37,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_2ce6409ef837",
+      "slug": "tvs-raider",
+      "title": "TVS raider",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2ce6409ef837.json"
+    },
     {
       "id": "opl_dcafc9aa4939",
       "slug": "typescript-library-taste",
@@ -1171,15 +1180,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d4c695a6c06c.json"
-    },
-    {
-      "id": "opl_f3817125f6ef",
-      "slug": "vineyard-tasting-pavilion-terrace-at-sunset-downhill-vine-row-view",
-      "title": "Vineyard Tasting Pavilion Terrace at Sunset (Downhill Vine Row View)",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f3817125f6ef.json"
     }
   ]
 }

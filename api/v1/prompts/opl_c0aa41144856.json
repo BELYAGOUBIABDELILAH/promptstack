@@ -1,0 +1,16 @@
+{
+  "id": "opl_c0aa41144856",
+  "slug": "claude-setup-test-safe-to-delete",
+  "title": "Claude setup test - safe to delete",
+  "prompt": "This is a test prompt created to verify API authentication.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_435f925101fd"
+  ],
+  "revision": 1,
+  "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c0aa41144856.json"
+}

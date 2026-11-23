@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 8,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-9.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-7.json",
@@ -799,6 +799,15 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e5d3e07b4f05.json"
     },
     {
+      "id": "opl_c0aa41144856",
+      "slug": "claude-setup-test-safe-to-delete",
+      "title": "Claude setup test - safe to delete",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c0aa41144856.json"
+    },
+    {
       "id": "opl_f0f442e4864e",
       "slug": "claude-web-page-redesign-planning-prompt",
       "title": "Claude Web Page Redesign Planning Prompt",
@@ -1197,28 +1206,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6f1b265e0e37.json"
-    },
-    {
-      "id": "opl_0df7e07fd4d4",
-      "slug": "code-review-expert",
-      "title": "Code Review Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "focusArea",
-          "default": "general"
-        },
-        {
-          "name": "framework",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0df7e07fd4d4.json"
     }
   ]
 }

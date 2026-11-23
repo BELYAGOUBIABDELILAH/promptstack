@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 27,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_b1bf87427ec9",
+      "slug": "photoreal-saffron-crocus-harvest-basket-on-a-limestone-wall-at-dawn",
+      "title": "Photoreal Saffron Crocus Harvest Basket on a Limestone Wall at Dawn",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b1bf87427ec9.json"
+    },
     {
       "id": "opl_1256b910cc4a",
       "slug": "photoreal-snow-leopard-on-a-himalayan-ridge-above-the-clouds-at-dawn",
@@ -1227,15 +1236,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9276f5938fe8.json"
-    },
-    {
-      "id": "opl_53df5ecf3e0f",
-      "slug": "premortem-analysis",
-      "title": "Premortem Analysis",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_53df5ecf3e0f.json"
     }
   ]
 }

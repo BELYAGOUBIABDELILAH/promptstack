@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 36,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_e74ed364c082",
+      "slug": "the-colorful-fish-learning-emotions",
+      "title": "The Colorful Fish Learning Emotions",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "fishName",
+          "default": "Finny"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e74ed364c082.json"
+    },
     {
       "id": "opl_dcb4a5d45c09",
       "slug": "the-covert-exchange-in-the-fog",
@@ -1125,15 +1139,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f6cd6c867707.json"
-    },
-    {
-      "id": "opl_2ce6409ef837",
-      "slug": "tvs-raider",
-      "title": "TVS raider",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2ce6409ef837.json"
     }
   ]
 }

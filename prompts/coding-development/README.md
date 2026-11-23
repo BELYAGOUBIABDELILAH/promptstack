@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1323 prompts in this category**
+**1324 prompts in this category**
 
 ## Table of Contents
 
@@ -250,6 +250,7 @@
 - [Claude Code Skill (Slash Command): review-and-commit.md](claude-code-skill-slash-command-review-and-commit-md.md)
 - [Claude Code Statusline Design](claude-code-statusline-design.md)
 - [Claude Opus as SEO Auditor](claude-opus-as-seo-auditor.md)
+- [Claude setup test - safe to delete](claude-setup-test-safe-to-delete.md)
 - [Claude Web Page Redesign Planning Prompt](claude-web-page-redesign-planning-prompt.md)
 - [claude-md-master](claude-md-master.md)
 - [CLAUDE.md Assembly](claude-md-assembly.md)

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 39,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_3890b19a2c8b",
+      "slug": "world-of-darkness-colored-comic-style",
+      "title": "World of Darkness Colored Comic style",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "subject",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3890b19a2c8b.json"
+    },
     {
       "id": "opl_c41c18c9eddf",
       "slug": "write-an-email",

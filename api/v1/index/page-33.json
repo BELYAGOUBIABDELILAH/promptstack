@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 33,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_2690b591a391",
+      "slug": "soft-glam-lounge-close-up",
+      "title": "Soft Glam Lounge Close-Up",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2690b591a391.json"
+    },
     {
       "id": "opl_7f389a31500d",
       "slug": "software-alternative-finder",
@@ -998,15 +1007,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7eb857ebb461.json"
-    },
-    {
-      "id": "opl_19379276ee0c",
-      "slug": "stock-phrase-suggestor",
-      "title": "Stock Phrase Suggestor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_19379276ee0c.json"
     }
   ]
 }

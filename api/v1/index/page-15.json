@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 15,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_8107251e8391",
+      "slug": "expert-level-insights-and-advanced-resources",
+      "title": "Expert-Level Insights and Advanced Resources",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8107251e8391.json"
+    },
     {
       "id": "opl_9bf1d8d0ff95",
       "slug": "explain-a-concept-via-allegorical-story",
@@ -1249,24 +1258,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0ac0d0c19a2b.json"
-    },
-    {
-      "id": "opl_c9cf417f799a",
-      "slug": "football-player-introduction-poster-template",
-      "title": "Football Player Introduction Poster Template",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "club_name",
-          "default": null
-        },
-        {
-          "name": "player_name",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c9cf417f799a.json"
     }
   ]
 }

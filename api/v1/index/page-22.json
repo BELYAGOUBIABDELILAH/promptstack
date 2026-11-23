@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 22,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_298abae57027",
+      "slug": "llm-configuration-tuner",
+      "title": "LLM Configuration Tuner",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_298abae57027.json"
+    },
     {
       "id": "opl_cc89bf239a7f",
       "slug": "llm-expert",
@@ -1187,15 +1196,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6250609e87b3.json"
-    },
-    {
-      "id": "opl_bb788a74e1fc",
-      "slug": "mathematician",
-      "title": "Mathematician",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bb788a74e1fc.json"
     }
   ]
 }

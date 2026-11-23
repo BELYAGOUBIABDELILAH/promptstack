@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 12,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_5ad43cbd49f7",
+      "slug": "database-schema-design-taste",
+      "title": "Database Schema Design taste",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5ad43cbd49f7.json"
+    },
     {
       "id": "opl_459a06d70f77",
       "slug": "databricks",
@@ -1197,15 +1206,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_725232a6a794.json"
-    },
-    {
-      "id": "opl_16208b2a3d4c",
-      "slug": "dietitian",
-      "title": "Dietitian",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_16208b2a3d4c.json"
     }
   ]
 }

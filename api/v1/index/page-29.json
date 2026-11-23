@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 29,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_a614ab89d33c",
+      "slug": "proofreader",
+      "title": "Proofreader",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a614ab89d33c.json"
+    },
     {
       "id": "opl_953fb3669220",
       "slug": "proofreader-inconsistencies",
@@ -1039,15 +1048,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1d8eb8779a65.json"
-    },
-    {
-      "id": "opl_7ce4390d0961",
-      "slug": "rebuttal",
-      "title": "rebuttal",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7ce4390d0961.json"
     }
   ]
 }

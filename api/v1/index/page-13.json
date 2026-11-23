@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 13,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_16208b2a3d4c",
+      "slug": "dietitian",
+      "title": "Dietitian",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_16208b2a3d4c.json"
+    },
     {
       "id": "opl_1f796d691973",
       "slug": "diff",
@@ -1121,15 +1130,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_415761c841e1.json"
-    },
-    {
-      "id": "opl_d09075db4a6e",
-      "slug": "educational-platform-support-assistant",
-      "title": "Educational Platform Support Assistant",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d09075db4a6e.json"
     }
   ]
 }

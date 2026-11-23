@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 34,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_19379276ee0c",
+      "slug": "stock-phrase-suggestor",
+      "title": "Stock Phrase Suggestor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_19379276ee0c.json"
+    },
     {
       "id": "opl_8e5a4ea4cfc5",
       "slug": "stone-farmhouse-at-the-end-of-lavender-rows-in-provence-at-sunrise",
@@ -1127,15 +1136,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9577f7bc7046.json"
-    },
-    {
-      "id": "opl_1c5d259e88b9",
-      "slug": "system-prompt-auto-enhancer",
-      "title": "System Prompt Auto-Enhancer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1c5d259e88b9.json"
     }
   ]
 }

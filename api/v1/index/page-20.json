@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 20,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_a32d2f12a867",
+      "slug": "is-it-any-good",
+      "title": "Is It Any Good?",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a32d2f12a867.json"
+    },
     {
       "id": "opl_343f2861413e",
       "slug": "is-that-a-job",
@@ -1048,15 +1057,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_43730a8d4dc8.json"
-    },
-    {
-      "id": "opl_326149fa0fa2",
-      "slug": "lakeside-pottery-studio-workbench-at-blue-hour-looking-out-t",
-      "title": "Lakeside Pottery Studio Workbench at Blue Hour (Looking Out to the Water)",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_326149fa0fa2.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 23,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_bb788a74e1fc",
+      "slug": "mathematician",
+      "title": "Mathematician",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bb788a74e1fc.json"
+    },
     {
       "id": "opl_c4960bd00b76",
       "slug": "maths-reviewer",
@@ -1102,15 +1111,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4655c950679e.json"
-    },
-    {
-      "id": "opl_23af5a2a7e1f",
-      "slug": "monochrome-chiaroscuro-portrait",
-      "title": "Monochrome Chiaroscuro Portrait",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_23af5a2a7e1f.json"
     }
   ]
 }

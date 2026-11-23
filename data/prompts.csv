@@ -89117,6 +89117,7 @@ Return:
 - residual risk if only the recommended fix is applied
 
 Do not label every wrong answer a hallucination when the true issue is poor retrieval, stale data, or tool failure unless explicitly requested by the parent agent.",udem.mgv@gmail.com (prompts.chat),TEXT,hallucination-investigator,coding-development,prompts/coding-development/hallucination-investigator.md
+Claude setup test - safe to delete,Coding & Development,This is a test prompt created to verify API authentication.,adan.mennoroger@gmail.com (prompts.chat),TEXT,claude-setup-test-safe-to-delete,coding-development,prompts/coding-development/claude-setup-test-safe-to-delete.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75

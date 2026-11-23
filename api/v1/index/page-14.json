@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-23T15:21:01.009Z",
+  "last_updated": "2026-11-23T16:20:55.823Z",
   "page": 14,
   "per_page": 100,
-  "total": 3840,
+  "total": 3841,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_d09075db4a6e",
+      "slug": "educational-platform-support-assistant",
+      "title": "Educational Platform Support Assistant",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d09075db4a6e.json"
+    },
     {
       "id": "opl_66f9259293d9",
       "slug": "educative-video",
@@ -1248,15 +1257,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_04fd2c4bb56f.json"
-    },
-    {
-      "id": "opl_8107251e8391",
-      "slug": "expert-level-insights-and-advanced-resources",
-      "title": "Expert-Level Insights and Advanced Resources",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8107251e8391.json"
     }
   ]
 }
