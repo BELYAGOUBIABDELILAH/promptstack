@@ -1668,5 +1668,15 @@
     "slug": "humanize-ai-text",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/humanize-ai-text.md"
+  },
+  {
+    "act": "Teach me module 2",
+    "category": "AI & Automation",
+    "prompt": "Teach me module 2 properly and sequentially in proper flow, compare both document and include every numerical and theory sequentially from both documents",
+    "source": "fisherandy083@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "teach-me-module-2",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/teach-me-module-2.md"
   }
 ]
