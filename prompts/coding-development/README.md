@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1326 prompts in this category**
+**1327 prompts in this category**
 
 ## Table of Contents
 
@@ -890,6 +890,7 @@
 - [Personalized Digital Avatar Generator](personalized-digital-avatar-generator.md)
 - [Personalized Exam Preparation Tutor](personalized-exam-preparation-tutor.md)
 - [Personalized Technical Intelligence Briefing for Edge AI in Defense](personalized-technical-intelligence-briefing-for-edge-ai-in.md)
+- [Pharmacy chronic patient crm](pharmacy-chronic-patient-crm.md)
 - [Photography Trip Planning — Research-Backed Itinerary Builder](photography-trip-planning-research-backed-itinerary-builder.md)
 - [Photorealistic 4K Reference Image Enhancement](photorealistic-4k-reference-image-enhancement.md)
 - [Photorealistic Selfie Portrait Description](photorealistic-selfie-portrait-description.md)

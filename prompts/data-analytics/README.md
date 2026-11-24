@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**316 prompts in this category**
+**315 prompts in this category**
 
 ## Table of Contents
 
@@ -227,7 +227,6 @@
 - [Personal "Operating Manual"](personal-operating-manual.md)
 - [Personal Insight Analyzer from Past Chats](personal-insight-analyzer-from-past-chats.md)
 - [Personality Analyst](personality-analyst.md)
-- [Pharmacy chronic patient crm](pharmacy-chronic-patient-crm.md)
 - [Phoenix App taste](phoenix-app-taste.md)
 - [Photo-to-Isometric: Reality Slice Generator](photo-to-isometric-reality-slice-generator.md)
 - [PID Tuning Coach From a Trend](pid-tuning-coach-from-a-trend.md)

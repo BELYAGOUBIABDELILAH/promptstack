@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T01:20:48.902Z",
+  "last_updated": "2026-11-24T02:20:54.790Z",
   "page": 26,
   "per_page": 100,
   "total": 3843,
@@ -929,8 +929,8 @@
       "id": "opl_cfab9e93b899",
       "slug": "pharmacy-chronic-patient-crm",
       "title": "Pharmacy chronic patient crm",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cfab9e93b899.json"
     },

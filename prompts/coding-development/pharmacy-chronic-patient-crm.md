@@ -1,7 +1,7 @@
 # Pharmacy chronic patient crm
 
-**Category:** Data & Analytics  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** yakoobhaitham370@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -366,4 +366,4 @@
 > Do not overengineer the system.
 
 ---
-[← Back to Data & Analytics](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

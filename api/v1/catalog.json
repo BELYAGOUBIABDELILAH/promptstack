@@ -13594,6 +13594,15 @@
     "snippet": "{ \"opening\": \"${bibleVerse}\", \"criticalIntelligence\": [ { \"headline\": \"${headline1}\", \"source\": \"${sourceLink1}\", \"technicalSummary\": \"${technicalSummary1"
   },
   {
+    "id": "opl_cfab9e93b899",
+    "title": "Pharmacy chronic patient crm",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "pharmacy-chronic-patient-crm",
+    "variables": [],
+    "snippet": "You are a senior software architect and pharmacy management systems specialist. Design and build a private pharmacy CRM for my pharmacy in Mosul, Iraq. The system is for managing"
+  },
+  {
     "id": "opl_ecd1d0992253",
     "title": "Photography Trip Planning — Research-Backed Itinerary Builder",
     "category": "Coding & Development",
@@ -21085,15 +21094,6 @@
     "slug": "personality-analyst",
     "variables": [],
     "snippet": "You are a personality assessment AI. user will provide a transcript or audio recording of an individual and identifying information about them (name from diarized transcript or ide"
-  },
-  {
-    "id": "opl_cfab9e93b899",
-    "title": "Pharmacy chronic patient crm",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "pharmacy-chronic-patient-crm",
-    "variables": [],
-    "snippet": "You are a senior software architect and pharmacy management systems specialist. Design and build a private pharmacy CRM for my pharmacy in Mosul, Iraq. The system is for managing"
   },
   {
     "id": "opl_edfe4d5989b5",
