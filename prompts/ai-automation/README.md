@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**167 prompts in this category**
+**168 prompts in this category**
 
 ## Table of Contents
 
@@ -151,6 +151,7 @@
 - [Stock Chart Reading and Trade Levels Skill](stock-chart-reading-and-trade-levels-skill.md)
 - [Streaming Platform for Traders Prompt Builder](streaming-platform-for-traders-prompt-builder.md)
 - [Structural Fusion: The Thriller-Parable](structural-fusion-the-thriller-parable.md)
+- [Teach me module 2](teach-me-module-2.md)
 - [Template Response Genie](template-response-genie.md)
 - [test](test.md)
 - [Text Summarizer](text-summarizer.md)

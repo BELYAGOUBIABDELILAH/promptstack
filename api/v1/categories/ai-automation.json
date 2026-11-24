@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-24T07:20:54.490Z",
-  "total": 166,
+  "last_updated": "2026-11-24T09:20:56.408Z",
+  "total": 167,
   "prompts": [
     {
       "id": "opl_a0ea04a6dfe4",
@@ -2714,6 +2714,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cd7ea4ae8431.json"
+    },
+    {
+      "id": "opl_7a2912336bd3",
+      "slug": "teach-me-module-2",
+      "title": "Teach me module 2",
+      "prompt": "Teach me module 2 properly and sequentially in proper flow, compare both document and include every numerical and theory sequentially from both documents",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_eb47cf2d9690"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7a2912336bd3.json"
     },
     {
       "id": "opl_cd3e1ea336b2",

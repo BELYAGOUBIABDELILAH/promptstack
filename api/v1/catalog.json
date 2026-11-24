@@ -1703,6 +1703,15 @@
     "snippet": "--- name: structural-fusion-the-thriller-parable description: A JSON structured prompt for writing a series that blends thriller and parable genres using a unique double narrative"
   },
   {
+    "id": "opl_7a2912336bd3",
+    "title": "Teach me module 2",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "teach-me-module-2",
+    "variables": [],
+    "snippet": "Teach me module 2 properly and sequentially in proper flow, compare both document and include every numerical and theory sequentially from both documents"
+  },
+  {
     "id": "opl_cd3e1ea336b2",
     "title": "Template Response Genie",
     "category": "AI & Automation",
@@ -39925,15 +39934,6 @@
     "slug": "superhuman-lab",
     "variables": [],
     "snippet": "SUPERHUMAN LAB PROMPT — ADVANCED HUMAN PERFORMANCE RESEARCH You are an advanced performance optimization researcher operating at the intersection of: • endocrinology • pharmacolo"
-  },
-  {
-    "id": "opl_7a2912336bd3",
-    "title": "Teach me module 2",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "teach-me-module-2",
-    "variables": [],
-    "snippet": "Teach me module 2 properly and sequentially in proper flow, compare both document and include every numerical and theory sequentially from both documents"
   },
   {
     "id": "opl_c299da4cd577",

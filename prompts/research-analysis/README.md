@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**52 prompts in this category**
+**51 prompts in this category**
 
 ## Table of Contents
 
@@ -54,7 +54,6 @@
 - [Strategy Consultant](strategy-consultant-28ff4a.md)
 - [Summarize Peer Feedback](summarize-peer-feedback.md)
 - [Superhuman lab](superhuman-lab.md)
-- [Teach me module 2](teach-me-module-2.md)
 - [Tech Stack Optimiser](tech-stack-optimiser.md)
 - [UX Conversion Deconstruction Engine](ux-conversion-deconstruction-engine.md)
 - [Weekly Updates for 1:1](weekly-updates-for-1-1.md)

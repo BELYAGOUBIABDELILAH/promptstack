@@ -1670,6 +1670,16 @@
     "path": "prompts/ai-automation/humanize-ai-text.md"
   },
   {
+    "act": "Teach me module 2",
+    "category": "AI & Automation",
+    "prompt": "Teach me module 2 properly and sequentially in proper flow, compare both document and include every numerical and theory sequentially from both documents",
+    "source": "fisherandy083@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "teach-me-module-2",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/teach-me-module-2.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",
@@ -34218,16 +34228,6 @@
     "slug": "superhuman-lab",
     "folder": "research-analysis",
     "path": "prompts/research-analysis/superhuman-lab.md"
-  },
-  {
-    "act": "Teach me module 2",
-    "category": "Research & Analysis",
-    "prompt": "Teach me module 2 properly and sequentially in proper flow, compare both document and include every numerical and theory sequentially from both documents",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "teach-me-module-2",
-    "folder": "research-analysis",
-    "path": "prompts/research-analysis/teach-me-module-2.md"
   },
   {
     "act": "Tech Stack Optimiser",

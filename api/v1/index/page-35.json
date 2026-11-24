@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T07:20:54.490Z",
+  "last_updated": "2026-11-24T09:20:56.408Z",
   "page": 35,
   "per_page": 100,
   "total": 3844,
@@ -443,8 +443,8 @@
       "id": "opl_7a2912336bd3",
       "slug": "teach-me-module-2",
       "title": "Teach me module 2",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7a2912336bd3.json"
     },
