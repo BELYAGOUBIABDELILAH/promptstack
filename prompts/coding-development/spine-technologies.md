@@ -1,7 +1,7 @@
 # Spine Technologies
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** spine4technologies@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -36,4 +36,4 @@
 > Do not misspell, alter, abbreviate, or replace any letters in the company name.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

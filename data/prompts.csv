@@ -90447,6 +90447,35 @@ To guarantee structure never breaks or degrades across long conversations:
 ## Optional: Example Twist Phrasing (for inspiration only — do not copy verbatim)
 - “That hardworking kid who kept showing up at the wrong time with the wrong tools? He grew up to be… Henry Ford. And now you know… the rest of the story.”
 - “That little shop that couldn’t keep the lights on? It turned out to be the birthplace of… Coca-Cola. And now you know… the rest of the story.”",thanos0000@gmail.com (prompts.chat),TEXT,the-rest-of-the-story,coding-development,prompts/coding-development/the-rest-of-the-story.md
+Spine Technologies,Coding & Development,"Create a premium 4K ultra-high-resolution corporate technology brand identity image for a company named exactly:
+
+""Spine For Technologies""
+
+Design a futuristic, innovative, sophisticated logo that represents advanced technology, digital transformation, artificial intelligence, software development, cybersecurity, and the future of technological innovation.
+
+The logo should be an original geometric symbol inspired by a technological spine / interconnected digital structure, intelligently combining the concepts of ""Spine"" and ""Technology"" into one distinctive visual mark. Use elegant geometric shapes, precise lines, subtle circuit-board patterns, connected nodes, and a dynamic sense of digital evolution.
+
+Place the logo prominently in the center, with the company name:
+
+""Spine For Technologies""
+
+directly underneath it in a premium modern sans-serif typeface. Typography must be extremely clean, sharp, professional, perfectly aligned, and highly legible.
+
+Visual style: futuristic technology, premium corporate identity, cutting-edge innovation, sophisticated minimalism, high-end digital branding.
+
+Color palette: deep black and dark navy background with electric blue, cyan, and subtle violet luminous accents. Add controlled neon glow, metallic reflections, subtle glass effects, elegant light trails, and very refined technological details.
+
+Composition should feel powerful, intelligent, trustworthy, innovative, and suitable for a global technology company.
+
+Cinematic studio lighting, dramatic depth, realistic reflections, volumetric light, subtle particles, high contrast, clean composition, professional branding presentation, extremely sharp details, photorealistic 3D logo rendering.
+
+4K resolution, ultra-detailed, crisp edges, premium quality, professional corporate branding, no people, no unnecessary objects, no clutter, no watermark.
+
+IMPORTANT:
+The company name must be written EXACTLY as:
+""Spine For Technologies""
+
+Do not misspell, alter, abbreviate, or replace any letters in the company name.",spine4technologies@gmail.com (prompts.chat),TEXT,spine-technologies,coding-development,prompts/coding-development/spine-technologies.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -122044,35 +122073,6 @@ Your primary goals are:
 3.  **Clarify Ambiguous Charges:** If the identity of a recurrent charge is unclear, ask the user to clarify the nature of the expense to ensure correct categorization.
 
 Present your findings in a clear, concise, and easy-to-understand format, highlighting key insights and potential areas for savings.",src_4a926cf15dae,TEXT,spending-analyst,image-design,prompts/image-design/spending-analyst.md
-Spine Technologies,Image & Design,"Create a premium 4K ultra-high-resolution corporate technology brand identity image for a company named exactly:
-
-""Spine For Technologies""
-
-Design a futuristic, innovative, sophisticated logo that represents advanced technology, digital transformation, artificial intelligence, software development, cybersecurity, and the future of technological innovation.
-
-The logo should be an original geometric symbol inspired by a technological spine / interconnected digital structure, intelligently combining the concepts of ""Spine"" and ""Technology"" into one distinctive visual mark. Use elegant geometric shapes, precise lines, subtle circuit-board patterns, connected nodes, and a dynamic sense of digital evolution.
-
-Place the logo prominently in the center, with the company name:
-
-""Spine For Technologies""
-
-directly underneath it in a premium modern sans-serif typeface. Typography must be extremely clean, sharp, professional, perfectly aligned, and highly legible.
-
-Visual style: futuristic technology, premium corporate identity, cutting-edge innovation, sophisticated minimalism, high-end digital branding.
-
-Color palette: deep black and dark navy background with electric blue, cyan, and subtle violet luminous accents. Add controlled neon glow, metallic reflections, subtle glass effects, elegant light trails, and very refined technological details.
-
-Composition should feel powerful, intelligent, trustworthy, innovative, and suitable for a global technology company.
-
-Cinematic studio lighting, dramatic depth, realistic reflections, volumetric light, subtle particles, high contrast, clean composition, professional branding presentation, extremely sharp details, photorealistic 3D logo rendering.
-
-4K resolution, ultra-detailed, crisp edges, premium quality, professional corporate branding, no people, no unnecessary objects, no clutter, no watermark.
-
-IMPORTANT:
-The company name must be written EXACTLY as:
-""Spine For Technologies""
-
-Do not misspell, alter, abbreviate, or replace any letters in the company name.",prompts.chat,TEXT,spine-technologies,image-design,prompts/image-design/spine-technologies.md
 Sponsor Hall of Fame,Image & Design,Design a 'Sponsor Hall of Fame' section for my README and Sponsors page that creatively showcases and thanks all contributors at different tiers.,src_dab9fa094922,TEXT,sponsor-hall-of-fame,image-design,prompts/image-design/sponsor-hall-of-fame.md
 Stack Research Prompt Optimiser,Image & Design,"Your purpose is to act as a helpful assistant to user in order to improve the prompts that he has written. You will be assisting user to find technology, software, or stack components.
 

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**827 prompts in this category**
+**826 prompts in this category**
 
 ## Table of Contents
 
@@ -703,7 +703,6 @@
 - [Speech and Logo Shape Design Template](speech-and-logo-shape-design-template.md)
 - [Speech To Text (STT) Expert](speech-to-text-stt-expert.md)
 - [Spending Analyst](spending-analyst.md)
-- [Spine Technologies](spine-technologies.md)
 - [Sponsor Hall of Fame](sponsor-hall-of-fame.md)
 - [Stack Research Prompt Optimiser](stack-research-prompt-optimiser.md)
 - [Stained Glass Window of a Fox Under a Harvest Moon](stained-glass-window-of-a-fox-under-a-harvest-moon.md)
