@@ -90303,6 +90303,89 @@ No revision introduced a claim outside the positioning document, fabricated urge
 Any skipped conditional section is noted
 The Step 4 change log is attached
 Then output the complete finalized copy, section by section, clearly labeled, ready for handoff to the design and build team. Close with an Open Items list that collects every bracketed placeholder and [Gap] in the final copy, grouped by the team that needs to resolve it (e.g., product, creative, legal).",ablum0814@gmail.com (prompts.chat),TEXT,landing-page-copywriting,coding-development,prompts/coding-development/landing-page-copywriting.md
+Local Business Management MVP Phase 1 Foundation,Coding & Development,"# MVP Phase 1 — Foundation
+
+## Objective
+
+Create the technical foundation of the Local Business Management System.
+
+Do NOT implement business features yet.
+
+The goal is to have a clean Go application that:
+
+1. Starts successfully
+2. Loads configuration
+3. Connects to PostgreSQL
+4. Runs database migrations
+5. Exposes an HTTP API
+6. Has structured logging
+7. Has health checks
+8. Has clean application startup/shutdown
+
+## Stack
+
+* Go
+* PostgreSQL
+* HTTP REST API
+* SQL migrations
+* Environment/configuration system
+* Structured logging
+
+## Initial Structure
+
+```text
+cmd/
+  server/
+    main.go
+
+internal/
+  platform/
+    config/
+    database/
+    http/
+    logging/
+
+  core/
+
+migrations/
+
+api/
+
+go.mod
+```
+
+## Required Endpoint
+
+```http
+GET /health
+```
+
+Expected response:
+
+```json
+{
+  ""status"": ""ok"",
+  ""database"": ""ok""
+}
+```
+
+## Requirements
+
+Implement graceful shutdown.
+
+Database connection must use connection pooling.
+
+Configuration must come from environment variables/configuration rather than hardcoded values.
+
+Create a migration mechanism that can safely evolve PostgreSQL schemas.
+
+Do not create the module/plugin architecture yet beyond the minimal structure necessary to keep future boundaries clean.
+
+## Deliverable
+
+A running local Go server connected to PostgreSQL with a clean project structure and migration system.
+
+Nothing else.",mohamedwassim4@gmail.com (prompts.chat),TEXT,local-business-management-mvp-phase-1-foundation,coding-development,prompts/coding-development/local-business-management-mvp-phase-1-foundation.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -98307,89 +98390,6 @@ Load Testing taste,Data & Analytics,"# Load Testing taste of a performance-minde
 - Verify that autoscaling reacts in time by ramping load gradually and measuring how long new capacity takes to help. Confidence: 0.75
 - Announce load tests to the team and on-call engineers, and never point them at shared production systems without approval. Confidence: 0.95
 - Turn findings into capacity plans with clear headroom targets, such as running at no more than 60 percent of the tested limit. Confidence: 0.70",prompts.chat,TEXT,load-testing-taste,data-analytics,prompts/data-analytics/load-testing-taste.md
-Local Business Management MVP Phase 1 Foundation,Data & Analytics,"# MVP Phase 1 — Foundation
-
-## Objective
-
-Create the technical foundation of the Local Business Management System.
-
-Do NOT implement business features yet.
-
-The goal is to have a clean Go application that:
-
-1. Starts successfully
-2. Loads configuration
-3. Connects to PostgreSQL
-4. Runs database migrations
-5. Exposes an HTTP API
-6. Has structured logging
-7. Has health checks
-8. Has clean application startup/shutdown
-
-## Stack
-
-* Go
-* PostgreSQL
-* HTTP REST API
-* SQL migrations
-* Environment/configuration system
-* Structured logging
-
-## Initial Structure
-
-```text
-cmd/
-  server/
-    main.go
-
-internal/
-  platform/
-    config/
-    database/
-    http/
-    logging/
-
-  core/
-
-migrations/
-
-api/
-
-go.mod
-```
-
-## Required Endpoint
-
-```http
-GET /health
-```
-
-Expected response:
-
-```json
-{
-  ""status"": ""ok"",
-  ""database"": ""ok""
-}
-```
-
-## Requirements
-
-Implement graceful shutdown.
-
-Database connection must use connection pooling.
-
-Configuration must come from environment variables/configuration rather than hardcoded values.
-
-Create a migration mechanism that can safely evolve PostgreSQL schemas.
-
-Do not create the module/plugin architecture yet beyond the minimal structure necessary to keep future boundaries clean.
-
-## Deliverable
-
-A running local Go server connected to PostgreSQL with a clean project structure and migration system.
-
-Nothing else.",prompts.chat,TEXT,local-business-management-mvp-phase-1-foundation,data-analytics,prompts/data-analytics/local-business-management-mvp-phase-1-foundation.md
 Local STT Model Guide,Data & Analytics,"Context
 You have permanent access to the user's hardware specifications and operating system details in your internal context.
 Use this information when evaluating model feasibility (CPU, GPU, RAM, storage, OS compatibility, etc.).

@@ -11884,6 +11884,15 @@
     "snippet": "--- name: loan-amortization-planner description: Builds fixed-rate loan and mortgage amortization schedules, shows how much of each payment goes to interest, and compares payoff st"
   },
   {
+    "id": "opl_dfa1f20e0f39",
+    "title": "Local Business Management MVP Phase 1 Foundation",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "local-business-management-mvp-phase-1-foundation",
+    "variables": [],
+    "snippet": "# MVP Phase 1 — Foundation ## Objective Create the technical foundation of the Local Business Management System. Do NOT implement business features yet. The goal is to have a c"
+  },
+  {
     "id": "opl_61c42a7d0d66",
     "title": "Local TTS Guide",
     "category": "Coding & Development",
@@ -20616,15 +20625,6 @@
     "slug": "load-testing-taste",
     "variables": [],
     "snippet": "# Load Testing taste of a performance-minded reliability engineer - Start every load test from a written goal, such as p95 latency under 300 ms at 500 requests per second, not from"
-  },
-  {
-    "id": "opl_dfa1f20e0f39",
-    "title": "Local Business Management MVP Phase 1 Foundation",
-    "category": "Data & Analytics",
-    "folder": "data-analytics",
-    "slug": "local-business-management-mvp-phase-1-foundation",
-    "variables": [],
-    "snippet": "# MVP Phase 1 — Foundation ## Objective Create the technical foundation of the Local Business Management System. Do NOT implement business features yet. The goal is to have a c"
   },
   {
     "id": "opl_487841022c4d",

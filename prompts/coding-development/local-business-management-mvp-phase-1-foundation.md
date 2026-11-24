@@ -1,7 +1,7 @@
 # Local Business Management MVP Phase 1 Foundation
 
-**Category:** Data & Analytics  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** mohamedwassim4@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -90,4 +90,4 @@
 > Nothing else.
 
 ---
-[← Back to Data & Analytics](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

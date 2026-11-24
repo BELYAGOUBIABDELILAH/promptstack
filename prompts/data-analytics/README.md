@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**315 prompts in this category**
+**314 prompts in this category**
 
 ## Table of Contents
 
@@ -184,7 +184,6 @@
 - [LLM Bias & Censorship Evaulator](llm-bias-censorship-evaulator.md)
 - [LLM Researcher](llm-researcher.md)
 - [Load Testing taste](load-testing-taste.md)
-- [Local Business Management MVP Phase 1 Foundation](local-business-management-mvp-phase-1-foundation.md)
 - [Local STT Model Guide](local-stt-model-guide.md)
 - [Lonely Girl](lonely-girl.md)
 - [Long-Running Merge Requests Table](long-running-merge-requests-table.md)

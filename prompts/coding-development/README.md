@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1328 prompts in this category**
+**1329 prompts in this category**
 
 ## Table of Contents
 
@@ -747,6 +747,7 @@
 - [LLM Guide](llm-guide.md)
 - [LLM Tool Debugger](llm-tool-debugger.md)
 - [Loan Amortization Planner](loan-amortization-planner.md)
+- [Local Business Management MVP Phase 1 Foundation](local-business-management-mvp-phase-1-foundation.md)
 - [Local TTS Guide](local-tts-guide.md)
 - [Logistician](logistician.md)
 - [Lookup Table Generator (CSV)](lookup-table-generator-csv.md)
