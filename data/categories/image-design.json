@@ -8358,5 +8358,15 @@
     "slug": "health-motivational-speaker",
     "folder": "image-design",
     "path": "prompts/image-design/health-motivational-speaker.md"
+  },
+  {
+    "act": "Social Website for Robnhood trenches",
+    "category": "Image & Design",
+    "prompt": "I need to make a social website designed for robinhood chain users to use,",
+    "source": "polskiquant@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "social-website-for-robnhood-trenches",
+    "folder": "image-design",
+    "path": "prompts/image-design/social-website-for-robnhood-trenches.md"
   }
 ]
