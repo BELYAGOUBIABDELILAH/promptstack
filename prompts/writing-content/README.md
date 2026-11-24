@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**286 prompts in this category**
+**285 prompts in this category**
 
 ## Table of Contents
 
@@ -257,7 +257,6 @@
 - [Tell Your Story](tell-your-story.md)
 - [The Last Adagio](the-last-adagio.md)
 - [The Missing Woman](the-missing-woman.md)
-- [The Rest of the Story](the-rest-of-the-story.md)
 - [TikTok Marketing Visual Designer Agent](tiktok-marketing-visual-designer-agent.md)
 - [Time Travel Guide](time-travel-guide.md)
 - [Title Generator for written pieces](title-generator-for-written-pieces.md)

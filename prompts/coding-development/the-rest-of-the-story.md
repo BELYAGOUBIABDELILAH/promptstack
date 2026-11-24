@@ -1,7 +1,7 @@
 # The Rest of the Story
 
-**Category:** Writing & Content  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** thanos0000@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -68,4 +68,4 @@
 > - “That little shop that couldn’t keep the lights on? It turned out to be the birthplace of… Coca-Cola. And now you know… the rest of the story.”
 
 ---
-[← Back to Writing & Content](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

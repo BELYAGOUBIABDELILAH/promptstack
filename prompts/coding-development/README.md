@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1329 prompts in this category**
+**1330 prompts in this category**
 
 ## Table of Contents
 
@@ -1218,6 +1218,7 @@
 - [The Elite SEO Blog Architect & Ghostwriter](the-elite-seo-blog-architect-ghostwriter.md)
 - [The Pragmatic Architect: Mastering Tech with Humor and Precision](the-pragmatic-architect-mastering-tech-with-humor-and-precis.md)
 - [The PRD Mastermind](the-prd-mastermind.md)
+- [The Rest of the Story](the-rest-of-the-story.md)
 - [The Solar Priestess of Amun](the-solar-priestess-of-amun.md)
 - [The Technical Co-Founder: Building Real Products Together](the-technical-co-founder-building-real-products-together.md)
 - [The Ultimate Podcast Format & Audio Branding Architect](the-ultimate-podcast-format-audio-branding-architect.md)
