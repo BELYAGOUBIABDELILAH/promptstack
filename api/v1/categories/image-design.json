@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-24T02:20:54.790Z",
-  "total": 826,
+  "last_updated": "2026-11-24T07:20:54.490Z",
+  "total": 827,
   "prompts": [
     {
       "id": "opl_f888230d8788",
@@ -12575,6 +12575,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c891fffc88cd.json"
+    },
+    {
+      "id": "opl_4d4ff0b91e95",
+      "slug": "social-website-for-robnhood-trenches",
+      "title": "Social Website for Robnhood trenches",
+      "prompt": "I need to make a social website designed for robinhood chain users to use,",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_bdeb62c2b71e"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4d4ff0b91e95.json"
     },
     {
       "id": "opl_c5bb1f9ef2f9",

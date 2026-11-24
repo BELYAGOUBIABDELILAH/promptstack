@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-24T02:20:54.790Z",
+  "last_updated": "2026-11-24T07:20:54.490Z",
   "page": 37,
   "per_page": 100,
-  "total": 3843,
+  "total": 3844,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_4dcb40a69075",
+      "slug": "tv-premiere-weekly-listing-prompt",
+      "title": "TV Premiere Weekly Listing Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4dcb40a69075.json"
+    },
     {
       "id": "opl_f6cd6c867707",
       "slug": "tv-wall-planner-screen-size-seating-distance-mount-height-and-materials",
@@ -1200,15 +1209,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1a958c678693.json"
-    },
-    {
-      "id": "opl_275be93dda80",
-      "slug": "video-review-and-teacher",
-      "title": "Video review and teacher",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_275be93dda80.json"
     }
   ]
 }

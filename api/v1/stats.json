@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-24T02:20:54.790Z",
-  "total_prompts": 3843,
-  "source_records": 3847,
-  "total_sources": 439,
+  "last_updated": "2026-11-24T07:20:54.490Z",
+  "total_prompts": 3844,
+  "source_records": 3848,
+  "total_sources": 440,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -26,7 +26,7 @@
     {
       "folder": "image-design",
       "name": "Image & Design",
-      "prompt_count": 826,
+      "prompt_count": 827,
       "url": "https://prompts.axiomrepo.tech/v1/categories/image-design.json"
     },
     {

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-24T02:20:54.790Z",
+  "last_updated": "2026-11-24T07:20:54.490Z",
   "page": 39,
   "per_page": 100,
-  "total": 3843,
+  "total": 3844,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_76d47118a9c8",
+      "slug": "workplace-english-speaking-coach",
+      "title": "Workplace English Speaking Coach",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "industry",
+          "default": "general"
+        },
+        {
+          "name": "languageLevel",
+          "default": "intermediate"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_76d47118a9c8.json"
+    },
     {
       "id": "opl_ef9360abf756",
       "slug": "world-landmarks-hyper-realistic-3d-dioramas",
