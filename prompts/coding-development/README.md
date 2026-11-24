@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1325 prompts in this category**
+**1326 prompts in this category**
 
 ## Table of Contents
 
@@ -1193,6 +1193,7 @@
 - [Technical Documentation taste](technical-documentation-taste.md)
 - [Technical Writing Questions](technical-writing-questions.md)
 - [Technical Writing Tools Advisor](technical-writing-tools-advisor.md)
+- [technical-whitepaper-writer](technical-whitepaper-writer.md)
 - [Technology Transferer](technology-transferer.md)
 - [Terminal Drift](terminal-drift.md)
 - [Terminal Velocity](terminal-velocity.md)

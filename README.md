@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-3%2C842-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-3%2C843-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -47,7 +47,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 
 | Category | Prompts | Focus |
 |---|:---:|---|
-| [Coding & Development](prompts/coding-development) | 1,325 | Code generation, debugging, refactoring, and testing |
+| [Coding & Development](prompts/coding-development) | 1,326 | Code generation, debugging, refactoring, and testing |
 | [Image & Design](prompts/image-design) | 826 | Image generation, composition, and visual styling |
 | [Data & Analytics](prompts/data-analytics) | 316 | Data extraction, SQL queries, and metrics evaluation |
 | [Writing & Content](prompts/writing-content) | 287 | Editing, copywriting, storytelling, and translation |
@@ -58,7 +58,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Security](prompts/security) | 84 | Code auditing, threat modeling, and security policy |
 | [Business & Career](prompts/business-career) | 67 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 60 | Technical specs, README files, and API docs |
-| [Research & Analysis](prompts/research-analysis) | 53 | Literature review, synthesis, and comparative analysis |
+| [Research & Analysis](prompts/research-analysis) | 52 | Literature review, synthesis, and comparative analysis |
 | [Health & Wellness](prompts/health-wellness) | 44 | Fitness planning, nutrition ideas, and habit tracking |
 | [Sales & Business](prompts/sales-business) | 33 | Outreach emails, pitch decks, and discovery questions |
 | [Games & Fun](prompts/games-fun) | 30 | Interactive games, roleplay, and trivia |

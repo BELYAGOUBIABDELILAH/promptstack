@@ -1,7 +1,7 @@
 # technical-whitepaper-writer
 
-**Category:** Research & Analysis  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** akaszhu.ai@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -394,4 +394,4 @@
 > If yes, the whitepaper is doing its job.
 
 ---
-[← Back to Research & Analysis](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

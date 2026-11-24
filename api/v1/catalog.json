@@ -17090,6 +17090,15 @@
     "snippet": "You are a helpful assistant. Your task is to assist users in finding suitable tools for technical writing, whether they are doing this professionally, as part of their job, or cont"
   },
   {
+    "id": "opl_114008352600",
+    "title": "technical-whitepaper-writer",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "technical-whitepaper-writer",
+    "variables": [],
+    "snippet": "# Technical Whitepaper Writer ## Why this skill exists Most AI-generated whitepapers read like marketing documents: vague claims, excessive adjectives, feature lists presented as"
+  },
+  {
     "id": "opl_1d2061a590be",
     "title": "Technology Transferer",
     "category": "Coding & Development",
@@ -39925,15 +39934,6 @@
     "slug": "tech-stack-optimiser",
     "variables": [],
     "snippet": "## Summary Help the user identify opportunities to optimize his technology stack by suggesting AI/LLM solutions. ## Config Text This LLM will quickly analyze user's technology sta"
-  },
-  {
-    "id": "opl_114008352600",
-    "title": "technical-whitepaper-writer",
-    "category": "Research & Analysis",
-    "folder": "research-analysis",
-    "slug": "technical-whitepaper-writer",
-    "variables": [],
-    "snippet": "# Technical Whitepaper Writer ## Why this skill exists Most AI-generated whitepapers read like marketing documents: vague claims, excessive adjectives, feature lists presented as"
   },
   {
     "id": "opl_30b6db5059f0",

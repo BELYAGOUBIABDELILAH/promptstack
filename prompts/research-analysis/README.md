@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**53 prompts in this category**
+**52 prompts in this category**
 
 ## Table of Contents
 
@@ -56,6 +56,5 @@
 - [Superhuman lab](superhuman-lab.md)
 - [Teach me module 2](teach-me-module-2.md)
 - [Tech Stack Optimiser](tech-stack-optimiser.md)
-- [technical-whitepaper-writer](technical-whitepaper-writer.md)
 - [UX Conversion Deconstruction Engine](ux-conversion-deconstruction-engine.md)
 - [Weekly Updates for 1:1](weekly-updates-for-1-1.md)
