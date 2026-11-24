@@ -1,7 +1,7 @@
 # Landing page copywriting
 
-**Category:** Writing & Content  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** ablum0814@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -346,4 +346,4 @@
 > Then output the complete finalized copy, section by section, clearly labeled, ready for handoff to the design and build team. Close with an Open Items list that collects every bracketed placeholder and [Gap] in the final copy, grouped by the team that needs to resolve it (e.g., product, creative, legal).
 
 ---
-[← Back to Writing & Content](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

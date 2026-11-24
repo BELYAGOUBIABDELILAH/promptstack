@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-24T09:20:56.408Z",
+  "last_updated": "2026-11-24T11:20:55.154Z",
   "total_prompts": 3844,
   "source_records": 3848,
-  "total_sources": 441,
+  "total_sources": 442,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -20,7 +20,7 @@
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1326,
+      "prompt_count": 1327,
       "url": "https://prompts.axiomrepo.tech/v1/categories/coding-development.json"
     },
     {
@@ -38,7 +38,7 @@
     {
       "folder": "writing-content",
       "name": "Writing & Content",
-      "prompt_count": 287,
+      "prompt_count": 286,
       "url": "https://prompts.axiomrepo.tech/v1/categories/writing-content.json"
     },
     {

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1327 prompts in this category**
+**1328 prompts in this category**
 
 ## Table of Contents
 
@@ -706,6 +706,7 @@
 - [Kubernetes taste](kubernetes-taste.md)
 - [Lagrange Lens: Blue Wolf](lagrange-lens-blue-wolf.md)
 - [Landing Page Copy Architect – Conversion Framework Prompt](landing-page-copy-architect-conversion-framework-prompt.md)
+- [Landing page copywriting](landing-page-copywriting.md)
 - [Laravel App taste](laravel-app-taste.md)
 - [Laundry Label Decoder](laundry-label-decoder.md)
 - [Lazy JSON Editor](lazy-json-editor.md)

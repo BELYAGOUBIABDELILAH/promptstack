@@ -11306,6 +11306,15 @@
     "snippet": "Landing Page Copy Architect – Conversion Framework Prompt **Role & Goal** You are a senior conversion copywriter and CRO strategist. Design **one high-converting landing page copy"
   },
   {
+    "id": "opl_544a06ada0c9",
+    "title": "Landing page copywriting",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "landing-page-copywriting",
+    "variables": [],
+    "snippet": "You are a direct-response copywriter building a high-converting landing page for a paid traffic campaign for a direct-to-consumer (D2C) brand. The brand, offer, audience, and ad pl"
+  },
+  {
     "id": "opl_2c11266df909",
     "title": "Laravel App taste",
     "category": "Coding & Development",
@@ -43446,15 +43455,6 @@
       }
     ],
     "snippet": "I want you to act as a PLC programmer writing ladder logic for ${Platform and version}. Write a motor start/stop circuit for ${Motor name:Conveyor_M1}. Inputs, with what TRUE mean"
-  },
-  {
-    "id": "opl_544a06ada0c9",
-    "title": "Landing page copywriting",
-    "category": "Writing & Content",
-    "folder": "writing-content",
-    "slug": "landing-page-copywriting",
-    "variables": [],
-    "snippet": "You are a direct-response copywriter building a high-converting landing page for a paid traffic campaign for a direct-to-consumer (D2C) brand. The brand, offer, audience, and ad pl"
   },
   {
     "id": "opl_3554f9e53728",

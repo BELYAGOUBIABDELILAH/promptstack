@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**287 prompts in this category**
+**286 prompts in this category**
 
 ## Table of Contents
 
@@ -145,7 +145,6 @@
 - [Journal Reviewer](journal-reviewer.md)
 - [Journalist](journalist.md)
 - [Ladder Start/Stop With Interlocks](ladder-start-stop-with-interlocks.md)
-- [Landing page copywriting](landing-page-copywriting.md)
 - [LangGraph WeChat Account Introduction](langgraph.md)
 - [Language Detector](language-detector.md)
 - [language editor](language-editor.md)
