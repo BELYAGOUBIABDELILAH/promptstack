@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**243 prompts in this category**
+**244 prompts in this category**
 
 ## Table of Contents
 
@@ -193,6 +193,7 @@
 - [Review the social media content](review-the-social-media-content.md)
 - [RFQ](rfq.md)
 - [RIP McKinsey: Here are 10 prompts to replace expensive business consultants](rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine.md)
+- [Romantic Evening Café Portrait](romantic-evening-caf-portrait.md)
 - [Rugged Product Locator](rugged-product-locator.md)
 - [Sacrifice in obedience](sacrifice-in-obedience.md)
 - [Sales Funnel Builder from URL](sales-funnel-builder-from-url.md)

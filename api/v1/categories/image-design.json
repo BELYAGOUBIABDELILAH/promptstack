@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-25T15:20:51.776Z",
-  "total": 821,
+  "last_updated": "2026-11-25T16:20:54.337Z",
+  "total": 820,
   "prompts": [
     {
       "id": "opl_f888230d8788",
@@ -11888,22 +11888,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_139641091f16.json"
-    },
-    {
-      "id": "opl_c530c81b217e",
-      "slug": "romantic-evening-cafe-portrait",
-      "title": "Romantic Evening Café Portrait",
-      "prompt": "Camera Angle & Composition: Medium close-up portrait (framed from the chest up), photographed at eye level. The camera is slightly offset to include the table and the coffee cup in the foreground.\n\nPose: A young woman is seated at an outdoor café table, leaning slightly forward. Her head is playfully tilted toward her left shoulder, and she looks directly into the camera with a soft, friendly closed-lip smile. One hand rests naturally on the table.\n\nHairstyle:  straight hair with a center part, falling freely over her shoulders.\n\nMakeup: Natural yet refined soft glam makeup with subtle black winged eyeliner, defined lashes, well-groomed brows, a warm natural blush, and muted dusty pink lips.\n\nOutfit: A black knitted cardigan or V-neck sweater layered over a black camisole with thin straps.\n\nAccessories: Delicate layered gold necklaces, including one with a small star pendant, and small gold hoop earrings.\n\nLighting: Cozy evening lighting with soft, diffused illumination on her face. A bright red-orange light source behind her on the right (similar to a patio heater or lantern) creates a warm glow and subtle highlights in her hair.\n\nAtmosphere & Background: Relaxed, romantic evening café terrace. The background is dark and softly blurred, featuring large tropical green leaves and elegant outdoor café elements.\n\nDetails: On the green marble table in the foreground sits a dark navy ceramic cup and saucer filled with a cappuccino or latte, decorated with classic leaf or heart latte art.\n\nDo not change her facial features, eye shape, eyebrows, nose, or lips. Maintain 100% facial resemblance.\n\nAspect ratio: 3:4. Ultra-realistic, high-quality, sharp 8K photo, shot on iPhone 16 Pro Max.",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c530c81b217e.json"
     },
     {
       "id": "opl_7e4f9d9509f6",
