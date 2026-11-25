@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**823 prompts in this category**
+**822 prompts in this category**
 
 ## Table of Contents
 
@@ -200,7 +200,6 @@
 - [Counter-Narrative Explorer](counter-narrative-explorer.md)
 - [Covered Bridge Autumn Scene Concept Brief Builder](covered-bridge-autumn-scene-concept-brief-builder.md)
 - [Cozy Autumn Curb Lifestyle Portrait](cozy-autumn-curb-lifestyle-portrait.md)
-- [Cozy Autumn Park Profile](cozy-autumn-park-profile.md)
 - [Cozy Autumn Pumpkin Patch Portrait](cozy-autumn-pumpkin-patch-portrait.md)
 - [Cozy Autumn Sherpa Portrait](cozy-autumn-sherpa-portrait.md)
 - [Cozy Cabin in a Rainy Forest](cozy-cabin-in-a-rainy-forest.md)

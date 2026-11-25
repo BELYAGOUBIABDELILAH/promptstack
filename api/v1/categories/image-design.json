@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-25T09:21:01.967Z",
-  "total": 823,
+  "last_updated": "2026-11-25T10:21:00.115Z",
+  "total": 822,
   "prompts": [
     {
       "id": "opl_f888230d8788",
@@ -3741,22 +3741,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_661378aaef94.json"
-    },
-    {
-      "id": "opl_71346d36b1aa",
-      "slug": "cozy-autumn-park-profile",
-      "title": "Cozy Autumn Park Profile",
-      "prompt": "Style: Realistic, high-quality photorealistic photo.\n\nSubject: A young woman with hair freely falling over her back and shoulders in soft waves (curls).\n\nCamera Angle: Medium shot, taken approximately at eye level. The woman is shown in profile, turned to the right, looking somewhere to the side rather than at the camera.\n\nClothing: The woman is wearing a layered autumn outfit. She has on a light gray V-neck sweater made of textured ribbed knit. Over the sweater, she is wearing an oversized black leather biker jacket.\n\nPose & Mood: She is standing calmly and relaxed. Her facial expression is thoughtful and peaceful, with a slight half-smile.\n\nBackground: The scene takes place on an autumn park avenue. A wide asphalt path is covered with fallen orange and red leaves. Trees with lush, rich autumn foliage in warm shades (orange, red, and golden) grow on both sides of the path. The background is softly blurred with a bokeh effect, emphasizing the woman. The avenue can be seen leading deeper into the park.\n\nLighting: Soft, natural, diffused daylight, typical of a cloudy or gentle autumn day. The light falls softly on the profile of her face, gently illuminating her features and the texture of her clothing. Shadows are soft.\n\nMakeup: Very natural, \"no-makeup\" makeup. Natural skin tone, defined eyebrows, a subtle touch of blush, and natural-toned lip balm.\n\nAtmosphere: Calm, cozy, thoughtful, autumnal, melancholic.\n\nDo not change my facial features.\n\nAspect ratio: 3:4\n\nRealistic, high-quality, sharp 8K photograph, shot on iPhone 16 Pro Max.",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_71346d36b1aa.json"
     },
     {
       "id": "opl_8805fcaece8b",

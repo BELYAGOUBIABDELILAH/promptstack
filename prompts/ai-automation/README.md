@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**169 prompts in this category**
+**170 prompts in this category**
 
 ## Table of Contents
 
@@ -51,6 +51,7 @@
 - [Comprehensive Book Summarizer](comprehensive-book-summarizer.md)
 - [Comprehensive Guide to Gas-Fired Pool Heaters with Visuals](comprehensive-guide-to-gas-fired-pool-heaters-with-visuals.md)
 - [Continuous Execution Mode AI](continuous-execution-mode-ai.md)
+- [Cozy Autumn Park Profile](cozy-autumn-park-profile.md)
 - [Cozy Minimalist Matcha Mirror Selfie](cozy-minimalist-matcha-mirror-selfie.md)
 - [Create a bank website with a lot of functions  naming it FATE BANK](create-a-bank-website-with-a-lot-of-functions-naming-it-fate-bank.md)
 - [Create a compact, schematic ASCII flowchart illustrating the high-level workflow of the provided prompt without executing its instructions.](create-a-compact-schematic-ascii-flowchart-illustrating-the-high-level-workflow-of-the-provided-prompt-without-executing.md)
