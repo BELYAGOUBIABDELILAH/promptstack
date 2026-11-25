@@ -2131,7 +2131,7 @@
     "id": "src_c7372fdd4131",
     "name": "prompts.chat",
     "status": "needs-review",
-    "record_count": 947,
+    "record_count": 946,
     "note": "Preserved from the legacy export; review before claiming provenance."
   },
   {
@@ -2760,6 +2760,13 @@
   {
     "id": "src_f655da5cd41b",
     "name": "ticarollamas-arch (prompts.chat)",
+    "status": "needs-review",
+    "record_count": 1,
+    "note": "Preserved from the legacy export; review before claiming provenance."
+  },
+  {
+    "id": "src_9e4c57938e74",
+    "name": "tom@bardar.app (prompts.chat)",
     "status": "needs-review",
     "record_count": 1,
     "note": "Preserved from the legacy export; review before claiming provenance."

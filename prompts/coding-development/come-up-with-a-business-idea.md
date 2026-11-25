@@ -1,7 +1,7 @@
 # Come Up With a Business Idea
 
-**Category:** Sales & Business  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** tom@bardar.app (prompts.chat)
 
 ## Prompt
 
@@ -139,4 +139,4 @@
 > - **They come back later.** Resume from the document and what you remember — pick up where they left off.
 
 ---
-[← Back to Sales & Business](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

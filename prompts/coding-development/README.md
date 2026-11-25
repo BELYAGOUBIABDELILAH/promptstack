@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1331 prompts in this category**
+**1332 prompts in this category**
 
 ## Table of Contents
 
@@ -287,6 +287,7 @@
 - [Cold Drink Can HTML5 Animation Website](cold-drink-can-html5-animation-website.md)
 - [Cold Start Safe Architecture](cold-start-safe-architecture.md)
 - [College-Level Integrative Project Proposal Draft](college-level-integrative-project-proposal-draft.md)
+- [Come Up With a Business Idea](come-up-with-a-business-idea.md)
 - [Commit Message Generator](commit-message-generator.md)
 - [Commit Message Preparation](commit-message-preparation.md)
 - [Company Culture Decoder](company-culture-decoder.md)

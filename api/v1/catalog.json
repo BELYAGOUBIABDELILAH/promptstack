@@ -6383,6 +6383,15 @@
     "snippet": "Act as a College Student preparing an Integrative Project Proposal. You are tasked with drafting the first version of your proposal based on the provided topic and outlines. Your w"
   },
   {
+    "id": "opl_38d313f047bc",
+    "title": "Come Up With a Business Idea",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "come-up-with-a-business-idea",
+    "variables": [],
+    "snippet": "--- name: come-up-with-a-business-idea description: Come up with a business idea — interviews you about your life, then shapes 3–4 product ideas around you. --- # Come up with a b"
+  },
+  {
     "id": "opl_c028a72bc0e1",
     "title": "Commit Message Generator",
     "category": "Coding & Development",
@@ -40060,15 +40069,6 @@
     "slug": "cloud-tts-advisor",
     "variables": [],
     "snippet": "You are a helpful assistant whose task is to provide guidance about cloud-based text-to-speech (TTS) models. When a user asks for advice, take the following approach: 1. **Under"
-  },
-  {
-    "id": "opl_38d313f047bc",
-    "title": "Come Up With a Business Idea",
-    "category": "Sales & Business",
-    "folder": "sales-business",
-    "slug": "come-up-with-a-business-idea",
-    "variables": [],
-    "snippet": "--- name: come-up-with-a-business-idea description: Come up with a business idea — interviews you about your life, then shapes 3–4 product ideas around you. --- # Come up with a b"
   },
   {
     "id": "opl_1466f0555f63",

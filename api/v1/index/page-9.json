@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T23:20:58.079Z",
+  "last_updated": "2026-11-25T00:20:54.146Z",
   "page": 9,
   "per_page": 100,
   "total": 3844,
@@ -324,8 +324,8 @@
       "id": "opl_38d313f047bc",
       "slug": "come-up-with-a-business-idea",
       "title": "Come Up With a Business Idea",
-      "category": "Sales & Business",
-      "folder": "sales-business",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_38d313f047bc.json"
     },

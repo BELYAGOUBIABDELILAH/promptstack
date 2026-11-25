@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**33 prompts in this category**
+**32 prompts in this category**
 
 ## Table of Contents
 
@@ -15,7 +15,6 @@
 - [Birthday Message Generator – 3 Styles](birthday-message-generator-3-styles.md)
 - [Cloud STT Guide](cloud-stt-guide.md)
 - [Cloud TTS Advisor](cloud-tts-advisor.md)
-- [Come Up With a Business Idea](come-up-with-a-business-idea.md)
 - [Commissioning Checklist Builder](commissioning-checklist-builder.md)
 - [Dictated email formatter](dictated-email-formatter.md)
 - [Draft Personalized Outreach Post-Sale](draft-personalized-outreach-post-sale.md)
