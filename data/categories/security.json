@@ -938,5 +938,15 @@
     "slug": "fact-claim-checker",
     "folder": "security",
     "path": "prompts/security/fact-claim-checker.md"
+  },
+  {
+    "act": "Realistic Monkey Fruit Mukbang",
+    "category": "Security",
+    "prompt": "Create an ultra-realistic 4K live-action monkey fruit mukbang featuring [FRUIT].\n\nA real macaque sits high on the tree of the requested fruit, wearing a small Gucci crossbody bag and carrying Vietnamese chili salt.\n\nThe video starts immediately with the macaque naturally picking a whole [FRUIT] directly from the tree, then immediately eating it continuously. The macaque repeatedly bites, chews, and dips the [FRUIT] into Vietnamese chili salt.\n\nThe fruit must always remain exactly [FRUIT] throughout the entire video. Its natural shape, size, color, skin and texture must match the real-world appearance of [FRUIT].\n\nStrict fruit identity lock: [FRUIT] only. Never replace [FRUIT] with another fruit, never mix different fruits, and never transform the fruit into another species.\n\nUltra-realistic natural smartphone footage, natural daylight, realistic macaque behavior, authentic fruit texture, realistic chewing sounds, no CGI, no cartoon, no talking, no music, no text, no watermark.",
+    "source": "vivanloi1234lca@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "realistic-monkey-fruit-mukbang",
+    "folder": "security",
+    "path": "prompts/security/realistic-monkey-fruit-mukbang.md"
   }
 ]
