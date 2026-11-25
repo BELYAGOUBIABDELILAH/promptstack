@@ -1,7 +1,7 @@
 # Cozy Autumn Pumpkin Patch Portrait
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -20,4 +20,4 @@
 > Camera: Eye-level perspective of a seated person, creating an intimate viewpoint. The woman is positioned slightly right of center. Deep enough depth of field keeps her in sharp focus while the background remains recognizable with a soft natural blur. The color palette contrasts warm orange and brown autumn tones with cool gray skies.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)
