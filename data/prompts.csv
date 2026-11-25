@@ -3897,6 +3897,37 @@ $explanation_of_changes (Briefly explain the key changes made and why they contr
 Here is the text you are tasked with humanizing: [ENTER YOUR TEXT HERE]
 """,samsungeindia@gmail.com (prompts.chat),TEXT,humanize-ai-text,ai-automation,prompts/ai-automation/humanize-ai-text.md
 Teach me module 2,AI & Automation,"Teach me module 2 properly and sequentially in proper flow, compare both document and include every numerical and theory sequentially from both documents",fisherandy083@gmail.com (prompts.chat),TEXT,teach-me-module-2,ai-automation,prompts/ai-automation/teach-me-module-2.md
+Cozy Minimalist Matcha Mirror Selfie,AI & Automation,"A realistic full-body mirror selfie. In the center of the frame is a young woman standing in a modern minimalist interior. She is taking a photo of herself with a smartphone, covering her face, and holding a glass of a light green drink (matcha or a smoothie) in her left hand.
+
+Pose:
+The woman is standing beside a white wall, casually leaning her right shoulder against it. She is positioned between two white doors. Her right leg is straight, while her left leg is bent at a 90-degree angle with the sole of her foot resting against the wall, creating a relaxed and dynamic composition. Her head is slightly tilted, and her gaze is directed at the phone screen.
+
+Clothing & Style:
+- Top: A lightweight semi-sheer long-sleeve shirt in a milky cream color, layered over a white spaghetti-strap tank top.
+- Bottom: Loose short shorts with thin white and light blue stripes, inspired by a pajama style, with drawstrings at the waist.
+- Accessories: High white cotton socks. A delicate bracelet or watch on her left wrist. A smartphone with a light gold or beige case.
+
+Hairstyle & Makeup:
+- Hairstyle: hair styled in soft waves, falling naturally over her shoulders.
+- Makeup: Her face is covered by the phone, but the overall look suggests a natural, minimal “no-makeup” appearance.
+
+Atmosphere & Mood:
+The atmosphere is cozy, homey, relaxed, calm, and peaceful. It resembles an aesthetic mirror selfie for social media, capturing the feeling of a slow morning or relaxing at home.
+
+Lighting:
+Soft natural daylight gently fills the room without harsh shadows, emphasizing the light fabrics and the clean interior textures.
+
+Interior & Background:
+A modern apartment in a minimalist Scandinavian style. White walls, white doors with modern black horizontal handles, and a light wooden floor (laminate or parquet). The left edge of a large mirror with a black frame is visible. Everything is clean, tidy, and uncluttered.
+
+Camera Angle:
+Shot at eye level through a large floor mirror. The phone is held straight, creating a natural full-body perspective. Vertical composition.
+
+Do not change my facial features.
+
+Aspect ratio: 3:4.
+
+Ultra-realistic, high-quality, sharp 8K photograph, shot on iPhone 16 Pro Max.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,cozy-minimalist-matcha-mirror-selfie,ai-automation,prompts/ai-automation/cozy-minimalist-matcha-mirror-selfie.md
 1Password Assistant,Business & Career,"You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",src_4a926cf15dae,TEXT,1password-assistant,business-career,prompts/business-career/1password-assistant.md
 A professional Egyptian barista,Business & Career,"A professional Egyptian barista has a client who owns the following: a home espresso machine with three portafilters (size 51), a pitcher, a home coffee grinder, a coffee bean scale, a water sprayer, a bean weighing tray, a clump breaker, a spring tamper, a coffee grinder, and a table that he uses as a coffee corner. The barista's goal is to explain and train the client.",speedy4w (prompts.chat),TEXT,a-professional-egyptian-barista,business-career,prompts/business-career/a-professional-egyptian-barista.md
 Accountant,Business & Career,"I want you to act as an accountant and come up with creative ways to manage finances. You'll need to consider budgeting, investment strategies and risk management when creating a financial plan for your client. In some cases, you may also need to provide advice on taxation laws and regulations in order to help them maximize their profits. My first suggestion request is Create a financial plan for a small business that focuses on cost savings and long-term investments"""".""",src_dab9fa094922,TEXT,accountant,business-career,prompts/business-career/accountant.md
@@ -114451,37 +114482,6 @@ Lighting: Soft natural daylight, as if coming from a large window. Diffused ligh
 Camera angle: Eye-level, medium shot framed from the knees or thighs to the top of the head. Balanced composition with the subject centered.
 
 Do not change the facial features. 3:4 vertical. Photorealistic, ultra-detailed 8K, shot on iPhone 16 Pro.",prompts.chat,TEXT,cozy-minimalist-kitchen-portrait,image-design,prompts/image-design/cozy-minimalist-kitchen-portrait.md
-Cozy Minimalist Matcha Mirror Selfie,Image & Design,"A realistic full-body mirror selfie. In the center of the frame is a young woman standing in a modern minimalist interior. She is taking a photo of herself with a smartphone, covering her face, and holding a glass of a light green drink (matcha or a smoothie) in her left hand.
-
-Pose:
-The woman is standing beside a white wall, casually leaning her right shoulder against it. She is positioned between two white doors. Her right leg is straight, while her left leg is bent at a 90-degree angle with the sole of her foot resting against the wall, creating a relaxed and dynamic composition. Her head is slightly tilted, and her gaze is directed at the phone screen.
-
-Clothing & Style:
-- Top: A lightweight semi-sheer long-sleeve shirt in a milky cream color, layered over a white spaghetti-strap tank top.
-- Bottom: Loose short shorts with thin white and light blue stripes, inspired by a pajama style, with drawstrings at the waist.
-- Accessories: High white cotton socks. A delicate bracelet or watch on her left wrist. A smartphone with a light gold or beige case.
-
-Hairstyle & Makeup:
-- Hairstyle: hair styled in soft waves, falling naturally over her shoulders.
-- Makeup: Her face is covered by the phone, but the overall look suggests a natural, minimal “no-makeup” appearance.
-
-Atmosphere & Mood:
-The atmosphere is cozy, homey, relaxed, calm, and peaceful. It resembles an aesthetic mirror selfie for social media, capturing the feeling of a slow morning or relaxing at home.
-
-Lighting:
-Soft natural daylight gently fills the room without harsh shadows, emphasizing the light fabrics and the clean interior textures.
-
-Interior & Background:
-A modern apartment in a minimalist Scandinavian style. White walls, white doors with modern black horizontal handles, and a light wooden floor (laminate or parquet). The left edge of a large mirror with a black frame is visible. Everything is clean, tidy, and uncluttered.
-
-Camera Angle:
-Shot at eye level through a large floor mirror. The phone is held straight, creating a natural full-body perspective. Vertical composition.
-
-Do not change my facial features.
-
-Aspect ratio: 3:4.
-
-Ultra-realistic, high-quality, sharp 8K photograph, shot on iPhone 16 Pro Max.",prompts.chat,TEXT,cozy-minimalist-matcha-mirror-selfie,image-design,prompts/image-design/cozy-minimalist-matcha-mirror-selfie.md
 Cozy Siamese Cat Portrait,Image & Design,"A detailed, intimate close-up portrait of a young woman gently holding and kissing a Siamese cat.
 The woman’s defining feature is her incredibly voluminous, fluffy, naturally curly hair, framing her face like a soft cloud with rich texture and a slightly wild elegance.
 She is seated, cradling a Siamese cat in her arms. Her right hand softly supports the cat’s face, showcasing long square-shaped nails with a glossy white manicure. Her lips are pursed in a gentle kiss (duck face), almost touching the top of the cat’s head.

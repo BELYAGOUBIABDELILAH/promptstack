@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**825 prompts in this category**
+**824 prompts in this category**
 
 ## Table of Contents
 
@@ -206,7 +206,6 @@
 - [Cozy Cabin in a Rainy Forest](cozy-cabin-in-a-rainy-forest.md)
 - [Cozy Cyber Gamer Girl Portrait](cozy-cyber-gamer-girl-portrait.md)
 - [Cozy Minimalist Kitchen Portrait](cozy-minimalist-kitchen-portrait.md)
-- [Cozy Minimalist Matcha Mirror Selfie](cozy-minimalist-matcha-mirror-selfie.md)
 - [Cozy Siamese Cat Portrait](cozy-siamese-cat-portrait.md)
 - [Crafting LinkedIn Messages to Hiring Managers](crafting-linkedin-messages-to-hiring-managers.md)
 - [Create a detailed travel itinerary in HTML format](create-a-detailed-travel-itinerary-in-html-format.md)
