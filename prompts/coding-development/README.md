@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1334 prompts in this category**
+**1335 prompts in this category**
 
 ## Table of Contents
 
@@ -1337,6 +1337,7 @@
 - [xcode-mcp](xcode-mcp.md)
 - [xcode-mcp (for pi agent)](xcode-mcp-for-pi-agent.md)
 - [Xiaomi Company Self-Service Management System Frontend Development](xiaomi-company-self-service-management-system-frontend-devel.md)
+- [Y2K Direct Flash Glamour Portrait](y2k-direct-flash-glamour-portrait.md)
 - [YT video  geopolitic analysis](yt-video-geopolitic-analysis.md)
 - [Zero to One Solo-Founder Launch System](zero-to-one-solo-founder-launch-system.md)
 - [Zod Schema Validation taste](zod-schema-validation-taste.md)

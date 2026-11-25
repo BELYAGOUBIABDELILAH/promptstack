@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-25T07:20:51.163Z",
-  "total": 824,
+  "last_updated": "2026-11-25T08:20:56.457Z",
+  "total": 823,
   "prompts": [
     {
       "id": "opl_f888230d8788",
@@ -14949,22 +14949,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5afca3294b07.json"
-    },
-    {
-      "id": "opl_3437dc26498f",
-      "slug": "y2k-direct-flash-glamour-portrait",
-      "title": "Y2K Direct Flash Glamour Portrait",
-      "prompt": "Photorealistic Y2K-style portrait, vertical 3:4 format.\nA young woman poses against a neutral, softly lit background. She is very close to the camera in a close-up shot, playfully biting her lower lip and looking to the side with a flirtatious, confident expression. Her beautiful, voluminous hairstyle frames her face without covering it too much.\nMinimalist composition, vintage digital texture, soft light blur, glamorous atmosphere. Shot on an iPhone 17 Pro Max with a direct flash aesthetic and polished makeup.\nThe woman has A full-coverage foundation is applied to the skin, with visible contouring on the cheekbones and along the bridge of the nose.\nEye makeup: defined black winged eyeliner that elongates the eye shape, long lashes with a subtle fox-eye effect, and light shimmery eyeshadow in the inner corners.\nLips: transparent glossy lip gloss.\nShe is wearing a fitted black long-sleeve top.\nClose-up framing, realistic skin texture, high detail, natural facial proportions, authentic Y2K glamour.",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3437dc26498f.json"
     },
     {
       "id": "opl_07bc262a310a",

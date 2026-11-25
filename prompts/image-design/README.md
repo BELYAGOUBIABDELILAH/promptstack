@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**824 prompts in this category**
+**823 prompts in this category**
 
 ## Table of Contents
 
@@ -827,6 +827,5 @@
 - [World of Darkness B&W style](world-of-darkness-b-w-style.md)
 - [World of Darkness Colored Comic style](world-of-darkness-colored-comic-style.md)
 - [Y2K Cheshire Cat Flash Snapshot](y2k-cheshire-cat-flash-snapshot.md)
-- [Y2K Direct Flash Glamour Portrait](y2k-direct-flash-glamour-portrait.md)
 - [Young woman with bikini](young-woman-with-bikini.md)
 - [Недвижимость](untitled-b65067.md)

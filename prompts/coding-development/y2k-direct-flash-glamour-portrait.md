@@ -1,7 +1,7 @@
 # Y2K Direct Flash Glamour Portrait
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -15,4 +15,4 @@
 > Close-up framing, realistic skin texture, high detail, natural facial proportions, authentic Y2K glamour.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)
