@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**822 prompts in this category**
+**821 prompts in this category**
 
 ## Table of Contents
 
@@ -338,7 +338,6 @@
 - [Glassblower Shaping a Cobalt Vase at Golden Hour](glassblower-shaping-a-cobalt-vase-at-golden-hour.md)
 - [Gloomy Urban Skyscraper Portrait](gloomy-urban-skyscraper-portrait.md)
 - [Gnomist](gnomist.md)
-- [Golden Hour Backlit Profile Portrait](golden-hour-backlit-profile-portrait.md)
 - [Golden Hour Car Interior Portrait](golden-hour-car-interior-portrait.md)
 - [Good Place To Work?](good-place-to-work.md)
 - [Google Cloud Platform](google-cloud-platform.md)

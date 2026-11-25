@@ -1,7 +1,7 @@
 # Golden Hour Backlit Profile Portrait
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -36,4 +36,4 @@
 > Realistic, high-quality, sharp 8K photograph, shot on an iPhone 16 Pro Max.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

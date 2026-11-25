@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**170 prompts in this category**
+**171 prompts in this category**
 
 ## Table of Contents
 
@@ -85,6 +85,7 @@
 - [Generate GitLab CI Templates](generate-gitlab-ci-templates.md)
 - [Gmail Search Strings](gmail-search-strings.md)
 - [god mode](god-mode.md)
+- [Golden Hour Backlit Profile Portrait](golden-hour-backlit-profile-portrait.md)
 - [Google Sheets Wizard](google-sheets-wizard.md)
 - [GRAPHICS](graphics.md)
 - [How To AI This?](how-to-ai-this.md)
