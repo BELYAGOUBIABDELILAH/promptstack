@@ -13348,5 +13348,15 @@
     "slug": "come-up-with-a-business-idea",
     "folder": "coding-development",
     "path": "prompts/coding-development/come-up-with-a-business-idea.md"
+  },
+  {
+    "act": "Professional Image Enhancement & Print-Ready Specification",
+    "category": "Coding & Development",
+    "prompt": "Enhance the provided uploaded image by improving its sharpness, exposer, clarity, quality, and overall visual impact while preserving its core design elements. Ensure that the completed image is suitable for display in professional and digital contexts.\n\nYour task is to:\n- Arrangements need to be made to print the image in 4K resolution.\n\nYou will:\n- Use high-resolution and color-accurate techniques to ensure print quality.\n- Tailor images to be engaging and marketable.\n\nRules:\n- Maintain print resolution of at least 300 DPI.\n- Avoid overly complex designs that detract from the image focus.",
+    "source": "taumal.420i@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "professional-image-enhancement-print-ready-specification",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/professional-image-enhancement-print-ready-specification.md"
   }
 ]
