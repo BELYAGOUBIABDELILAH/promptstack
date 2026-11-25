@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 22,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_52b9f08b68ae",
+      "slug": "llm-background-assistant",
+      "title": "LLM Background Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_52b9f08b68ae.json"
+    },
     {
       "id": "opl_e056e7b5c001",
       "slug": "llm-bias-censorship-evaulator",
@@ -1187,15 +1196,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fd0bf288ab77.json"
-    },
-    {
-      "id": "opl_a124ec44021c",
-      "slug": "math-teacher",
-      "title": "Math Teacher",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a124ec44021c.json"
     }
   ]
 }

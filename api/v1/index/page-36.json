@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 36,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_727feddc8a44",
+      "slug": "the-battles-nobody-sees",
+      "title": "THE BATTLES NOBODY SEES",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_727feddc8a44.json"
+    },
     {
       "id": "opl_143d9d62b501",
       "slug": "the-breathing-jack-o-lantern-halloween-horror-short-16-9-video",
@@ -1101,15 +1110,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2fd7bfa6618d.json"
-    },
-    {
-      "id": "opl_f82858d537ec",
-      "slug": "turn-your-photo-into-a-simpsons-scene",
-      "title": "Turn Your Photo Into a Simpsons Scene",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f82858d537ec.json"
     }
   ]
 }

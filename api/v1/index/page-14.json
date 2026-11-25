@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 14,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_d83e0abe2fed",
+      "slug": "education",
+      "title": "Education",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d83e0abe2fed.json"
+    },
     {
       "id": "opl_415761c841e1",
       "slug": "educational-content-creator",
@@ -1243,20 +1252,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8c7c1996124c.json"
-    },
-    {
-      "id": "opl_6b5264d67c7b",
-      "slug": "expert-legal-analyst-in-tax-and-commercial-law",
-      "title": "Expert Legal Analyst in Tax and Commercial Law",
-      "category": "Security",
-      "folder": "security",
-      "variables": [
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6b5264d67c7b.json"
     }
   ]
 }

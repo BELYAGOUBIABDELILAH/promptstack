@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 38,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_1a958c678693",
+      "slug": "video-extractor-prompt",
+      "title": "Video extractor prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "code_here_with_inline_comments_explaining_what_each_line_does",
+          "default": null
+        },
+        {
+          "name": "concept_name",
+          "default": null
+        },
+        {
+          "name": "infer_the_main_topic_from_the_content",
+          "default": null
+        },
+        {
+          "name": "language",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1a958c678693.json"
+    },
     {
       "id": "opl_275be93dda80",
       "slug": "video-review-and-teacher",
@@ -1069,15 +1095,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2be25502bcb4.json"
-    },
-    {
-      "id": "opl_b76187b47f3c",
-      "slug": "workflow-builder-using-python",
-      "title": "workflow_builder_using_python",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b76187b47f3c.json"
     }
   ]
 }

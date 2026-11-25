@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 19,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-20.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_e1b5fc41705b",
+      "slug": "identify-the-key-skills-needed-for-effective-project-plannin",
+      "title": "identify the key skills needed for effective project planning and proposal writing",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e1b5fc41705b.json"
+    },
     {
       "id": "opl_0f6f09184dbf",
       "slug": "identity-locked-image-transformation-prompt",
@@ -1176,15 +1185,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c71c1ce69510.json"
-    },
-    {
-      "id": "opl_f49da8ddda2b",
-      "slug": "iranian-noir-suspicion-close-up",
-      "title": "Iranian Noir Suspicion Close-Up",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f49da8ddda2b.json"
     }
   ]
 }

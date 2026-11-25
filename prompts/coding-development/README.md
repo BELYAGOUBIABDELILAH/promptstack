@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1333 prompts in this category**
+**1334 prompts in this category**
 
 ## Table of Contents
 
@@ -317,6 +317,7 @@
 - [Context Gap Closer](context-gap-closer.md)
 - [Context Generation Assistant (Voice)](context-generation-assistant-voice.md)
 - [Context Migration](context-migration.md)
+- [Context Spellcheck Engine](context-spellcheck-engine.md)
 - [Context7 Documentation Expert Agent](context7-documentation-expert-agent.md)
 - [Continue Coding Assistant](continue-coding-assistant.md)
 - [Conventional Commit Message Generator](conventional-commit-message-generator.md)

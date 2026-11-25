@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 17,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-18.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_7a0faf17bfc9",
+      "slug": "glados",
+      "title": "GLaDOS",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7a0faf17bfc9.json"
+    },
     {
       "id": "opl_a95d1e481f7a",
       "slug": "glam-horror-editorial-portrait",
@@ -1017,15 +1026,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_aa2e8fba6686.json"
-    },
-    {
-      "id": "opl_2765a846e1bb",
-      "slug": "hermes-agent-desktop-default-system-prompt",
-      "title": "hermes agent desktop default system prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2765a846e1bb.json"
     }
   ]
 }

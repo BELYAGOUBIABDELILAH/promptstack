@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 13,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_71e27fe1569a",
+      "slug": "dictated-text-idea",
+      "title": "Dictated Text Idea",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_71e27fe1569a.json"
+    },
     {
       "id": "opl_725232a6a794",
       "slug": "dictation-assistant-ideator",
@@ -1121,15 +1130,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1c21f1576e22.json"
-    },
-    {
-      "id": "opl_d83e0abe2fed",
-      "slug": "education",
-      "title": "Education",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d83e0abe2fed.json"
     }
   ]
 }

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 32,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_4662a31a8bf9",
+      "slug": "senior-market-research-analyst-specializing-in-digital-advertising-and-cross-border-e-commerce",
+      "title": "senior market research analyst specializing in digital advertising and cross-border e-commerce.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "insert_country_name",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4662a31a8bf9.json"
+    },
     {
       "id": "opl_a97d8346a36a",
       "slug": "senior-product-engineer-data-scientist-for-turkish-car-valua",
@@ -1195,20 +1209,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_22d1613bef7a.json"
-    },
-    {
-      "id": "opl_fcaca28321a4",
-      "slug": "socratic-method",
-      "title": "Socratic Method",
-      "category": "Philosophy & Humanities",
-      "folder": "philosophy-humanities",
-      "variables": [
-        {
-          "name": "topic",
-          "default": "justice is necessary in a society"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fcaca28321a4.json"
     }
   ]
 }

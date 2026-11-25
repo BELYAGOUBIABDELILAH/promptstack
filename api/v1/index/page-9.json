@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 9,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-10.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-8.json",
@@ -1203,6 +1203,15 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_156c39995a09.json"
     },
     {
+      "id": "opl_87f08c2a8559",
+      "slug": "context-spellcheck-engine",
+      "title": "Context Spellcheck Engine",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_87f08c2a8559.json"
+    },
+    {
       "id": "opl_dc6e43ddd0d2",
       "slug": "context-window-diagnostic-utility",
       "title": "Context Window Diagnostic Utility",
@@ -1282,15 +1291,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ac400785d1f5.json"
-    },
-    {
-      "id": "opl_d16010a0bd0b",
-      "slug": "continuous-execution-mode-ai",
-      "title": "Continuous Execution Mode AI",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d16010a0bd0b.json"
     }
   ]
 }

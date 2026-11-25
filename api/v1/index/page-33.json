@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 33,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_fcaca28321a4",
+      "slug": "socratic-method",
+      "title": "Socratic Method",
+      "category": "Philosophy & Humanities",
+      "folder": "philosophy-humanities",
+      "variables": [
+        {
+          "name": "topic",
+          "default": "justice is necessary in a society"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fcaca28321a4.json"
+    },
     {
       "id": "opl_c5bb1f9ef2f9",
       "slug": "socratic-method-for-ethical-discussions",
@@ -990,15 +1004,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5a6d284ab62c.json"
-    },
-    {
-      "id": "opl_cc4b8f155f14",
-      "slug": "stock-chart-reading-and-trade-levels-skill",
-      "title": "Stock Chart Reading and Trade Levels Skill",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cc4b8f155f14.json"
     }
   ]
 }

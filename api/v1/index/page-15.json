@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 15,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_6b5264d67c7b",
+      "slug": "expert-legal-analyst-in-tax-and-commercial-law",
+      "title": "Expert Legal Analyst in Tax and Commercial Law",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6b5264d67c7b.json"
+    },
     {
       "id": "opl_04fd2c4bb56f",
       "slug": "expert-technical-blog-writer-role",
@@ -1249,15 +1263,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fb6d490bb511.json"
-    },
-    {
-      "id": "opl_2179dc32c901",
-      "slug": "football-commentator",
-      "title": "Football Commentator",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2179dc32c901.json"
     }
   ]
 }

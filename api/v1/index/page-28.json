@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 28,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_7c6f68640f27",
+      "slug": "premium-classy-interview-presentation-design",
+      "title": "Premium Classy Interview Presentation Design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7c6f68640f27.json"
+    },
     {
       "id": "opl_9276f5938fe8",
       "slug": "premium-tvs-motor-digital-showroom-website",
@@ -1220,15 +1229,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bdbbaec90fcb.json"
-    },
-    {
-      "id": "opl_ebb6a41a6964",
-      "slug": "prompts-chat-promotional-video-using-remotion",
-      "title": "prompts.chat Promotional Video using Remotion",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ebb6a41a6964.json"
     }
   ]
 }

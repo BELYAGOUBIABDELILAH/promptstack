@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 26,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_01d4963f0b2b",
+      "slug": "overqualification-narrative-architect",
+      "title": "Overqualification Narrative Architect",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_01d4963f0b2b.json"
+    },
     {
       "id": "opl_641484c68e7f",
       "slug": "oversharing-bot-guy",
@@ -1140,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b68a5171850b.json"
-    },
-    {
-      "id": "opl_7156c6b5e393",
-      "slug": "photoreal-panther-chameleon-on-a-mossy-rainforest-branch",
-      "title": "Photoreal Panther Chameleon on a Mossy Rainforest Branch",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7156c6b5e393.json"
     }
   ]
 }

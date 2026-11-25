@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 16,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_2179dc32c901",
+      "slug": "football-commentator",
+      "title": "Football Commentator",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2179dc32c901.json"
+    },
     {
       "id": "opl_0ac0d0c19a2b",
       "slug": "football-match",
@@ -1015,15 +1024,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2357a1dfda6d.json"
-    },
-    {
-      "id": "opl_7a0faf17bfc9",
-      "slug": "glados",
-      "title": "GLaDOS",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7a0faf17bfc9.json"
     }
   ]
 }

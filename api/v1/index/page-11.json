@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 11,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-12.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_7521fc7e0040",
+      "slug": "critical-thinking-deepthink",
+      "title": "Critical Thinking (DeepThink)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "critical_audit",
+          "default": null
+        },
+        {
+          "name": "insight",
+          "default": null
+        },
+        {
+          "name": "main_conclusion",
+          "default": null
+        },
+        {
+          "name": "mode_name",
+          "default": null
+        },
+        {
+          "name": "name",
+          "default": null
+        },
+        {
+          "name": "ruthless_deconstruction",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7521fc7e0040.json"
+    },
     {
       "id": "opl_7dba1a94c3f7",
       "slug": "critical-parallel-inquiry-format",
@@ -1239,15 +1277,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9104bd4ecc46.json"
-    },
-    {
-      "id": "opl_7e40b05f5387",
-      "slug": "database-migration-safety-review",
-      "title": "Database Migration Safety Review",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7e40b05f5387.json"
     }
   ]
 }

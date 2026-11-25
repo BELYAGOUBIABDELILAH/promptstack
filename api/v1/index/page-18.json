@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 18,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_2765a846e1bb",
+      "slug": "hermes-agent-desktop-default-system-prompt",
+      "title": "hermes agent desktop default system prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2765a846e1bb.json"
+    },
     {
       "id": "opl_624a77d05e97",
       "slug": "hewar",
@@ -1164,15 +1173,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3450580dc8e6.json"
-    },
-    {
-      "id": "opl_e1b5fc41705b",
-      "slug": "identify-the-key-skills-needed-for-effective-project-plannin",
-      "title": "identify the key skills needed for effective project planning and proposal writing",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e1b5fc41705b.json"
     }
   ]
 }

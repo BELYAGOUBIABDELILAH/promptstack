@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 20,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_f49da8ddda2b",
+      "slug": "iranian-noir-suspicion-close-up",
+      "title": "Iranian Noir Suspicion Close-Up",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f49da8ddda2b.json"
+    },
     {
       "id": "opl_276ce3b4ebf3",
       "slug": "iridescent-glass-retexture-json-style-prompt-that-turns-any-uploaded-image-into-a-photoreal-crystal-3d-render",
@@ -1035,28 +1044,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7348b66ab9fa.json"
-    },
-    {
-      "id": "opl_aff5e396fb2d",
-      "slug": "lagrange-lens-blue-wolf",
-      "title": "Lagrange Lens: Blue Wolf",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "fact",
-          "default": null
-        },
-        {
-          "name": "inference",
-          "default": null
-        },
-        {
-          "name": "reported",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_aff5e396fb2d.json"
     }
   ]
 }

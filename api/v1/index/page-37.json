@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 37,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_f82858d537ec",
+      "slug": "turn-your-photo-into-a-simpsons-scene",
+      "title": "Turn Your Photo Into a Simpsons Scene",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f82858d537ec.json"
+    },
     {
       "id": "opl_4dcb40a69075",
       "slug": "tv-premiere-weekly-listing-prompt",
@@ -1183,32 +1192,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ac77eea818f3.json"
-    },
-    {
-      "id": "opl_1a958c678693",
-      "slug": "video-extractor-prompt",
-      "title": "Video extractor prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "code_here_with_inline_comments_explaining_what_each_line_does",
-          "default": null
-        },
-        {
-          "name": "concept_name",
-          "default": null
-        },
-        {
-          "name": "infer_the_main_topic_from_the_content",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1a958c678693.json"
     }
   ]
 }

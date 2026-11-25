@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-25T04:20:56.522Z",
+  "last_updated": "2026-11-25T05:20:57.290Z",
   "page": 34,
   "per_page": 100,
-  "total": 3844,
+  "total": 3845,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_cc4b8f155f14",
+      "slug": "stock-chart-reading-and-trade-levels-skill",
+      "title": "Stock Chart Reading and Trade Levels Skill",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cc4b8f155f14.json"
+    },
     {
       "id": "opl_0f4176fff159",
       "slug": "stock-market-analysis-expert",
@@ -1140,15 +1149,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2aace31f0fee.json"
-    },
-    {
-      "id": "opl_f13b41d091b5",
-      "slug": "system-architect-agent-role",
-      "title": "System Architect Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f13b41d091b5.json"
     }
   ]
 }

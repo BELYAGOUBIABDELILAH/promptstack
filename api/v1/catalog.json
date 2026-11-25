@@ -6779,6 +6779,15 @@
     "snippet": "# Context Preservation & Migration Prompt [ for AGENT.MD pass THE `## SECTION` if NOT APPLICABLE ] Generate a comprehensive context artifact that preserves all conversational con"
   },
   {
+    "id": "opl_87f08c2a8559",
+    "title": "Context Spellcheck Engine",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "context-spellcheck-engine",
+    "variables": [],
+    "snippet": "# TITLE: Context Spellcheck Engine # VERSION: 1.0.2 # AUTHOR: Scott Malin, CISSP # LAST UPDATED: 2026-10-18 # PURPOSE: Identify correctly spelled words that may be incorrect based"
+  },
+  {
     "id": "opl_e81a9613507a",
     "title": "Context7 Documentation Expert Agent",
     "category": "Coding & Development",
