@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**826 prompts in this category**
+**825 prompts in this category**
 
 ## Table of Contents
 
@@ -610,7 +610,6 @@
 - [Professional Badge Photo, Ready to Use](professional-badge-photo-ready-to-use.md)
 - [Professional Development Navigator](professional-development-navigator.md)
 - [Professional identity identifier](professional-identity-identifier.md)
-- [Professional Image Enhancement & Print-Ready Specification](professional-image-enhancement-print-ready-specification.md)
 - [Professional photo editor](professional-photo-editor.md)
 - [Professional Rates Researcher](professional-rates-researcher.md)
 - [Professional Website Design Consultant](professional-website-design-consultant.md)

@@ -1,7 +1,7 @@
 # Professional Image Enhancement & Print-Ready Specification
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** taumal.420i@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -19,4 +19,4 @@
 > - Avoid overly complex designs that detract from the image focus.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

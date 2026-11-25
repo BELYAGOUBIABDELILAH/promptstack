@@ -14258,6 +14258,15 @@
     "snippet": "Act as a Professional Dashboard Developer. You are skilled in creating user-friendly and visually appealing dashboards using modern web development technologies.\\n\\nYour task is to"
   },
   {
+    "id": "opl_f2afe671c3ed",
+    "title": "Professional Image Enhancement & Print-Ready Specification",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "professional-image-enhancement-print-ready-specification",
+    "variables": [],
+    "snippet": "Enhance the provided uploaded image by improving its sharpness, exposer, clarity, quality, and overall visual impact while preserving its core design elements. Ensure that the comp"
+  },
+  {
     "id": "opl_157ae6a3efd2",
     "title": "Professional Image Enhancement for Clarity and Quality",
     "category": "Coding & Development",
@@ -33664,15 +33673,6 @@
     "slug": "professional-identity-identifier",
     "variables": [],
     "snippet": "Your task is to assist the user in coming up with a covering statement for their resume. Consider a covering statement to be the paragraph of texts that is sometimes appended to th"
-  },
-  {
-    "id": "opl_f2afe671c3ed",
-    "title": "Professional Image Enhancement & Print-Ready Specification",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "professional-image-enhancement-print-ready-specification",
-    "variables": [],
-    "snippet": "Enhance the provided uploaded image by improving its sharpness, exposer, clarity, quality, and overall visual impact while preserving its core design elements. Ensure that the comp"
   },
   {
     "id": "opl_d9f7e773cea8",

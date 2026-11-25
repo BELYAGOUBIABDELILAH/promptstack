@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T00:20:54.146Z",
+  "last_updated": "2026-11-25T01:20:54.084Z",
   "page": 28,
   "per_page": 100,
   "total": 3844,
@@ -503,8 +503,8 @@
       "id": "opl_f2afe671c3ed",
       "slug": "professional-image-enhancement-print-ready-specification",
       "title": "Professional Image Enhancement & Print-Ready Specification",
-      "category": "Image & Design",
-      "folder": "image-design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f2afe671c3ed.json"
     },

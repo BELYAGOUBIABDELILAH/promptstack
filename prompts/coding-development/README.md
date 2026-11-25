@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1332 prompts in this category**
+**1333 prompts in this category**
 
 ## Table of Contents
 
@@ -932,6 +932,7 @@
 - [Professional Betting Predictions](professional-betting-predictions.md)
 - [Professional Full-Stack Developer for Network Mapping & Monitoring Application](professional-full-stack-developer-for-network-mapping-monito.md)
 - [Professional GitHub Dashboard for Portfolio Enhancement](professional-github-dashboard-for-portfolio-enhancement.md)
+- [Professional Image Enhancement & Print-Ready Specification](professional-image-enhancement-print-ready-specification.md)
 - [Professional Image Enhancement for Clarity and Quality](professional-image-enhancement-for-clarity-and-quality.md)
 - [professional linguistic expert and translator](professional-linguistic-expert-and-translator.md)
 - [Professional photo restoration expert](professional-photo-restoration-expert.md)
