@@ -1,7 +1,7 @@
 # Aviation
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** talkjignesh@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -14,4 +14,4 @@
 > LIGHTING: dramatic single-sided cinematic key from camera-right, creating sculptural light across her face and the white shirt while allowing the opposite side to fall into rich but readable shadow. Add a pronounced narrow rim light from behind that separates her loose hair, shoulder and shirt edge from the aircraft. Subtle reflected fill from the white fuselage keeps skin luminous without flattening the contrast. Bright cinematic exposure, crisp white highlights, controlled shadows, realistic cotton texture, natural skin detail, 85mm lens, shallow depth of field, sophisticated ivory-white-navy-champagne color tonality, premium fashion-film realism, no flat lighting, no frontal beauty lighting, no silk, no satin, no jacket, no suit, no dark/deep color grading, no generic airline pose, no retro styling, no logo or text except the fictional crew insignia and name tag.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

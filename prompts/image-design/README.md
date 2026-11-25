@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**820 prompts in this category**
+**819 prompts in this category**
 
 ## Table of Contents
 
@@ -89,7 +89,6 @@
 - [Audio Production (Linux)](audio-production-linux.md)
 - [Automation Workflow Designer](automation-workflow-designer.md)
 - [Automobile Mechanic](automobile-mechanic.md)
-- [Aviation](aviation.md)
 - [Awesome List Builder](awesome-list-builder.md)
 - [AWS Advisor](aws-advisor.md)
 - [Backup Approach Advisor](backup-approach-advisor.md)

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1336 prompts in this category**
+**1337 prompts in this category**
 
 ## Table of Contents
 
@@ -170,6 +170,7 @@
 - [Autonomous Root-Cause Debugging & Bug-Fix Architect](autonomous-root-cause-debugging-bug-fix-architect.md)
 - [AUTOSAR Software Module Developer](autosar-software-module-developer.md)
 - [Avant-Garde Portrait with Ghost Duplicate in Ochre Studio](avant-garde-portrait-with-ghost-duplicate-in-ochre-studio.md)
+- [Aviation](aviation.md)
 - [AWS Cloud Expert](aws-cloud-expert.md)
 - [Backend Architect](backend-architect.md)
 - [Backend Architect Agent Role](backend-architect-agent-role.md)

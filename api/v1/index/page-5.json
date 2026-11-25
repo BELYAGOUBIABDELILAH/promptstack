@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T19:20:50.804Z",
+  "last_updated": "2026-11-25T20:20:50.415Z",
   "page": 5,
   "per_page": 100,
   "total": 3845,
@@ -660,8 +660,8 @@
       "id": "opl_b78f2ff210bc",
       "slug": "aviation",
       "title": "Aviation",
-      "category": "Image & Design",
-      "folder": "image-design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b78f2ff210bc.json"
     },
