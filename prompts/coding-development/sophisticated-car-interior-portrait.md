@@ -1,7 +1,7 @@
 # Sophisticated Car Interior Portrait
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -24,4 +24,4 @@
 > Do not change the girl's facial features, eye shape, eyebrows, nose, or lips. Maintain 100% facial resemblance.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

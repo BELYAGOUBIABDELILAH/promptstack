@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**821 prompts in this category**
+**820 prompts in this category**
 
 ## Table of Contents
 
@@ -693,7 +693,6 @@
 - [Socratic Method for Ethical Discussions](socratic-method-for-ethical-discussions.md)
 - [Soft Glam Lounge Close-Up](soft-glam-lounge-close-up.md)
 - [Some Silly Moves: Hand-Drawn Anime Phone-Cam Comedy of Two Friends (30s Video)](some-silly-moves-hand-drawn-anime-phone-cam-comedy-of-two-friends-30s-video.md)
-- [Sophisticated Car Interior Portrait](sophisticated-car-interior-portrait.md)
 - [Soundproofing Advisor](soundproofing-advisor.md)
 - [Speaker Tone Analyser](speaker-tone-analyser.md)
 - [Speech and Logo Shape Design Template](speech-and-logo-shape-design-template.md)

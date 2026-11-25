@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1335 prompts in this category**
+**1336 prompts in this category**
 
 ## Table of Contents
 
@@ -1112,6 +1112,7 @@
 - [Solr Search Engine](solr-search-engine.md)
 - [SOP & Checklist Generator](sop-checklist-generator.md)
 - [SOP Documentation Generator](sop-documentation-generator.md)
+- [Sophisticated Car Interior Portrait](sophisticated-car-interior-portrait.md)
 - [Speak Your Calendar (ICS Generator)](speak-your-calendar-ics-generator.md)
 - [Specialized Assistant for shanjunmei/dig Compile-Time DI Library](specialized-assistant-for-shanjunmei-dig-compile-time-di-lib.md)
 - [Spending Commentary Summarizer](spending-commentary-summarizer.md)
