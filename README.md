@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-3%2C845-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-3%2C846-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -51,7 +51,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Image & Design](prompts/image-design) | 818 | Image generation, composition, and visual styling |
 | [Data & Analytics](prompts/data-analytics) | 314 | Data extraction, SQL queries, and metrics evaluation |
 | [Writing & Content](prompts/writing-content) | 285 | Editing, copywriting, storytelling, and translation |
-| [Marketing & Social](prompts/marketing-social) | 244 | Campaign copy, social posts, and audience research |
+| [Marketing & Social](prompts/marketing-social) | 245 | Campaign copy, social posts, and audience research |
 | [AI & Automation](prompts/ai-automation) | 172 | Agent prompts, workflow scripts, and system setup |
 | [General](prompts/general) | 160 | Everyday productivity, brainstorming, and utilities |
 | [Education & Learning](prompts/education-learning) | 99 | Explanations, study guides, and concept breakdowns |
@@ -60,7 +60,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Documentation](prompts/documentation) | 60 | Technical specs, README files, and API docs |
 | [Research & Analysis](prompts/research-analysis) | 51 | Literature review, synthesis, and comparative analysis |
 | [Health & Wellness](prompts/health-wellness) | 44 | Fitness planning, nutrition ideas, and habit tracking |
-| [Sales & Business](prompts/sales-business) | 32 | Outreach emails, pitch decks, and discovery questions |
+| [Sales & Business](prompts/sales-business) | 31 | Outreach emails, pitch decks, and discovery questions |
 | [Games & Fun](prompts/games-fun) | 30 | Interactive games, roleplay, and trivia |
 | [Product & Strategy](prompts/product-strategy) | 29 | Feature specs, roadmaps, and competitive analysis |
 | [Travel & Places](prompts/travel-places) | 16 | Itineraries, city guides, and travel planning |

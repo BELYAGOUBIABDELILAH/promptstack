@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-26T02:21:00.862Z",
+  "last_updated": "2026-11-26T03:20:53.247Z",
   "total_prompts": 3846,
   "source_records": 3851,
-  "total_sources": 447,
+  "total_sources": 448,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -44,7 +44,7 @@
     {
       "folder": "marketing-social",
       "name": "Marketing & Social",
-      "prompt_count": 244,
+      "prompt_count": 245,
       "url": "https://prompts.axiomrepo.tech/v1/categories/marketing-social.json"
     },
     {
@@ -98,7 +98,7 @@
     {
       "folder": "sales-business",
       "name": "Sales & Business",
-      "prompt_count": 32,
+      "prompt_count": 31,
       "url": "https://prompts.axiomrepo.tech/v1/categories/sales-business.json"
     },
     {

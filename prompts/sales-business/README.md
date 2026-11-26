@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**32 prompts in this category**
+**31 prompts in this category**
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@
 - [Commissioning Checklist Builder](commissioning-checklist-builder.md)
 - [Dictated email formatter](dictated-email-formatter.md)
 - [Draft Personalized Outreach Post-Sale](draft-personalized-outreach-post-sale.md)
-- [hr Manager interview planning](hr-manager-interview-planning.md)
 - [Identify High Churn Risk Customers](identify-high-churn-risk-customers.md)
 - [Imposter Syndrome Allly](imposter-syndrome-allly.md)
 - [Investor Pitch Coach](investor-pitch-coach.md)

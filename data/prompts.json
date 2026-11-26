@@ -33520,6 +33520,16 @@
     "path": "prompts/marketing-social/romantic-evening-caf-portrait.md"
   },
   {
+    "act": "hr Manager interview planning",
+    "category": "Marketing & Social",
+    "prompt": "I have 5 years’ experience in UAE HR field. i have an hr interview in next week within 5 days. so accordingly, I can prepare this interview. I am work as an executive level works in new post is HR manager with indigently handling. as my knowledge the work is Strategic HR leadership, KPI in Workes etc…. give me the full Guidelines How to prepare this Interview. How I crack this interview easily",
+    "source": "mdsecretarybosco@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "hr-manager-interview-planning",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/hr-manager-interview-planning.md"
+  },
+  {
     "act": "Socratic Method",
     "category": "Philosophy & Humanities",
     "prompt": "I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.\n\nRules:\n- I will make a statement or propose a topic, and you will ask probing questions to test my logic, definitions, and underlying assumptions.\n- Explore concepts such as justice, virtue, ethics, knowledge, and courage.\n- Respond with one thoughtful question at a time.\n- Initial topic: ${topic:justice is necessary in a society}",
@@ -34448,16 +34458,6 @@
     "slug": "draft-personalized-outreach-post-sale",
     "folder": "sales-business",
     "path": "prompts/sales-business/draft-personalized-outreach-post-sale.md"
-  },
-  {
-    "act": "hr Manager interview planning",
-    "category": "Sales & Business",
-    "prompt": "I have 5 years’ experience in UAE HR field. i have an hr interview in next week within 5 days. so accordingly, I can prepare this interview. I am work as an executive level works in new post is HR manager with indigently handling. as my knowledge the work is Strategic HR leadership, KPI in Workes etc…. give me the full Guidelines How to prepare this Interview. How I crack this interview easily",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "hr-manager-interview-planning",
-    "folder": "sales-business",
-    "path": "prompts/sales-business/hr-manager-interview-planning.md"
   },
   {
     "act": "Identify High Churn Risk Customers",

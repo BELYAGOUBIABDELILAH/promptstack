@@ -1,8 +1,8 @@
 {
   "folder": "sales-business",
   "name": "Sales & Business",
-  "last_updated": "2026-11-26T02:21:00.862Z",
-  "total": 32,
+  "last_updated": "2026-11-26T03:20:53.247Z",
+  "total": 31,
   "prompts": [
     {
       "id": "opl_87a717c204db",
@@ -208,22 +208,6 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ae8be219aa17.json"
-    },
-    {
-      "id": "opl_b945906fa41e",
-      "slug": "hr-manager-interview-planning",
-      "title": "hr Manager interview planning",
-      "prompt": "I have 5 years’ experience in UAE HR field. i have an hr interview in next week within 5 days. so accordingly, I can prepare this interview. I am work as an executive level works in new post is HR manager with indigently handling. as my knowledge the work is Strategic HR leadership, KPI in Workes etc…. give me the full Guidelines How to prepare this Interview. How I crack this interview easily",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "provenance_status": "needs-review",
-      "lifecycle_status": "draft",
-      "source_ids": [
-        "src_c7372fdd4131"
-      ],
-      "revision": 1,
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b945906fa41e.json"
     },
     {
       "id": "opl_c62aca7e0f83",

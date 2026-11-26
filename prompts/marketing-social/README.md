@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**244 prompts in this category**
+**245 prompts in this category**
 
 ## Table of Contents
 
@@ -117,6 +117,7 @@
 - [hewar](hewar.md)
 - [High Conversion Cold Email](high-conversion-cold-email.md)
 - [High-Ranking SEO Content Creator](high-ranking-seo-content-creator.md)
+- [hr Manager interview planning](hr-manager-interview-planning.md)
 - [Hyperrealistic Food Photo Creator](hyperrealistic-food-photo-creator.md)
 - [Hyperrealistic Food Video Creator](hyperrealistic-food-video-creator.md)
 - [Identity-Locked Image Transformation Prompt](identity-locked-image-transformation-prompt.md)
