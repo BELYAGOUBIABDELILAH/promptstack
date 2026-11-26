@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**815 prompts in this category**
+**814 prompts in this category**
 
 ## Table of Contents
 
@@ -396,7 +396,6 @@
 - [Interior Decorator](interior-decorator.md)
 - [Interstellar Movie Poster Illustration](interstellar-movie-poster-illustration.md)
 - [Interview Preparation Coach](interview-preparation-coach.md)
-- [Intimate Cozy Sofa Portrait](intimate-cozy-sofa-portrait.md)
 - [Intimate Macro Eye Portrait](intimate-macro-eye-portrait.md)
 - [Intimate Monochrome Smile Portrait](intimate-monochrome-smile-portrait.md)
 - [Intricate Stippling Illustration of Istanbul Street Scene](intricate-stippling-illustration-of-istanbul-street-scene.md)

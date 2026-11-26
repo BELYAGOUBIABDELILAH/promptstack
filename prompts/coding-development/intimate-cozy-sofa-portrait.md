@@ -1,7 +1,7 @@
 # Intimate Cozy Sofa Portrait
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -17,4 +17,4 @@
 > 9:16 format
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

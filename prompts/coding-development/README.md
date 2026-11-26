@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1339 prompts in this category**
+**1340 prompts in this category**
 
 ## Table of Contents
 
@@ -669,6 +669,7 @@
 - [Internationalization taste](internationalization-taste.md)
 - [Internet Trend & Slang Intelligence](internet-trend-slang-intelligence.md)
 - [interview assistance](interview-assistance.md)
+- [Intimate Cozy Sofa Portrait](intimate-cozy-sofa-portrait.md)
 - [Investigate Performance Bottleneck](investigate-performance-bottleneck.md)
 - [Investment Tracking Dashboard](investment-tracking-dashboard.md)
 - [Invoice Checker](invoice-checker.md)
