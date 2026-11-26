@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**172 prompts in this category**
+**173 prompts in this category**
 
 ## Table of Contents
 
@@ -168,6 +168,7 @@
 - [Ultimate Seedance 2.0 Prompt Engineering](ultimate-seedance-2-0-prompt-engineering.md)
 - [Ultimate Stake.us Dice Wagering Strategy Builder — Rollover & Playthrough Completion](ultimate-stake-us-dice-wagering-strategy-builder-rollover-playthrough-completion.md)
 - [Unbiased English Literature Character Analysis AI Assistant](unbiased-english-literature-character-analysis-ai-assistant.md)
+- [Urban Streetwear Alley Portrait](urban-streetwear-alley-portrait.md)
 - [Viking](viking.md)
 - [Viral YouTube Shorts Prompt Optimizer](viral-youtube-shorts-prompt-optimizer.md)
 - [Voice Conversation Coach](voice-conversation-coach.md)

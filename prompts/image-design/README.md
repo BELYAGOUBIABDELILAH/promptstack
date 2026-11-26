@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**817 prompts in this category**
+**816 prompts in this category**
 
 ## Table of Contents
 
@@ -787,7 +787,6 @@
 - [Universal System Design Prompt](universal-system-design-prompt.md)
 - [Urban Casual Confidence](urban-casual-confidence.md)
 - [Urban Night Waterfront Portrait](urban-night-waterfront-portrait.md)
-- [Urban Streetwear Alley Portrait](urban-streetwear-alley-portrait.md)
 - [Victorian Glass Conservatory at Blue Hour (Garden Approach View)](victorian-glass-conservatory-at-blue-hour-garden-approach-view.md)
 - [Victorian Glass Conservatory Interior with Ferns (Morning Light)](victorian-glass-conservatory-interior-with-ferns-morning-light.md)
 - [Victorian Halloween Cabinet Card Photograph (circa 1890)](victorian-halloween-cabinet-card-photograph-circa-1890.md)

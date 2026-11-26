@@ -1720,6 +1720,16 @@
     "path": "prompts/ai-automation/cozy-autumn-pumpkin-patch-portrait.md"
   },
   {
+    "act": "Urban Streetwear Alley Portrait",
+    "category": "AI & Automation",
+    "prompt": "Full body urban portrait photography of a young man with a slim athletic build, short textured brown hair, and light stubble, serious confident expression looking directly at the camera. He is wearing a black hoodie with a white geometric design on the chest, dark blue slim-fit jeans, brown leather work boots, and a wristwatch on his left wrist. Pose: sitting casually on a red brick wall, one leg hanging down, the other leg bent with his foot resting on the wall, relaxed and dynamic posture. Environment: narrow urban alleyway, red brick walls on both sides creating a corridor effect, industrial vibe, black barred window in the upper background. Lighting: natural daylight, soft lateral lighting, warm color palette, moderate contrast. Camera details: shot on 85mm lens, f/2.8 aperture, slight low angle from waist height, vertical composition, medium depth of field with the foreground brick wall slightly blurred. Style: contemporary street fashion photography, photorealistic, highly detailed, sharp focus on subject, 8k resolution, cinematic lighting, shot on Sony A7R IV. --ar 4:5 --style raw --v 6.0",
+    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "urban-streetwear-alley-portrait",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/urban-streetwear-alley-portrait.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",
@@ -30708,16 +30718,6 @@
     "slug": "urban-night-waterfront-portrait",
     "folder": "image-design",
     "path": "prompts/image-design/urban-night-waterfront-portrait.md"
-  },
-  {
-    "act": "Urban Streetwear Alley Portrait",
-    "category": "Image & Design",
-    "prompt": "Full body urban portrait photography of a young man with a slim athletic build, short textured brown hair, and light stubble, serious confident expression looking directly at the camera. He is wearing a black hoodie with a white geometric design on the chest, dark blue slim-fit jeans, brown leather work boots, and a wristwatch on his left wrist. Pose: sitting casually on a red brick wall, one leg hanging down, the other leg bent with his foot resting on the wall, relaxed and dynamic posture. Environment: narrow urban alleyway, red brick walls on both sides creating a corridor effect, industrial vibe, black barred window in the upper background. Lighting: natural daylight, soft lateral lighting, warm color palette, moderate contrast. Camera details: shot on 85mm lens, f/2.8 aperture, slight low angle from waist height, vertical composition, medium depth of field with the foreground brick wall slightly blurred. Style: contemporary street fashion photography, photorealistic, highly detailed, sharp focus on subject, 8k resolution, cinematic lighting, shot on Sony A7R IV. --ar 4:5 --style raw --v 6.0",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "urban-streetwear-alley-portrait",
-    "folder": "image-design",
-    "path": "prompts/image-design/urban-streetwear-alley-portrait.md"
   },
   {
     "act": "Victorian Glass Conservatory at Blue Hour (Garden Approach View)",
