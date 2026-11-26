@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1337 prompts in this category**
+**1338 prompts in this category**
 
 ## Table of Contents
 
@@ -102,6 +102,7 @@
 - [alfakennybody](alfakennybody.md)
 - [Algorithm Competition Coach](algorithm-competition-coach.md)
 - [Alien Visitor](alien-visitor.md)
+- [Alpine Golden Hour Granola Portrait](alpine-golden-hour-granola-portrait.md)
 - [Alternative Text Generator](alternative-text-generator.md)
 - [Amateur Girls' Night Selfie - Casual and Imperfect](amateur-girls-night-selfie-casual-and-imperfect.md)
 - [American Comic](american-comic.md)

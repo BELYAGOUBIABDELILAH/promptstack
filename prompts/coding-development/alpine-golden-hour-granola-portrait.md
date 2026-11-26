@@ -1,7 +1,7 @@
 # Alpine Golden Hour Granola Portrait
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -22,4 +22,4 @@
 > Technical Details: Deep focus keeps both the woman and the mountain landscape crisp and highly detailed. Photorealistic, ultra-sharp, realistic skin texture. Do not change her facial features or identity.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

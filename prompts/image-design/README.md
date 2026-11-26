@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**818 prompts in this category**
+**817 prompts in this category**
 
 ## Table of Contents
 
@@ -63,7 +63,6 @@
 - [Aliexpress Brand Counterfeiting Assessor](aliexpress-brand-counterfeiting-assessor.md)
 - [Alpine Cable Car Scene Concept Brief Builder](alpine-cable-car-scene-concept-brief-builder.md)
 - [Alpine Freefall](alpine-freefall.md)
-- [Alpine Golden Hour Granola Portrait](alpine-golden-hour-granola-portrait.md)
 - [Alpine Lake Red Canoe at Autumn Sunrise (Image-to-Video Animation)](alpine-lake-red-canoe-at-autumn-sunrise-image-to-video-animation.md)
 - [Alpine Lake Red Canoe at Autumn Sunrise Scene Concept Brief Builder](alpine-lake-red-canoe-at-autumn-sunrise-scene-concept-brief-builder.md)
 - [Alternative Grunge Alley Portrait](alternative-grunge-alley-portrait.md)

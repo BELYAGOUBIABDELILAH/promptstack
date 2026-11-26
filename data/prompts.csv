@@ -91254,6 +91254,21 @@ Design an extraordinary modern airline uniform around a fitted white aviation sh
 She stands extremely close to the aircraft fuselage, one shoulder almost touching the polished surface. Her body faces slightly away while her shoulders and head rotate toward camera. One hand is placed against the aircraft beside her head; the other gently holds the scarf at her collar. Her posture creates an elongated diagonal from hand to shoulder to waist. Her hazel eyes lock directly onto the camera with an intense, confident, magnetic expression.
 
 LIGHTING: dramatic single-sided cinematic key from camera-right, creating sculptural light across her face and the white shirt while allowing the opposite side to fall into rich but readable shadow. Add a pronounced narrow rim light from behind that separates her loose hair, shoulder and shirt edge from the aircraft. Subtle reflected fill from the white fuselage keeps skin luminous without flattening the contrast. Bright cinematic exposure, crisp white highlights, controlled shadows, realistic cotton texture, natural skin detail, 85mm lens, shallow depth of field, sophisticated ivory-white-navy-champagne color tonality, premium fashion-film realism, no flat lighting, no frontal beauty lighting, no silk, no satin, no jacket, no suit, no dark/deep color grading, no generic airline pose, no retro styling, no logo or text except the fictional crew insignia and name tag.",talkjignesh@gmail.com (prompts.chat),TEXT,aviation,coding-development,prompts/coding-development/aviation.md
+Alpine Golden Hour Granola Portrait,Coding & Development,"A realistic, high-quality 8K photo taken on an iPhone 16 Pro Max, 3:4 aspect ratio.
+
+Composition & Camera Angle: Medium shot at eye level in a three-quarter profile. A young woman stands beside a mountain lake, positioned slightly right of center. Her body is turned sideways while she looks back over her shoulder toward the camera with a soft, natural smile.
+
+Subject & Mood: A smiling young woman with a relaxed, peaceful “granola girl” aesthetic. Her arms rest naturally at her sides as she holds a transparent water bottle hanging beside her thigh. Her expression is calm, warm, and effortless.
+
+Outfit & Accessories: She wears a cropped oversized sherpa fleece jacket featuring a bold ethnic geometric pattern in beige, rust brown, blue, and black. Black leggings complete the outfit, and a dark shoulder strap from a bottle or small bag crosses her body.
+
+Hair & Makeup:  hair is partially gathered into a messy bun, with loose strands framing her face and falling over her shoulders. Minimal, natural “no-makeup” makeup with fresh, realistic skin.
+
+Lighting & Atmosphere: Golden hour sunlight bathes the scene in warm, rich tones. The atmosphere feels peaceful, adventurous, cozy, and deeply connected to nature.
+
+Background: A tranquil alpine lake reflects dramatic limestone cliffs rising behind it. The lower mountain slopes are covered with forest and vibrant green alpine meadows. The sky is clear blue with a few soft clouds, and tiny figures of people are visible along the opposite shoreline. Wild grass and reeds appear in the foreground.
+
+Technical Details: Deep focus keeps both the woman and the mountain landscape crisp and highly detailed. Photorealistic, ultra-sharp, realistic skin texture. Do not change her facial features or identity.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,alpine-golden-hour-granola-portrait,coding-development,prompts/coding-development/alpine-golden-hour-granola-portrait.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -112715,21 +112730,6 @@ Alpine Freefall,Image & Design,"{
     }
   }
 }",src_dab9fa094922,TEXT,alpine-freefall,image-design,prompts/image-design/alpine-freefall.md
-Alpine Golden Hour Granola Portrait,Image & Design,"A realistic, high-quality 8K photo taken on an iPhone 16 Pro Max, 3:4 aspect ratio.
-
-Composition & Camera Angle: Medium shot at eye level in a three-quarter profile. A young woman stands beside a mountain lake, positioned slightly right of center. Her body is turned sideways while she looks back over her shoulder toward the camera with a soft, natural smile.
-
-Subject & Mood: A smiling young woman with a relaxed, peaceful “granola girl” aesthetic. Her arms rest naturally at her sides as she holds a transparent water bottle hanging beside her thigh. Her expression is calm, warm, and effortless.
-
-Outfit & Accessories: She wears a cropped oversized sherpa fleece jacket featuring a bold ethnic geometric pattern in beige, rust brown, blue, and black. Black leggings complete the outfit, and a dark shoulder strap from a bottle or small bag crosses her body.
-
-Hair & Makeup:  hair is partially gathered into a messy bun, with loose strands framing her face and falling over her shoulders. Minimal, natural “no-makeup” makeup with fresh, realistic skin.
-
-Lighting & Atmosphere: Golden hour sunlight bathes the scene in warm, rich tones. The atmosphere feels peaceful, adventurous, cozy, and deeply connected to nature.
-
-Background: A tranquil alpine lake reflects dramatic limestone cliffs rising behind it. The lower mountain slopes are covered with forest and vibrant green alpine meadows. The sky is clear blue with a few soft clouds, and tiny figures of people are visible along the opposite shoreline. Wild grass and reeds appear in the foreground.
-
-Technical Details: Deep focus keeps both the woman and the mountain landscape crisp and highly detailed. Photorealistic, ultra-sharp, realistic skin texture. Do not change her facial features or identity.",prompts.chat,TEXT,alpine-golden-hour-granola-portrait,image-design,prompts/image-design/alpine-golden-hour-granola-portrait.md
 Alpine Lake Red Canoe at Autumn Sunrise (Image-to-Video Animation),Image & Design,"Start from the step 2 image ""Red Canoe at a Wooden Dock on a Misty Alpine Lake at Autumn Sunrise"" as the exact first frame, and animate it into a calm ${duration:6}-second cinematic shot. Keep the weathered wooden dock, the red canoe on the left of the dock, the dark green pines on the left shore, the golden larches on the right shore, the three snow-capped peaks, the colors, and the style exactly as in the image. The camera makes a slow, smooth drift forward and slightly down toward the canoe and the dock. Low mist slides softly across the water, the canoe stays tied to the end of the dock and rocks only very slightly, and the reflections of the peaks and trees ripple gently. The peaks stay lit pink and gold by the sunrise. Natural, realistic motion, no people, no cuts, no text. Soft sound of a still morning lake, gentle lapping water, and faint distant birdsong.",prompts.chat,TEXT,alpine-lake-red-canoe-at-autumn-sunrise-image-to-video-animation,image-design,prompts/image-design/alpine-lake-red-canoe-at-autumn-sunrise-image-to-video-animation.md
 Alpine Lake Red Canoe at Autumn Sunrise Scene Concept Brief Builder,Image & Design,"Act as a cinematic landscape scene designer who writes image-ready and motion-ready scene briefs. Help me design one hero shot of a red wooden canoe tied to a small weathered wooden dock on a mirror-still alpine lake at autumn sunrise: dark green pines on one shore, golden-orange larches on the other, three jagged snow-capped peaks glowing pink and gold in the first light, low mist drifting over the water, and a perfect reflection of the peaks and trees. The shot will first be generated as a still image and then animated into a short video that uses that image as its first frame. Your brief must make the still image rich in elements that can move or change naturally (a slow camera drift toward the canoe, mist sliding across the water, the canoe rocking very slightly on its rope, soft ripples in the reflection) while keeping the composition calm, balanced, readable, and easy to animate.
 
