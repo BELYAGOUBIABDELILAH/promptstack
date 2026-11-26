@@ -41162,6 +41162,36 @@
     "snippet": "Please help me study for an exam. This exam is about network security. The class's text book is this: Stallings, W. & Brown, L. (2023). Computer security: Principles and practice ("
   },
   {
+    "id": "opl_1a74c370a4ba",
+    "title": "Subscription and Recurring Charges Audit (JSON)",
+    "category": "Security",
+    "folder": "security",
+    "slug": "subscription-and-recurring-charges-audit-json",
+    "variables": [
+      {
+        "name": "currency",
+        "default": "USD"
+      },
+      {
+        "name": "goal",
+        "default": "Free up at least 80 per month for an emergency fund"
+      },
+      {
+        "name": "income",
+        "default": "4200"
+      },
+      {
+        "name": "statement",
+        "default": "Paste 2 to 3 months of bank or card lines here, one per line, in the form date | description | amount. Example: 2026-08-03 | SPOTIFY P1A2B3 | 11.99"
+      },
+      {
+        "name": "values",
+        "default": "Music and one video service for family evenings, cloud backup for photos, my gym because I actually go twice a week"
+      }
+    ],
+    "snippet": "{ \"role\": \"You are a calm, practical personal finance assistant who specializes in recurring charges. You help people find every subscription and repeating bill hidden in their s"
+  },
+  {
     "id": "opl_5bb5bb62879e",
     "title": "Tech Career Pathfinder",
     "category": "Security",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T20:20:52.042Z",
+  "last_updated": "2026-11-26T21:21:01.463Z",
   "page": 36,
   "per_page": 100,
-  "total": 3847,
+  "total": 3848,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_3d72e5b6b961",
+      "slug": "the-aether-prince-at-the-crystal-gala",
+      "title": "The Aether Prince at the Crystal Gala",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3d72e5b6b961.json"
+    },
     {
       "id": "opl_fedb7a959816",
       "slug": "the-aether-workshop",
@@ -1101,15 +1110,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0d9e8f483904.json"
-    },
-    {
-      "id": "opl_683917c0dac3",
-      "slug": "turf-roofed-faroese-village-above-a-sea-gorge-at-golden-hour",
-      "title": "Turf-Roofed Faroese Village Above a Sea Gorge at Golden Hour",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_683917c0dac3.json"
     }
   ]
 }

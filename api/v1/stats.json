@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-26T20:20:52.042Z",
-  "total_prompts": 3847,
-  "source_records": 3852,
+  "last_updated": "2026-11-26T21:21:01.463Z",
+  "total_prompts": 3848,
+  "source_records": 3853,
   "total_sources": 449,
   "total_categories": 19,
   "total_pages": 39,
@@ -68,7 +68,7 @@
     {
       "folder": "security",
       "name": "Security",
-      "prompt_count": 85,
+      "prompt_count": 86,
       "url": "https://prompts.axiomrepo.tech/v1/categories/security.json"
     },
     {

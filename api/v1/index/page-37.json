@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T20:20:52.042Z",
+  "last_updated": "2026-11-26T21:21:01.463Z",
   "page": 37,
   "per_page": 100,
-  "total": 3847,
+  "total": 3848,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_683917c0dac3",
+      "slug": "turf-roofed-faroese-village-above-a-sea-gorge-at-golden-hour",
+      "title": "Turf-Roofed Faroese Village Above a Sea Gorge at Golden Hour",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_683917c0dac3.json"
+    },
     {
       "id": "opl_5255fe8e51ec",
       "slug": "turkish-cats-hanging-out-nearby-of-galata-tower",
@@ -1183,15 +1192,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6d9665c0a227.json"
-    },
-    {
-      "id": "opl_49889b20776c",
-      "slug": "victorian-glass-conservatory-interior-with-ferns-morning-light",
-      "title": "Victorian Glass Conservatory Interior with Ferns (Morning Light)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_49889b20776c.json"
     }
   ]
 }

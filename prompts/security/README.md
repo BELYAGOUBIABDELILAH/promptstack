@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**85 prompts in this category**
+**86 prompts in this category**
 
 ## Table of Contents
 
@@ -84,6 +84,7 @@
 - [Sprezzatura](sprezzatura.md)
 - [Structured Text Captioning](structured-text-captioning.md)
 - [studying for exam](studying-for-exam.md)
+- [Subscription and Recurring Charges Audit (JSON)](subscription-and-recurring-charges-audit-json.md)
 - [Tech Career Pathfinder](tech-career-pathfinder.md)
 - [Tech Tool Finder](tech-tool-finder.md)
 - [Walking back home](walking-back-home.md)

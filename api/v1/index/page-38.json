@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T20:20:52.042Z",
+  "last_updated": "2026-11-26T21:21:01.463Z",
   "page": 38,
   "per_page": 100,
-  "total": 3847,
+  "total": 3848,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_49889b20776c",
+      "slug": "victorian-glass-conservatory-interior-with-ferns-morning-light",
+      "title": "Victorian Glass Conservatory Interior with Ferns (Morning Light)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_49889b20776c.json"
+    },
     {
       "id": "opl_f9c91134895a",
       "slug": "victorian-halloween-cabinet-card-photograph-circa-1890",
@@ -1077,15 +1086,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b5f41cc2734d.json"
-    },
-    {
-      "id": "opl_e4d31054ee84",
-      "slug": "womanized",
-      "title": "Womanized",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e4d31054ee84.json"
     }
   ]
 }

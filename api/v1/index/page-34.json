@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-26T20:20:52.042Z",
+  "last_updated": "2026-11-26T21:21:01.463Z",
   "page": 34,
   "per_page": 100,
-  "total": 3847,
+  "total": 3848,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
@@ -715,6 +715,36 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_018f80a88159.json"
     },
     {
+      "id": "opl_1a74c370a4ba",
+      "slug": "subscription-and-recurring-charges-audit-json",
+      "title": "Subscription and Recurring Charges Audit (JSON)",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "currency",
+          "default": "USD"
+        },
+        {
+          "name": "goal",
+          "default": "Free up at least 80 per month for an emergency fund"
+        },
+        {
+          "name": "income",
+          "default": "4200"
+        },
+        {
+          "name": "statement",
+          "default": "Paste 2 to 3 months of bank or card lines here, one per line, in the form date | description | amount. Example: 2026-08-03 | SPOTIFY P1A2B3 | 11.99"
+        },
+        {
+          "name": "values",
+          "default": "Music and one video service for family evenings, cloud backup for photos, my gym because I actually go twice a week"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1a74c370a4ba.json"
+    },
+    {
       "id": "opl_600b8bc5003a",
       "slug": "subtitled-content-for-language-learners",
       "title": "Subtitled Content For Language Learners",
@@ -1157,15 +1187,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_54ca5d9953a4.json"
-    },
-    {
-      "id": "opl_7bbb0ae748cd",
-      "slug": "synthetic-pii-data-generation",
-      "title": "Synthetic PII Data Generation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7bbb0ae748cd.json"
     }
   ]
 }
