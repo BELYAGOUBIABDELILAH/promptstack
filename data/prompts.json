@@ -1750,6 +1750,16 @@
     "path": "prompts/ai-automation/classic-trading-gain-ai.md"
   },
   {
+    "act": "90s Editorial Power Dressing Portrait",
+    "category": "AI & Automation",
+    "prompt": "Full-body black and white fashion editorial portrait of a young woman with an hourglass figure, standing in a professional photo studio against a smooth neutral gray gradient backdrop with a polished concrete floor. She has dark hair slicked back into a low neat bun, strong defined eyebrows, full lips, and an intense serious gaze looking directly at the camera. She is wearing a white fitted button-down dress shirt with the top buttons undone creating a deep V-neckline, sleeves rolled up to the mid-forearm, black wide suspenders with silver metal clips attached to high-waisted slim black ankle trousers, and black pointed-toe stiletto pumps. Her pose: standing with legs slightly crossed (right leg forward), both hands raised holding the suspenders near her collarbones, elbows slightly bent outward, shoulders back, confident powerful stance. Professional studio lighting with a large softbox key light from above-front, subtle fill light, soft shadows cast on the floor to the left. Shot with a full-frame DSLR, 85mm prime lens at f/5.6, ISO 100, frontal angle at hip height, full body vertical frame, everything in sharp focus. High-contrast monochrome, editorial fashion aesthetic, minimalist, androgynous-chic power dressing vibe, reminiscent of 90s Vogue photography by Peter Lindbergh, ultra high quality, magazine cover quality.",
+    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "90s-editorial-power-dressing-portrait",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/90s-editorial-power-dressing-portrait.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",
@@ -23068,16 +23078,6 @@
     "slug": "808-bantou-portrait-studio",
     "folder": "image-design",
     "path": "prompts/image-design/808-bantou-portrait-studio.md"
-  },
-  {
-    "act": "90s Editorial Power Dressing Portrait",
-    "category": "Image & Design",
-    "prompt": "Full-body black and white fashion editorial portrait of a young woman with an hourglass figure, standing in a professional photo studio against a smooth neutral gray gradient backdrop with a polished concrete floor. She has dark hair slicked back into a low neat bun, strong defined eyebrows, full lips, and an intense serious gaze looking directly at the camera. She is wearing a white fitted button-down dress shirt with the top buttons undone creating a deep V-neckline, sleeves rolled up to the mid-forearm, black wide suspenders with silver metal clips attached to high-waisted slim black ankle trousers, and black pointed-toe stiletto pumps. Her pose: standing with legs slightly crossed (right leg forward), both hands raised holding the suspenders near her collarbones, elbows slightly bent outward, shoulders back, confident powerful stance. Professional studio lighting with a large softbox key light from above-front, subtle fill light, soft shadows cast on the floor to the left. Shot with a full-frame DSLR, 85mm prime lens at f/5.6, ISO 100, frontal angle at hip height, full body vertical frame, everything in sharp focus. High-contrast monochrome, editorial fashion aesthetic, minimalist, androgynous-chic power dressing vibe, reminiscent of 90s Vogue photography by Peter Lindbergh, ultra high quality, magazine cover quality.",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "90s-editorial-power-dressing-portrait",
-    "folder": "image-design",
-    "path": "prompts/image-design/90s-editorial-power-dressing-portrait.md"
   },
   {
     "act": "A Clay-Crafted City: Mini [CITY NAME] World",

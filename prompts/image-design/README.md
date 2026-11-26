@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**813 prompts in this category**
+**812 prompts in this category**
 
 ## Table of Contents
 
@@ -17,7 +17,6 @@
 - [3D Stop-Motion Movie Character Design Template](3d-stop-motion-movie-character-design-template.md)
 - [7v7 Football Team Generator App](7v7-football-team-generator-app.md)
 - [808 Bantou – Portrait studio](808-bantou-portrait-studio.md)
-- [90s Editorial Power Dressing Portrait](90s-editorial-power-dressing-portrait.md)
 - [A Clay-Crafted City: Mini [CITY NAME] World](a-clay-crafted-city-mini-city-name-world.md)
 - [A Day In AI Land](a-day-in-ai-land.md)
 - [A prompt that will turn your photo into a scene from a cult 90s movie](a-prompt-that-will-turn-your-photo-into-a-scene-from-a-cult.md)

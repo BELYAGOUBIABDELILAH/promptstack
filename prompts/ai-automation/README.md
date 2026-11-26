@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**175 prompts in this category**
+**176 prompts in this category**
 
 ## Table of Contents
 
@@ -10,6 +10,7 @@
 - [🧠 FORMAL VERIFICATION MODE](formal-verification-mode.md)
 - [1940s village life](1940s-village-life.md)
 - [3D Cartoon Animation: Baby Bunny Adventure](3d-cartoon-animation-baby-bunny-adventure.md)
+- [90s Editorial Power Dressing Portrait](90s-editorial-power-dressing-portrait.md)
 - [Act as an FTTH Telecommunications Expert](act-as-an-ftth-telecommunications-expert.md)
 - [Advanced Text Converter for Large Datasets](advanced-text-converter-for-large-datasets.md)
 - [Aesthetic Sunset](aesthetic-sunset.md)
