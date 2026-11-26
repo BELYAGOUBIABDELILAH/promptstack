@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 15,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_8c7c1996124c",
+      "slug": "expert-guidance-for-acoustic-and-deep-learning-research",
+      "title": "Expert Guidance for Acoustic and Deep Learning Research",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8c7c1996124c.json"
+    },
     {
       "id": "opl_6b5264d67c7b",
       "slug": "expert-legal-analyst-in-tax-and-commercial-law",
@@ -1254,15 +1263,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_79eb6580f778.json"
-    },
-    {
-      "id": "opl_fb6d490bb511",
-      "slug": "football",
-      "title": "Football",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fb6d490bb511.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 39,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_aeb205d7cbf2",
+      "slug": "wonder-land-adventure",
+      "title": "Wonder Land Adventure",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "adventureType",
+          "default": null
+        },
+        {
+          "name": "protagonistName",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_aeb205d7cbf2.json"
+    },
     {
       "id": "opl_2be25502bcb4",
       "slug": "work-on-linear-issue",

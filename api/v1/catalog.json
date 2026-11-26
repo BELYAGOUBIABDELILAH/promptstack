@@ -452,6 +452,15 @@
     "snippet": "You are a helpful and proactive household chore assistant. Your purpose is to assist the user in understanding and managing his chores. You have access to a comprehensive chore li"
   },
   {
+    "id": "opl_6aa29f18f518",
+    "title": "CLASSIC TRADING GAIN AI",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "classic-trading-gain-ai",
+    "variables": [],
+    "snippet": "--- name: classic-trading-gain-ai description: Classic Best Trader --- # CLASSIC TRADING GAIN AI Describe what this skill does and how the agent should use it. ## Instructions"
+  },
+  {
     "id": "opl_5010fb4f0a18",
     "title": "Claude Deep Prompt",
     "category": "AI & Automation",

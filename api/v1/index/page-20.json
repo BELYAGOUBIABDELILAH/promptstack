@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 20,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_c71c1ce69510",
+      "slug": "ipo-analysis",
+      "title": "IPO analysis",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c71c1ce69510.json"
+    },
     {
       "id": "opl_f49da8ddda2b",
       "slug": "iranian-noir-suspicion-close-up",
@@ -1015,15 +1024,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e24f6534cab4.json"
-    },
-    {
-      "id": "opl_df1871602f10",
-      "slug": "label-text-extractor-ocr",
-      "title": "Label Text Extractor (OCR)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_df1871602f10.json"
     }
   ]
 }

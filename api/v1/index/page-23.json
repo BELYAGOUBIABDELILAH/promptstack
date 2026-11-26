@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 23,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_b07f7c7e90f4",
+      "slug": "mastering-leadership",
+      "title": "Mastering Leadership:",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b07f7c7e90f4.json"
+    },
     {
       "id": "opl_fd0bf288ab77",
       "slug": "mastermind",
@@ -1085,32 +1094,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9b5e072a011f.json"
-    },
-    {
-      "id": "opl_9b0caed2c960",
-      "slug": "monetization-strategy-for-blockchain-based-merging-games",
-      "title": "Monetization Strategy for Blockchain-Based Merging Games",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "blockchainPlatform",
-          "default": "Sui"
-        },
-        {
-          "name": "gameName",
-          "default": "Merging Game"
-        },
-        {
-          "name": "globalTrends",
-          "default": "Global"
-        },
-        {
-          "name": "targetMarket",
-          "default": "Turkey"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9b0caed2c960.json"
     }
   ]
 }

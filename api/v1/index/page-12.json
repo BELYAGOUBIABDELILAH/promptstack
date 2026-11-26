@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 12,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_9104bd4ecc46",
+      "slug": "database-matchmaker",
+      "title": "Database Matchmaker",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9104bd4ecc46.json"
+    },
     {
       "id": "opl_7e40b05f5387",
       "slug": "database-migration-safety-review",
@@ -1197,15 +1206,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_87359ce13b50.json"
-    },
-    {
-      "id": "opl_44eb166d2f5b",
-      "slug": "dictated-text-doctor",
-      "title": "Dictated Text Doctor",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_44eb166d2f5b.json"
     }
   ]
 }

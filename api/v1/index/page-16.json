@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 16,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_fb6d490bb511",
+      "slug": "football",
+      "title": "Football",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fb6d490bb511.json"
+    },
     {
       "id": "opl_2179dc32c901",
       "slug": "football-commentator",
@@ -1015,15 +1024,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ad971d9fa1a4.json"
-    },
-    {
-      "id": "opl_2357a1dfda6d",
-      "slug": "glacier-calving-into-a-turquoise-arctic-fjord-image-to-video-animation",
-      "title": "Glacier Calving into a Turquoise Arctic Fjord (Image-to-Video Animation)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2357a1dfda6d.json"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-26T18:20:54.048Z",
-  "total_prompts": 3846,
-  "source_records": 3851,
-  "total_sources": 448,
+  "last_updated": "2026-11-26T19:20:45.187Z",
+  "total_prompts": 3847,
+  "source_records": 3852,
+  "total_sources": 449,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -50,7 +50,7 @@
     {
       "folder": "ai-automation",
       "name": "AI & Automation",
-      "prompt_count": 173,
+      "prompt_count": 174,
       "url": "https://prompts.axiomrepo.tech/v1/categories/ai-automation.json"
     },
     {

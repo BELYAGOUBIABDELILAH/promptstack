@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 34,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_fb8d3cb9d2e6",
+      "slug": "sticker-image-generator",
+      "title": "Sticker Image Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "colorPalette",
+          "default": "vibrant"
+        },
+        {
+          "name": "details",
+          "default": null
+        },
+        {
+          "name": "icon",
+          "default": "smiley_face"
+        },
+        {
+          "name": "text",
+          "default": "Hello World"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fb8d3cb9d2e6.json"
+    },
     {
       "id": "opl_5a6d284ab62c",
       "slug": "stock-analyser",
@@ -1140,15 +1166,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7bbb0ae748cd.json"
-    },
-    {
-      "id": "opl_013f4a3e5f5c",
-      "slug": "synthwave-sunset-over-an-empty-desert-highway-with-a-vintage-convertible",
-      "title": "Synthwave Sunset Over an Empty Desert Highway with a Vintage Convertible",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_013f4a3e5f5c.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 36,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_fedb7a959816",
+      "slug": "the-aether-workshop",
+      "title": "The Aether Workshop",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fedb7a959816.json"
+    },
     {
       "id": "opl_663cd04e5c42",
       "slug": "the-architect-hacker-protector-viral-engineer",
@@ -1101,15 +1110,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_683917c0dac3.json"
-    },
-    {
-      "id": "opl_5255fe8e51ec",
-      "slug": "turkish-cats-hanging-out-nearby-of-galata-tower",
-      "title": "Turkish Cats hanging out nearby of Galata Tower",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5255fe8e51ec.json"
     }
   ]
 }

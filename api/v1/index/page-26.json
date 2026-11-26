@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 26,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_a36f3854aa2c",
+      "slug": "output-format-prompting-guide",
+      "title": "Output Format Prompting Guide",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a36f3854aa2c.json"
+    },
     {
       "id": "opl_95639bed1dd1",
       "slug": "output-to-prompt",
@@ -1140,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3576fb7fd2b5.json"
-    },
-    {
-      "id": "opl_7d43d2a475d3",
-      "slug": "photoreal-macro-of-frost-crystals-on-a-red-maple-leaf-at-sunrise",
-      "title": "Photoreal Macro of Frost Crystals on a Red Maple Leaf at Sunrise",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7d43d2a475d3.json"
     }
   ]
 }

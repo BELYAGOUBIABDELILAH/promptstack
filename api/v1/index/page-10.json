@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 10,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-11.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_ac400785d1f5",
+      "slug": "continue-coding-assistant",
+      "title": "Continue Coding Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "codingStyle",
+          "default": "Standard"
+        },
+        {
+          "name": "language",
+          "default": "JavaScript"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ac400785d1f5.json"
+    },
     {
       "id": "opl_d16010a0bd0b",
       "slug": "continuous-execution-mode-ai",
@@ -1232,15 +1250,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cc002584d99c.json"
-    },
-    {
-      "id": "opl_7422e03517e9",
-      "slug": "crimson-waltz-in-the-rain",
-      "title": "Crimson Waltz in the Rain",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7422e03517e9.json"
     }
   ]
 }

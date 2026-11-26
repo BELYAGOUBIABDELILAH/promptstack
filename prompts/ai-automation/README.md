@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**174 prompts in this category**
+**175 prompts in this category**
 
 ## Table of Contents
 
@@ -46,6 +46,7 @@
 - [Chief Executive Officer](chief-executive-officer.md)
 - [Chinese to English Translation Proofreading Expert](chinese-to-english-translation-proofreading-expert.md)
 - [Chore Helper](chore-helper.md)
+- [CLASSIC TRADING GAIN AI](classic-trading-gain-ai.md)
 - [Claude Deep Prompt](claude-deep-prompt.md)
 - [Close-up black and white portrait](close-up-black-and-white-portrait.md)
 - [Comprehensive Book Summarizer](comprehensive-book-summarizer.md)

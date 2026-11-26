@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 25,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_b02b76ece173",
+      "slug": "night-balcony-scene-in-ankara-with-efes",
+      "title": "Night Balcony Scene in Ankara with Efes",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b02b76ece173.json"
+    },
     {
       "id": "opl_8f263c5147e8",
       "slug": "night-club",
@@ -1048,15 +1057,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_089200531612.json"
-    },
-    {
-      "id": "opl_a36f3854aa2c",
-      "slug": "output-format-prompting-guide",
-      "title": "Output Format Prompting Guide",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a36f3854aa2c.json"
     }
   ]
 }

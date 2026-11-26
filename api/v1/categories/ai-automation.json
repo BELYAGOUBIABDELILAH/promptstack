@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-26T18:20:54.048Z",
-  "total": 173,
+  "last_updated": "2026-11-26T19:20:45.187Z",
+  "total": 174,
   "prompts": [
     {
       "id": "opl_a0ea04a6dfe4",
@@ -735,6 +735,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_893c71c13b45.json"
+    },
+    {
+      "id": "opl_6aa29f18f518",
+      "slug": "classic-trading-gain-ai",
+      "title": "CLASSIC TRADING GAIN AI",
+      "prompt": "---\nname: classic-trading-gain-ai\ndescription: Classic Best Trader\n---\n\n# CLASSIC TRADING GAIN AI\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...\n-STEP 3: ....",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_f82076b70fe9"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6aa29f18f518.json"
     },
     {
       "id": "opl_5010fb4f0a18",

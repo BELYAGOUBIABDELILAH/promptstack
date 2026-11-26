@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 9,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-10.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_6f1b265e0e37",
+      "slug": "code-review-discussion",
+      "title": "Code Review Discussion",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6f1b265e0e37.json"
+    },
     {
       "id": "opl_0df7e07fd4d4",
       "slug": "code-review-expert",
@@ -1273,24 +1282,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a0bf0dda9400.json"
-    },
-    {
-      "id": "opl_ac400785d1f5",
-      "slug": "continue-coding-assistant",
-      "title": "Continue Coding Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "codingStyle",
-          "default": "Standard"
-        },
-        {
-          "name": "language",
-          "default": "JavaScript"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ac400785d1f5.json"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 32,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_c77f1168293e",
+      "slug": "senior-full-stack-developer-for-airline-simulation-center",
+      "title": "Senior Full-Stack Developer for Airline Simulation Center",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "backendTechnology",
+          "default": "Node.js"
+        },
+        {
+          "name": "databaseTechnology",
+          "default": "MongoDB"
+        },
+        {
+          "name": "frontendTechnology",
+          "default": "React"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c77f1168293e.json"
+    },
     {
       "id": "opl_cc1014430547",
       "slug": "senior-java-backend-engineer-expert",
@@ -1209,15 +1231,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ebeccd8f6431.json"
-    },
-    {
-      "id": "opl_3ed114f5b669",
-      "slug": "socrat",
-      "title": "Socrat",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3ed114f5b669.json"
     }
   ]
 }

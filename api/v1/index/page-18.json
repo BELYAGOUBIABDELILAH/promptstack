@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 18,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_aa2e8fba6686",
+      "slug": "herdr-multiagent",
+      "title": "herdr-multiagent",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "HERDR_ENV",
+          "default": "-"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_aa2e8fba6686.json"
+    },
     {
       "id": "opl_2765a846e1bb",
       "slug": "hermes-agent-desktop-default-system-prompt",
@@ -1164,15 +1178,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c62aca7e0f83.json"
-    },
-    {
-      "id": "opl_3450580dc8e6",
-      "slug": "identify-security-issues-in-mr",
-      "title": "Identify Security Issues in MR",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3450580dc8e6.json"
     }
   ]
 }

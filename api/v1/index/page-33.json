@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 33,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_3ed114f5b669",
+      "slug": "socrat",
+      "title": "Socrat",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3ed114f5b669.json"
+    },
     {
       "id": "opl_22d1613bef7a",
       "slug": "socratic-method-22d161",
@@ -978,32 +987,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e8cff0ee7bf1.json"
-    },
-    {
-      "id": "opl_fb8d3cb9d2e6",
-      "slug": "sticker-image-generator",
-      "title": "Sticker Image Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "colorPalette",
-          "default": "vibrant"
-        },
-        {
-          "name": "details",
-          "default": null
-        },
-        {
-          "name": "icon",
-          "default": "smiley_face"
-        },
-        {
-          "name": "text",
-          "default": "Hello World"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fb8d3cb9d2e6.json"
     }
   ]
 }

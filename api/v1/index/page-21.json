@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 21,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_df1871602f10",
+      "slug": "label-text-extractor-ocr",
+      "title": "Label Text Extractor (OCR)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_df1871602f10.json"
+    },
     {
       "id": "opl_7348b66ab9fa",
       "slug": "ladder-start-stop-with-interlocks",
@@ -1280,15 +1289,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_148eee2bf64b.json"
-    },
-    {
-      "id": "opl_47212e7fdb3f",
-      "slug": "llm-approach-guide",
-      "title": "LLM Approach Guide",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_47212e7fdb3f.json"
     }
   ]
 }

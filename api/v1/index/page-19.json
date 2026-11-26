@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 19,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-20.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_3450580dc8e6",
+      "slug": "identify-security-issues-in-mr",
+      "title": "Identify Security Issues in MR",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3450580dc8e6.json"
+    },
     {
       "id": "opl_e1b5fc41705b",
       "slug": "identify-the-key-skills-needed-for-effective-project-plannin",
@@ -1176,15 +1185,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_68de381b1454.json"
-    },
-    {
-      "id": "opl_c71c1ce69510",
-      "slug": "ipo-analysis",
-      "title": "IPO analysis",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c71c1ce69510.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 14,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_1c21f1576e22",
+      "slug": "editorial-winter-poster-style-multi-panel-collage-generation",
+      "title": "Editorial Winter Poster–Style Multi-Panel Collage Generation",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1c21f1576e22.json"
+    },
     {
       "id": "opl_d83e0abe2fed",
       "slug": "education",
@@ -1243,15 +1252,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_861fd85c03e6.json"
-    },
-    {
-      "id": "opl_8c7c1996124c",
-      "slug": "expert-guidance-for-acoustic-and-deep-learning-research",
-      "title": "Expert Guidance for Acoustic and Deep Learning Research",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8c7c1996124c.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 11,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-12.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_7422e03517e9",
+      "slug": "crimson-waltz-in-the-rain",
+      "title": "Crimson Waltz in the Rain",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7422e03517e9.json"
+    },
     {
       "id": "opl_7521fc7e0040",
       "slug": "critical-thinking-deepthink",
@@ -1268,15 +1277,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_679aa4555bc8.json"
-    },
-    {
-      "id": "opl_9104bd4ecc46",
-      "slug": "database-matchmaker",
-      "title": "Database Matchmaker",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9104bd4ecc46.json"
     }
   ]
 }

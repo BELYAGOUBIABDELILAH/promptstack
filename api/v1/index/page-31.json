@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 31,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_c530c81b217e",
+      "slug": "romantic-evening-caf-portrait",
+      "title": "Romantic Evening Café Portrait",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c530c81b217e.json"
+    },
     {
       "id": "opl_db038361a788",
       "slug": "romantic-rainy-scene-video",
@@ -1196,28 +1205,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_428d75e0cd1d.json"
-    },
-    {
-      "id": "opl_c77f1168293e",
-      "slug": "senior-full-stack-developer-for-airline-simulation-center",
-      "title": "Senior Full-Stack Developer for Airline Simulation Center",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "backendTechnology",
-          "default": "Node.js"
-        },
-        {
-          "name": "databaseTechnology",
-          "default": "MongoDB"
-        },
-        {
-          "name": "frontendTechnology",
-          "default": "React"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c77f1168293e.json"
     }
   ]
 }

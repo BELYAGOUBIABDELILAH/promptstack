@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 22,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_47212e7fdb3f",
+      "slug": "llm-approach-guide",
+      "title": "LLM Approach Guide",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_47212e7fdb3f.json"
+    },
     {
       "id": "opl_b5513e705a48",
       "slug": "llm-as-judge-lite",
@@ -1187,15 +1196,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c4c3479ede4f.json"
-    },
-    {
-      "id": "opl_b07f7c7e90f4",
-      "slug": "mastering-leadership",
-      "title": "Mastering Leadership:",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b07f7c7e90f4.json"
     }
   ]
 }

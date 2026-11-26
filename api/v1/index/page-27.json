@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T18:20:54.048Z",
+  "last_updated": "2026-11-26T19:20:45.187Z",
   "page": 27,
   "per_page": 100,
-  "total": 3846,
+  "total": 3847,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_7d43d2a475d3",
+      "slug": "photoreal-macro-of-frost-crystals-on-a-red-maple-leaf-at-sunrise",
+      "title": "Photoreal Macro of Frost Crystals on a Red Maple Leaf at Sunrise",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7d43d2a475d3.json"
+    },
     {
       "id": "opl_b68a5171850b",
       "slug": "photoreal-mandarin-duck-pair-on-a-still-autumn-pond-at-first-light",
@@ -1227,15 +1236,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7c8697fb5c16.json"
-    },
-    {
-      "id": "opl_f819f8127173",
-      "slug": "precious-metals-price-analyst",
-      "title": "Precious Metals Price Analyst",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f819f8127173.json"
     }
   ]
 }
