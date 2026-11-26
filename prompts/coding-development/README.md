@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1338 prompts in this category**
+**1339 prompts in this category**
 
 ## Table of Contents
 
@@ -813,6 +813,7 @@
 - [Module Wrap-Up & Next Steps Video Generation](module-wrap-up-next-steps-video-generation.md)
 - [MongoDB Helper](mongodb-helper.md)
 - [Monorepo taste](monorepo-taste.md)
+- [Moody Chiaroscuro Urban Portrait](moody-chiaroscuro-urban-portrait.md)
 - [Morning Email And Calendar Summary](morning-email-and-calendar-summary.md)
 - [MPPT Simulation仿真代码](mppt-simulation.md)
 - [Multi-Audience Application Discovery & Documentation Prompt](multi-audience-application-discovery-documentation-prompt.md)

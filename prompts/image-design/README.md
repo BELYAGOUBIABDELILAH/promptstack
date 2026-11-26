@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**816 prompts in this category**
+**815 prompts in this category**
 
 ## Table of Contents
 
@@ -486,7 +486,6 @@
 - [Modern Plaza Office Selfie — Corporate Aesthetic in Istanbul](modern-plaza-office-selfie-corporate-aesthetic-in-istanbul.md)
 - [Monitor Purchasing Advisor](monitor-purchasing-advisor.md)
 - [Monochrome Chiaroscuro Portrait](monochrome-chiaroscuro-portrait.md)
-- [Moody Chiaroscuro Urban Portrait](moody-chiaroscuro-urban-portrait.md)
 - [Moody Editorial Fashion Collage](moody-editorial-fashion-collage.md)
 - [Moody Golden Hour Close-Up](moody-golden-hour-close-up.md)
 - [Mountain Observatory Cabin Concept Brief Builder](mountain-observatory-cabin-concept-brief-builder.md)
