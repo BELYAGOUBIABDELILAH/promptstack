@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 39,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_2be25502bcb4",
+      "slug": "work-on-linear-issue",
+      "title": "Work on Linear Issue",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2be25502bcb4.json"
+    },
     {
       "id": "opl_b76187b47f3c",
       "slug": "workflow-builder-using-python",

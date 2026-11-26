@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 32,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_cc1014430547",
+      "slug": "senior-java-backend-engineer-expert",
+      "title": "Senior Java Backend Engineer Expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "experienceLevel",
+          "default": "Advanced"
+        },
+        {
+          "name": "technology",
+          "default": "Spring"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cc1014430547.json"
+    },
     {
       "id": "opl_4662a31a8bf9",
       "slug": "senior-market-research-analyst-specializing-in-digital-advertising-and-cross-border-e-commerce",
@@ -1200,15 +1218,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3ed114f5b669.json"
-    },
-    {
-      "id": "opl_22d1613bef7a",
-      "slug": "socratic-method-22d161",
-      "title": "Socratic Method",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_22d1613bef7a.json"
     }
   ]
 }

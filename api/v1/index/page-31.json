@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 31,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_db038361a788",
+      "slug": "romantic-rainy-scene-video",
+      "title": "Romantic Rainy Scene Video",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_db038361a788.json"
+    },
     {
       "id": "opl_16eb96229699",
       "slug": "ronaldo-hanger",
@@ -1209,24 +1218,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c77f1168293e.json"
-    },
-    {
-      "id": "opl_cc1014430547",
-      "slug": "senior-java-backend-engineer-expert",
-      "title": "Senior Java Backend Engineer Expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "experienceLevel",
-          "default": "Advanced"
-        },
-        {
-          "name": "technology",
-          "default": "Spring"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cc1014430547.json"
     }
   ]
 }

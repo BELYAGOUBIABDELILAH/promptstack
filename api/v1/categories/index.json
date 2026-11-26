@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "total_categories": 19,
   "categories": [
     {
@@ -53,7 +53,7 @@
     {
       "folder": "security",
       "name": "Security",
-      "prompt_count": 84,
+      "prompt_count": 85,
       "url": "https://prompts.axiomrepo.tech/v1/categories/security.json"
     },
     {

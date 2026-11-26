@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 38,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_ac77eea818f3",
+      "slug": "video",
+      "title": "Video",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ac77eea818f3.json"
+    },
     {
       "id": "opl_1a958c678693",
       "slug": "video-extractor-prompt",
@@ -1086,15 +1095,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_aeb205d7cbf2.json"
-    },
-    {
-      "id": "opl_2be25502bcb4",
-      "slug": "work-on-linear-issue",
-      "title": "Work on Linear Issue",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2be25502bcb4.json"
     }
   ]
 }

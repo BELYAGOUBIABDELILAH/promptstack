@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 29,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_bdbbaec90fcb",
+      "slug": "prompt-writer-for-specific-project",
+      "title": "Prompt Writer for Specific Project",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "feature",
+          "default": null
+        },
+        {
+          "name": "list_specific_files_based_on_actual_project_structure",
+          "default": null
+        },
+        {
+          "name": "role",
+          "default": null
+        },
+        {
+          "name": "target_agent",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bdbbaec90fcb.json"
+    },
     {
       "id": "opl_ebb6a41a6964",
       "slug": "prompts-chat-promotional-video-using-remotion",
@@ -1039,15 +1065,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5d92abe0df1e.json"
-    },
-    {
-      "id": "opl_4bab5ea1b9bc",
-      "slug": "realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair",
-      "title": "Realistic Selfie of Girl with Transparent Glasses and Pink Hair",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4bab5ea1b9bc.json"
     }
   ]
 }

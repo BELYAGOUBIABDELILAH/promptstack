@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 24,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_ca5ba9765d76",
+      "slug": "mongodb-helper",
+      "title": "MongoDB Helper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ca5ba9765d76.json"
+    },
     {
       "id": "opl_3a57523bf999",
       "slug": "mongodb-taste",
@@ -1043,15 +1052,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b02b76ece173.json"
-    },
-    {
-      "id": "opl_8f263c5147e8",
-      "slug": "night-club",
-      "title": "Night club",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8f263c5147e8.json"
     }
   ]
 }

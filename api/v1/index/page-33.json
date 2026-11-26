@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 33,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_22d1613bef7a",
+      "slug": "socratic-method-22d161",
+      "title": "Socratic Method",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_22d1613bef7a.json"
+    },
     {
       "id": "opl_fcaca28321a4",
       "slug": "socratic-method",
@@ -995,15 +1004,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fb8d3cb9d2e6.json"
-    },
-    {
-      "id": "opl_5a6d284ab62c",
-      "slug": "stock-analyser",
-      "title": "Stock Analyser",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5a6d284ab62c.json"
     }
   ]
 }

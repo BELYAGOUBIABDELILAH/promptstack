@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 26,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_95639bed1dd1",
+      "slug": "output-to-prompt",
+      "title": "Output To Prompt",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_95639bed1dd1.json"
+    },
     {
       "id": "opl_01d4963f0b2b",
       "slug": "overqualification-narrative-architect",
@@ -1140,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7d43d2a475d3.json"
-    },
-    {
-      "id": "opl_b68a5171850b",
-      "slug": "photoreal-mandarin-duck-pair-on-a-still-autumn-pond-at-first-light",
-      "title": "Photoreal Mandarin Duck Pair on a Still Autumn Pond at First Light",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b68a5171850b.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 34,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_5a6d284ab62c",
+      "slug": "stock-analyser",
+      "title": "Stock Analyser",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5a6d284ab62c.json"
+    },
     {
       "id": "opl_cc4b8f155f14",
       "slug": "stock-chart-reading-and-trade-levels-skill",
@@ -1140,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_013f4a3e5f5c.json"
-    },
-    {
-      "id": "opl_2aace31f0fee",
-      "slug": "sys-admin-support-general",
-      "title": "Sys Admin Support (General)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2aace31f0fee.json"
     }
   ]
 }

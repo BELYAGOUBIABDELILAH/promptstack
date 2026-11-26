@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 22,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_b5513e705a48",
+      "slug": "llm-as-judge-lite",
+      "title": "LLM As Judge Lite",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b5513e705a48.json"
+    },
     {
       "id": "opl_52b9f08b68ae",
       "slug": "llm-background-assistant",
@@ -1187,15 +1196,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b07f7c7e90f4.json"
-    },
-    {
-      "id": "opl_fd0bf288ab77",
-      "slug": "mastermind",
-      "title": "Mastermind",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fd0bf288ab77.json"
     }
   ]
 }

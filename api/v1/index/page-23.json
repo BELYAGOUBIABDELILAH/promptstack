@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 23,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_fd0bf288ab77",
+      "slug": "mastermind",
+      "title": "Mastermind",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fd0bf288ab77.json"
+    },
     {
       "id": "opl_a124ec44021c",
       "slug": "math-teacher",
@@ -1102,15 +1111,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9b0caed2c960.json"
-    },
-    {
-      "id": "opl_ca5ba9765d76",
-      "slug": "mongodb-helper",
-      "title": "MongoDB Helper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ca5ba9765d76.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 30,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prompts": [
+    {
+      "id": "opl_4bab5ea1b9bc",
+      "slug": "realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair",
+      "title": "Realistic Selfie of Girl with Transparent Glasses and Pink Hair",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4bab5ea1b9bc.json"
+    },
     {
       "id": "opl_df9f08228b00",
       "slug": "realtime-ai-apps",
@@ -1068,15 +1077,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c530c81b217e.json"
-    },
-    {
-      "id": "opl_db038361a788",
-      "slug": "romantic-rainy-scene-video",
-      "title": "Romantic Rainy Scene Video",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_db038361a788.json"
     }
   ]
 }

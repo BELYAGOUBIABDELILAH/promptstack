@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 20,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
@@ -636,6 +636,32 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_36605c6f3bce.json"
     },
     {
+      "id": "opl_292ae9d383ef",
+      "slug": "job-offer-comparison-matrix-json",
+      "title": "Job Offer Comparison Matrix (JSON)",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "currency",
+          "default": "EUR"
+        },
+        {
+          "name": "offers",
+          "default": "Paste each offer here: company, title, base salary, bonus (target and how reliably it pays out), equity (type, amount, vesting schedule, latest valuation or strike price if known), signing bonus, benefits (health, pension match, learning budget, paid time off), remote policy, team and manager notes, company stage and funding, anything that worried you in the interviews"
+        },
+        {
+          "name": "priorities",
+          "default": "1. learning and growth, 2. total compensation, 3. work-life balance, 4. job security, 5. commute or remote flexibility"
+        },
+        {
+          "name": "situation",
+          "default": "Senior frontend engineer, 6 years of experience, currently employed, no urgent need to move, renting in a mid-cost city"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_292ae9d383ef.json"
+    },
+    {
       "id": "opl_9b0e7af3e77b",
       "slug": "job-post-decoder",
       "title": "Job Post Decoder",
@@ -998,52 +1024,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_df1871602f10.json"
-    },
-    {
-      "id": "opl_7348b66ab9fa",
-      "slug": "ladder-start-stop-with-interlocks",
-      "title": "Ladder Start/Stop With Interlocks",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "Fault tag",
-          "default": "M1_Fault"
-        },
-        {
-          "name": "Motor name",
-          "default": "Conveyor_M1"
-        },
-        {
-          "name": "Overload tag",
-          "default": "M1_OL_OK"
-        },
-        {
-          "name": "Permissive tags",
-          "default": "Downstream_Running, Lube_Pressure_OK"
-        },
-        {
-          "name": "Platform and version",
-          "default": null
-        },
-        {
-          "name": "Reset tag",
-          "default": "Reset_PB"
-        },
-        {
-          "name": "Run output",
-          "default": "M1_Run"
-        },
-        {
-          "name": "Start tag",
-          "default": "Start_PB"
-        },
-        {
-          "name": "Stop tag",
-          "default": "Stop_PB"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7348b66ab9fa.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**84 prompts in this category**
+**85 prompts in this category**
 
 ## Table of Contents
 
@@ -59,6 +59,7 @@
 - [Israel SITREP Generator](israel-sitrep-generator.md)
 - [ISSAP Exam prompt](issap-exam-prompt.md)
 - [Job Description Evaluator](job-description-evaluator.md)
+- [Job Offer Comparison Matrix (JSON)](job-offer-comparison-matrix-json.md)
 - [Linux - Terminal Master](linux-terminal-master.md)
 - [Linux Package Management Guide](linux-package-management-guide.md)
 - [LLM Configuration Tuner](llm-configuration-tuner.md)

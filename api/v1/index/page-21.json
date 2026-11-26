@@ -1,12 +1,58 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 21,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_7348b66ab9fa",
+      "slug": "ladder-start-stop-with-interlocks",
+      "title": "Ladder Start/Stop With Interlocks",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "Fault tag",
+          "default": "M1_Fault"
+        },
+        {
+          "name": "Motor name",
+          "default": "Conveyor_M1"
+        },
+        {
+          "name": "Overload tag",
+          "default": "M1_OL_OK"
+        },
+        {
+          "name": "Permissive tags",
+          "default": "Downstream_Running, Lube_Pressure_OK"
+        },
+        {
+          "name": "Platform and version",
+          "default": null
+        },
+        {
+          "name": "Reset tag",
+          "default": "Reset_PB"
+        },
+        {
+          "name": "Run output",
+          "default": "M1_Run"
+        },
+        {
+          "name": "Start tag",
+          "default": "Start_PB"
+        },
+        {
+          "name": "Stop tag",
+          "default": "Stop_PB"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7348b66ab9fa.json"
+    },
     {
       "id": "opl_aff5e396fb2d",
       "slug": "lagrange-lens-blue-wolf",
@@ -1243,15 +1289,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_47212e7fdb3f.json"
-    },
-    {
-      "id": "opl_b5513e705a48",
-      "slug": "llm-as-judge-lite",
-      "title": "LLM As Judge Lite",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b5513e705a48.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-26T00:21:00.036Z",
+  "last_updated": "2026-11-26T02:21:00.862Z",
   "page": 35,
   "per_page": 100,
-  "total": 3845,
+  "total": 3846,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_2aace31f0fee",
+      "slug": "sys-admin-support-general",
+      "title": "Sys Admin Support (General)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2aace31f0fee.json"
+    },
     {
       "id": "opl_f13b41d091b5",
       "slug": "system-architect-agent-role",
@@ -976,15 +985,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fedb7a959816.json"
-    },
-    {
-      "id": "opl_663cd04e5c42",
-      "slug": "the-architect-hacker-protector-viral-engineer",
-      "title": "The Architect: Hacker-Protector & Viral Engineer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_663cd04e5c42.json"
     }
   ]
 }

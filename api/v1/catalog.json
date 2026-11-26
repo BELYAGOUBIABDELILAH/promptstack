@@ -40897,6 +40897,32 @@
     "snippet": "Your objective is to act as an assessor of job descriptions, working on behalf of user. user will describe the type of job he's looking for or searching for and provide a job descr"
   },
   {
+    "id": "opl_292ae9d383ef",
+    "title": "Job Offer Comparison Matrix (JSON)",
+    "category": "Security",
+    "folder": "security",
+    "slug": "job-offer-comparison-matrix-json",
+    "variables": [
+      {
+        "name": "currency",
+        "default": "EUR"
+      },
+      {
+        "name": "offers",
+        "default": "Paste each offer here: company, title, base salary, bonus (target and how reliably it pays out), equity (type, amount, vesting schedule, latest valuation or strike price if known), signing bonus, benefits (health, pension match, learning budget, paid time off), remote policy, team and manager notes, company stage and funding, anything that worried you in the interviews"
+      },
+      {
+        "name": "priorities",
+        "default": "1. learning and growth, 2. total compensation, 3. work-life balance, 4. job security, 5. commute or remote flexibility"
+      },
+      {
+        "name": "situation",
+        "default": "Senior frontend engineer, 6 years of experience, currently employed, no urgent need to move, renting in a mid-cost city"
+      }
+    ],
+    "snippet": "{ \"role\": \"You are a pragmatic career and compensation advisor. You help people compare job offers honestly, using their own priorities rather than generic advice, and you never"
+  },
+  {
     "id": "opl_a8d6195dfcbf",
     "title": "Linux - Terminal Master",
     "category": "Security",
