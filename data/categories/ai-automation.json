@@ -1738,5 +1738,15 @@
     "slug": "quiet-luxury-poolside-lifestyle",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/quiet-luxury-poolside-lifestyle.md"
+  },
+  {
+    "act": "CLASSIC TRADING GAIN AI",
+    "category": "AI & Automation",
+    "prompt": "---\nname: classic-trading-gain-ai\ndescription: Classic Best Trader\n---\n\n# CLASSIC TRADING GAIN AI\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...\n-STEP 3: ....",
+    "source": "dkansah (prompts.chat)",
+    "type": "TEXT",
+    "slug": "classic-trading-gain-ai",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/classic-trading-gain-ai.md"
   }
 ]
