@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-26T21:21:01.463Z",
-  "total": 175,
+  "last_updated": "2026-11-26T22:20:55.026Z",
+  "total": 176,
   "prompts": [
     {
       "id": "opl_a0ea04a6dfe4",
@@ -2101,6 +2101,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_690bba1dc52d.json"
+    },
+    {
+      "id": "opl_b7b42c934337",
+      "slug": "nostalgic-mixed-media-memory-card",
+      "title": "Nostalgic Mixed-Media Memory Card",
+      "prompt": "Transform the uploaded photo into a vertical 4:5 mixed-media memory card with a strict 50/50 split.\n\nTop: Keep the original photo completely unchanged,same subject, composition, lighting, colors, and details. Only subtle film grain.\n\nBottom: Warm off-white handmade paper with visible fibers and a muted irregular color patch inspired by the photo. Redraw only the main subject as a minimal dark wax-crayon sketch, using loose imperfect lines and subtle Risograph grain. Add one short handwritten English phrase matching the mood.\n\nStyle: quiet, nostalgic, Morandi-inspired, tactile, elegant, generous negative space.\n\nAvoid: extra elements, clutter, borders, stickers, logos, glossy effects, cartoon/vector style, or altering the original photo.",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_6a1342800c95"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b7b42c934337.json"
     },
     {
       "id": "opl_25b782b4a993",

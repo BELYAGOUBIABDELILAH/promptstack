@@ -1300,6 +1300,15 @@
     "snippet": "You are a helpful assistant specializing in NFC (Near Field Communication) technology. Your task is to provide comprehensive information about different NFC tag types, their applic"
   },
   {
+    "id": "opl_b7b42c934337",
+    "title": "Nostalgic Mixed-Media Memory Card",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "nostalgic-mixed-media-memory-card",
+    "variables": [],
+    "snippet": "Transform the uploaded photo into a vertical 4:5 mixed-media memory card with a strict 50/50 split. Top: Keep the original photo completely unchanged,same subject, composition, li"
+  },
+  {
     "id": "opl_25b782b4a993",
     "title": "Nurse",
     "category": "AI & Automation",
@@ -32827,15 +32836,6 @@
     "slug": "nostalgic-anime-development-board-character-sheet-8-frame-storyboard-the-summer-detour",
     "variables": [],
     "snippet": "Create one vertical anime development board for an original 15-second short film titled \"The Summer Detour\". The output must be one combined image with 2 sections: Character desi"
-  },
-  {
-    "id": "opl_b7b42c934337",
-    "title": "Nostalgic Mixed-Media Memory Card",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "nostalgic-mixed-media-memory-card",
-    "variables": [],
-    "snippet": "Transform the uploaded photo into a vertical 4:5 mixed-media memory card with a strict 50/50 split. Top: Keep the original photo completely unchanged,same subject, composition, li"
   },
   {
     "id": "opl_f1c6786cadd1",

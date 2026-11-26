@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**812 prompts in this category**
+**811 prompts in this category**
 
 ## Table of Contents
 
@@ -512,7 +512,6 @@
 - [Nordic Cabin Living Room Concept (Daytime View)](nordic-cabin-living-room-concept-daytime-view.md)
 - [North-Facing House Plan Following Hindu Vastu Guidelines](north-facing-house-plan-following-hindu-vastu-guidelines.md)
 - [Nostalgic Anime Development Board: Character Sheet + 8-Frame Storyboard (The Summer Detour)](nostalgic-anime-development-board-character-sheet-8-frame-storyboard-the-summer-detour.md)
-- [Nostalgic Mixed-Media Memory Card](nostalgic-mixed-media-memory-card.md)
 - [Ocean of Memories: 30-Second Dawn Beach with Glowing Bottles (16:9 Video)](ocean-of-memories-30-second-dawn-beach-with-glowing-bottles-16-9-video.md)
 - [Off The Beaten Path](off-the-beaten-path.md)
 - [Ominous Clown Cosplay Duo Portrait](ominous-clown-cosplay-duo-portrait.md)

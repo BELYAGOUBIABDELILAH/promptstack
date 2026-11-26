@@ -1,7 +1,7 @@
 # Nostalgic Mixed-Media Memory Card
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -16,4 +16,4 @@
 > Avoid: extra elements, clutter, borders, stickers, logos, glossy effects, cartoon/vector style, or altering the original photo.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

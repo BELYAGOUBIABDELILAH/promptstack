@@ -1760,6 +1760,16 @@
     "path": "prompts/ai-automation/90s-editorial-power-dressing-portrait.md"
   },
   {
+    "act": "Nostalgic Mixed-Media Memory Card",
+    "category": "AI & Automation",
+    "prompt": "Transform the uploaded photo into a vertical 4:5 mixed-media memory card with a strict 50/50 split.\n\nTop: Keep the original photo completely unchanged,same subject, composition, lighting, colors, and details. Only subtle film grain.\n\nBottom: Warm off-white handmade paper with visible fibers and a muted irregular color patch inspired by the photo. Redraw only the main subject as a minimal dark wax-crayon sketch, using loose imperfect lines and subtle Risograph grain. Add one short handwritten English phrase matching the mood.\n\nStyle: quiet, nostalgic, Morandi-inspired, tactile, elegant, generous negative space.\n\nAvoid: extra elements, clutter, borders, stickers, logos, glossy effects, cartoon/vector style, or altering the original photo.",
+    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "nostalgic-mixed-media-memory-card",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/nostalgic-mixed-media-memory-card.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",
@@ -28028,16 +28038,6 @@
     "slug": "nostalgic-anime-development-board-character-sheet-8-frame-storyboard-the-summer-detour",
     "folder": "image-design",
     "path": "prompts/image-design/nostalgic-anime-development-board-character-sheet-8-frame-storyboard-the-summer-detour.md"
-  },
-  {
-    "act": "Nostalgic Mixed-Media Memory Card",
-    "category": "Image & Design",
-    "prompt": "Transform the uploaded photo into a vertical 4:5 mixed-media memory card with a strict 50/50 split.\n\nTop: Keep the original photo completely unchanged,same subject, composition, lighting, colors, and details. Only subtle film grain.\n\nBottom: Warm off-white handmade paper with visible fibers and a muted irregular color patch inspired by the photo. Redraw only the main subject as a minimal dark wax-crayon sketch, using loose imperfect lines and subtle Risograph grain. Add one short handwritten English phrase matching the mood.\n\nStyle: quiet, nostalgic, Morandi-inspired, tactile, elegant, generous negative space.\n\nAvoid: extra elements, clutter, borders, stickers, logos, glossy effects, cartoon/vector style, or altering the original photo.",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "nostalgic-mixed-media-memory-card",
-    "folder": "image-design",
-    "path": "prompts/image-design/nostalgic-mixed-media-memory-card.md"
   },
   {
     "act": "Ocean of Memories: 30-Second Dawn Beach with Glowing Bottles (16:9 Video)",

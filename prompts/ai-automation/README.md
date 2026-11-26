@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**176 prompts in this category**
+**177 prompts in this category**
 
 ## Table of Contents
 
@@ -120,6 +120,7 @@
 - [Multi-Agent Coding Workflow & Implementation Prompt Generator](multi-agent-coding-workflow-implementation-prompt-generator.md)
 - [My Kalashala](my-kalashala.md)
 - [NFC Expert](nfc-expert.md)
+- [Nostalgic Mixed-Media Memory Card](nostalgic-mixed-media-memory-card.md)
 - [Nurse](nurse.md)
 - [Odds daily](odds-daily.md)
 - [Orchestrate Multi-Agent Workflows](orchestrate-multi-agent-workflows.md)
