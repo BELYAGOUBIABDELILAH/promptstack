@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**173 prompts in this category**
+**174 prompts in this category**
 
 ## Table of Contents
 
@@ -135,6 +135,7 @@
 - [Prompt Enhancer](prompt-enhancer.md)
 - [Prompt to learn free AI website which will be most useful for me to use for free](prompt-to-learn-free-ai-website-which-will-be-most-useful-for-me-to-use-for-free.md)
 - [Psychologist](psychologist.md)
+- [Quiet Luxury Poolside Lifestyle](quiet-luxury-poolside-lifestyle.md)
 - [Real-Time Screen Translation Assistant](real-time-screen-translation-assistant.md)
 - [Realistic Amateur Phone Photo with WhatsApp Chat](realistic-amateur-phone-photo-with-whatsapp-chat.md)
 - [Realistic Mirror-Selfie Image Prompt](realistic-mirror-selfie-image-prompt.md)

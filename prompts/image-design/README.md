@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**814 prompts in this category**
+**813 prompts in this category**
 
 ## Table of Contents
 
@@ -624,7 +624,6 @@
 - [Pyrography Wood-Burned Panel of a Red Funicular Climbing a Hillside Town](pyrography-wood-burned-panel-of-a-red-funicular-climbing-a-hillside-town.md)
 - [Quiet Indie Drama Short: "The Happiest Year of My Life" 30-Second Night Monologue with Timed Beats (16:9 Video)](quiet-indie-drama-short-the-happiest-year-of-my-life-30-second-night-monologue-with-timed-beats-16-9-video.md)
 - [Quiet Luxury Autumn Editorial Portrait](quiet-luxury-autumn-editorial-portrait.md)
-- [Quiet Luxury Poolside Lifestyle](quiet-luxury-poolside-lifestyle.md)
 - [Rainy Neon Alley Wait: Low-Angle No-Face Figure Under a Clear Umbrella](rainy-neon-alley-wait-low-angle-no-face-figure-under-a-clear-umbrella.md)
 - [Rainy Night Market Noodle Stall (Street Photography)](rainy-night-market-noodle-stall-street-photography.md)
 - [Rammed Earth Village Library at Dusk (Reading Garden View)](rammed-earth-village-library-at-dusk-reading-garden-view.md)
