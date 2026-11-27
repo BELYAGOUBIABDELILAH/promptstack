@@ -1648,5 +1648,15 @@
     "slug": "tiktok-video-style-prompt-generator",
     "folder": "general",
     "path": "prompts/general/tiktok-video-style-prompt-generator.md"
+  },
+  {
+    "act": "Qwen 3.7 analyse and assess with pros and cons the promptschat library",
+    "category": "General",
+    "prompt": "ANALYSE AND ASSESS CHATSPEOMPTS AI LIBRARY..I DO NOT WANT TO WAIT ALL DAY",
+    "source": "malcolmjamesufo2000@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "qwen-3-7-analyse-and-assess-with-pros-and-cons-the-promptsch",
+    "folder": "general",
+    "path": "prompts/general/qwen-3-7-analyse-and-assess-with-pros-and-cons-the-promptsch.md"
   }
 ]
