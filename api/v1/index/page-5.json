@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T16:20:49.068Z",
+  "last_updated": "2026-11-27T17:20:56.507Z",
   "page": 5,
   "per_page": 100,
   "total": 3849,
@@ -1122,8 +1122,8 @@
       "id": "opl_b880edbd8359",
       "slug": "banner-slogan-and-subtext-generator",
       "title": "Banner Slogan and Subtext Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b880edbd8359.json"
     },

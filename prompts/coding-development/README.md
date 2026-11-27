@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1342 prompts in this category**
+**1343 prompts in this category**
 
 ## Table of Contents
 
@@ -179,6 +179,7 @@
 - [Backup Assistant](backup-assistant.md)
 - [Ball Puppet](ball-puppet.md)
 - [Banking System App Development with CRUD Operations](banking-system-app-development-with-crud-operations.md)
+- [Banner Slogan and Subtext Generator](banner-slogan-and-subtext-generator.md)
 - [Base64 Promt](base64-promt.md)
 - [Based On A True Story](based-on-a-true-story.md)
 - [Bash Aliases](bash-aliases.md)

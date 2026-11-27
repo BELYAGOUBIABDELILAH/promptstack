@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-3%2C848-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-3%2C849-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -47,8 +47,8 @@ Promptstack organizes prompts into 19 task-focused categories:
 
 | Category | Prompts | Focus |
 |---|:---:|---|
-| [Coding & Development](prompts/coding-development) | 1,342 | Code generation, debugging, refactoring, and testing |
-| [Image & Design](prompts/image-design) | 807 | Image generation, composition, and visual styling |
+| [Coding & Development](prompts/coding-development) | 1,343 | Code generation, debugging, refactoring, and testing |
+| [Image & Design](prompts/image-design) | 806 | Image generation, composition, and visual styling |
 | [Data & Analytics](prompts/data-analytics) | 314 | Data extraction, SQL queries, and metrics evaluation |
 | [Writing & Content](prompts/writing-content) | 285 | Editing, copywriting, storytelling, and translation |
 | [Marketing & Social](prompts/marketing-social) | 245 | Campaign copy, social posts, and audience research |

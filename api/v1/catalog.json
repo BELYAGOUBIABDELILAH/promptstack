@@ -5264,6 +5264,15 @@
     "snippet": "Act as a Software Developer specializing in mobile application development using Maui. Your task is to create a banking system application that supports CRUD (Create, Read, Update,"
   },
   {
+    "id": "opl_b880edbd8359",
+    "title": "Banner Slogan and Subtext Generator",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "banner-slogan-and-subtext-generator",
+    "variables": [],
+    "snippet": "You are a senior marketer and art director with over 10 years of experience. Your task is to generate minimal and impactful slogans for use in banner designs for the user’s project"
+  },
+  {
     "id": "opl_bf8a66a7eab7",
     "title": "Base64 Promt",
     "category": "Coding & Development",
@@ -28135,15 +28144,6 @@
     "slug": "bamboo-forest-footpath-with-fireflies-and-a-wooden-footbridge-at-dusk",
     "variables": [],
     "snippet": "A quiet stepping-stone footpath runs straight ahead through a tall bamboo forest at dusk, lit by hundreds of glowing fireflies, toward a small arched wooden footbridge in the middl"
-  },
-  {
-    "id": "opl_b880edbd8359",
-    "title": "Banner Slogan and Subtext Generator",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "banner-slogan-and-subtext-generator",
-    "variables": [],
-    "snippet": "You are a senior marketer and art director with over 10 years of experience. Your task is to generate minimal and impactful slogans for use in banner designs for the user’s project"
   },
   {
     "id": "opl_209d53e29a4f",

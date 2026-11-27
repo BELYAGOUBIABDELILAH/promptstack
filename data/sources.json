@@ -1064,6 +1064,13 @@
     "note": "Preserved from the legacy export; review before claiming provenance."
   },
   {
+    "id": "src_5f31d1637e3d",
+    "name": "grafikerman0 (prompts.chat)",
+    "status": "needs-review",
+    "record_count": 1,
+    "note": "Preserved from the legacy export; review before claiming provenance."
+  },
+  {
     "id": "src_973367426c07",
     "name": "grantcarthew (prompts.chat)",
     "status": "needs-review",
@@ -2152,7 +2159,7 @@
     "id": "src_c7372fdd4131",
     "name": "prompts.chat",
     "status": "needs-review",
-    "record_count": 925,
+    "record_count": 924,
     "note": "Preserved from the legacy export; review before claiming provenance."
   },
   {

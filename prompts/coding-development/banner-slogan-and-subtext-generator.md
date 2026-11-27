@@ -1,7 +1,7 @@
 # Banner Slogan and Subtext Generator
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** grafikerman0 (prompts.chat)
 
 ## Prompt
 
@@ -96,4 +96,4 @@
 > Do not generate visuals at any stage; all outputs must consist of text only.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**807 prompts in this category**
+**806 prompts in this category**
 
 ## Table of Contents
 
@@ -96,7 +96,6 @@
 - [Bamboo Forest Fireflies at Dusk (Image-to-Video Animation)](bamboo-forest-fireflies-at-dusk-image-to-video-animation.md)
 - [Bamboo Forest Firefly Path Scene Concept Brief Builder](bamboo-forest-firefly-path-scene-concept-brief-builder.md)
 - [Bamboo Forest Footpath with Fireflies and a Wooden Footbridge at Dusk](bamboo-forest-footpath-with-fireflies-and-a-wooden-footbridge-at-dusk.md)
-- [Banner Slogan and Subtext Generator](banner-slogan-and-subtext-generator.md)
 - [Basecamp cheatsheet](basecamp-cheatsheet.md)
 - [Basic Contract Analysis Assistant](basic-contract-analysis-assistant.md)
 - [Bauhaus Geometric Poster of a Sailboat Regatta on a Blue Bay](bauhaus-geometric-poster-of-a-sailboat-regatta-on-a-blue-bay.md)
