@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 37,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_0d9e8f483904",
+      "slug": "tumor-medical-industry-solution-business-plan",
+      "title": "Tumor Medical Industry Solution Business Plan",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0d9e8f483904.json"
+    },
     {
       "id": "opl_683917c0dac3",
       "slug": "turf-roofed-faroese-village-above-a-sea-gorge-at-golden-hour",
@@ -1183,15 +1192,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b4d4b36d7a95.json"
-    },
-    {
-      "id": "opl_6d9665c0a227",
-      "slug": "victorian-glass-conservatory-at-blue-hour-garden-approach-view",
-      "title": "Victorian Glass Conservatory at Blue Hour (Garden Approach View)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6d9665c0a227.json"
     }
   ]
 }

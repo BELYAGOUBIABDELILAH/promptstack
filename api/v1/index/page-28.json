@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 28,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_7c8697fb5c16",
+      "slug": "pre-launch-checklist-generator",
+      "title": "Pre-Launch Checklist Generator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "key_features_that_need_verification",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7c8697fb5c16.json"
+    },
     {
       "id": "opl_f819f8127173",
       "slug": "precious-metals-price-analyst",
@@ -1203,15 +1217,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4fd4584543a3.json"
-    },
-    {
-      "id": "opl_6d356a77cd16",
-      "slug": "prompt-to-platform",
-      "title": "Prompt To Platform",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6d356a77cd16.json"
     }
   ]
 }

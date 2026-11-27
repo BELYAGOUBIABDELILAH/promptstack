@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 30,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prompts": [
+    {
+      "id": "opl_c312e584d851",
+      "slug": "realistic-night-sky-portrait",
+      "title": "Realistic Night Sky Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c312e584d851.json"
+    },
     {
       "id": "opl_5d92abe0df1e",
       "slug": "realistic-photo-of-a-turkish-woman-in-a-street-setting",
@@ -1068,15 +1077,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b9a7f7afdb3c.json"
-    },
-    {
-      "id": "opl_7b4f47a576bb",
-      "slug": "role-ai-image-prompt-engineering-specialist",
-      "title": "Role: AI Image Prompt Engineering Specialist",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7b4f47a576bb.json"
     }
   ]
 }

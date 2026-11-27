@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 36,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_3f633101f9b6",
+      "slug": "tgscrape",
+      "title": "TGscrape",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "detail",
+          "default": null
+        },
+        {
+          "name": "task",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3f633101f9b6.json"
+    },
     {
       "id": "opl_3d72e5b6b961",
       "slug": "the-aether-prince-at-the-crystal-gala",
@@ -1101,15 +1119,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f999d2ea0948.json"
-    },
-    {
-      "id": "opl_0d9e8f483904",
-      "slug": "tumor-medical-industry-solution-business-plan",
-      "title": "Tumor Medical Industry Solution Business Plan",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0d9e8f483904.json"
     }
   ]
 }

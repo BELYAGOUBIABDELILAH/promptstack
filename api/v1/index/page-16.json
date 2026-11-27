@@ -1,12 +1,58 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 16,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_79eb6580f778",
+      "slug": "food-truck-concept-design-brief-builder",
+      "title": "Food Truck Concept Design Brief Builder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "budget",
+          "default": "modest, a used van with a professional fit-out and a hand-painted look"
+        },
+        {
+          "name": "colors",
+          "default": "like teal, cream, and copper; avoid red and yellow fast-food colors"
+        },
+        {
+          "name": "food",
+          "default": "Mediterranean flatbreads and fresh lemonade, quick lunch service, about 60 meals an hour"
+        },
+        {
+          "name": "location",
+          "default": "city plazas at lunch on weekdays, riverside night markets on weekends"
+        },
+        {
+          "name": "must_have",
+          "default": "a large serving hatch with an awning, a small menu board, string lights for evenings, space for a queue"
+        },
+        {
+          "name": "personality",
+          "default": "sunny, friendly, a little retro, clean and trustworthy"
+        },
+        {
+          "name": "vehicle",
+          "default": "a restored compact 1960s-style step van, about 5.5 m long"
+        },
+        {
+          "name": "view_a",
+          "default": "sunny weekday lunchtime in a city plaza with plane trees, front right three-quarter view"
+        },
+        {
+          "name": "view_b",
+          "default": "evening service at a riverside night market, lights on, rear right three-quarter view"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_79eb6580f778.json"
+    },
     {
       "id": "opl_fb6d490bb511",
       "slug": "football",
@@ -1015,15 +1061,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_caf63ca9b209.json"
-    },
-    {
-      "id": "opl_ad971d9fa1a4",
-      "slug": "glacier-calving-into-a-turquoise-arctic-fjord",
-      "title": "Glacier Calving into a Turquoise Arctic Fjord",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ad971d9fa1a4.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 10,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-11.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_a0bf0dda9400",
+      "slug": "continue-and-recap-assistant",
+      "title": "Continue and Recap Assistant",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a0bf0dda9400.json"
+    },
     {
       "id": "opl_ac400785d1f5",
       "slug": "continue-coding-assistant",
@@ -1241,15 +1250,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d7ff7e3c6c2d.json"
-    },
-    {
-      "id": "opl_cc002584d99c",
-      "slug": "criar-alterar-documenta-o-de-projeto",
-      "title": "Criar/Alterar Documentação de Projeto",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_cc002584d99c.json"
     }
   ]
 }

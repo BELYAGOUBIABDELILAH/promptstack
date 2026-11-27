@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 26,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_089200531612",
+      "slug": "outlandish-job-application-ideator",
+      "title": "Outlandish Job Application Ideator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_089200531612.json"
+    },
     {
       "id": "opl_a36f3854aa2c",
       "slug": "output-format-prompting-guide",
@@ -1140,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d013b47f545d.json"
-    },
-    {
-      "id": "opl_3576fb7fd2b5",
-      "slug": "photoreal-humpback-whale-breaching-off-a-rocky-coast-at-golden-hour",
-      "title": "Photoreal Humpback Whale Breaching off a Rocky Coast at Golden Hour",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3576fb7fd2b5.json"
     }
   ]
 }

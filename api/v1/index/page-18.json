@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 18,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_26e276ff3ad6",
+      "slug": "helm-chart-taste",
+      "title": "Helm Chart taste",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_26e276ff3ad6.json"
+    },
     {
       "id": "opl_aa2e8fba6686",
       "slug": "herdr-multiagent",
@@ -1169,15 +1178,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8f06fe289be8.json"
-    },
-    {
-      "id": "opl_c62aca7e0f83",
-      "slug": "identify-high-churn-risk-customers",
-      "title": "Identify High Churn Risk Customers",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c62aca7e0f83.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 29,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prompts": [
+    {
+      "id": "opl_6d356a77cd16",
+      "slug": "prompt-to-platform",
+      "title": "Prompt To Platform",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6d356a77cd16.json"
+    },
     {
       "id": "opl_370a4b9066f6",
       "slug": "prompt-to-tool-ideator",
@@ -1056,15 +1065,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_1d45d695fd75.json"
-    },
-    {
-      "id": "opl_c312e584d851",
-      "slug": "realistic-night-sky-portrait",
-      "title": "Realistic Night Sky Portrait",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c312e584d851.json"
     }
   ]
 }

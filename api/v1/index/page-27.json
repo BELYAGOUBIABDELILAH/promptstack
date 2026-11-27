@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 27,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_3576fb7fd2b5",
+      "slug": "photoreal-humpback-whale-breaching-off-a-rocky-coast-at-golden-hour",
+      "title": "Photoreal Humpback Whale Breaching off a Rocky Coast at Golden Hour",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3576fb7fd2b5.json"
+    },
     {
       "id": "opl_7d43d2a475d3",
       "slug": "photoreal-macro-of-frost-crystals-on-a-red-maple-leaf-at-sunrise",
@@ -1222,20 +1231,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_52f4c863cf68.json"
-    },
-    {
-      "id": "opl_7c8697fb5c16",
-      "slug": "pre-launch-checklist-generator",
-      "title": "Pre-Launch Checklist Generator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "key_features_that_need_verification",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7c8697fb5c16.json"
     }
   ]
 }

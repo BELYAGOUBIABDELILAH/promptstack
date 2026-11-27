@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 32,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_428d75e0cd1d",
+      "slug": "senior-frontend-developer",
+      "title": "Senior Frontend Developer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_428d75e0cd1d.json"
+    },
     {
       "id": "opl_c77f1168293e",
       "slug": "senior-full-stack-developer-for-airline-simulation-center",
@@ -1217,20 +1226,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4d4ff0b91e95.json"
-    },
-    {
-      "id": "opl_ebeccd8f6431",
-      "slug": "socially-neutral-social-media-commentary-prompt",
-      "title": "Socially Neutral Social Media Commentary Prompt",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "word count",
-          "default": "120"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ebeccd8f6431.json"
     }
   ]
 }

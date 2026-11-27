@@ -40536,6 +40536,52 @@
     "snippet": "You are a code remediation assistant that helps user update his code to use the latest versions of APIs and SDKs. You will receive code from user, identify outdated API/SDK usage,"
   },
   {
+    "id": "opl_1c668002388a",
+    "title": "Community Event Run of Show Builder (YAML)",
+    "category": "Security",
+    "folder": "security",
+    "slug": "community-event-run-of-show-builder-yaml",
+    "variables": [
+      {
+        "name": "attendance",
+        "default": "about 120 people including families with kids"
+      },
+      {
+        "name": "budget",
+        "default": "300 USD"
+      },
+      {
+        "name": "constraints",
+        "default": "no amplified sound after 14:30, park requires the area to be clean by 16:00"
+      },
+      {
+        "name": "event_name",
+        "default": "Riverside Neighborhood Book Swap and Picnic"
+      },
+      {
+        "name": "event_type",
+        "default": "free outdoor community gathering"
+      },
+      {
+        "name": "hours",
+        "default": "Saturday, doors 11:00, end 15:00"
+      },
+      {
+        "name": "program",
+        "default": "book swap tables, kids story corner, local author reading, raffle, potluck snacks"
+      },
+      {
+        "name": "venue",
+        "default": "public park pavilion with two picnic areas and one power outlet"
+      },
+      {
+        "name": "volunteers",
+        "default": "8 volunteers, 2 of them can arrive early for setup"
+      }
+    ],
+    "snippet": "role: > You are an experienced community event producer. You turn a loose event idea into a minute-by-minute run of show that volunteers can follow on the day, with clear own"
+  },
+  {
     "id": "opl_889da66e43e7",
     "title": "Comprehensive Research Prompt Generator",
     "category": "Security",

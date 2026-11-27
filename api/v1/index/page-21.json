@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 21,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-22.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_e24f6534cab4",
+      "slug": "la-llorona-intro-scene",
+      "title": "La Llorona Intro Scene",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e24f6534cab4.json"
+    },
     {
       "id": "opl_df1871602f10",
       "slug": "label-text-extractor-ocr",
@@ -1280,15 +1289,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_5570efe3d750.json"
-    },
-    {
-      "id": "opl_148eee2bf64b",
-      "slug": "llm-application-taste",
-      "title": "LLM Application taste",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_148eee2bf64b.json"
     }
   ]
 }

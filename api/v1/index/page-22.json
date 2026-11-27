@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 22,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_148eee2bf64b",
+      "slug": "llm-application-taste",
+      "title": "LLM Application taste",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_148eee2bf64b.json"
+    },
     {
       "id": "opl_47212e7fdb3f",
       "slug": "llm-approach-guide",
@@ -1187,15 +1196,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ce5cb18e7407.json"
-    },
-    {
-      "id": "opl_c4c3479ede4f",
-      "slug": "master-s-assessment-question-helper",
-      "title": "Master's Assessment Question Helper",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c4c3479ede4f.json"
     }
   ]
 }

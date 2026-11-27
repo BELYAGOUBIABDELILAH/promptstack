@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 33,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_ebeccd8f6431",
+      "slug": "socially-neutral-social-media-commentary-prompt",
+      "title": "Socially Neutral Social Media Commentary Prompt",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "word count",
+          "default": "120"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ebeccd8f6431.json"
+    },
     {
       "id": "opl_3ed114f5b669",
       "slug": "socrat",
@@ -978,15 +992,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_da7408858cce.json"
-    },
-    {
-      "id": "opl_e8cff0ee7bf1",
-      "slug": "sticker",
-      "title": "Sticker",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e8cff0ee7bf1.json"
     }
   ]
 }

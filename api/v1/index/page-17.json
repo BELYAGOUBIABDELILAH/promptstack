@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 17,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-18.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_ad971d9fa1a4",
+      "slug": "glacier-calving-into-a-turquoise-arctic-fjord",
+      "title": "Glacier Calving into a Turquoise Arctic Fjord",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ad971d9fa1a4.json"
+    },
     {
       "id": "opl_2357a1dfda6d",
       "slug": "glacier-calving-into-a-turquoise-arctic-fjord-image-to-video-animation",
@@ -1012,15 +1021,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d8aed2bbb3cc.json"
-    },
-    {
-      "id": "opl_26e276ff3ad6",
-      "slug": "helm-chart-taste",
-      "title": "Helm Chart taste",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_26e276ff3ad6.json"
     }
   ]
 }

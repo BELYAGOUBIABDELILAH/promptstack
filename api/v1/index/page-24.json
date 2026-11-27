@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 24,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_9b5e072a011f",
+      "slug": "mom-and-boy",
+      "title": "Mom and boy",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9b5e072a011f.json"
+    },
     {
       "id": "opl_9b0caed2c960",
       "slug": "monetization-strategy-for-blockchain-based-merging-games",
@@ -1060,15 +1069,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_dc89114e9517.json"
-    },
-    {
-      "id": "opl_82d1ffdb9261",
-      "slug": "nigeria",
-      "title": "Nigeria",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_82d1ffdb9261.json"
     }
   ]
 }

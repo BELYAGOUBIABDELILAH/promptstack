@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 14,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-15.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_3f6c58a17269",
+      "slug": "editorial-fashion-collage-moodboard",
+      "title": "Editorial Fashion Collage Moodboard",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3f6c58a17269.json"
+    },
     {
       "id": "opl_1c21f1576e22",
       "slug": "editorial-winter-poster-style-multi-panel-collage-generation",
@@ -1243,15 +1252,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8699e946133f.json"
-    },
-    {
-      "id": "opl_861fd85c03e6",
-      "slug": "expert-discrete-mathematics-exam-answering",
-      "title": "Expert Discrete Mathematics Exam Answering",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_861fd85c03e6.json"
     }
   ]
 }

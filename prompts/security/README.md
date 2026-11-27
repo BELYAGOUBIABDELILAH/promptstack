@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**85 prompts in this category**
+**86 prompts in this category**
 
 ## Table of Contents
 
@@ -25,6 +25,7 @@
 - [Cloud Hosting LLMs](cloud-hosting-llms.md)
 - [Cloudflare Helper](cloudflare-helper.md)
 - [Code Editor - Update API/SDK](code-editor-update-api-sdk.md)
+- [Community Event Run of Show Builder (YAML)](community-event-run-of-show-builder-yaml.md)
 - [Comprehensive Research Prompt Generator](comprehensive-research-prompt-generator.md)
 - [create prompt for audit purpose on password configuartion file for linux](create-prompt-for-audit-purpose-on-password-configuartion-file-for-linux.md)
 - [Create Security Test Cases](create-security-test-cases.md)

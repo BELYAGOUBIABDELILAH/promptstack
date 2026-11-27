@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 31,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_7b4f47a576bb",
+      "slug": "role-ai-image-prompt-engineering-specialist",
+      "title": "Role: AI Image Prompt Engineering Specialist",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7b4f47a576bb.json"
+    },
     {
       "id": "opl_c530c81b217e",
       "slug": "romantic-evening-caf-portrait",
@@ -1196,15 +1205,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8e97d0b1192f.json"
-    },
-    {
-      "id": "opl_428d75e0cd1d",
-      "slug": "senior-frontend-developer",
-      "title": "Senior Frontend Developer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_428d75e0cd1d.json"
     }
   ]
 }

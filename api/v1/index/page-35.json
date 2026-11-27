@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 35,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_54ca5d9953a4",
+      "slug": "synthetic-data-creation-assistant",
+      "title": "Synthetic Data Creation Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_54ca5d9953a4.json"
+    },
     {
       "id": "opl_7bbb0ae748cd",
       "slug": "synthetic-pii-data-generation",
@@ -967,24 +976,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ea1bc1c5255d.json"
-    },
-    {
-      "id": "opl_3f633101f9b6",
-      "slug": "tgscrape",
-      "title": "TGscrape",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "detail",
-          "default": null
-        },
-        {
-          "name": "task",
-          "default": null
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3f633101f9b6.json"
     }
   ]
 }

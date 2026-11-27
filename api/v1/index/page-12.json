@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 12,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-13.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_679aa4555bc8",
+      "slug": "database-architect-agent-role",
+      "title": "Database Architect Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_679aa4555bc8.json"
+    },
     {
       "id": "opl_9104bd4ecc46",
       "slug": "database-matchmaker",
@@ -1197,15 +1206,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e70fe0b69fb3.json"
-    },
-    {
-      "id": "opl_87359ce13b50",
-      "slug": "dictated-system-prompt-editor",
-      "title": "Dictated System Prompt Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_87359ce13b50.json"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-27T15:20:55.289Z",
+  "last_updated": "2026-11-27T16:20:49.068Z",
   "page": 20,
   "per_page": 100,
-  "total": 3848,
+  "total": 3849,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-21.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_68de381b1454",
+      "slug": "ios-recipe-generator-create-recipes-from-available-ingredien",
+      "title": "iOS Recipe Generator: Create Recipes from Available Ingredients",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "dietaryPreference",
+          "default": null
+        },
+        {
+          "name": "ingredients",
+          "default": null
+        },
+        {
+          "name": "servings",
+          "default": "2"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_68de381b1454.json"
+    },
     {
       "id": "opl_c71c1ce69510",
       "slug": "ipo-analysis",
@@ -1015,15 +1037,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9fe6818a172b.json"
-    },
-    {
-      "id": "opl_e24f6534cab4",
-      "slug": "la-llorona-intro-scene",
-      "title": "La Llorona Intro Scene",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e24f6534cab4.json"
     }
   ]
 }
