@@ -2,11 +2,10 @@
 
 [← Back to main index](../../README.md)
 
-**806 prompts in this category**
+**805 prompts in this category**
 
 ## Table of Contents
 
-- [# Skill: High-Precision Facial Identity Transfer (FaceSwap Pro)](skill-high-precision-facial-identity-transfer-faceswap-pro.md)
 - [10-Second 3D Cartoon Story Generator](10-second-3d-cartoon-story-generator.md)
 - [16-Bit Pixel Art Cozy Bookshop on a Rainy Autumn Night](16-bit-pixel-art-cozy-bookshop-on-a-rainy-autumn-night.md)
 - [2026 FASHION EDITORIAL](2026-fashion-editorial.md)

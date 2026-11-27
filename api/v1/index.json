@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T17:20:56.507Z",
+  "last_updated": "2026-11-27T18:20:57.444Z",
   "page": 1,
   "per_page": 100,
   "total": 3849,
@@ -200,8 +200,8 @@
       "id": "opl_f888230d8788",
       "slug": "skill-high-precision-facial-identity-transfer-faceswap-pro",
       "title": "# Skill: High-Precision Facial Identity Transfer (FaceSwap Pro)",
-      "category": "Image & Design",
-      "folder": "image-design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f888230d8788.json"
     },

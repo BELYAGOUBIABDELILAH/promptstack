@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1343 prompts in this category**
+**1344 prompts in this category**
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@
 - [《Syntactic Stack: Kinetic Grammar》](syntactic-stack-kinetic-grammar.md)
 - [《Vowel Velocity: Phonetic Catch》](vowel-velocity-phonetic-catch.md)
 - [# ANTIGRAVITY GLOBAL RULES](antigravity-global-rules.md)
+- [# Skill: High-Precision Facial Identity Transfer (FaceSwap Pro)](skill-high-precision-facial-identity-transfer-faceswap-pro.md)
 - [🔒 ULTRA-STRICT MODE](ultra-strict-mode.md)
 - [🔧 AI App Improvement Loop Prompt](ai-app-improvement-loop-prompt.md)
 - [🛡 Financial Compliance Auditor](financial-compliance-auditor.md)
