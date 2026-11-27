@@ -4049,6 +4049,17 @@ Bottom: Warm off-white handmade paper with visible fibers and a muted irregular 
 Style: quiet, nostalgic, Morandi-inspired, tactile, elegant, generous negative space.
 
 Avoid: extra elements, clutter, borders, stickers, logos, glossy effects, cartoon/vector style, or altering the original photo.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,nostalgic-mixed-media-memory-card,ai-automation,prompts/ai-automation/nostalgic-mixed-media-memory-card.md
+Mystical Halloween Hay Bale Portrait,AI & Automation,"Do not change the girl's facial features, eye shape, eyebrows, nose, or lips. Maintain 100% facial resemblance.
+Aspect ratio: 3:4. Ultra-realistic, high-quality, sharp 8K photo, shot on iPhone 16 Pro Max.
+Scene & Composition:
+A full-body or 3/4 Halloween night photo. A young woman sits on a large rectangular hay bale in a cozy rural setting, filling most of the frame.
+Pose:
+Her torso is turned about 3/4 to the left, with her back slightly leaning backward. Her head faces the camera, eyes lowered, with a soft mysterious closed-lip smile. Her right hand supports her body on the hay behind her, while her left hand rests beside her thigh. Both legs extend to the right, slightly bent, with the left leg crossed over the right.
+Outfit & Appearance:
+A black fitted long-sleeve T-shirt dress with an orange Jack-o'-lantern print on the chest, black fishnet tights, and partially visible chunky black lace-up boots. Loose hair, sharp winged eyeliner, and deep burgundy lipstick.
+Lighting & Background:
+Harsh frontal flash brightly illuminates the woman and hay, while the background remains dim. A large old tree stands behind her, with a wooden fence and distant buildings on the left, and more hay bales with scattered glowing pumpkins on the right.
+Mood: mystical, cozy, autumn Halloween atmosphere.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,mystical-halloween-hay-bale-portrait,ai-automation,prompts/ai-automation/mystical-halloween-hay-bale-portrait.md
 1Password Assistant,Business & Career,"You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",src_4a926cf15dae,TEXT,1password-assistant,business-career,prompts/business-career/1password-assistant.md
 A professional Egyptian barista,Business & Career,"A professional Egyptian barista has a client who owns the following: a home espresso machine with three portafilters (size 51), a pitcher, a home coffee grinder, a coffee bean scale, a water sprayer, a bean weighing tray, a clump breaker, a spring tamper, a coffee grinder, and a table that he uses as a coffee corner. The barista's goal is to explain and train the client.",speedy4w (prompts.chat),TEXT,a-professional-egyptian-barista,business-career,prompts/business-career/a-professional-egyptian-barista.md
 Accountant,Business & Career,"I want you to act as an accountant and come up with creative ways to manage finances. You'll need to consider budgeting, investment strategies and risk management when creating a financial plan for your client. In some cases, you may also need to provide advice on taxation laws and regulations in order to help them maximize their profits. My first suggestion request is Create a financial plan for a small business that focuses on cost savings and long-term investments"""".""",src_dab9fa094922,TEXT,accountant,business-career,prompts/business-career/accountant.md
@@ -119821,17 +119832,6 @@ Important: Do not change the facial features or identity from the reference imag
 Format: 3:4
 
 Quality: Ultra-realistic, high-quality, sharp 8K photograph, natural skin texture, highly detailed, shot on an iPhone 16 Pro.",prompts.chat,TEXT,mystical-gothic-skull-crown-portrait,image-design,prompts/image-design/mystical-gothic-skull-crown-portrait.md
-Mystical Halloween Hay Bale Portrait,Image & Design,"Do not change the girl's facial features, eye shape, eyebrows, nose, or lips. Maintain 100% facial resemblance.
-Aspect ratio: 3:4. Ultra-realistic, high-quality, sharp 8K photo, shot on iPhone 16 Pro Max.
-Scene & Composition:
-A full-body or 3/4 Halloween night photo. A young woman sits on a large rectangular hay bale in a cozy rural setting, filling most of the frame.
-Pose:
-Her torso is turned about 3/4 to the left, with her back slightly leaning backward. Her head faces the camera, eyes lowered, with a soft mysterious closed-lip smile. Her right hand supports her body on the hay behind her, while her left hand rests beside her thigh. Both legs extend to the right, slightly bent, with the left leg crossed over the right.
-Outfit & Appearance:
-A black fitted long-sleeve T-shirt dress with an orange Jack-o'-lantern print on the chest, black fishnet tights, and partially visible chunky black lace-up boots. Loose hair, sharp winged eyeliner, and deep burgundy lipstick.
-Lighting & Background:
-Harsh frontal flash brightly illuminates the woman and hay, while the background remains dim. A large old tree stands behind her, with a wooden fence and distant buildings on the left, and more hay bales with scattered glowing pumpkins on the right.
-Mood: mystical, cozy, autumn Halloween atmosphere.",prompts.chat,TEXT,mystical-halloween-hay-bale-portrait,image-design,prompts/image-design/mystical-halloween-hay-bale-portrait.md
 Na,Image & Design,Please create a video with attached my photo where he is a hero,erasunni@gmail.com (prompts.chat),TEXT,na,image-design,prompts/image-design/na.md
 Narcissistic & Emotional Abuse: Gaslighting Identifier,Image & Design,"You are a compassionate AI assistant designed to help users identify signs of narcissistic abuse and manipulation.
 

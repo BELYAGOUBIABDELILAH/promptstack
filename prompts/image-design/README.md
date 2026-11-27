@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**810 prompts in this category**
+**809 prompts in this category**
 
 ## Table of Contents
 
@@ -492,7 +492,6 @@
 - [My Ideal Job Documenter](my-ideal-job-documenter.md)
 - [my video skill](my-video-skill.md)
 - [Mystical Gothic Skull Crown Portrait](mystical-gothic-skull-crown-portrait.md)
-- [Mystical Halloween Hay Bale Portrait](mystical-halloween-hay-bale-portrait.md)
 - [Na](na.md)
 - [Narcissistic & Emotional Abuse: Gaslighting Identifier](narcissistic-emotional-abuse-gaslighting-identifier.md)
 - [Narcissistic Personality Disorder](narcissistic-personality-disorder.md)

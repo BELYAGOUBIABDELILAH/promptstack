@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**177 prompts in this category**
+**178 prompts in this category**
 
 ## Table of Contents
 
@@ -119,6 +119,7 @@
 - [Motivational Speaker](motivational-speaker.md)
 - [Multi-Agent Coding Workflow & Implementation Prompt Generator](multi-agent-coding-workflow-implementation-prompt-generator.md)
 - [My Kalashala](my-kalashala.md)
+- [Mystical Halloween Hay Bale Portrait](mystical-halloween-hay-bale-portrait.md)
 - [NFC Expert](nfc-expert.md)
 - [Nostalgic Mixed-Media Memory Card](nostalgic-mixed-media-memory-card.md)
 - [Nurse](nurse.md)

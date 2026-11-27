@@ -1291,6 +1291,15 @@
     "snippet": "i want to develop a mobile application for both android and ios in kiro i already have the designs of stich generate a prompt for this"
   },
   {
+    "id": "opl_ac348170686d",
+    "title": "Mystical Halloween Hay Bale Portrait",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "mystical-halloween-hay-bale-portrait",
+    "variables": [],
+    "snippet": "Do not change the girl's facial features, eye shape, eyebrows, nose, or lips. Maintain 100% facial resemblance. Aspect ratio: 3:4. Ultra-realistic, high-quality, sharp 8K photo, sh"
+  },
+  {
     "id": "opl_690bba1dc52d",
     "title": "NFC Expert",
     "category": "AI & Automation",
@@ -32631,15 +32640,6 @@
     "slug": "mystical-gothic-skull-crown-portrait",
     "variables": [],
     "snippet": "Model and Pose: A young woman with distinctive facial features stands upright, looking slightly away from the camera. Her torso is positioned almost directly toward the camera. Wit"
-  },
-  {
-    "id": "opl_ac348170686d",
-    "title": "Mystical Halloween Hay Bale Portrait",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "mystical-halloween-hay-bale-portrait",
-    "variables": [],
-    "snippet": "Do not change the girl's facial features, eye shape, eyebrows, nose, or lips. Maintain 100% facial resemblance. Aspect ratio: 3:4. Ultra-realistic, high-quality, sharp 8K photo, sh"
   },
   {
     "id": "opl_e39a8312de47",

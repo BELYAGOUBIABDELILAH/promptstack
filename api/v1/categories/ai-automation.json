@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-27T05:20:55.717Z",
-  "total": 176,
+  "last_updated": "2026-11-27T07:20:54.397Z",
+  "total": 177,
   "prompts": [
     {
       "id": "opl_a0ea04a6dfe4",
@@ -2085,6 +2085,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_66c6f1ca12e9.json"
+    },
+    {
+      "id": "opl_ac348170686d",
+      "slug": "mystical-halloween-hay-bale-portrait",
+      "title": "Mystical Halloween Hay Bale Portrait",
+      "prompt": "Do not change the girl's facial features, eye shape, eyebrows, nose, or lips. Maintain 100% facial resemblance.\nAspect ratio: 3:4. Ultra-realistic, high-quality, sharp 8K photo, shot on iPhone 16 Pro Max.\nScene & Composition:\nA full-body or 3/4 Halloween night photo. A young woman sits on a large rectangular hay bale in a cozy rural setting, filling most of the frame.\nPose:\nHer torso is turned about 3/4 to the left, with her back slightly leaning backward. Her head faces the camera, eyes lowered, with a soft mysterious closed-lip smile. Her right hand supports her body on the hay behind her, while her left hand rests beside her thigh. Both legs extend to the right, slightly bent, with the left leg crossed over the right.\nOutfit & Appearance:\nA black fitted long-sleeve T-shirt dress with an orange Jack-o'-lantern print on the chest, black fishnet tights, and partially visible chunky black lace-up boots. Loose hair, sharp winged eyeliner, and deep burgundy lipstick.\nLighting & Background:\nHarsh frontal flash brightly illuminates the woman and hay, while the background remains dim. A large old tree stands behind her, with a wooden fence and distant buildings on the left, and more hay bales with scattered glowing pumpkins on the right.\nMood: mystical, cozy, autumn Halloween atmosphere.",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_6a1342800c95"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ac348170686d.json"
     },
     {
       "id": "opl_690bba1dc52d",
