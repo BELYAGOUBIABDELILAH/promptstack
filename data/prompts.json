@@ -1790,6 +1790,16 @@
     "path": "prompts/ai-automation/vintage-film-matchlight-portrait.md"
   },
   {
+    "act": "Poster for premium tire shop",
+    "category": "AI & Automation",
+    "prompt": "write a prompt from for my tire shop. shop name: Lahore Tire Center. Shop logo in the reference.\nShop located mid of Doha city at salwa road that specializes in tires of all type Luxury and Off road. the image should clearly convey that a wide range of tires available.\nimage that allowing customer to grap the full scope within 5 second. Highlight essentioal tire-related services such as balancing, alignment and rerpair. having sate of the art machinery and technology for services. Feature a tire alongside an attractive vehicle, clearly displaying the TOYO brand, withe tire size lable at the bottom. Size: 235/55 R19\nin the footer shop location contact number and webside",
+    "source": "transparent.trust100@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "poster-for-premium-tire-shop",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/poster-for-premium-tire-shop.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",
@@ -28858,16 +28868,6 @@
     "slug": "portrait",
     "folder": "image-design",
     "path": "prompts/image-design/portrait.md"
-  },
-  {
-    "act": "Poster for premium tire shop",
-    "category": "Image & Design",
-    "prompt": "write a prompt from for my tire shop. shop name: Lahore Tire Center. Shop logo in the reference.\nShop located mid of Doha city at salwa road that specializes in tires of all type Luxury and Off road. the image should clearly convey that a wide range of tires available.\nimage that allowing customer to grap the full scope within 5 second. Highlight essentioal tire-related services such as balancing, alignment and rerpair. having sate of the art machinery and technology for services. Feature a tire alongside an attractive vehicle, clearly displaying the TOYO brand, withe tire size lable at the bottom. Size: 235/55 R19\nin the footer shop location contact number and webside",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "poster-for-premium-tire-shop",
-    "folder": "image-design",
-    "path": "prompts/image-design/poster-for-premium-tire-shop.md"
   },
   {
     "act": "Pricing Retrieval Bot",

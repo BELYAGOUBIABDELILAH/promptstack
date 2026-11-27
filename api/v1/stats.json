@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-27T13:20:53.333Z",
+  "last_updated": "2026-11-27T15:20:55.289Z",
   "total_prompts": 3848,
   "source_records": 3853,
-  "total_sources": 450,
+  "total_sources": 451,
   "total_categories": 19,
   "total_pages": 39,
   "per_page": 100,
@@ -26,7 +26,7 @@
     {
       "folder": "image-design",
       "name": "Image & Design",
-      "prompt_count": 807,
+      "prompt_count": 806,
       "url": "https://prompts.axiomrepo.tech/v1/categories/image-design.json"
     },
     {
@@ -50,7 +50,7 @@
     {
       "folder": "ai-automation",
       "name": "AI & Automation",
-      "prompt_count": 178,
+      "prompt_count": 179,
       "url": "https://prompts.axiomrepo.tech/v1/categories/ai-automation.json"
     },
     {

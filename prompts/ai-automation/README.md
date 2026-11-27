@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**179 prompts in this category**
+**180 prompts in this category**
 
 ## Table of Contents
 
@@ -132,6 +132,7 @@
 - [Pixar-Style Family Wallpaper Prompt](pixar-style-family-wallpaper-prompt.md)
 - [Plain-English Security Concept Explainer](plain-english-security-concept-explainer.md)
 - [Plan Check Agent](plan-check-agent.md)
+- [Poster for premium tire shop](poster-for-premium-tire-shop.md)
 - [PRAETOR v7.1 – Privacy-First CV Self-Assessment System Prompt](praetor-v7-1-privacy-first-cv-self-assessment-system-prompt.md)
 - [Premortem Analysis](premortem-analysis.md)
 - [Productive Peer Mentor (Friendly Tech-Savvy Thinking Partner)](productive-peer-mentor-friendly-tech-savvy-thinking-partner.md)

@@ -2152,7 +2152,7 @@
     "id": "src_c7372fdd4131",
     "name": "prompts.chat",
     "status": "needs-review",
-    "record_count": 926,
+    "record_count": 925,
     "note": "Preserved from the legacy export; review before claiming provenance."
   },
   {
@@ -2823,6 +2823,13 @@
   {
     "id": "src_ddb4b3cb8b7b",
     "name": "training002025@gmail.com (prompts.chat)",
+    "status": "needs-review",
+    "record_count": 1,
+    "note": "Preserved from the legacy export; review before claiming provenance."
+  },
+  {
+    "id": "src_f430afdd17ed",
+    "name": "transparent.trust100@gmail.com (prompts.chat)",
     "status": "needs-review",
     "record_count": 1,
     "note": "Preserved from the legacy export; review before claiming provenance."

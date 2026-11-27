@@ -1408,6 +1408,15 @@
     "snippet": "Are you 100% confident in this strategy/plan? If not, find all possible loopholes, suggest proper fixes and run this loop until you are factually 100% confident in the new strategy"
   },
   {
+    "id": "opl_e8b9f7b745f4",
+    "title": "Poster for premium tire shop",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "poster-for-premium-tire-shop",
+    "variables": [],
+    "snippet": "write a prompt from for my tire shop. shop name: Lahore Tire Center. Shop logo in the reference. Shop located mid of Doha city at salwa road that specializes in tires of all type L"
+  },
+  {
     "id": "opl_2bb63963c304",
     "title": "PRAETOR v7.1 – Privacy-First CV Self-Assessment System Prompt",
     "category": "AI & Automation",
@@ -33681,15 +33690,6 @@
     "slug": "portrait",
     "variables": [],
     "snippet": "A 20-year-old adult American female model with fair skin wears a short feathered crop with airy layers around the ears and a deliberately tousled crown. She wears a translucent lim"
-  },
-  {
-    "id": "opl_e8b9f7b745f4",
-    "title": "Poster for premium tire shop",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "poster-for-premium-tire-shop",
-    "variables": [],
-    "snippet": "write a prompt from for my tire shop. shop name: Lahore Tire Center. Shop logo in the reference. Shop located mid of Doha city at salwa road that specializes in tires of all type L"
   },
   {
     "id": "opl_d5829b835a53",

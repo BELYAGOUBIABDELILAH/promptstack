@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**808 prompts in this category**
+**807 prompts in this category**
 
 ## Table of Contents
 
@@ -590,7 +590,6 @@
 - [Pop Art Comic Illustration of a Chrome 1950s Roadside Diner at Night](pop-art-comic-illustration-of-a-chrome-1950s-roadside-diner-at-night.md)
 - [Portal-Chain Hero Sprint: One Seamless 25-Second Action VFX Shot Through Four Worlds (Seedance 2.5 Continuity Test)](portal-chain-hero-sprint-one-seamless-25-second-action-vfx-shot-through-four-worlds-seedance-2-5-continuity-test.md)
 - [PORTRAIT](portrait.md)
-- [Poster for premium tire shop](poster-for-premium-tire-shop.md)
 - [Pricing Retrieval Bot](pricing-retrieval-bot.md)
 - [Product Hero Shot Brief Builder](product-hero-shot-brief-builder.md)
 - [Product Image Highlight Extraction](product-image-highlight-extraction.md)

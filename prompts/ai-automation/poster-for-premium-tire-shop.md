@@ -1,7 +1,7 @@
 # Poster for premium tire shop
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** transparent.trust100@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -11,4 +11,4 @@
 > in the footer shop location contact number and webside
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)
