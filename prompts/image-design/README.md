@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**809 prompts in this category**
+**808 prompts in this category**
 
 ## Table of Contents
 
@@ -787,7 +787,6 @@
 - [Vintage Botanical Illustration Generator](vintage-botanical-illustration-generator.md)
 - [Vintage Country Souvenir Box Travel Poster (Universal Template)](vintage-country-souvenir-box-travel-poster-universal-template.md)
 - [Vintage Cutaway Illustration of a Deep-Sea Research Submarine](vintage-cutaway-illustration-of-a-deep-sea-research-submarine.md)
-- [Vintage Film Matchlight Portrait](vintage-film-matchlight-portrait.md)
 - [Vintage Food & Café Travel Diary: Photo + Scrapbook Journal Collage](vintage-food-cafe-travel-diary-photo-scrapbook-journal-collage.md)
 - [Vintage Invention Patent](vintage-invention-patent.md)
 - [Vintage Monochrome Silhouette Selfie](vintage-monochrome-silhouette-selfie.md)

@@ -1,7 +1,7 @@
 # Vintage Film Matchlight Portrait
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -11,4 +11,4 @@
 > Imitation of shooting on a film camera (35mm film). The image has characteristic grain (film grain) and soft sharpness. Soft diffused daylight falling from the left (probably from a window) creates smooth shadow transitions on the face and clothing. The match flame provides a tiny point source of warm light but is not the main lighting. Color grading in pastel, slightly faded tones. Muted pink, skin tones, and cool white/gray predominate. Low contrast, strong 2010s “Pinterest” or “Tumblr” aesthetic. Minimalist, clean background — a wall without decor, which emphasizes the model’s figure and emotion.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)
