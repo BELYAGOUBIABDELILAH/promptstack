@@ -1,7 +1,7 @@
 # Vintage Monochrome Silhouette Selfie
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -22,4 +22,4 @@
 > Camera: Shot on an old iPhone 5s (2013–2014), with visible grain, light digital noise, soft sharpness, natural tonal rendering, and authentic iPhone compression. Vertical 3:4, realistic, high-quality, cinematic.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

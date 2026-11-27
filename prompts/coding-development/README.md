@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1344 prompts in this category**
+**1345 prompts in this category**
 
 ## Table of Contents
 
@@ -1310,6 +1310,7 @@
 - [Video extractor prompt](video-extractor-prompt.md)
 - [Video review and teacher](video-review-and-teacher.md)
 - [Vintage Black and White Photograph of Galata Tower](vintage-black-and-white-photograph-of-galata-tower.md)
+- [Vintage Monochrome Silhouette Selfie](vintage-monochrome-silhouette-selfie.md)
 - [Vision-to-json](vision-to-json.md)
 - [Visual Web Application Development](visual-web-application-development.md)
 - [Vite Frontend Tooling taste](vite-frontend-tooling-taste.md)

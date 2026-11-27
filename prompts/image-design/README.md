@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**805 prompts in this category**
+**804 prompts in this category**
 
 ## Table of Contents
 
@@ -786,7 +786,6 @@
 - [Vintage Cutaway Illustration of a Deep-Sea Research Submarine](vintage-cutaway-illustration-of-a-deep-sea-research-submarine.md)
 - [Vintage Food & Café Travel Diary: Photo + Scrapbook Journal Collage](vintage-food-cafe-travel-diary-photo-scrapbook-journal-collage.md)
 - [Vintage Invention Patent](vintage-invention-patent.md)
-- [Vintage Monochrome Silhouette Selfie](vintage-monochrome-silhouette-selfie.md)
 - [Vintage Wind-Up Tin Toy Robots Parading on a Toy Shop Shelf](vintage-wind-up-tin-toy-robots-parading-on-a-toy-shop-shelf.md)
 - [Visual Media Analysis Expert Agent Role](visual-media-analysis-expert-agent-role.md)
 - [VLSI asic design verification engineer](vlsi-asic-design-verification-engineer.md)

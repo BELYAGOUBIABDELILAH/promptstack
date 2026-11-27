@@ -91903,6 +91903,21 @@ When completing the transfer, provide:
 *Version: 1.0*
 *Last Updated: September 2026*
 *Optimized for: Professional photography, high-end portraits, advertising campaigns*",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,skill-high-precision-facial-identity-transfer-faceswap-pro,coding-development,prompts/coding-development/skill-high-precision-facial-identity-transfer-faceswap-pro.md
+Vintage Monochrome Silhouette Selfie,Coding & Development,"Close-up photorealistic selfie in a Pinterest aesthetic, using the uploaded photo as the reference. Preserve the girl's appearance and all of her unique facial features exactly (copy my face 100%).
+
+Composition & pose: First-person selfie with no phone visible. The girl is centered in the frame. Close-up portrait shot from a low angle (looking upward). She is looking slightly upward and to the right of the frame. Because of the low perspective, her face is gently tilted back. Her hands are not visible. Her figure is intentionally soft and slightly out of focus, creating the feeling of a dark blurred silhouette.
+
+Clothing: A fitted black ribbed dress with wide sleeves that flare toward the wrists.
+
+Hair: Extremely long, perfectly straight, sleek luxurious hair flowing freely over her forearms, framing her face, with noticeable wind movement and slight motion blur.
+
+Makeup: Dramatic eye and lip makeup with sharp winged eyeliner, long false lashes, and matte dark lipstick.
+
+Background: Tall spreading trees with bare branches typical of early spring or late autumn. The branches form an intricate graphic pattern against a bright overcast sky, which occupies much of the upper half of the image and contrasts with the girl's dark silhouette.
+
+Style & filter: Artistic black-and-white blur aesthetic. Monochrome palette with deep blacks and soft gray transitions. Intentional softness, pronounced motion blur, subtle contour blur, fine film grain, and the feeling of an old analog photograph, dream, or memory. The emphasis is on shapes, lines, contrast, and silhouettes.
+
+Camera: Shot on an old iPhone 5s (2013–2014), with visible grain, light digital noise, soft sharpness, natural tonal rendering, and authentic iPhone compression. Vertical 3:4, realistic, high-quality, cinematic.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,vintage-monochrome-silhouette-selfie,coding-development,prompts/coding-development/vintage-monochrome-silhouette-selfie.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -125193,21 +125208,6 @@ Scene 2 – Cozy Café Moments: Show a warm café table beside a large window wi
 
 Use warm ivory and beige textured paper, subtle film grain, soft natural sunlight, muted earthy colors, delicate shadows, elegant handwritten typography, vintage travel magazine styling, and realistic food photography. Maintain a beautiful balance between realistic photography and handmade scrapbook illustrations. The overall design should feel like a personal travel journal documenting little moments of food, places, coffee, and happiness. Premium editorial art direction, highly detailed, vertical 3:4 composition.",prompts.chat,TEXT,vintage-food-cafe-travel-diary-photo-scrapbook-journal-collage,image-design,prompts/image-design/vintage-food-cafe-travel-diary-photo-scrapbook-journal-collage.md
 Vintage Invention Patent,Image & Design,"A vintage patent document for ${invention}, styled after late 1800s United States Patent Office filings. The page features precise technical drawings with numbered callouts (Fig. 1, Fig. 2, Fig. 3) showing front, side, and exploded views. Handwritten annotations in fountain-pen ink describe mechanisms. The paper is aged ivory with foxing stains and soft fold creases. An official embossed seal and red wax stamp appear in the corner. A hand-signed inventor's name and date appear at the bottom. The entire image feels like a recovered archival document—authoritative, historic, and slightly mysterious.",src_dab9fa094922,TEXT,vintage-invention-patent,image-design,prompts/image-design/vintage-invention-patent.md
-Vintage Monochrome Silhouette Selfie,Image & Design,"Close-up photorealistic selfie in a Pinterest aesthetic, using the uploaded photo as the reference. Preserve the girl's appearance and all of her unique facial features exactly (copy my face 100%).
-
-Composition & pose: First-person selfie with no phone visible. The girl is centered in the frame. Close-up portrait shot from a low angle (looking upward). She is looking slightly upward and to the right of the frame. Because of the low perspective, her face is gently tilted back. Her hands are not visible. Her figure is intentionally soft and slightly out of focus, creating the feeling of a dark blurred silhouette.
-
-Clothing: A fitted black ribbed dress with wide sleeves that flare toward the wrists.
-
-Hair: Extremely long, perfectly straight, sleek luxurious hair flowing freely over her forearms, framing her face, with noticeable wind movement and slight motion blur.
-
-Makeup: Dramatic eye and lip makeup with sharp winged eyeliner, long false lashes, and matte dark lipstick.
-
-Background: Tall spreading trees with bare branches typical of early spring or late autumn. The branches form an intricate graphic pattern against a bright overcast sky, which occupies much of the upper half of the image and contrasts with the girl's dark silhouette.
-
-Style & filter: Artistic black-and-white blur aesthetic. Monochrome palette with deep blacks and soft gray transitions. Intentional softness, pronounced motion blur, subtle contour blur, fine film grain, and the feeling of an old analog photograph, dream, or memory. The emphasis is on shapes, lines, contrast, and silhouettes.
-
-Camera: Shot on an old iPhone 5s (2013–2014), with visible grain, light digital noise, soft sharpness, natural tonal rendering, and authentic iPhone compression. Vertical 3:4, realistic, high-quality, cinematic.",prompts.chat,TEXT,vintage-monochrome-silhouette-selfie,image-design,prompts/image-design/vintage-monochrome-silhouette-selfie.md
 Vintage Wind-Up Tin Toy Robots Parading on a Toy Shop Shelf,Image & Design,"A macro product photograph of five vintage 1950s wind-up tin toy robots standing side by side in a parade line on a worn wooden shelf, in a wide landscape 16:9 frame. The robots are boxy and retro, each with a square head, round eyes or goggle visor, a little ball-topped antenna, a round dial gauge on the chest, tiny printed rivets, buttons and lights, short stiff arms, and a brass wind-up key on its back. Their painted tin colors from left to right are ${colors:red, teal, cream, mustard yellow, and red}, with slightly worn paint, soft scratches, and a little rust at the edges. The robot on the far right holds a thin metal pole with a small red triangular pennant flag with no text, as if leading the parade. Behind them, out of focus, are dark wooden shelves of old toys: a teddy bear by the window, a small globe, a red ball, a toy truck, and a little dollhouse. Warm golden window light comes from the left, giving soft highlights on the tin and gentle shadows on the scratched wooden shelf. Shallow depth of field, rich warm browns, nostalgic and cheerful mood. No readable text, no logos, no people.",prompts.chat,TEXT,vintage-wind-up-tin-toy-robots-parading-on-a-toy-shop-shelf,image-design,prompts/image-design/vintage-wind-up-tin-toy-robots-parading-on-a-toy-shop-shelf.md
 Visual Media Analysis Expert Agent Role,Image & Design,"# Visual Media Analysis Expert
 

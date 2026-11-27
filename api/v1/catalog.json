@@ -18475,6 +18475,15 @@
     "snippet": "{ \"colors\": { \"color_temperature\": \"neutral\", \"contrast_level\": \"high\", \"dominant_palette\": [ \"black\", \"white\", \"grey\" ] }, \"composition\": {"
   },
   {
+    "id": "opl_b2233c127026",
+    "title": "Vintage Monochrome Silhouette Selfie",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "vintage-monochrome-silhouette-selfie",
+    "variables": [],
+    "snippet": "Close-up photorealistic selfie in a Pinterest aesthetic, using the uploaded photo as the reference. Preserve the girl's appearance and all of her unique facial features exactly (co"
+  },
+  {
     "id": "opl_b12f61799c88",
     "title": "Vision-to-json",
     "category": "Coding & Development",
@@ -35828,15 +35837,6 @@
       }
     ],
     "snippet": "A vintage patent document for ${invention}, styled after late 1800s United States Patent Office filings. The page features precise technical drawings with numbered callouts (Fig. 1"
-  },
-  {
-    "id": "opl_b2233c127026",
-    "title": "Vintage Monochrome Silhouette Selfie",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "vintage-monochrome-silhouette-selfie",
-    "variables": [],
-    "snippet": "Close-up photorealistic selfie in a Pinterest aesthetic, using the uploaded photo as the reference. Preserve the girl's appearance and all of her unique facial features exactly (co"
   },
   {
     "id": "opl_5d16ad8fc029",
