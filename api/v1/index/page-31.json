@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T22:21:01.653Z",
+  "last_updated": "2026-11-27T23:20:58.642Z",
   "page": 31,
   "per_page": 100,
-  "total": 3849,
+  "total": 3850,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_b9a7f7afdb3c",
+      "slug": "rocket-launcher",
+      "title": "Rocket launcher",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b9a7f7afdb3c.json"
+    },
     {
       "id": "opl_7b4f47a576bb",
       "slug": "role-ai-image-prompt-engineering-specialist",
@@ -1196,15 +1205,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_caafcbb40fd1.json"
-    },
-    {
-      "id": "opl_8e97d0b1192f",
-      "slug": "senior-frontend-debugger-for-spa-websites-angular-react-vite",
-      "title": "Senior Frontend Debugger for SPA Websites (Angular, React, Vite)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8e97d0b1192f.json"
     }
   ]
 }

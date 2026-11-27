@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T22:21:01.653Z",
+  "last_updated": "2026-11-27T23:20:58.642Z",
   "page": 35,
   "per_page": 100,
-  "total": 3849,
+  "total": 3850,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_3f82dc3f18e6",
+      "slug": "synthesis-architect-pro",
+      "title": "Synthesis Architect Pro",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3f82dc3f18e6.json"
+    },
     {
       "id": "opl_54ca5d9953a4",
       "slug": "synthetic-data-creation-assistant",
@@ -967,15 +976,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_91daf3875685.json"
-    },
-    {
-      "id": "opl_ea1bc1c5255d",
-      "slug": "text-to-image-with-reference-billiards-bar-scene",
-      "title": "Text-to-Image with Reference - Billiards Bar Scene",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ea1bc1c5255d.json"
     }
   ]
 }

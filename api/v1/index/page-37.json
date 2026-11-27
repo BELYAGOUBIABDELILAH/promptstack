@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T22:21:01.653Z",
+  "last_updated": "2026-11-27T23:20:58.642Z",
   "page": 37,
   "per_page": 100,
-  "total": 3849,
+  "total": 3850,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_f999d2ea0948",
+      "slug": "tumeric-kojic-soap",
+      "title": "Tumeric kojic soap",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f999d2ea0948.json"
+    },
     {
       "id": "opl_0d9e8f483904",
       "slug": "tumor-medical-industry-solution-business-plan",
@@ -1183,15 +1192,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0eb330068127.json"
-    },
-    {
-      "id": "opl_b4d4b36d7a95",
-      "slug": "vibrant-fauvist-style-sunlit-living-room-illustration",
-      "title": "Vibrant Fauvist Style Sunlit Living Room Illustration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b4d4b36d7a95.json"
     }
   ]
 }

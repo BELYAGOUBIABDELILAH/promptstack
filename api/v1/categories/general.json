@@ -1,8 +1,8 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-27T22:21:01.653Z",
-  "total": 159,
+  "last_updated": "2026-11-27T23:20:58.642Z",
+  "total": 160,
   "prompts": [
     {
       "id": "opl_7d540931a76a",
@@ -1910,6 +1910,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_154a0f0d5110.json"
+    },
+    {
+      "id": "opl_e9b0d210c4bb",
+      "slug": "qwen-3-7-analyse-and-assess-with-pros-and-cons-the-promptsch",
+      "title": "Qwen 3.7 analyse and assess with pros and cons the promptschat library",
+      "prompt": "ANALYSE AND ASSESS CHATSPEOMPTS AI LIBRARY..I DO NOT WANT TO WAIT ALL DAY",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_cfbb5fd47008"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_e9b0d210c4bb.json"
     },
     {
       "id": "opl_4e1c6d034497",

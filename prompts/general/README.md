@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**160 prompts in this category**
+**161 prompts in this category**
 
 ## Table of Contents
 
@@ -119,6 +119,7 @@
 - [Prompt Optimization Review](prompt-optimization-review.md)
 - [Prompt Shortener](prompt-shortener.md)
 - [psy](psy.md)
+- [Qwen 3.7 analyse and assess with pros and cons the promptschat library](qwen-3-7-analyse-and-assess-with-pros-and-cons-the-promptsch.md)
 - [Rags to Riches Young Man Character Sheet](rags-to-riches-young-man-character-sheet.md)
 - [Realistic Monkey Fruit Mukbang](realistic-monkey-fruit-mukbang.md)
 - [rebuttal](rebuttal.md)

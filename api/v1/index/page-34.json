@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T22:21:01.653Z",
+  "last_updated": "2026-11-27T23:20:58.642Z",
   "page": 34,
   "per_page": 100,
-  "total": 3849,
+  "total": 3850,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_da7408858cce",
+      "slug": "step-inside-a-painting-frozen-3d-camera-fly-through-image-to-video",
+      "title": "Step Inside a Painting: Frozen 3D Camera Fly-Through (Image-to-Video)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_da7408858cce.json"
+    },
     {
       "id": "opl_e8cff0ee7bf1",
       "slug": "sticker",
@@ -1178,15 +1187,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b1912b040020.json"
-    },
-    {
-      "id": "opl_3f82dc3f18e6",
-      "slug": "synthesis-architect-pro",
-      "title": "Synthesis Architect Pro",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3f82dc3f18e6.json"
     }
   ]
 }

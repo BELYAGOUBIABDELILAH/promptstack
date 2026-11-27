@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-27T22:21:01.653Z",
+  "last_updated": "2026-11-27T23:20:58.642Z",
   "page": 36,
   "per_page": 100,
-  "total": 3849,
+  "total": 3850,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_ea1bc1c5255d",
+      "slug": "text-to-image-with-reference-billiards-bar-scene",
+      "title": "Text-to-Image with Reference - Billiards Bar Scene",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ea1bc1c5255d.json"
+    },
     {
       "id": "opl_3f633101f9b6",
       "slug": "tgscrape",
@@ -1110,15 +1119,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_34f6bcc21661.json"
-    },
-    {
-      "id": "opl_f999d2ea0948",
-      "slug": "tumeric-kojic-soap",
-      "title": "Tumeric kojic soap",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_f999d2ea0948.json"
     }
   ]
 }
