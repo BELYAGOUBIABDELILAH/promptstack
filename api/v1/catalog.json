@@ -1871,6 +1871,15 @@
     "snippet": "Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time."
   },
   {
+    "id": "opl_10bd59da3f51",
+    "title": "Time management and calculating for my employees to be signed in by email",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "time-management-and-calculating-for-my-employees-to-be-signe",
+    "variables": [],
+    "snippet": "Using this app to record time of starting and ending shifts for multi workers to save the date,time and duration of each shift and giving a report in the end of each month.it can b"
+  },
+  {
     "id": "opl_53a35b5a63c6",
     "title": "Tom and Jerry",
     "category": "AI & Automation",
@@ -26224,15 +26233,6 @@
     "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
     "variables": [],
     "snippet": "The Mystery of Easter Island | Who Built the Giant Moai Statues? In the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues. But here's the m"
-  },
-  {
-    "id": "opl_10bd59da3f51",
-    "title": "Time management and calculating for my employees to be signed in by email",
-    "category": "General",
-    "folder": "general",
-    "slug": "time-management-and-calculating-for-my-employees-to-be-signed-in-by-email",
-    "variables": [],
-    "snippet": "Using this app to record time of starting and ending shifts for multi workers to save the date,time and duration of each shift and giving a report in the end of each month.it can b"
   },
   {
     "id": "opl_34f6bcc21661",

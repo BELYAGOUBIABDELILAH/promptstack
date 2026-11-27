@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**180 prompts in this category**
+**181 prompts in this category**
 
 ## Table of Contents
 
@@ -168,6 +168,7 @@
 - [The Colorful Fish Learning Emotions](the-colorful-fish-learning-emotions.md)
 - [TikTok Video Style Prompt Generator](tiktok-video-style-prompt-generator.md)
 - [Time Commitment](time-commitment.md)
+- [Time management and calculating for my employees to be signed in by email](time-management-and-calculating-for-my-employees-to-be-signe.md)
 - [Tom and Jerry](tom-and-jerry.md)
 - [Transform the provided clothing product image.](transform-the-provided-clothing-product-image.md)
 - [trello-integration-skill](trello-integration-skill.md)
