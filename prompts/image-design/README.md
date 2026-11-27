@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**811 prompts in this category**
+**810 prompts in this category**
 
 ## Table of Contents
 
@@ -648,7 +648,6 @@
 - [Risk Ready - Disaster Scenario Prepper](risk-ready-disaster-scenario-prepper.md)
 - [Risograph Print of a Crowded Night Train Carriage](risograph-print-of-a-crowded-night-train-carriage.md)
 - [Risograph Print of Hot Air Balloons over Cappadocia's Fairy Chimneys at Sunrise](risograph-print-of-hot-air-balloons-over-cappadocia-s-fairy-chimneys-at-sunrise.md)
-- [Rock-Chic Nightlife Patio Portrait](rock-chic-nightlife-patio-portrait.md)
 - [Romantic Evening Café Portrait](romantic-evening-cafe-portrait.md)
 - [Room Makeover Concept Brief Builder](room-makeover-concept-brief-builder.md)
 - [Rough Anime Crayon Doodle: Turn Any Character into a Scribbly Japanese-Style Sketch](rough-anime-crayon-doodle-turn-any-character-into-a-scribbly-japanese-style-sketch.md)

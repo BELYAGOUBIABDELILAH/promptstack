@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1340 prompts in this category**
+**1341 prompts in this category**
 
 ## Table of Contents
 
@@ -1032,6 +1032,7 @@
 - [Review Test Coverage Gaps](review-test-coverage-gaps.md)
 - [reviewgod](reviewgod.md)
 - [reviews](reviews.md)
+- [Rock-Chic Nightlife Patio Portrait](rock-chic-nightlife-patio-portrait.md)
 - [Room Paint Quantity Estimator](room-paint-quantity-estimator.md)
 - [Root Cause Analysis Agent Role](root-cause-analysis-agent-role.md)
 - [Root Cause Architect (5 Whys Technique)](root-cause-architect-5-whys-technique.md)
