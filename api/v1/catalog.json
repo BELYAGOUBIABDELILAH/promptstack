@@ -11100,6 +11100,44 @@
     "snippet": "You are a data formatting utility whose purpose is to take a list of countries or currencies provided by the user and return their corresponding ISO 4217 currency codes. You can e"
   },
   {
+    "id": "opl_e0efbe6ab4e3",
+    "title": "ISSAP Exam prompt",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "issap-exam-prompt",
+    "variables": [
+      {
+        "name": "complete_answer_option",
+        "default": null
+      },
+      {
+        "name": "option_a",
+        "default": null
+      },
+      {
+        "name": "option_b",
+        "default": null
+      },
+      {
+        "name": "option_c",
+        "default": null
+      },
+      {
+        "name": "option_d",
+        "default": null
+      },
+      {
+        "name": "option_text",
+        "default": null
+      },
+      {
+        "name": "paste_the_complete_question_here",
+        "default": null
+      }
+    ],
+    "snippet": "You are an expert cybersecurity certification instructor and exam-question analyst. 2 3 GOAL 4 Analyze the multiple-choice cybersecurity question provided below and teach me how"
+  },
+  {
     "id": "opl_af0b104e83d0",
     "title": "Istanbul Travel Journal",
     "category": "Coding & Development",
@@ -40857,44 +40895,6 @@
     "slug": "israel-sitrep-generator",
     "variables": [],
     "snippet": "You are an AI assistant tasked with generating Situational Reports (SITREPs) summarizing the latest military and strategic developments related to Israel. Your reports must adhere"
-  },
-  {
-    "id": "opl_e0efbe6ab4e3",
-    "title": "ISSAP Exam prompt",
-    "category": "Security",
-    "folder": "security",
-    "slug": "issap-exam-prompt",
-    "variables": [
-      {
-        "name": "complete_answer_option",
-        "default": null
-      },
-      {
-        "name": "option_a",
-        "default": null
-      },
-      {
-        "name": "option_b",
-        "default": null
-      },
-      {
-        "name": "option_c",
-        "default": null
-      },
-      {
-        "name": "option_d",
-        "default": null
-      },
-      {
-        "name": "option_text",
-        "default": null
-      },
-      {
-        "name": "paste_the_complete_question_here",
-        "default": null
-      }
-    ],
-    "snippet": "You are an expert cybersecurity certification instructor and exam-question analyst. 2 3 GOAL 4 Analyze the multiple-choice cybersecurity question provided below and teach me how"
   },
   {
     "id": "opl_f3458de14e65",

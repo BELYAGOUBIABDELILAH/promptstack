@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**86 prompts in this category**
+**85 prompts in this category**
 
 ## Table of Contents
 
@@ -57,7 +57,6 @@
 - [Internal Linking SEO Assistant](internal-linking-seo-assistant.md)
 - [Israel News Summary](israel-news-summary.md)
 - [Israel SITREP Generator](israel-sitrep-generator.md)
-- [ISSAP Exam prompt](issap-exam-prompt.md)
 - [Job Description Evaluator](job-description-evaluator.md)
 - [Job Offer Comparison Matrix (JSON)](job-offer-comparison-matrix-json.md)
 - [Linux - Terminal Master](linux-terminal-master.md)

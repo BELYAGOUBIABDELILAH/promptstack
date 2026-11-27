@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1341 prompts in this category**
+**1342 prompts in this category**
 
 ## Table of Contents
 
@@ -679,6 +679,7 @@
 - [Is There A Tech For That?](is-there-a-tech-for-that.md)
 - [ISO 3166 Lookup (Country Codes)](iso-3166-lookup-country-codes.md)
 - [ISO 4217 Lookup (World Currencies)](iso-4217-lookup-world-currencies.md)
+- [ISSAP Exam prompt](issap-exam-prompt.md)
 - [Istanbul Travel Journal](istanbul-travel-journal.md)
 - [IT Architect](it-architect.md)
 - [IT Expert](it-expert.md)

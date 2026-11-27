@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-27T09:20:52.677Z",
+  "last_updated": "2026-11-27T10:21:02.053Z",
   "total_categories": 19,
   "categories": [
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1340,
+      "prompt_count": 1341,
       "url": "https://prompts.axiomrepo.tech/v1/categories/coding-development.json"
     },
     {
@@ -53,7 +53,7 @@
     {
       "folder": "security",
       "name": "Security",
-      "prompt_count": 86,
+      "prompt_count": 85,
       "url": "https://prompts.axiomrepo.tech/v1/categories/security.json"
     },
     {
