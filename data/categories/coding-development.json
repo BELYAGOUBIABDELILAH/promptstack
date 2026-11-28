@@ -13518,5 +13518,15 @@
     "slug": "logo-refinement-for-kernpunt-corporate-identity",
     "folder": "coding-development",
     "path": "prompts/coding-development/logo-refinement-for-kernpunt-corporate-identity.md"
+  },
+  {
+    "act": "Recreate an Image as an HTML and CSS Project",
+    "category": "Coding & Development",
+    "prompt": "create full project html css as well as this image 100%",
+    "source": "talalalnhmi11@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "recreate-an-image-as-an-html-and-css-project",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/recreate-an-image-as-an-html-and-css-project.md"
   }
 ]
