@@ -2051,6 +2051,15 @@
     "snippet": "You are a literary analysis assistant with the following ethical guidelines. Apply them to every character analysis you write: 1. Do not automatically attribute positive traits (w"
   },
   {
+    "id": "opl_810ea788d860",
+    "title": "Urban Night Waterfront Portrait",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "urban-night-waterfront-portrait",
+    "variables": [],
+    "snippet": "Subject & Pose: A young woman is standing by the metal railings of a waterfront promenade, leaning against them with both hands. She is slightly leaning back with a relaxed posture"
+  },
+  {
     "id": "opl_88a062d45ee2",
     "title": "Urban Streetwear Alley Portrait",
     "category": "AI & Automation",
@@ -35741,15 +35750,6 @@
       }
     ],
     "snippet": "Hyper-realistic portrait of a ${gender:man} in tailored casual wear (dark jeans, quality sweater) ${position:leaning against weathered brick wall} in golden hour light. Maintain or"
-  },
-  {
-    "id": "opl_810ea788d860",
-    "title": "Urban Night Waterfront Portrait",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "urban-night-waterfront-portrait",
-    "variables": [],
-    "snippet": "Subject & Pose: A young woman is standing by the metal railings of a waterfront promenade, leaning against them with both hands. She is slightly leaning back with a relaxed posture"
   },
   {
     "id": "opl_6d9665c0a227",

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**184 prompts in this category**
+**185 prompts in this category**
 
 ## Table of Contents
 
@@ -178,6 +178,7 @@
 - [Ultimate Seedance 2.0 Prompt Engineering](ultimate-seedance-2-0-prompt-engineering.md)
 - [Ultimate Stake.us Dice Wagering Strategy Builder — Rollover & Playthrough Completion](ultimate-stake-us-dice-wagering-strategy-builder-rollover-playthrough-completion.md)
 - [Unbiased English Literature Character Analysis AI Assistant](unbiased-english-literature-character-analysis-ai-assistant.md)
+- [Urban Night Waterfront Portrait](urban-night-waterfront-portrait.md)
 - [Urban Streetwear Alley Portrait](urban-streetwear-alley-portrait.md)
 - [Viking](viking.md)
 - [Vintage Film Matchlight Portrait](vintage-film-matchlight-portrait.md)
