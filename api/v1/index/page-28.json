@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-28T15:20:52.362Z",
+  "last_updated": "2026-11-28T16:21:04.019Z",
   "page": 28,
   "per_page": 100,
-  "total": 3850,
+  "total": 3851,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
@@ -989,6 +989,15 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_30c986f33736.json"
     },
     {
+      "id": "opl_3cd1c5e5e005",
+      "slug": "prompt-builder-for-pdf-excel-and-powerpoint-generation",
+      "title": "Prompt Builder for PDF, Excel and PowerPoint Generation",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3cd1c5e5e005.json"
+    },
+    {
       "id": "opl_7291e2ffb88a",
       "slug": "prompt-converter-json-to-markdown",
       "title": "Prompt Converter - JSON To Markdown",
@@ -1208,15 +1217,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_be9a03ac48aa.json"
-    },
-    {
-      "id": "opl_4fd4584543a3",
-      "slug": "prompt-to-parameters",
-      "title": "Prompt To Parameters",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4fd4584543a3.json"
     }
   ]
 }

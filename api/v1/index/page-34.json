@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T15:20:52.362Z",
+  "last_updated": "2026-11-28T16:21:04.019Z",
   "page": 34,
   "per_page": 100,
-  "total": 3850,
+  "total": 3851,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prompts": [
+    {
+      "id": "opl_152c3bc9dfba",
+      "slug": "step-6-publication",
+      "title": "Step 6: Publication",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_152c3bc9dfba.json"
+    },
     {
       "id": "opl_da7408858cce",
       "slug": "step-inside-a-painting-frozen-3d-camera-fly-through-image-to-video",
@@ -1178,15 +1187,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_31b38364e3c2.json"
-    },
-    {
-      "id": "opl_b1912b040020",
-      "slug": "synonym-finder",
-      "title": "Synonym Finder",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b1912b040020.json"
     }
   ]
 }

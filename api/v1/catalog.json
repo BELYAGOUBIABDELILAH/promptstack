@@ -21785,6 +21785,15 @@
     "snippet": "# Task context You will be acting as ${role}. The context is ${context}. Your goal is ${goal}, to achieve ${sucess_criteria}. # Tone context You should maintain a ${tone} tone."
   },
   {
+    "id": "opl_3cd1c5e5e005",
+    "title": "Prompt Builder for PDF, Excel and PowerPoint Generation",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "prompt-builder-for-pdf-excel-and-powerpoint-generation",
+    "variables": [],
+    "snippet": "i want to extract best prompt for generating the pdf , excel or powerpoint"
+  },
+  {
     "id": "opl_370a4b9066f6",
     "title": "Prompt To Tool Ideator",
     "category": "Data & Analytics",

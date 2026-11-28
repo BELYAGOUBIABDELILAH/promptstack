@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T15:20:52.362Z",
+  "last_updated": "2026-11-28T16:21:04.019Z",
   "page": 30,
   "per_page": 100,
-  "total": 3850,
+  "total": 3851,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prompts": [
+    {
+      "id": "opl_6fa2c4d73547",
+      "slug": "realistic-mirror-selfie-scene-creation",
+      "title": "Realistic Mirror-Selfie Scene Creation",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6fa2c4d73547.json"
+    },
     {
       "id": "opl_1d45d695fd75",
       "slug": "realistic-monkey-fruit-mukbang",
@@ -1068,15 +1077,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ecf0fabf5012.json"
-    },
-    {
-      "id": "opl_139641091f16",
-      "slug": "rock-chic-nightlife-patio-portrait",
-      "title": "Rock-Chic Nightlife Patio Portrait",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_139641091f16.json"
     }
   ]
 }

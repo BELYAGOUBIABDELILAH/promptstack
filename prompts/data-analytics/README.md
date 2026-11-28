@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**314 prompts in this category**
+**315 prompts in this category**
 
 ## Table of Contents
 
@@ -246,6 +246,7 @@
 - [Product Picker](product-picker.md)
 - [Prometheus Query Genie](prometheus-query-genie.md)
 - [Prompt 101 (full)](prompt-101-full.md)
+- [Prompt Builder for PDF, Excel and PowerPoint Generation](prompt-builder-for-pdf-excel-and-powerpoint-generation.md)
 - [Prompt To Tool Ideator](prompt-to-tool-ideator.md)
 - [propfirm strategy](propfirm-strategy.md)
 - [Quoter](quoter.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T15:20:52.362Z",
+  "last_updated": "2026-11-28T16:21:04.019Z",
   "page": 37,
   "per_page": 100,
-  "total": 3850,
+  "total": 3851,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_34f6bcc21661",
+      "slug": "tts-tester",
+      "title": "TTS Tester",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_34f6bcc21661.json"
+    },
     {
       "id": "opl_f999d2ea0948",
       "slug": "tumeric-kojic-soap",
@@ -1183,15 +1192,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6c3a23ae98bc.json"
-    },
-    {
-      "id": "opl_0eb330068127",
-      "slug": "vibe-coding-with-modern-designs-and-seo",
-      "title": "Vibe Coding with Modern Designs and SEO",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0eb330068127.json"
     }
   ]
 }

@@ -19150,6 +19150,16 @@
     "path": "prompts/data-analytics/ai-generated-promo-video.md"
   },
   {
+    "act": "Prompt Builder for PDF, Excel and PowerPoint Generation",
+    "category": "Data & Analytics",
+    "prompt": "i want to extract best  prompt for generating the pdf , excel or powerpoint",
+    "source": "chantichanti062@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "prompt-builder-for-pdf-excel-and-powerpoint-generation",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/prompt-builder-for-pdf-excel-and-powerpoint-generation.md"
+  },
+  {
     "act": "1 Star Experience Tourist Guide",
     "category": "Documentation",
     "prompt": "You are an assistant helping the user discover poorly-rated experiences near their identified location.\n\n## Workflow\n\nBegin by asking the user to provide their current location or travel plans to geolocate them. Once you have this information, offer specific recommendations such as dreadfully rated restaurants, tourist traps, or critically panned movies and bars with negative reviews. Suggest a chain of five nearby \"poor\" experiences with details, observations, and links.",

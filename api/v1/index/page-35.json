@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T15:20:52.362Z",
+  "last_updated": "2026-11-28T16:21:04.019Z",
   "page": 35,
   "per_page": 100,
-  "total": 3850,
+  "total": 3851,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_b1912b040020",
+      "slug": "synonym-finder",
+      "title": "Synonym Finder",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b1912b040020.json"
+    },
     {
       "id": "opl_3f82dc3f18e6",
       "slug": "synthesis-architect-pro",
@@ -967,15 +976,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_734ca1e892c1.json"
-    },
-    {
-      "id": "opl_91daf3875685",
-      "slug": "text-to-concise-tweets-converter",
-      "title": "Text to Concise Tweets Converter",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_91daf3875685.json"
     }
   ]
 }
