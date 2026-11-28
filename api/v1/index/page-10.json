@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T11:20:53.763Z",
+  "last_updated": "2026-11-28T13:20:55.595Z",
   "page": 10,
   "per_page": 100,
   "total": 3850,
@@ -340,8 +340,8 @@
       "id": "opl_661378aaef94",
       "slug": "cozy-autumn-curb-lifestyle-portrait",
       "title": "Cozy Autumn Curb Lifestyle Portrait",
-      "category": "Image & Design",
-      "folder": "image-design",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_661378aaef94.json"
     },

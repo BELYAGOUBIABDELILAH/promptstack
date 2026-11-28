@@ -4098,6 +4098,21 @@ TOP PANEL: close-up selfie, one eye winking.
 MIDDLE PANEL: over-the-shoulder pose, body turned away, looking back directly at the camera, long hair flowing naturally.
 
 BOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,tri-panel-collage-portrait,ai-automation,prompts/ai-automation/tri-panel-collage-portrait.md
+Cozy Autumn Curb Lifestyle Portrait,AI & Automation,"Ultra-realistic, high-quality, sharp 8K photo, 3:4 aspect ratio. Shot on iPhone 16 Pro Max. Preserve 100% facial likeness — do not change any facial features. Cute face. Lips fully closed.
+Character & pose:
+A young woman is sitting on a concrete curb in a relaxed, natural pose. One leg is slightly bent and resting on the curb, while the other hangs down. Her hands rest loosely near her knees, and her upper body leans slightly forward. She is looking off to the side, not at the camera.
+Expression & makeup:
+A soft, relaxed half-smile with fully closed lips. Clean Girl makeup with a natural, fresh complexion, subtle blush, and even skin tone.
+Hairstyle:
+Hair is styled in a high, voluminous, slightly messy bun. A few loose front strands softly frame her face, with realistic flyaways gently moved by the wind.
+Outfit & footwear:
+An oversized chocolate-brown sweatshirt with no prints, fitted black leggings, high white slouch socks, and chunky black leather lace-up boots in the Dr. Martens style. A delicate pendant necklace is visible.
+Props:
+Next to her on the curb is a clear plastic iced latte cup with a straw, along with a soft black fabric tote bag.
+Background & atmosphere:
+An autumn urban parking lot with parked cars in the background, trees with golden autumn leaves, and a tall street lamp. The sky is completely clear and bright blue. Cozy autumn vibe, casual street style.
+Lighting & camera:
+Bright natural sunlight with strong directional light creating crisp, contrasting shadows on the asphalt. Eye-level angle from the perspective of the seated model, full-body lifestyle composition capturing both the subject and surroundings.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,cozy-autumn-curb-lifestyle-portrait,ai-automation,prompts/ai-automation/cozy-autumn-curb-lifestyle-portrait.md
 1Password Assistant,Business & Career,"You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",src_4a926cf15dae,TEXT,1password-assistant,business-career,prompts/business-career/1password-assistant.md
 A professional Egyptian barista,Business & Career,"A professional Egyptian barista has a client who owns the following: a home espresso machine with three portafilters (size 51), a pitcher, a home coffee grinder, a coffee bean scale, a water sprayer, a bean weighing tray, a clump breaker, a spring tamper, a coffee grinder, and a table that he uses as a coffee corner. The barista's goal is to explain and train the client.",speedy4w (prompts.chat),TEXT,a-professional-egyptian-barista,business-career,prompts/business-career/a-professional-egyptian-barista.md
 Accountant,Business & Career,"I want you to act as an accountant and come up with creative ways to manage finances. You'll need to consider budgeting, investment strategies and risk management when creating a financial plan for your client. In some cases, you may also need to provide advice on taxation laws and regulations in order to help them maximize their profits. My first suggestion request is Create a financial plan for a small business that focuses on cost savings and long-term investments"""".""",src_dab9fa094922,TEXT,accountant,business-career,prompts/business-career/accountant.md
@@ -115375,21 +115390,6 @@ Then produce the brief with these sections:
 10. **Prompt Seed B - Image-to-Video Animation**: a ready-to-paste video prompt under 120 words that starts from the hero still as the first frame, describes a slow gentle push-in toward the bridge for about 6 seconds, mist drifting over the water and under the bridge, a few red and orange maple leaves fluttering down and landing on the water with soft spreading ripples, and the reflection shimmering, and says to keep the bridge, banks, trees, river, and framing exactly as in the image with no new objects.
 
 Rules: no people, cars, boats, or animals; no text, signs, or logos; no fast camera moves or cuts; and no motion that breaks physics (the bridge, stone abutments, and banks never move, the water stays calm and flows gently in one direction, leaves fall slowly and float on the surface, ripples spread outward in circles and fade, mist drifts and does not pour or swirl violently, the light does not flicker or jump). Use short paragraphs and lists.",prompts.chat,TEXT,covered-bridge-autumn-scene-concept-brief-builder,image-design,prompts/image-design/covered-bridge-autumn-scene-concept-brief-builder.md
-Cozy Autumn Curb Lifestyle Portrait,Image & Design,"Ultra-realistic, high-quality, sharp 8K photo, 3:4 aspect ratio. Shot on iPhone 16 Pro Max. Preserve 100% facial likeness — do not change any facial features. Cute face. Lips fully closed.
-Character & pose:
-A young woman is sitting on a concrete curb in a relaxed, natural pose. One leg is slightly bent and resting on the curb, while the other hangs down. Her hands rest loosely near her knees, and her upper body leans slightly forward. She is looking off to the side, not at the camera.
-Expression & makeup:
-A soft, relaxed half-smile with fully closed lips. Clean Girl makeup with a natural, fresh complexion, subtle blush, and even skin tone.
-Hairstyle:
-Hair is styled in a high, voluminous, slightly messy bun. A few loose front strands softly frame her face, with realistic flyaways gently moved by the wind.
-Outfit & footwear:
-An oversized chocolate-brown sweatshirt with no prints, fitted black leggings, high white slouch socks, and chunky black leather lace-up boots in the Dr. Martens style. A delicate pendant necklace is visible.
-Props:
-Next to her on the curb is a clear plastic iced latte cup with a straw, along with a soft black fabric tote bag.
-Background & atmosphere:
-An autumn urban parking lot with parked cars in the background, trees with golden autumn leaves, and a tall street lamp. The sky is completely clear and bright blue. Cozy autumn vibe, casual street style.
-Lighting & camera:
-Bright natural sunlight with strong directional light creating crisp, contrasting shadows on the asphalt. Eye-level angle from the perspective of the seated model, full-body lifestyle composition capturing both the subject and surroundings.",prompts.chat,TEXT,cozy-autumn-curb-lifestyle-portrait,image-design,prompts/image-design/cozy-autumn-curb-lifestyle-portrait.md
 Cozy Autumn Sherpa Portrait,Image & Design,"Main Subject (Woman):
 
 Subject: A young woman with straight hair peeking out from under a hat.

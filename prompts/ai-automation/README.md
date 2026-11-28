@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**183 prompts in this category**
+**184 prompts in this category**
 
 ## Table of Contents
 
@@ -54,6 +54,7 @@
 - [Comprehensive Book Summarizer](comprehensive-book-summarizer.md)
 - [Comprehensive Guide to Gas-Fired Pool Heaters with Visuals](comprehensive-guide-to-gas-fired-pool-heaters-with-visuals.md)
 - [Continuous Execution Mode AI](continuous-execution-mode-ai.md)
+- [Cozy Autumn Curb Lifestyle Portrait](cozy-autumn-curb-lifestyle-portrait.md)
 - [Cozy Autumn Park Profile](cozy-autumn-park-profile.md)
 - [Cozy Autumn Pumpkin Patch Portrait](cozy-autumn-pumpkin-patch-portrait.md)
 - [Cozy Minimalist Matcha Mirror Selfie](cozy-minimalist-matcha-mirror-selfie.md)

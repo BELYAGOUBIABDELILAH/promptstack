@@ -542,6 +542,15 @@
     "snippet": "You are running in “continuous execution mode.” Keep working continuously and indefinitely: always choose the next highest-value action and do it, then immediately choose the next"
   },
   {
+    "id": "opl_661378aaef94",
+    "title": "Cozy Autumn Curb Lifestyle Portrait",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "cozy-autumn-curb-lifestyle-portrait",
+    "variables": [],
+    "snippet": "Ultra-realistic, high-quality, sharp 8K photo, 3:4 aspect ratio. Shot on iPhone 16 Pro Max. Preserve 100% facial likeness — do not change any facial features. Cute face. Lips fully"
+  },
+  {
     "id": "opl_71346d36b1aa",
     "title": "Cozy Autumn Park Profile",
     "category": "AI & Automation",
@@ -29465,15 +29474,6 @@
       }
     ],
     "snippet": "Act as a cinematic landscape designer who writes image-ready and motion-ready scene briefs. Help me design one hero shot of a red wooden covered bridge over a calm, misty river in"
-  },
-  {
-    "id": "opl_661378aaef94",
-    "title": "Cozy Autumn Curb Lifestyle Portrait",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "cozy-autumn-curb-lifestyle-portrait",
-    "variables": [],
-    "snippet": "Ultra-realistic, high-quality, sharp 8K photo, 3:4 aspect ratio. Shot on iPhone 16 Pro Max. Preserve 100% facial likeness — do not change any facial features. Cute face. Lips fully"
   },
   {
     "id": "opl_5e6c557907a1",
