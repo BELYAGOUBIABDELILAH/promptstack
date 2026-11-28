@@ -1,7 +1,7 @@
 # Rustic Farm Logo Design
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** abouhanae.72@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -16,4 +16,4 @@
 > - need logo in a vector file format, specifically an EPS, SVG, or DXF file and a PDF
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

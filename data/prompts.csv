@@ -91960,6 +91960,15 @@ TECHNICAL DETAILS
 - Format: stick pack, approx. ${width} x ${height} mm (we'll confirm the exact dieline with the winner)
 - Flavours: [e.g. Lemon Lime, Watermelon, Raspberry]. Please show at least one.
 - Back side: space for ingredients, nutrition table, usage instructions, EAN barcode and multi-language text (SE/DK/NO/PL). Placeholder text is fine.",abouhanae.72@gmail.com (prompts.chat),TEXT,electrolyte-drink-mix-package-design,coding-development,prompts/coding-development/electrolyte-drink-mix-package-design.md
+Rustic Farm Logo Design,Coding & Development,"I'm looking for a talented designer to create a rustic-style farm logo for my brand. R Lucky Star Farm
+
+The logo should include:
+- A rustic aesthetic
+- Inclusion of farm animals: cow, pig, and chicken
+- Five stars integrated into the design
+- maybe a horseshoe
+- the letter R
+- need logo in a vector file format, specifically an EPS, SVG, or DXF file and a PDF",abouhanae.72@gmail.com (prompts.chat),TEXT,rustic-farm-logo-design,coding-development,prompts/coding-development/rustic-farm-logo-design.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -122367,15 +122376,6 @@ The logo should include:
 - Five stars integrated into the design
 - maybe a horseshoe
 - the letter R",prompts.chat,TEXT,rustic-farm,image-design,prompts/image-design/rustic-farm.md
-Rustic Farm Logo Design,Image & Design,"I'm looking for a talented designer to create a rustic-style farm logo for my brand. R Lucky Star Farm
-
-The logo should include:
-- A rustic aesthetic
-- Inclusion of farm animals: cow, pig, and chicken
-- Five stars integrated into the design
-- maybe a horseshoe
-- the letter R
-- need logo in a vector file format, specifically an EPS, SVG, or DXF file and a PDF",prompts.chat,TEXT,rustic-farm-logo-design,image-design,prompts/image-design/rustic-farm-logo-design.md
 SaaS Payment Plan Options,Image & Design,"Act as a website designer. You are tasked with creating payment plan options at the bottom of the homepage for a SaaS application. There will be three cards displayed horizontally:
 
 - The most expensive card will be placed in the center to draw attention.
