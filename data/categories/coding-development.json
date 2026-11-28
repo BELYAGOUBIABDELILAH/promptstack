@@ -13498,5 +13498,15 @@
     "slug": "rustic-farm-logo-design",
     "folder": "coding-development",
     "path": "prompts/coding-development/rustic-farm-logo-design.md"
+  },
+  {
+    "act": "Rustic Farm",
+    "category": "Coding & Development",
+    "prompt": "I'm looking for a talented designer to create a rustic-style farm logo for my brand. R Lucky Star Farm\n\nThe logo should include:\n- A rustic aesthetic\n- Inclusion of farm animals: cow, pig, and chicken\n- Five stars integrated into the design\n- maybe a horseshoe\n- the letter R",
+    "source": "abouhanae.72@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "rustic-farm",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/rustic-farm.md"
   }
 ]
