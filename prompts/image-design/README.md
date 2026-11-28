@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**799 prompts in this category**
+**798 prompts in this category**
 
 ## Table of Contents
 
@@ -443,7 +443,6 @@
 - [Loggerhead Sea Turtle Hatchlings Racing to the Surf at Sunrise (Image-to-Video Animation)](loggerhead-sea-turtle-hatchlings-racing-to-the-surf-at-sunrise-image-to-video-animation.md)
 - [Logic Builder Tool](logic-builder-tool.md)
 - [Logo design](logo-design.md)
-- [Logo Refinement for "KERNPUNT" Corporate Identity](logo-refinement-for-kernpunt-corporate-identity.md)
 - [Lost in Motion | A Moment Between Light and Shadows](lost-in-motion-a-moment-between-light-and-shadows.md)
 - [Low-Poly Floating Island Windmill Farm (3D Render)](low-poly-floating-island-windmill-farm-3d-render.md)
 - [Luxury Contemporary Mansion FPV Walkthrough: Golden-Hour Rooftop Pool to Double-Height Interior (16:9 Real Estate Video)](luxury-contemporary-mansion-fpv-walkthrough-golden-hour-rooftop-pool-to-double-height-interior-16-9-real-estate-video.md)

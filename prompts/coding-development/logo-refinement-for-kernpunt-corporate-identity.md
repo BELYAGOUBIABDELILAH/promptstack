@@ -1,7 +1,7 @@
 # Logo Refinement for "KERNPUNT" Corporate Identity
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** abouhanae.72@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -33,4 +33,4 @@
 > Finalized Typographic Workmark: Apply the specific bold/light weight split and deep/light blue color scheme to "KERNPUNT."
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

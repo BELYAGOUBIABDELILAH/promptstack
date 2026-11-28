@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T08:20:57.609Z",
+  "last_updated": "2026-11-28T09:20:50.251Z",
   "page": 22,
   "per_page": 100,
   "total": 3850,
@@ -344,8 +344,8 @@
       "id": "opl_4fed85203615",
       "slug": "logo-refinement-for-kernpunt-corporate-identity",
       "title": "Logo Refinement for \"KERNPUNT\" Corporate Identity",
-      "category": "Image & Design",
-      "folder": "image-design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_4fed85203615.json"
     },

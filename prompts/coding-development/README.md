@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1348 prompts in this category**
+**1349 prompts in this category**
 
 ## Table of Contents
 
@@ -759,6 +759,7 @@
 - [Local Business Management MVP Phase 1 Foundation](local-business-management-mvp-phase-1-foundation.md)
 - [Local TTS Guide](local-tts-guide.md)
 - [Logistician](logistician.md)
+- [Logo Refinement for "KERNPUNT" Corporate Identity](logo-refinement-for-kernpunt-corporate-identity.md)
 - [Lookup Table Generator (CSV)](lookup-table-generator-csv.md)
 - [low risk to uplift income](low-risk-to-uplift-income.md)
 - [Machine Learning Engineer](machine-learning-engineer.md)
