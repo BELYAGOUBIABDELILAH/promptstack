@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-28T07:20:50.136Z",
-  "total": 181,
+  "last_updated": "2026-11-28T08:20:57.609Z",
+  "total": 182,
   "prompts": [
     {
       "id": "opl_a0ea04a6dfe4",
@@ -3147,6 +3147,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c87b2f9acdca.json"
+    },
+    {
+      "id": "opl_98caa6bc5e7f",
+      "slug": "tri-panel-collage-portrait",
+      "title": "Tri-Panel Collage Portrait",
+      "prompt": "Create a vertical 9:16 collage with exactly 3 clearly separated equal panels stacked vertically. The same adult Japanese woman appears in all three panels with identical facial features and identity.\n\nTOP PANEL: close-up selfie, one eye winking.\n\nMIDDLE PANEL: over-the-shoulder pose, body turned away, looking back directly at the camera, long hair flowing naturally.\n\nBOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_6a1342800c95"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_98caa6bc5e7f.json"
     },
     {
       "id": "opl_ffb4f5d51ebf",

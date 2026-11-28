@@ -4091,6 +4091,13 @@ Mood: Intimate, confident, stylish, mysterious, and modern city night.
 Camera: Eye-level shot, medium portrait, vertical 3:4. Hyper-realistic, ultra-detailed 8K, photographed on iPhone 16 Pro.
 
 Do not change the facial features.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,cinematic-urban-night-portrait,ai-automation,prompts/ai-automation/cinematic-urban-night-portrait.md
+Tri-Panel Collage Portrait,AI & Automation,"Create a vertical 9:16 collage with exactly 3 clearly separated equal panels stacked vertically. The same adult Japanese woman appears in all three panels with identical facial features and identity.
+
+TOP PANEL: close-up selfie, one eye winking.
+
+MIDDLE PANEL: over-the-shoulder pose, body turned away, looking back directly at the camera, long hair flowing naturally.
+
+BOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,tri-panel-collage-portrait,ai-automation,prompts/ai-automation/tri-panel-collage-portrait.md
 1Password Assistant,Business & Career,"You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",src_4a926cf15dae,TEXT,1password-assistant,business-career,prompts/business-career/1password-assistant.md
 A professional Egyptian barista,Business & Career,"A professional Egyptian barista has a client who owns the following: a home espresso machine with three portafilters (size 51), a pitcher, a home coffee grinder, a coffee bean scale, a water sprayer, a bean weighing tray, a clump breaker, a spring tamper, a coffee grinder, and a table that he uses as a coffee corner. The barista's goal is to explain and train the client.",speedy4w (prompts.chat),TEXT,a-professional-egyptian-barista,business-career,prompts/business-career/a-professional-egyptian-barista.md
 Accountant,Business & Career,"I want you to act as an accountant and come up with creative ways to manage finances. You'll need to consider budgeting, investment strategies and risk management when creating a financial plan for your client. In some cases, you may also need to provide advice on taxation laws and regulations in order to help them maximize their profits. My first suggestion request is Create a financial plan for a small business that focuses on cost savings and long-term investments"""".""",src_dab9fa094922,TEXT,accountant,business-career,prompts/business-career/accountant.md
@@ -124987,13 +124994,6 @@ Rules:
 - If my description is missing something essential, make a sensible assumption and list it at the top.",prompts.chat,TEXT,treehouse-retreat-concept-brief-builder,image-design,prompts/image-design/treehouse-retreat-concept-brief-builder.md
 Trendy Streetwear Café Portrait,Image & Design,"Ultra-realistic casual café portrait, stylish woman sitting at an outdoor food spot in front of glass refrigerators filled with colorful bottled drinks. She holds a large glass of cold amber sparkling non-alcoholic drink with light foam and brings it close to her lips, in the other hand she holds a wrapped shawarma. Eyes softly closed, relaxed satisfied expression. Long straight hair with a center part, defined brows, sharp winged eyeliner, warm bronzed makeup, glossy skin. Outfit: oversized bright pink zip-up hoodie over a white top, black crossbody bag with chain detail. Long pink manicure, rings, trendy street-style vibe. Bright natural daylight, candid food moment, urban lifestyle aesthetic, realistic skin texture, sharp focus, shallow depth of field, vertical 9:16, photorealism.
 ultra realistic 8K, hyper-detailed, sharp focus; shallow depth of field, natural bokeh; HDR lighting; cinematic color grading; lens 85mm/50mm/35mm; aperture f/1.4–f/2.8; key light at 45°, soft shadows; rim/back light for separation; clean white balance; natural skin texture with visible pores, glossy highlights. Format 9:16",prompts.chat,TEXT,trendy-streetwear-cafe-portrait,image-design,prompts/image-design/trendy-streetwear-cafe-portrait.md
-Tri-Panel Collage Portrait,Image & Design,"Create a vertical 9:16 collage with exactly 3 clearly separated equal panels stacked vertically. The same adult Japanese woman appears in all three panels with identical facial features and identity.
-
-TOP PANEL: close-up selfie, one eye winking.
-
-MIDDLE PANEL: over-the-shoulder pose, body turned away, looking back directly at the camera, long hair flowing naturally.
-
-BOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.",prompts.chat,TEXT,tri-panel-collage-portrait,image-design,prompts/image-design/tri-panel-collage-portrait.md
 TTS Script Generator,Image & Design,"You are a script refinement assistant.
 
 Your task is to take a user-provided script fragment intended for a text-to-speech device and transform it into a polished, easily understandable, and eloquent script.

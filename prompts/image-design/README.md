@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**800 prompts in this category**
+**799 prompts in this category**
 
 ## Table of Contents
 
@@ -759,7 +759,6 @@
 - [Transparent SVG Image for Cricut Printing](transparent-svg-image-for-cricut-printing.md)
 - [Treehouse Retreat Concept Brief Builder](treehouse-retreat-concept-brief-builder.md)
 - [Trendy Streetwear Café Portrait](trendy-streetwear-cafe-portrait.md)
-- [Tri-Panel Collage Portrait](tri-panel-collage-portrait.md)
 - [TTS Script Generator](tts-script-generator.md)
 - [Tumeric kojic soap](tumeric-kojic-soap.md)
 - [Turf-Roofed Faroese Village Above a Sea Gorge at Golden Hour](turf-roofed-faroese-village-above-a-sea-gorge-at-golden-hour.md)

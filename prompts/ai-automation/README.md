@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**182 prompts in this category**
+**183 prompts in this category**
 
 ## Table of Contents
 
@@ -173,6 +173,7 @@
 - [Tom and Jerry](tom-and-jerry.md)
 - [Transform the provided clothing product image.](transform-the-provided-clothing-product-image.md)
 - [trello-integration-skill](trello-integration-skill.md)
+- [Tri-Panel Collage Portrait](tri-panel-collage-portrait.md)
 - [Ultimate Seedance 2.0 Prompt Engineering](ultimate-seedance-2-0-prompt-engineering.md)
 - [Ultimate Stake.us Dice Wagering Strategy Builder — Rollover & Playthrough Completion](ultimate-stake-us-dice-wagering-strategy-builder-rollover-playthrough-completion.md)
 - [Unbiased English Literature Character Analysis AI Assistant](unbiased-english-literature-character-analysis-ai-assistant.md)

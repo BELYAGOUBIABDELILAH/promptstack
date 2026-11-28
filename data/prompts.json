@@ -1820,6 +1820,16 @@
     "path": "prompts/ai-automation/cinematic-urban-night-portrait.md"
   },
   {
+    "act": "Tri-Panel Collage Portrait",
+    "category": "AI & Automation",
+    "prompt": "Create a vertical 9:16 collage with exactly 3 clearly separated equal panels stacked vertically. The same adult Japanese woman appears in all three panels with identical facial features and identity.\n\nTOP PANEL: close-up selfie, one eye winking.\n\nMIDDLE PANEL: over-the-shoulder pose, body turned away, looking back directly at the camera, long hair flowing naturally.\n\nBOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.",
+    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "tri-panel-collage-portrait",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/tri-panel-collage-portrait.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",
@@ -30638,16 +30648,6 @@
     "slug": "trendy-streetwear-cafe-portrait",
     "folder": "image-design",
     "path": "prompts/image-design/trendy-streetwear-cafe-portrait.md"
-  },
-  {
-    "act": "Tri-Panel Collage Portrait",
-    "category": "Image & Design",
-    "prompt": "Create a vertical 9:16 collage with exactly 3 clearly separated equal panels stacked vertically. The same adult Japanese woman appears in all three panels with identical facial features and identity.\n\nTOP PANEL: close-up selfie, one eye winking.\n\nMIDDLE PANEL: over-the-shoulder pose, body turned away, looking back directly at the camera, long hair flowing naturally.\n\nBOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "tri-panel-collage-portrait",
-    "folder": "image-design",
-    "path": "prompts/image-design/tri-panel-collage-portrait.md"
   },
   {
     "act": "TTS Script Generator",

@@ -1981,6 +1981,15 @@
     "snippet": "--- name: trello-integration-skill description: This skill allows you to interact with Trello account to list boards, view lists, and create cards automatically. --- # Trello Inte"
   },
   {
+    "id": "opl_98caa6bc5e7f",
+    "title": "Tri-Panel Collage Portrait",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "tri-panel-collage-portrait",
+    "variables": [],
+    "snippet": "Create a vertical 9:16 collage with exactly 3 clearly separated equal panels stacked vertically. The same adult Japanese woman appears in all three panels with identical facial fea"
+  },
+  {
     "id": "opl_ffb4f5d51ebf",
     "title": "Ultimate Seedance 2.0 Prompt Engineering",
     "category": "AI & Automation",
@@ -35615,15 +35624,6 @@
     "slug": "trendy-streetwear-cafe-portrait",
     "variables": [],
     "snippet": "Ultra-realistic casual café portrait, stylish woman sitting at an outdoor food spot in front of glass refrigerators filled with colorful bottled drinks. She holds a large glass of"
-  },
-  {
-    "id": "opl_98caa6bc5e7f",
-    "title": "Tri-Panel Collage Portrait",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "tri-panel-collage-portrait",
-    "variables": [],
-    "snippet": "Create a vertical 9:16 collage with exactly 3 clearly separated equal panels stacked vertically. The same adult Japanese woman appears in all three panels with identical facial fea"
   },
   {
     "id": "opl_010e0c41f29f",

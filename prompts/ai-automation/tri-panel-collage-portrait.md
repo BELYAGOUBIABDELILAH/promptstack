@@ -1,7 +1,7 @@
 # Tri-Panel Collage Portrait
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** alejandro.garcia.garay@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -14,4 +14,4 @@
 > BOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)
