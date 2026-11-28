@@ -13488,5 +13488,15 @@
     "slug": "electrolyte-drink-mix-package-design",
     "folder": "coding-development",
     "path": "prompts/coding-development/electrolyte-drink-mix-package-design.md"
+  },
+  {
+    "act": "Rustic Farm Logo Design",
+    "category": "Coding & Development",
+    "prompt": "I'm looking for a talented designer to create a rustic-style farm logo for my brand. R Lucky Star Farm\n\nThe logo should include:\n- A rustic aesthetic\n- Inclusion of farm animals: cow, pig, and chicken\n- Five stars integrated into the design\n- maybe a horseshoe\n- the letter R\n- need logo in a vector file format, specifically an EPS, SVG, or DXF file and a PDF",
+    "source": "abouhanae.72@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "rustic-farm-logo-design",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/rustic-farm-logo-design.md"
   }
 ]
