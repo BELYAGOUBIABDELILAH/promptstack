@@ -3268,5 +3268,15 @@
     "slug": "ai-generated-promo-video",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/ai-generated-promo-video.md"
+  },
+  {
+    "act": "Prompt Builder for PDF, Excel and PowerPoint Generation",
+    "category": "Data & Analytics",
+    "prompt": "i want to extract best  prompt for generating the pdf , excel or powerpoint",
+    "source": "chantichanti062@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "prompt-builder-for-pdf-excel-and-powerpoint-generation",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/prompt-builder-for-pdf-excel-and-powerpoint-generation.md"
   }
 ]
