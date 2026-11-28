@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-3%2C849-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-3%2C850-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
