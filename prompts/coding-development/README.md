@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1347 prompts in this category**
+**1348 prompts in this category**
 
 ## Table of Contents
 
@@ -1044,6 +1044,7 @@
 - [Rubber Duck Debugging with AI](rubber-duck-debugging-with-ai.md)
 - [Rust CLI taste](rust-cli-taste.md)
 - [Rust Recoil Script with ImGui Menu](rust-recoil-script-with-imgui-menu.md)
+- [Rustic Farm](rustic-farm.md)
 - [Rustic Farm Logo Design](rustic-farm-logo-design.md)
 - [SABARUDIN INSTRUCTIONS FRAMEWORK](sabarudin-instructions-framework.md)
 - [Sabarudin System - Executive Architecture](sabarudin-system-executive-architecture.md)

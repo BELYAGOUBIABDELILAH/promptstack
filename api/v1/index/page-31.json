@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T04:20:57.000Z",
+  "last_updated": "2026-11-28T05:20:59.402Z",
   "page": 31,
   "per_page": 100,
   "total": 3850,
@@ -244,8 +244,8 @@
       "id": "opl_3048cd1c56bc",
       "slug": "rustic-farm",
       "title": "Rustic Farm",
-      "category": "Image & Design",
-      "folder": "image-design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3048cd1c56bc.json"
     },

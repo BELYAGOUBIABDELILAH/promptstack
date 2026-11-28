@@ -1,7 +1,7 @@
 # Rustic Farm
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** Coding & Development  
+**Source:** abouhanae.72@gmail.com (prompts.chat)
 
 ## Prompt
 
@@ -15,4 +15,4 @@
 > - the letter R
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to Coding & Development](README.md) · [Main index](../../README.md)

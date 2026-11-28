@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-28T04:20:57.000Z",
-  "total": 1346,
+  "last_updated": "2026-11-28T05:20:59.402Z",
+  "total": 1347,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -19933,6 +19933,22 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_51e7ec2dc1fa.json"
+    },
+    {
+      "id": "opl_3048cd1c56bc",
+      "slug": "rustic-farm",
+      "title": "Rustic Farm",
+      "prompt": "I'm looking for a talented designer to create a rustic-style farm logo for my brand. R Lucky Star Farm\n\nThe logo should include:\n- A rustic aesthetic\n- Inclusion of farm animals: cow, pig, and chicken\n- Five stars integrated into the design\n- maybe a horseshoe\n- the letter R",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_3bcccf5b3fb0"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3048cd1c56bc.json"
     },
     {
       "id": "opl_cb6b5010f420",

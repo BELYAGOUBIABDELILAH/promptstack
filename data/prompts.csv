@@ -91969,6 +91969,14 @@ The logo should include:
 - maybe a horseshoe
 - the letter R
 - need logo in a vector file format, specifically an EPS, SVG, or DXF file and a PDF",abouhanae.72@gmail.com (prompts.chat),TEXT,rustic-farm-logo-design,coding-development,prompts/coding-development/rustic-farm-logo-design.md
+Rustic Farm,Coding & Development,"I'm looking for a talented designer to create a rustic-style farm logo for my brand. R Lucky Star Farm
+
+The logo should include:
+- A rustic aesthetic
+- Inclusion of farm animals: cow, pig, and chicken
+- Five stars integrated into the design
+- maybe a horseshoe
+- the letter R",abouhanae.72@gmail.com (prompts.chat),TEXT,rustic-farm,coding-development,prompts/coding-development/rustic-farm.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -122368,14 +122376,6 @@ The image must be rough, scribbly, simple and naive, like a cute anime doodle dr
 No automatic retouching, no fine line art, no complex hair structure, no subtle gradients, no 3D effects, no heavy lighting, no added complex outfit details.
 
 Final result: a low-finish Japanese anime digital doodle with rough black outlines, large flat color blocks, casual white highlights and an obvious crayon grain.",prompts.chat,TEXT,rough-anime-crayon-doodle-turn-any-character-into-a-scribbly-japanese-style-sketch,image-design,prompts/image-design/rough-anime-crayon-doodle-turn-any-character-into-a-scribbly-japanese-style-sketch.md
-Rustic Farm,Image & Design,"I'm looking for a talented designer to create a rustic-style farm logo for my brand. R Lucky Star Farm
-
-The logo should include:
-- A rustic aesthetic
-- Inclusion of farm animals: cow, pig, and chicken
-- Five stars integrated into the design
-- maybe a horseshoe
-- the letter R",prompts.chat,TEXT,rustic-farm,image-design,prompts/image-design/rustic-farm.md
 SaaS Payment Plan Options,Image & Design,"Act as a website designer. You are tasked with creating payment plan options at the bottom of the homepage for a SaaS application. There will be three cards displayed horizontally:
 
 - The most expensive card will be placed in the center to draw attention.

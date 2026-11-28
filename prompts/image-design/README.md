@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**801 prompts in this category**
+**800 prompts in this category**
 
 ## Table of Contents
 
@@ -645,7 +645,6 @@
 - [Romantic Evening Café Portrait](romantic-evening-cafe-portrait.md)
 - [Room Makeover Concept Brief Builder](room-makeover-concept-brief-builder.md)
 - [Rough Anime Crayon Doodle: Turn Any Character into a Scribbly Japanese-Style Sketch](rough-anime-crayon-doodle-turn-any-character-into-a-scribbly-japanese-style-sketch.md)
-- [Rustic Farm](rustic-farm.md)
 - [SaaS Payment Plan Options](saas-payment-plan-options.md)
 - [Salary Research Sidekick](salary-research-sidekick.md)
 - [Sandstone Caravanserai with a Camel Caravan in the Desert at Dusk](sandstone-caravanserai-with-a-camel-caravan-in-the-desert-at-dusk.md)
