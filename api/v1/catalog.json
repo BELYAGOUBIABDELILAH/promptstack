@@ -8968,6 +8968,24 @@
     "snippet": "I want you to act as a controls technician building an I/O list from electrical drawings. Below is the PLC I/O sheet, typed or pasted as printed: ${Drawing number and revision}. Ta"
   },
   {
+    "id": "opl_12b43c67e5c8",
+    "title": "Electrolyte Drink Mix Package Design",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "electrolyte-drink-mix-package-design",
+    "variables": [
+      {
+        "name": "height",
+        "default": null
+      },
+      {
+        "name": "width",
+        "default": null
+      }
+    ],
+    "snippet": "Stick Pack / Sachet Design for Electrolyte Drink Mix – Natural Hemp Life ABOUT US Natural Hemp Life is a European wellness brand selling in Sweden, Denmark, Norway and Poland. We'"
+  },
+  {
     "id": "opl_9a887de35f08",
     "title": "Electron App taste",
     "category": "Coding & Development",
@@ -30244,24 +30262,6 @@
     "slug": "eerie-broken-doll-portrait",
     "variables": [],
     "snippet": "Concept: A portrait of a young woman transforming into a broken doll. A combination of beauty and horror. Pose & Body Curve: A close-up/medium shot focusing on her face and torso."
-  },
-  {
-    "id": "opl_12b43c67e5c8",
-    "title": "Electrolyte Drink Mix Package Design",
-    "category": "Image & Design",
-    "folder": "image-design",
-    "slug": "electrolyte-drink-mix-package-design",
-    "variables": [
-      {
-        "name": "height",
-        "default": null
-      },
-      {
-        "name": "width",
-        "default": null
-      }
-    ],
-    "snippet": "Stick Pack / Sachet Design for Electrolyte Drink Mix – Natural Hemp Life ABOUT US Natural Hemp Life is a European wellness brand selling in Sweden, Denmark, Norway and Poland. We'"
   },
   {
     "id": "opl_5b76d762bde5",

@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-28T02:20:52.092Z",
-  "total": 1344,
+  "last_updated": "2026-11-28T03:21:02.351Z",
+  "total": 1345,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -9342,6 +9342,31 @@
       ],
       "revision": 1,
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_098402d1bcd7.json"
+    },
+    {
+      "id": "opl_12b43c67e5c8",
+      "slug": "electrolyte-drink-mix-package-design",
+      "title": "Electrolyte Drink Mix Package Design",
+      "prompt": "Stick Pack / Sachet Design for Electrolyte Drink Mix – Natural Hemp Life\n\nABOUT US\nNatural Hemp Life is a European wellness brand selling in Sweden, Denmark, Norway and Poland. We're launching a new line of electrolyte drink mix sticks (single-serve powder sachets) and need a fresh, eye-catching pouch design.\n\nWHAT WE NEED\nA front and back design for a single-serve electrolyte stick pack, plus one flavour variant to show how the system works across flavours.\n\nDESIGN DIRECTION\n- Inspiration: Look closely at Liquid I.V. stick packs. We want that same feel: bold, clean, modern, energetic, easy to read on a shelf and on a phone screen. Use it for style only. Do not copy their logo, layout or trade dress one to one.\n- We like lime green color, so use it instead of blue where applicable.\n- Fruit imagery (required): Each sachet must show a large, vivid, appetising picture of the flavour's fruit, as Liquid I.V. does. The fruit should be a hero element, not a small icon.\n- Our logo, toned down: Use the Natural Hemp Life logo (attached), but make the hemp leaf/flower much less prominent. It can be smaller, simplified, lighter, or single-colour. This is a hydration product first, so the hemp symbol should not dominate.\n- Our signature straight line: All our products have a characteristic straight line (see attached product photos). It must appear on this pouch too, so the sachet clearly belongs to our range.\n- Colour: Each flavour gets its own strong colour matching its fruit, while the layout stays the same across the range.\n- Hierarchy: 1) Fruit picture + flavour name, 2) \"Electrolytes\" / product type, 3) Natural Hemp Life logo, 4) short claims or benefit icons.\n\nTECHNICAL DETAILS\n- Format: stick pack, approx. ${width} x ${height} mm (we'll confirm the exact dieline with the winner)\n- Flavours: [e.g. Lemon Lime, Watermelon, Raspberry]. Please show at least one.\n- Back side: space for ingredients, nutrition table, usage instructions, EAN barcode and multi-language text (SE/DK/NO/PL). Placeholder text is fine.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "height",
+          "default": null
+        },
+        {
+          "name": "width",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_3bcccf5b3fb0"
+      ],
+      "revision": 1,
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_12b43c67e5c8.json"
     },
     {
       "id": "opl_9a887de35f08",

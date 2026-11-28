@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**803 prompts in this category**
+**802 prompts in this category**
 
 ## Table of Contents
 
@@ -260,7 +260,6 @@
 - [Edgy Monochrome Studio Portrait](edgy-monochrome-studio-portrait.md)
 - [Editorial Fashion Collage Moodboard](editorial-fashion-collage-moodboard.md)
 - [Eerie Broken Doll Portrait](eerie-broken-doll-portrait.md)
-- [Electrolyte Drink Mix Package Design](electrolyte-drink-mix-package-design.md)
 - [Elegant Coastal Mesh Portrait](elegant-coastal-mesh-portrait.md)
 - [Elegant Dark Harlequin Portrait](elegant-dark-harlequin-portrait.md)
 - [Elegant Gothic Latex Portrait](elegant-gothic-latex-portrait.md)

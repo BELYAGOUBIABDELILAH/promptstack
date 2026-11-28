@@ -91939,6 +91939,27 @@ Background: Tall spreading trees with bare branches typical of early spring or l
 Style & filter: Artistic black-and-white blur aesthetic. Monochrome palette with deep blacks and soft gray transitions. Intentional softness, pronounced motion blur, subtle contour blur, fine film grain, and the feeling of an old analog photograph, dream, or memory. The emphasis is on shapes, lines, contrast, and silhouettes.
 
 Camera: Shot on an old iPhone 5s (2013–2014), with visible grain, light digital noise, soft sharpness, natural tonal rendering, and authentic iPhone compression. Vertical 3:4, realistic, high-quality, cinematic.",alejandro.garcia.garay@gmail.com (prompts.chat),TEXT,vintage-monochrome-silhouette-selfie,coding-development,prompts/coding-development/vintage-monochrome-silhouette-selfie.md
+Electrolyte Drink Mix Package Design,Coding & Development,"Stick Pack / Sachet Design for Electrolyte Drink Mix – Natural Hemp Life
+
+ABOUT US
+Natural Hemp Life is a European wellness brand selling in Sweden, Denmark, Norway and Poland. We're launching a new line of electrolyte drink mix sticks (single-serve powder sachets) and need a fresh, eye-catching pouch design.
+
+WHAT WE NEED
+A front and back design for a single-serve electrolyte stick pack, plus one flavour variant to show how the system works across flavours.
+
+DESIGN DIRECTION
+- Inspiration: Look closely at Liquid I.V. stick packs. We want that same feel: bold, clean, modern, energetic, easy to read on a shelf and on a phone screen. Use it for style only. Do not copy their logo, layout or trade dress one to one.
+- We like lime green color, so use it instead of blue where applicable.
+- Fruit imagery (required): Each sachet must show a large, vivid, appetising picture of the flavour's fruit, as Liquid I.V. does. The fruit should be a hero element, not a small icon.
+- Our logo, toned down: Use the Natural Hemp Life logo (attached), but make the hemp leaf/flower much less prominent. It can be smaller, simplified, lighter, or single-colour. This is a hydration product first, so the hemp symbol should not dominate.
+- Our signature straight line: All our products have a characteristic straight line (see attached product photos). It must appear on this pouch too, so the sachet clearly belongs to our range.
+- Colour: Each flavour gets its own strong colour matching its fruit, while the layout stays the same across the range.
+- Hierarchy: 1) Fruit picture + flavour name, 2) ""Electrolytes"" / product type, 3) Natural Hemp Life logo, 4) short claims or benefit icons.
+
+TECHNICAL DETAILS
+- Format: stick pack, approx. ${width} x ${height} mm (we'll confirm the exact dieline with the winner)
+- Flavours: [e.g. Lemon Lime, Watermelon, Raspberry]. Please show at least one.
+- Back side: space for ingredients, nutrition table, usage instructions, EAN barcode and multi-language text (SE/DK/NO/PL). Placeholder text is fine.",abouhanae.72@gmail.com (prompts.chat),TEXT,electrolyte-drink-mix-package-design,coding-development,prompts/coding-development/electrolyte-drink-mix-package-design.md
 .NET Web API taste,Data & Analytics,"# .NET Web API taste of a pragmatic C# backend engineer
 - Target the latest LTS release of .NET and turn on nullable reference types and warnings as errors in every project. Confidence: 0.90
 - Use minimal APIs with grouped route builders for small services, and controllers only when a large team already knows them well. Confidence: 0.75
@@ -116350,27 +116371,6 @@ Black nails.
 Format: 3:4.
 
 Realistic, high-quality, sharp 8K photograph, shot on an iPhone 16 Pro.",prompts.chat,TEXT,eerie-broken-doll-portrait,image-design,prompts/image-design/eerie-broken-doll-portrait.md
-Electrolyte Drink Mix Package Design,Image & Design,"Stick Pack / Sachet Design for Electrolyte Drink Mix – Natural Hemp Life
-
-ABOUT US
-Natural Hemp Life is a European wellness brand selling in Sweden, Denmark, Norway and Poland. We're launching a new line of electrolyte drink mix sticks (single-serve powder sachets) and need a fresh, eye-catching pouch design.
-
-WHAT WE NEED
-A front and back design for a single-serve electrolyte stick pack, plus one flavour variant to show how the system works across flavours.
-
-DESIGN DIRECTION
-- Inspiration: Look closely at Liquid I.V. stick packs. We want that same feel: bold, clean, modern, energetic, easy to read on a shelf and on a phone screen. Use it for style only. Do not copy their logo, layout or trade dress one to one.
-- We like lime green color, so use it instead of blue where applicable.
-- Fruit imagery (required): Each sachet must show a large, vivid, appetising picture of the flavour's fruit, as Liquid I.V. does. The fruit should be a hero element, not a small icon.
-- Our logo, toned down: Use the Natural Hemp Life logo (attached), but make the hemp leaf/flower much less prominent. It can be smaller, simplified, lighter, or single-colour. This is a hydration product first, so the hemp symbol should not dominate.
-- Our signature straight line: All our products have a characteristic straight line (see attached product photos). It must appear on this pouch too, so the sachet clearly belongs to our range.
-- Colour: Each flavour gets its own strong colour matching its fruit, while the layout stays the same across the range.
-- Hierarchy: 1) Fruit picture + flavour name, 2) ""Electrolytes"" / product type, 3) Natural Hemp Life logo, 4) short claims or benefit icons.
-
-TECHNICAL DETAILS
-- Format: stick pack, approx. ${width} x ${height} mm (we'll confirm the exact dieline with the winner)
-- Flavours: [e.g. Lemon Lime, Watermelon, Raspberry]. Please show at least one.
-- Back side: space for ingredients, nutrition table, usage instructions, EAN barcode and multi-language text (SE/DK/NO/PL). Placeholder text is fine.",prompts.chat,TEXT,electrolyte-drink-mix-package-design,image-design,prompts/image-design/electrolyte-drink-mix-package-design.md
 Elegant Coastal Mesh Portrait,Image & Design,"Photorealistic close-up portrait of a young woman with long wavy hair, seated in a three-quarter pose on coastal rocks by the sea. She is wearing a sheer brown mesh dress (fine-knit fabric) with an open back and thin straps tied at the neck; her hands are clasped near her face, she wears delicate silver bracelets and a ring, and holds a relaxed, thoughtful posture with her body upright and her face oriented toward the camera. The scene takes place during golden hour, with warm backlighting and side lighting plus a soft ambient glow; a light breeze moves a few strands of her hair. Detailed textures of wet rocks and sand are visible; the background shows a blurred coastline and a calm sea with a pleasant bokeh effect. Vertical composition, half-body framing, low angle, focus on the arms and shoulders; elegant editorial style (inspired by Pinterest or fashion editorials), cinematic color grading (warm amber and earth tones), soft shadows, subtle film grain and slight vignetting, professional retouching. Camera settings: 85 mm lens, f/1.8, ISO 100, shutter speed 1/200 s, shallow depth of field, precise focus, soft bokeh. 2:3 photo, close-up.",prompts.chat,TEXT,elegant-coastal-mesh-portrait,image-design,prompts/image-design/elegant-coastal-mesh-portrait.md
 Elegant Dark Harlequin Portrait,Image & Design,"Camera Angle: Close-up / medium close-up portrait photography at eye level.
 
