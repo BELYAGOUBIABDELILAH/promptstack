@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-28T17:20:56.836Z",
+  "last_updated": "2026-11-28T19:21:01.566Z",
   "page": 30,
   "per_page": 100,
-  "total": 3851,
+  "total": 3852,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
@@ -132,6 +132,15 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_82aad9634b1e.json"
+    },
+    {
+      "id": "opl_2c521478415f",
+      "slug": "recreate-an-image-as-an-html-and-css-project",
+      "title": "Recreate an Image as an HTML and CSS Project",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2c521478415f.json"
     },
     {
       "id": "opl_500caa0be9cf",
@@ -1055,28 +1064,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd11f8259270.json"
-    },
-    {
-      "id": "opl_ecf0fabf5012",
-      "slug": "rna-seq-analysis-and-differential-gene-expression",
-      "title": "RNA-Seq Analysis and Differential Gene Expression",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "dataQuality",
-          "default": "high"
-        },
-        {
-          "name": "normalizationMethod",
-          "default": "DESeq2"
-        },
-        {
-          "name": "visualizationTools",
-          "default": "heatmap"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ecf0fabf5012.json"
     }
   ]
 }

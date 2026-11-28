@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T17:20:56.836Z",
+  "last_updated": "2026-11-28T19:21:01.566Z",
   "page": 38,
   "per_page": 100,
-  "total": 3851,
+  "total": 3852,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-39.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prompts": [
+    {
+      "id": "opl_6c3a23ae98bc",
+      "slug": "vibe-coding-with-commands-and-skills",
+      "title": "Vibe Coding with Commands and Skills",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6c3a23ae98bc.json"
+    },
     {
       "id": "opl_0eb330068127",
       "slug": "vibe-coding-with-modern-designs-and-seo",
@@ -1077,15 +1086,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd09b7603549.json"
-    },
-    {
-      "id": "opl_09d3834d18b3",
-      "slug": "willsmart-english-language-center",
-      "title": "WillSmart English language Center",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_09d3834d18b3.json"
     }
   ]
 }

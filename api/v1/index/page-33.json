@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T17:20:56.836Z",
+  "last_updated": "2026-11-28T19:21:01.566Z",
   "page": 33,
   "per_page": 100,
-  "total": 3851,
+  "total": 3852,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_2ae7079367b6",
+      "slug": "social-network-post-reformatter",
+      "title": "Social Network Post Reformatter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2ae7079367b6.json"
+    },
     {
       "id": "opl_c891fffc88cd",
       "slug": "social-to-blog-post",
@@ -983,15 +992,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_101a1d26588e.json"
-    },
-    {
-      "id": "opl_071247e843fe",
-      "slug": "step-5-final-review",
-      "title": "Step 5: Final Review",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_071247e843fe.json"
     }
   ]
 }

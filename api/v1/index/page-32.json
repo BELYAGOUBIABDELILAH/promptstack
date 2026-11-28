@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T17:20:56.836Z",
+  "last_updated": "2026-11-28T19:21:01.566Z",
   "page": 32,
   "per_page": 100,
-  "total": 3851,
+  "total": 3852,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_9860f874c601",
+      "slug": "senior-code-reviewer-severity-ranked",
+      "title": "Senior Code Reviewer (severity-ranked)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9860f874c601.json"
+    },
     {
       "id": "opl_caafcbb40fd1",
       "slug": "senior-crypto-yapper-community-strategist",
@@ -1230,15 +1239,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_88573fe776d5.json"
-    },
-    {
-      "id": "opl_2ae7079367b6",
-      "slug": "social-network-post-reformatter",
-      "title": "Social Network Post Reformatter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2ae7079367b6.json"
     }
   ]
 }

@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-28T17:20:56.836Z",
+  "last_updated": "2026-11-28T19:21:01.566Z",
   "page": 35,
   "per_page": 100,
-  "total": 3851,
+  "total": 3852,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_31b38364e3c2",
+      "slug": "symphony-event-invitation-and-guide",
+      "title": "Symphony Event Invitation and Guide",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [
+        {
+          "name": "eventDate",
+          "default": null
+        },
+        {
+          "name": "eventTime",
+          "default": null
+        },
+        {
+          "name": "featuredPerformances",
+          "default": null
+        },
+        {
+          "name": "venue",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_31b38364e3c2.json"
+    },
     {
       "id": "opl_b1912b040020",
       "slug": "synonym-finder",
@@ -962,20 +988,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c3f097db2c80.json"
-    },
-    {
-      "id": "opl_734ca1e892c1",
-      "slug": "text-summarizer",
-      "title": "Text Summarizer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "maxLength",
-          "default": "100"
-        }
-      ],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_734ca1e892c1.json"
     }
   ]
 }

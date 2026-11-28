@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1349 prompts in this category**
+**1350 prompts in this category**
 
 ## Table of Contents
 
@@ -1012,6 +1012,7 @@
 - [Realtime AI Apps](realtime-ai-apps.md)
 - [Receipt Data Extractor](receipt-data-extractor.md)
 - [Recipe Finder](recipe-finder.md)
+- [Recreate an Image as an HTML and CSS Project](recreate-an-image-as-an-html-and-css-project.md)
 - [Redesign Front-End with Codex](redesign-front-end-with-codex.md)
 - [Reduce Code Complexity](reduce-code-complexity.md)
 - [Refactor for Better Readability](refactor-for-better-readability.md)

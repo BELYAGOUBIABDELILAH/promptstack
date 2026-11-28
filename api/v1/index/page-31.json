@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-28T17:20:56.836Z",
+  "last_updated": "2026-11-28T19:21:01.566Z",
   "page": 31,
   "per_page": 100,
-  "total": 3851,
+  "total": 3852,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_ecf0fabf5012",
+      "slug": "rna-seq-analysis-and-differential-gene-expression",
+      "title": "RNA-Seq Analysis and Differential Gene Expression",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "dataQuality",
+          "default": "high"
+        },
+        {
+          "name": "normalizationMethod",
+          "default": "DESeq2"
+        },
+        {
+          "name": "visualizationTools",
+          "default": "heatmap"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_ecf0fabf5012.json"
+    },
     {
       "id": "opl_139641091f16",
       "slug": "rock-chic-nightlife-patio-portrait",
@@ -1183,15 +1205,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_85aa22972a2f.json"
-    },
-    {
-      "id": "opl_9860f874c601",
-      "slug": "senior-code-reviewer-severity-ranked",
-      "title": "Senior Code Reviewer (severity-ranked)",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_9860f874c601.json"
     }
   ]
 }

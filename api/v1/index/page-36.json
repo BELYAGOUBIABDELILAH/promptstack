@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-28T17:20:56.836Z",
+  "last_updated": "2026-11-28T19:21:01.566Z",
   "page": 36,
   "per_page": 100,
-  "total": 3851,
+  "total": 3852,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_734ca1e892c1",
+      "slug": "text-summarizer",
+      "title": "Text Summarizer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "maxLength",
+          "default": "100"
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_734ca1e892c1.json"
+    },
     {
       "id": "opl_91daf3875685",
       "slug": "text-to-concise-tweets-converter",
@@ -1110,15 +1124,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2ccd1f1bfb75.json"
-    },
-    {
-      "id": "opl_010e0c41f29f",
-      "slug": "tts-script-generator",
-      "title": "TTS Script Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_010e0c41f29f.json"
     }
   ]
 }
