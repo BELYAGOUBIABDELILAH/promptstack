@@ -1,11 +1,11 @@
 # For the Love of My Life
 
-**Category:** Image & Design  
-**Source:** prompts.chat
+**Category:** AI & Automation  
+**Source:** santyara69@gmail.com (prompts.chat)
 
 ## Prompt
 
 > Create a cute, futuristic, and bubbly graffiti text logo featuring the words “I love you Bris”. The top word is pearlescent white-silver and the bottom word is hot neon pink. Use a deep purple outline with glowing pink edges. Add holographic butterflies, pixel hearts, stars, bubbles, glitter particles, chrome droplets, and futuristic liquid splashes behind the text. Make the letters chunky, soft, inflated, and glossy with a luxurious chrome-gel appearance. Place it on a clean white background.
 
 ---
-[← Back to Image & Design](README.md) · [Main index](../../README.md)
+[← Back to AI & Automation](README.md) · [Main index](../../README.md)

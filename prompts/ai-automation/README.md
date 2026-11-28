@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**185 prompts in this category**
+**186 prompts in this category**
 
 ## Table of Contents
 
@@ -84,6 +84,7 @@
 - [Family picture](family-picture.md)
 - [Fantasy Dataset Creator for Machine Learning](fantasy-dataset-creator-for-machine-learning.md)
 - [Football](football.md)
+- [For the Love of My Life](for-the-love-of-my-life.md)
 - [Gathering Planner Interview](gathering-planner-interview.md)
 - [General Assistant System Prompt](general-assistant-system-prompt.md)
 - [Generate an enhanced command prompt](generate-an-enhanced-command-prompt.md)

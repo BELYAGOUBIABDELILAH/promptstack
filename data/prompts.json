@@ -1850,6 +1850,16 @@
     "path": "prompts/ai-automation/urban-night-waterfront-portrait.md"
   },
   {
+    "act": "For the Love of My Life",
+    "category": "AI & Automation",
+    "prompt": "Create a cute, futuristic, and bubbly graffiti text logo featuring the words “I love you Bris”. The top word is pearlescent white-silver and the bottom word is hot neon pink. Use a deep purple outline with glowing pink edges. Add holographic butterflies, pixel hearts, stars, bubbles, glitter particles, chrome droplets, and futuristic liquid splashes behind the text. Make the letters chunky, soft, inflated, and glossy with a luxurious chrome-gel appearance. Place it on a clean white background.",
+    "source": "santyara69@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "for-the-love-of-my-life",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/for-the-love-of-my-life.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",
@@ -26228,16 +26238,6 @@
     "slug": "for-and-against-debate-mapper",
     "folder": "image-design",
     "path": "prompts/image-design/for-and-against-debate-mapper.md"
-  },
-  {
-    "act": "For the Love of My Life",
-    "category": "Image & Design",
-    "prompt": "Create a cute, futuristic, and bubbly graffiti text logo featuring the words “I love you Bris”. The top word is pearlescent white-silver and the bottom word is hot neon pink. Use a deep purple outline with glowing pink edges. Add holographic butterflies, pixel hearts, stars, bubbles, glitter particles, chrome droplets, and futuristic liquid splashes behind the text. Make the letters chunky, soft, inflated, and glossy with a luxurious chrome-gel appearance. Place it on a clean white background.",
-    "source": "prompts.chat",
-    "type": "TEXT",
-    "slug": "for-the-love-of-my-life",
-    "folder": "image-design",
-    "path": "prompts/image-design/for-the-love-of-my-life.md"
   },
   {
     "act": "Formal Email Response Generator",

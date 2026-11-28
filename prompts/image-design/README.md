@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**796 prompts in this category**
+**795 prompts in this category**
 
 ## Table of Contents
 
@@ -310,7 +310,6 @@
 - [Food Truck Concept Design Brief Builder](food-truck-concept-design-brief-builder.md)
 - [Football Match](football-match.md)
 - [For and Against - Debate Mapper](for-and-against-debate-mapper.md)
-- [For the Love of My Life](for-the-love-of-my-life.md)
 - [Formal Email Response Generator](formal-email-response-generator.md)
 - [Formal Writing Generator](formal-writing-generator.md)
 - [Futuristic Alps in 2150](futuristic-alps-in-2150.md)
