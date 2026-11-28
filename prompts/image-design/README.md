@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**804 prompts in this category**
+**803 prompts in this category**
 
 ## Table of Contents
 
@@ -162,7 +162,6 @@
 - [Cinematic Landscape Photography of Horse-Drawn Wagon](cinematic-landscape-photography-of-horse-drawn-wagon.md)
 - [Cinematic Low-Key Night Selfie](cinematic-low-key-night-selfie.md)
 - [Cinematic Neon Alley – Urban Night Walk (Album Cover Style)](cinematic-neon-alley-urban-night-walk-album-cover-style.md)
-- [Cinematic Urban Night Portrait](cinematic-urban-night-portrait.md)
 - [Civil Engineer & elevation design architect](civil-engineer-elevation-design-architect.md)
 - [Class Prep](class-prep.md)
 - [Claude prompt: 10-second app ad for Reels and TikTok (9:16)](claude-prompt-10-second-app-ad-for-reels-and-tiktok-9-16.md)
