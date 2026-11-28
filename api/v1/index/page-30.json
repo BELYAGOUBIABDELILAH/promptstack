@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 30,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prompts": [
+    {
+      "id": "opl_0eff21b3c783",
+      "slug": "realistic-mirror-selfie-image-prompt",
+      "title": "Realistic Mirror-Selfie Image Prompt",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_0eff21b3c783.json"
+    },
     {
       "id": "opl_6fa2c4d73547",
       "slug": "realistic-mirror-selfie-scene-creation",
@@ -1055,15 +1064,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_a97f453858a5.json"
-    },
-    {
-      "id": "opl_bd11f8259270",
-      "slug": "riverside-boardwalk-and-restaurants-view",
-      "title": "Riverside Boardwalk and Restaurants View",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd11f8259270.json"
     }
   ]
 }

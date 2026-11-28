@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 36,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-37.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-35.json",
   "prompts": [
+    {
+      "id": "opl_c3f097db2c80",
+      "slug": "text-cleaner-remove-format-elements",
+      "title": "Text Cleaner (Remove Format Elements)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c3f097db2c80.json"
+    },
     {
       "id": "opl_734ca1e892c1",
       "slug": "text-summarizer",
@@ -1115,15 +1124,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_6c2f88e3882f.json"
-    },
-    {
-      "id": "opl_2ccd1f1bfb75",
-      "slug": "tts-announcement-creator",
-      "title": "TTS Announcement Creator",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2ccd1f1bfb75.json"
     }
   ]
 }

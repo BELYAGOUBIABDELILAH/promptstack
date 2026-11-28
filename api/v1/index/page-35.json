@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 35,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prompts": [
+    {
+      "id": "opl_8c23d1f1eaf1",
+      "slug": "symphony-event-interviewer",
+      "title": "Symphony Event Interviewer",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "date",
+          "default": null
+        },
+        {
+          "name": "eventName",
+          "default": null
+        }
+      ],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_8c23d1f1eaf1.json"
+    },
     {
       "id": "opl_31b38364e3c2",
       "slug": "symphony-event-invitation-and-guide",
@@ -979,15 +997,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_57738c3f8da2.json"
-    },
-    {
-      "id": "opl_c3f097db2c80",
-      "slug": "text-cleaner-remove-format-elements",
-      "title": "Text Cleaner (Remove Format Elements)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_c3f097db2c80.json"
     }
   ]
 }

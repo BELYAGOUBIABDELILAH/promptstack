@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 26,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_3edcce65e092",
+      "slug": "outgoing-message-proofreader",
+      "title": "Outgoing Message Proofreader",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3edcce65e092.json"
+    },
     {
       "id": "opl_089200531612",
       "slug": "outlandish-job-application-ideator",
@@ -1140,15 +1149,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_7bccc5a571aa.json"
-    },
-    {
-      "id": "opl_d013b47f545d",
-      "slug": "photoreal-highland-cow-in-a-misty-scottish-glen-at-sunrise",
-      "title": "Photoreal Highland Cow in a Misty Scottish Glen at Sunrise",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d013b47f545d.json"
     }
   ]
 }

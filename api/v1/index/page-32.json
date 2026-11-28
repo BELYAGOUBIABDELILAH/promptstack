@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 32,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-33.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-31.json",
   "prompts": [
+    {
+      "id": "opl_85aa22972a2f",
+      "slug": "senior-backend-engineer",
+      "title": "Senior Backend Engineer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_85aa22972a2f.json"
+    },
     {
       "id": "opl_9860f874c601",
       "slug": "senior-code-reviewer-severity-ranked",
@@ -1230,15 +1239,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_04d22b3eb11a.json"
-    },
-    {
-      "id": "opl_88573fe776d5",
-      "slug": "social-media-swipe-post-content-1",
-      "title": "Social media swipe post content #1",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_88573fe776d5.json"
     }
   ]
 }

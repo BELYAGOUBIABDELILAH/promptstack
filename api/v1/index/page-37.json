@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 37,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-36.json",
   "prompts": [
+    {
+      "id": "opl_2ccd1f1bfb75",
+      "slug": "tts-announcement-creator",
+      "title": "TTS Announcement Creator",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_2ccd1f1bfb75.json"
+    },
     {
       "id": "opl_010e0c41f29f",
       "slug": "tts-script-generator",
@@ -1183,15 +1192,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_b339d6db9a11.json"
-    },
-    {
-      "id": "opl_585e5e97120d",
-      "slug": "vibe-coding-master",
-      "title": "Vibe Coding Master",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_585e5e97120d.json"
     }
   ]
 }

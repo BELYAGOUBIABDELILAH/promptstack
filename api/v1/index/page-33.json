@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 33,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-34.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prompts": [
+    {
+      "id": "opl_88573fe776d5",
+      "slug": "social-media-swipe-post-content-1",
+      "title": "Social media swipe post content #1",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_88573fe776d5.json"
+    },
     {
       "id": "opl_2ae7079367b6",
       "slug": "social-network-post-reformatter",
@@ -983,15 +992,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_fb150cc7272c.json"
-    },
-    {
-      "id": "opl_101a1d26588e",
-      "slug": "step-4b-story-development",
-      "title": "Step 4b: Story Development",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_101a1d26588e.json"
     }
   ]
 }

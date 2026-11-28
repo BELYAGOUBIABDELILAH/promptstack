@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 28,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-29.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_52f4c863cf68",
+      "slug": "pre-interview-intelligence-dossier",
+      "title": "Pre-Interview Intelligence Dossier",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_52f4c863cf68.json"
+    },
     {
       "id": "opl_7c8697fb5c16",
       "slug": "pre-launch-checklist-generator",
@@ -1208,15 +1217,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d63a232d7c7c.json"
-    },
-    {
-      "id": "opl_be9a03ac48aa",
-      "slug": "prompt-to-llm",
-      "title": "Prompt To LLM",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_be9a03ac48aa.json"
     }
   ]
 }

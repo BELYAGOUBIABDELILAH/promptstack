@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-28T19:21:01.566Z",
-  "total_prompts": 3852,
-  "source_records": 3858,
+  "last_updated": "2026-11-28T20:20:59.206Z",
+  "total_prompts": 3853,
+  "source_records": 3859,
   "total_sources": 457,
   "total_categories": 19,
   "total_pages": 39,
@@ -20,7 +20,7 @@
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1349,
+      "prompt_count": 1350,
       "url": "https://prompts.axiomrepo.tech/v1/categories/coding-development.json"
     },
     {

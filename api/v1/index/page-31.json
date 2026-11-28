@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 31,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-32.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-30.json",
   "prompts": [
+    {
+      "id": "opl_bd11f8259270",
+      "slug": "riverside-boardwalk-and-restaurants-view",
+      "title": "Riverside Boardwalk and Restaurants View",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd11f8259270.json"
+    },
     {
       "id": "opl_ecf0fabf5012",
       "slug": "rna-seq-analysis-and-differential-gene-expression",
@@ -1196,15 +1205,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_370782369222.json"
-    },
-    {
-      "id": "opl_85aa22972a2f",
-      "slug": "senior-backend-engineer",
-      "title": "Senior Backend Engineer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_85aa22972a2f.json"
     }
   ]
 }

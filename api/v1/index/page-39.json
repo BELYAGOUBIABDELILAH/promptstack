@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 39,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": null,
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-38.json",
   "prompts": [
+    {
+      "id": "opl_bd09b7603549",
+      "slug": "wikipedia-page",
+      "title": "Wikipedia Page",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bd09b7603549.json"
+    },
     {
       "id": "opl_09d3834d18b3",
       "slug": "willsmart-english-language-center",

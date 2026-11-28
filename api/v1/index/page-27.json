@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 27,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-28.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_d013b47f545d",
+      "slug": "photoreal-highland-cow-in-a-misty-scottish-glen-at-sunrise",
+      "title": "Photoreal Highland Cow in a Misty Scottish Glen at Sunrise",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_d013b47f545d.json"
+    },
     {
       "id": "opl_3576fb7fd2b5",
       "slug": "photoreal-humpback-whale-breaching-off-a-rocky-coast-at-golden-hour",
@@ -1222,15 +1231,6 @@
         }
       ],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3a23ff6e184e.json"
-    },
-    {
-      "id": "opl_52f4c863cf68",
-      "slug": "pre-interview-intelligence-dossier",
-      "title": "Pre-Interview Intelligence Dossier",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_52f4c863cf68.json"
     }
   ]
 }

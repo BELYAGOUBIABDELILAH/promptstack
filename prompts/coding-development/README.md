@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1350 prompts in this category**
+**1351 prompts in this category**
 
 ## Table of Contents
 
@@ -881,6 +881,7 @@
 - [Oracle Payroll Unsupported Localization Guide](oracle-payroll-unsupported-localization-guide.md)
 - [Organise My Folders](organise-my-folders.md)
 - [OS2.0 SAFe Delivery Context (Master)](os2-0-safe-delivery-context-master.md)
+- [OSINT Navigator](osint-navigator.md)
 - [Overwhelming Invitation Generator](overwhelming-invitation-generator.md)
 - [package.json Scripts Auditor](package-json-scripts-auditor.md)
 - [Packer Automation & Imaging Expert](packer-automation-imaging-expert.md)

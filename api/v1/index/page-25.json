@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-28T19:21:01.566Z",
+  "last_updated": "2026-11-28T20:20:59.206Z",
   "page": 25,
   "per_page": 100,
-  "total": 3852,
+  "total": 3853,
   "total_pages": 39,
   "next": "https://prompts.axiomrepo.tech/v1/index/page-26.json",
   "prev": "https://prompts.axiomrepo.tech/v1/index/page-24.json",
@@ -1014,6 +1014,15 @@
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_13245469ef01.json"
     },
     {
+      "id": "opl_bdbf0454a5d8",
+      "slug": "osint-navigator",
+      "title": "OSINT Navigator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_bdbf0454a5d8.json"
+    },
+    {
       "id": "opl_d0e5b95a3ece",
       "slug": "osint-threat-intelligence-analysis-workflow",
       "title": "OSINT Threat Intelligence Analysis Workflow",
@@ -1048,15 +1057,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_58b4d62e9c28.json"
-    },
-    {
-      "id": "opl_3edcce65e092",
-      "slug": "outgoing-message-proofreader",
-      "title": "Outgoing Message Proofreader",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://prompts.axiomrepo.tech/v1/prompts/opl_3edcce65e092.json"
     }
   ]
 }
